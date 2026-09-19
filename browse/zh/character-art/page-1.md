@@ -19,7 +19,7 @@ Make a photo of a half peeled banana plushie, the plushie is also a sauropod
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/9b11816c-f26f-4423-911f-e8ab0fafc424?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/NanoBanana/status/2026736186509709367>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9b11816c-f26f-4423-911f-e8ab0fafc424?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/NanoBanana/status/2026736186509709367>)
 
 ---
 
@@ -43,7 +43,7 @@ Prompt Below
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/3d3c9dae-7b3c-4ee9-aed1-1115958febc6?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/JustBethanyai/status/2067344385470087399>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/3d3c9dae-7b3c-4ee9-aed1-1115958febc6?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/JustBethanyai/status/2067344385470087399>)
 
 ---
 
@@ -67,7 +67,7 @@ Check the Stey bye step Tutorial here 👇🏻
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/1c3dfc47-1cda-45e2-9da7-23fa314558e4?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Gemalpha_88/status/2074329209691054373>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/1c3dfc47-1cda-45e2-9da7-23fa314558e4?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Gemalpha_88/status/2074329209691054373>)
 
 ---
 
@@ -88,7 +88,7 @@ A realistic, worm’s-eye view photograph of a cheerful young woman with a messy
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/d7f69e79-eb4d-454d-90bb-bdab7acc586a?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/ariaxawan/status/2055175783141011912>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d7f69e79-eb4d-454d-90bb-bdab7acc586a?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/ariaxawan/status/2055175783141011912>)
 
 ---
 
@@ -112,7 +112,7 @@ Check the Stey bye step Tutorial here 👇🏻
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/008fb426-78f9-49ab-bb0e-602902991121?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Gemalpha_88/status/2073246120927785255>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/008fb426-78f9-49ab-bb0e-602902991121?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Gemalpha_88/status/2073246120927785255>)
 
 ---
 
@@ -136,7 +136,7 @@ Check the Stey bye step Tutorial here 👇🏻
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/d7d2c099-b633-4e76-af98-6bddba55ceed?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Gemalpha_88/status/2072682261657628749>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d7d2c099-b633-4e76-af98-6bddba55ceed?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Gemalpha_88/status/2072682261657628749>)
 
 ---
 
@@ -160,7 +160,7 @@ Dynamic cinematic lighting, ultra-realistic skin texture, shallow depth of field
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/f48b2b34-74c1-4f9c-be42-412c8762c905?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/noorlewisx/status/2062829384709607905>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f48b2b34-74c1-4f9c-be42-412c8762c905?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/noorlewisx/status/2062829384709607905>)
 
 ---
 
@@ -184,7 +184,7 @@ Check the Stey bye step Tutorial here 👇🏻
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/536f7525-7ddd-4bd0-bf4f-21c4f94063e2?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Gemalpha_88/status/2072523354180141151>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/536f7525-7ddd-4bd0-bf4f-21c4f94063e2?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Gemalpha_88/status/2072523354180141151>)
 
 ---
 
@@ -205,7 +205,7 @@ Contemporary mixed-media urban painting of [HUMAN], wearing [CLOTHING], [POSE] b
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/9e305899-3c8c-4309-a9e1-096791a26bd7?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/kingofdairyque/status/2069642160668827684>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9e305899-3c8c-4309-a9e1-096791a26bd7?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/kingofdairyque/status/2069642160668827684>)
 
 ---
 
@@ -226,7 +226,7 @@ Ultra-realistic portrait of a young catgirl with soft, realistic feline ears eme
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/bd0d936d-0c2b-46df-ad2c-f924ea1be1f0?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/ariaxawan/status/2063131559335698937>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/bd0d936d-0c2b-46df-ad2c-f924ea1be1f0?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/ariaxawan/status/2063131559335698937>)
 
 ---
 
@@ -248,7 +248,7 @@ A contemporary expressive oil painting style with bold, dynamic brushwork and se
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/ccd677fb-2f55-43ce-a17d-7d286c05c2fe?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/HustleXR/status/2067130895686107638>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/ccd677fb-2f55-43ce-a17d-7d286c05c2fe?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/HustleXR/status/2067130895686107638>)
 
 ---
 
@@ -270,7 +270,7 @@ Use reference photo to create a ultra-realistic cinematic portrait of a beautifu
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/69f34a93-6411-4a44-a07d-3bacb752d9f9?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/HaniaAi12/status/2067928015519269285>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/69f34a93-6411-4a44-a07d-3bacb752d9f9?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/HaniaAi12/status/2067928015519269285>)
 
 ---
 
@@ -294,7 +294,7 @@ Full step -by-step- tutorial below 👇
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/10c83da2-160e-42c4-a347-5e8a412ca821?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Aqib__786Ai/status/2075912220123271409>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/10c83da2-160e-42c4-a347-5e8a412ca821?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Aqib__786Ai/status/2075912220123271409>)
 
 ---
 
@@ -316,7 +316,7 @@ Ultra-realistic monochrome graphite portrait illustration on textured dark gray 
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/53366911-7071-47b9-9dce-ca86dccbdbfb?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/HustleXR/status/2067501706158747810>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/53366911-7071-47b9-9dce-ca86dccbdbfb?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/HustleXR/status/2067501706158747810>)
 
 ---
 
@@ -337,7 +337,7 @@ An isometric 3D cube-shaped miniature room (shallow cutaway true cube; everythin
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/59c74422-3ddf-4036-b1c8-1d3207cfe7b9?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Arminn_Ai/status/2092263133754581491>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/59c74422-3ddf-4036-b1c8-1d3207cfe7b9?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Arminn_Ai/status/2092263133754581491>)
 
 ---
 
@@ -378,7 +378,7 @@ An isometric 3D cube-shaped miniature room (shallow cutaway true cube; everythin
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/26898e57-951d-496c-8ab1-02a1cdf214eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/TzqQaiser/status/2037339616702050720>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/26898e57-951d-496c-8ab1-02a1cdf214eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/TzqQaiser/status/2037339616702050720>)
 
 ---
 
@@ -551,7 +551,7 @@ An isometric 3D cube-shaped miniature room (shallow cutaway true cube; everythin
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/896dc6cc-ffc8-48ae-a0ec-be5654bc2b06?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/l_w_lorenzen/status/2064999630233116905>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/896dc6cc-ffc8-48ae-a0ec-be5654bc2b06?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/l_w_lorenzen/status/2064999630233116905>)
 
 ---
 
@@ -581,7 +581,7 @@ No people, no labels, no extra text, no watermark.
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/b81b334a-d352-4b95-bd62-91ab7bd06ef3?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/TechieBySA/status/2068010888838160815>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b81b334a-d352-4b95-bd62-91ab7bd06ef3?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/TechieBySA/status/2068010888838160815>)
 
 ---
 
@@ -605,7 +605,7 @@ Light textured warm ivory paper background with layered colorful pastel and wate
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/eb9d0136-043d-4eaa-a279-9e99786da449?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/HustleXR/status/2066805128749822125>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/eb9d0136-043d-4eaa-a279-9e99786da449?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/HustleXR/status/2066805128749822125>)
 
 ---
 
@@ -626,7 +626,7 @@ A vibrant watercolor painting of a beautiful, smiling young Asian woman standing
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/3c866235-8a58-48d2-bbd6-386cae29415d?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Minahil42298354/status/2067534711358951548>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/3c866235-8a58-48d2-bbd6-386cae29415d?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Minahil42298354/status/2067534711358951548>)
 
 ---
 
@@ -647,7 +647,7 @@ A vibrant watercolor painting of a beautiful, smiling young Asian woman standing
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/a8a9b365-b6fd-4c31-9bc4-1dbc72c24758?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/iamsofiaijaz/status/2067507517098516558>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a8a9b365-b6fd-4c31-9bc4-1dbc72c24758?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/iamsofiaijaz/status/2067507517098516558>)
 
 ---
 
@@ -670,6 +670,6 @@ Soft muted color palette combining dusty mauve, warm beige, muted sage green, pa
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/b5ebb6c1-7361-4811-bff1-c7144d30467a?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/SimplyAnnisa/status/2068359802208809395>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b5ebb6c1-7361-4811-bff1-c7144d30467a?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/SimplyAnnisa/status/2068359802208809395>)
 
 ---

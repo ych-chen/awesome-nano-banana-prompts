@@ -23,7 +23,7 @@ Signature: At the bottom center, a minimalist, elegant cursive signature of [Sub
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/e10af005-1a73-44b7-9430-a53c29d07d47?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Arminn_Ai/status/2062579500727288202>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/e10af005-1a73-44b7-9430-a53c29d07d47?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Arminn_Ai/status/2062579500727288202>)
 
 ---
 
@@ -53,7 +53,7 @@ Comenta "400"
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/d093b499-4d07-4f73-8b73-fa7e1c9c096c?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/SantiTorAI/status/2081332988294607233>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/d093b499-4d07-4f73-8b73-fa7e1c9c096c?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/SantiTorAI/status/2081332988294607233>)
 
 ---
 
@@ -78,7 +78,7 @@ Given the dual-use nature of this technology, we have taken an intentional appro
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/141c6987-7790-4f13-96d9-43ce8bd7822b?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/GoogleAI/status/2079617029473182132>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/141c6987-7790-4f13-96d9-43ce8bd7822b?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/GoogleAI/status/2079617029473182132>)
 
 ---
 
@@ -273,7 +273,7 @@ Keywords:
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/a611af01-8615-453a-99d4-3cccf69822bd?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/kumiko_shiraki/status/2066083229438713880>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/a611af01-8615-453a-99d4-3cccf69822bd?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/kumiko_shiraki/status/2066083229438713880>)
 
 ---
 
@@ -303,7 +303,7 @@ Lighting & Aesthetic: Cinematic editorial style, sharp focus on the woman, high-
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/3ccfc42b-bf4b-46a3-b4f0-c8966c05c264?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Zyrellix/status/2074847528831602689>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/3ccfc42b-bf4b-46a3-b4f0-c8966c05c264?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Zyrellix/status/2074847528831602689>)
 
 ---
 
@@ -336,7 +336,7 @@ Is this where Pitch Monopoly becomes the most interesting part?
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/8f01548d-9173-4506-a6a1-b79a37645c5d?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Chaemate_/status/2078788910348722479>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/8f01548d-9173-4506-a6a1-b79a37645c5d?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Chaemate_/status/2078788910348722479>)
 
 ---
 
@@ -359,7 +359,7 @@ Full step-by-step tutorial below 👇
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/ab0d09b4-ab41-4252-b4b3-417590962fea?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/SadiaMalik182/status/2073984278963335636>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/ab0d09b4-ab41-4252-b4b3-417590962fea?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/SadiaMalik182/status/2073984278963335636>)
 
 ---
 
@@ -464,7 +464,7 @@ disconnected landmark montage.
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/5890b96c-ab35-4d72-a83b-c445bf05f636?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Naiknelofar788/status/2067071619982664148>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/5890b96c-ab35-4d72-a83b-c445bf05f636?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Naiknelofar788/status/2067071619982664148>)
 
 ---
 
@@ -683,7 +683,7 @@ Content Policy: >
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/8319a0c1-2e07-41be-bfed-20793b2ad426?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/kumiko_shiraki/status/2086014564613992934>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/8319a0c1-2e07-41be-bfed-20793b2ad426?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/kumiko_shiraki/status/2086014564613992934>)
 
 ---
 
@@ -707,7 +707,7 @@ Since October 2025:
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/d468ae68-8448-4a3d-bf50-a0c99793fea4?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Angaisb_/status/2067699508830507040>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/d468ae68-8448-4a3d-bf50-a0c99793fea4?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Angaisb_/status/2067699508830507040>)
 
 ---
 
@@ -900,7 +900,7 @@ Here's the complete AI development guide for building production-ready AI apps i
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/3b8893cf-f589-4a5b-a19d-0277e89aedaf?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/shushant_l/status/2067593271938068523>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/3b8893cf-f589-4a5b-a19d-0277e89aedaf?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/shushant_l/status/2067593271938068523>)
 
 ---
 
@@ -1119,7 +1119,7 @@ Content Policy: >
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/30b3cba4-798a-4927-8976-179fc85564bc?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/kumiko_shiraki/status/2087101723017912825>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/30b3cba4-798a-4927-8976-179fc85564bc?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/kumiko_shiraki/status/2087101723017912825>)
 
 ---
 
@@ -1170,7 +1170,7 @@ Farklı platformlardaki dağınık sinyalleri birleştirip hızlı karar alabile
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/7e3f5fed-0975-47fe-b849-f31759707208?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/errenozgur/status/2063539405059396031>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/7e3f5fed-0975-47fe-b849-f31759707208?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/errenozgur/status/2063539405059396031>)
 
 ---
 
@@ -1191,7 +1191,7 @@ Farklı platformlardaki dağınık sinyalleri birleştirip hızlı karar alabile
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/bcb74bf7-dcea-4696-95d3-d9218f2002de?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/TechieBySA/status/2066576858020229137>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/bcb74bf7-dcea-4696-95d3-d9218f2002de?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/TechieBySA/status/2066576858020229137>)
 
 ---
 
@@ -1310,7 +1310,7 @@ Restrictions:
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/54de623e-e753-4f2d-a0c2-25bf5fe02239?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/kumiko_shiraki/status/2086376944661348813>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/54de623e-e753-4f2d-a0c2-25bf5fe02239?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/kumiko_shiraki/status/2086376944661348813>)
 
 ---
 
@@ -1339,6 +1339,6 @@ Restrictions:
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/d4ad42b3-0864-44b0-86cf-ab5c57d6c276?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/0xluffy_eth/status/2067072246548680941>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/d4ad42b3-0864-44b0-86cf-ab5c57d6c276?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/0xluffy_eth/status/2067072246548680941>)
 
 ---

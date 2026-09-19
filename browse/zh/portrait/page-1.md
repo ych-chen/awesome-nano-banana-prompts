@@ -57,7 +57,7 @@ Pink Aesthetic Nano Banana Pro:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/3336e049-b5ee-454c-9e52-15918181db5b?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/manolyaai/status/2020561374217126145>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/3336e049-b5ee-454c-9e52-15918181db5b?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/manolyaai/status/2020561374217126145>)
 
 ---
 
@@ -120,7 +120,7 @@ Pink Aesthetic Nano Banana Pro:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/e9496853-ff93-4817-a020-032fe8285cb3?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/manolyaai/status/2021333957594243367>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e9496853-ff93-4817-a020-032fe8285cb3?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/manolyaai/status/2021333957594243367>)
 
 ---
 
@@ -239,7 +239,7 @@ Pink Aesthetic Nano Banana Pro:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/cf27f8fd-9c22-4325-9185-6283d1bc76ea?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/sumiturkude007/status/2045917845842776100>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/cf27f8fd-9c22-4325-9185-6283d1bc76ea?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/sumiturkude007/status/2045917845842776100>)
 
 ---
 
@@ -263,7 +263,7 @@ The scene is captured with high-key flat beauty lighting, creating a bright, air
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/f5935f6b-d62f-4cb5-a133-8cc9087a1c24?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/PinodiArt/status/2067587675360506344>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f5935f6b-d62f-4cb5-a133-8cc9087a1c24?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/PinodiArt/status/2067587675360506344>)
 
 ---
 
@@ -343,7 +343,7 @@ The scene is captured with high-key flat beauty lighting, creating a bright, air
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/b0203a6a-e6b1-4a0e-881a-354a1cdf4ff6?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/SadiaMalik182/status/2060595724510015717>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b0203a6a-e6b1-4a0e-881a-354a1cdf4ff6?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/SadiaMalik182/status/2060595724510015717>)
 
 ---
 
@@ -394,7 +394,7 @@ The scene is captured with high-key flat beauty lighting, creating a bright, air
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/5c204dcc-3207-4e00-a096-79921469bbdb?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/manolyaai/status/2020872345393447326>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/5c204dcc-3207-4e00-a096-79921469bbdb?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/manolyaai/status/2020872345393447326>)
 
 ---
 
@@ -467,7 +467,7 @@ The scene is captured with high-key flat beauty lighting, creating a bright, air
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/9f07ae34-5326-49c6-82ef-8e268a5f4407?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/youngcatwoman/status/2048338798137004056>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9f07ae34-5326-49c6-82ef-8e268a5f4407?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/youngcatwoman/status/2048338798137004056>)
 
 ---
 
@@ -475,7 +475,7 @@ The scene is captured with high-key flat beauty lighting, creating a bright, air
 
 ## Sydney Sweeney at Sunset on the Shore
 
-<a href="https://musesignal.com/zh/prompt/e0a57f6c-2fa1-4b42-bc63-7475834dbe40?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HK5dgaoWEAAnmoh.jpg?format=jpg&amp;name=small" width="480" alt="Sydney Sweeney at Sunset on the Shore" /></a>
+暂无外部图片预览，完整提示词仍可阅读。
 
 **Nano Banana 2** · 原作者: Giulia
 
@@ -515,7 +515,7 @@ The scene is captured with high-key flat beauty lighting, creating a bright, air
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/e0a57f6c-2fa1-4b42-bc63-7475834dbe40?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Giulia_4i/status/2066692093561520273>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e0a57f6c-2fa1-4b42-bc63-7475834dbe40?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Giulia_4i/status/2066692093561520273>)
 
 ---
 
@@ -615,7 +615,7 @@ The scene is captured with high-key flat beauty lighting, creating a bright, air
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/2e4b2e9c-bcbb-4938-8ac7-6f20cd8ccfeb?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/sumiturkude007/status/2048469660010783160>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/2e4b2e9c-bcbb-4938-8ac7-6f20cd8ccfeb?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/sumiturkude007/status/2048469660010783160>)
 
 ---
 
@@ -670,7 +670,7 @@ The scene is captured with high-key flat beauty lighting, creating a bright, air
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/e46b67d4-71d2-4847-bed4-0717e7758fb2?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/brindleyai/status/2048690596718465077>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e46b67d4-71d2-4847-bed4-0717e7758fb2?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/brindleyai/status/2048690596718465077>)
 
 ---
 
@@ -712,7 +712,7 @@ Final Quality: Ultra-realistic photography, highly detailed, authentic studio li
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/e5d22928-180d-4709-903a-c538aa563042?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/GlenaJenne/status/2067558202015944944>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e5d22928-180d-4709-903a-c538aa563042?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/GlenaJenne/status/2067558202015944944>)
 
 ---
 
@@ -780,7 +780,7 @@ Final Quality: Ultra-realistic photography, highly detailed, authentic studio li
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/4b3d5a7d-b0a0-49df-afc3-ae2f334bfc1a?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/GlenaJenne/status/2067958057582416226>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/4b3d5a7d-b0a0-49df-afc3-ae2f334bfc1a?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/GlenaJenne/status/2067958057582416226>)
 
 ---
 
@@ -804,7 +804,7 @@ The scene is captured with high-key flat beauty lighting, creating a bright, air
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/02f36522-0374-4157-9469-4e85030d6a17?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Giulia_4i/status/2067322796137496878>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/02f36522-0374-4157-9469-4e85030d6a17?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Giulia_4i/status/2067322796137496878>)
 
 ---
 
@@ -825,7 +825,7 @@ Full-body studio commercial fashion and portrait photography of [NAME] with volu
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/a692f019-01c3-4cdc-a67f-6efe0b0b94e3?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Giulia_4i/status/2066231330547880246>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a692f019-01c3-4cdc-a67f-6efe0b0b94e3?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Giulia_4i/status/2066231330547880246>)
 
 ---
 
@@ -950,7 +950,7 @@ Full-body studio commercial fashion and portrait photography of [NAME] with volu
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/81d75284-1e3f-4046-9903-a8d14c421b95?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/PinodiArt/status/2066896029518123397>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/81d75284-1e3f-4046-9903-a8d14c421b95?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/PinodiArt/status/2066896029518123397>)
 
 ---
 
@@ -986,7 +986,7 @@ Quality: Ultra-realistic, highly detailed, authentic lighting, premium fashion s
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/28ee56f2-ec92-4ad0-abf0-59e133de12df?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/GlenaJenne/status/2067591562364858427>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/28ee56f2-ec92-4ad0-abf0-59e133de12df?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/GlenaJenne/status/2067591562364858427>)
 
 ---
 
@@ -1012,7 +1012,7 @@ Quality: Ultra-realistic, highly detailed, authentic lighting, premium fashion s
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/07f2330a-afc5-4d65-92f0-53b54cbb48d5?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/zayleeai/status/2007096466205012438>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/07f2330a-afc5-4d65-92f0-53b54cbb48d5?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/zayleeai/status/2007096466205012438>)
 
 ---
 
@@ -1033,7 +1033,7 @@ A woman, use reference image face and eye color, wearing a cropped red football 
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/efc14f80-69e4-48f6-8d9b-522521f38669?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/GlenaJenne/status/2067286936411341083>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/efc14f80-69e4-48f6-8d9b-522521f38669?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/GlenaJenne/status/2067286936411341083>)
 
 ---
 
@@ -1074,7 +1074,7 @@ Professional studio beauty photography, soft diffused key light with subtle beau
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/cd739115-9fa1-4583-8775-1c9e75be86d9?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/simplyfutureai/status/2066122884859207815>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/cd739115-9fa1-4583-8775-1c9e75be86d9?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/simplyfutureai/status/2066122884859207815>)
 
 ---
 
@@ -1099,7 +1099,7 @@ Texture: Including "detailed skin pores," "hyper-realistic," and "8k" is essenti
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/4e8f106a-f2df-4baa-912f-3535bb925895?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Ozayrr_irl/status/2049715815910441053>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/4e8f106a-f2df-4baa-912f-3535bb925895?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Ozayrr_irl/status/2049715815910441053>)
 
 ---
 
@@ -1120,7 +1120,7 @@ A photorealistic 3D sculptural portrait constructed from weathered wood branches
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/453e2104-9a6a-44aa-bd87-a5a7e1dcbd33?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Samann_ai/status/2022604122134905078>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/453e2104-9a6a-44aa-bd87-a5a7e1dcbd33?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Samann_ai/status/2022604122134905078>)
 
 ---
 
@@ -1144,7 +1144,7 @@ Much more content + JSON prompts now live on Patreon! 👇
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/9a26878e-a0e7-456a-8c51-ea79eabe0a4d?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/PinodiArt/status/2076314149928264113>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9a26878e-a0e7-456a-8c51-ea79eabe0a4d?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/PinodiArt/status/2076314149928264113>)
 
 ---
 
@@ -1168,7 +1168,7 @@ Much more content + JSON prompts now live on Patreon! 👇
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/3f1f526c-5264-4050-9eb7-128d39594956?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/PinodiArt/status/2077493186084119012>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/3f1f526c-5264-4050-9eb7-128d39594956?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/PinodiArt/status/2077493186084119012>)
 
 ---
 
@@ -1192,6 +1192,181 @@ Much more content now live on Patreon! 👇
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/b66ffd31-757c-42e6-b83d-148293fed026?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/PinodiArt/status/2079295399601275170>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b66ffd31-757c-42e6-b83d-148293fed026?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/PinodiArt/status/2079295399601275170>)
+
+---
+
+<a id="prompt-cd6f556d-a840-41c6-887a-ac047c0935ed"></a>
+
+## Sabrina Carpenter at the Pool Table
+
+<a href="https://musesignal.com/zh/prompt/cd6f556d-a840-41c6-887a-ac047c0935ed?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNlmn2nWgAAJXZA.jpg?format=jpg&amp;name=small" width="480" alt="Sabrina Carpenter at the Pool Table" /></a>
+
+**Nano Banana 2** · 原作者: Pinodi
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Would you like to play a game of pool?
+Sabrina Carpenter 🎱
+Created with Nano Banana 2
+Much more content + JSON prompts now live on Patreon! 👇
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/cd6f556d-a840-41c6-887a-ac047c0935ed?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/PinodiArt/status/2078805727271846371>)
+
+---
+
+<a id="prompt-5ad4f52e-f67f-4cae-85bb-ea5b8ef112dc"></a>
+
+## Confident Man in Navy Blazer with Warm Rim Light
+
+<a href="https://musesignal.com/zh/prompt/5ad4f52e-f67f-4cae-85bb-ea5b8ef112dc?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HAteloQbcAA5JgS.jpg?format=jpg&amp;name=small" width="480" alt="Confident Man in Navy Blazer with Warm Rim Light" /></a>
+
+**Nano Banana Pro** · 原作者: Emma
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ultra-realistic cinematic studio portrait of a stylish man wearing thin round metal eyeglasses, minimal navy blazer over a black crew-neck shirt. Shot from a slightly low angle with confident, thoughtful expressions and subtle pose variations. Dramatic warm orange–red gradient background, bold color contrast. Soft key light from the front with warm rim lighting sculpting the jawline and cheekbones, deep shadows for a moody editorial feel. Natural skin texture, sharp facial details, realistic hair strands, premium DSLR look, shallow depth of field, 85mm lens aesthetic, fashion editorial photography, modern intellectual vibe, high contrast, ultra-high resolution.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/5ad4f52e-f67f-4cae-85bb-ea5b8ef112dc?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Emmma__0/status/2020812872352477512>)
+
+---
+
+<a id="prompt-a19a7764-58cf-4d98-ba52-4362c0bd0549"></a>
+
+## Focused Elegance: Sabrina Carpenter in Tortoise-Shell Glasses
+
+<a href="https://musesignal.com/zh/prompt/a19a7764-58cf-4d98-ba52-4362c0bd0549?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNMmkGAXcAApHg7.jpg?format=jpg&amp;name=small" width="480" alt="Focused Elegance: Sabrina Carpenter in Tortoise-Shell Glasses" /></a>
+
+**Nano Banana Pro** · 原作者: Pinodi
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+{
+"subject": {
+"identity": {
+"biometric_reference": "Sabrina Carpenter",
+"gender": "female",
+"facial_morphology": "heart-shaped face, soft rounded jawline, high cheekbones, signature curtain bangs",
+"eyes": "large blue eyes #4A708B, detailed iris, thin winged black eyeliner, wearing elegant tortoise-shell cat-eye glasses",
+"mouth_and_dentition": "plump lips #D38C8C, mouth completely closed, lips naturally sealed, no visible teeth"
+},
+"body": {
+"somatotype": "petite, elegant proportions, toned legs, slender waist",
+"skin": "smooth skin #F5E6D3, warm undertone, realistic skin texture with subtle pores",
+"body_art": "detailed black ink fine-line tattoos across her upper abdomen, lower rib cage, underboob area, thighs, and calves"
+},
+"pose_and_action": {
+"stance": "leaning elegantly against the edge of the circular glass-top side table in a dynamic, high-fashion stance",
+"body_alignment": "torso slightly arched and turned diagonally, supporting her weight by resting her right hip against the sleek metal table rim, creating a graceful curved silhouette",
+"legs": "legs slightly parted, with her left leg standing straight and locked to support her weight, while her right leg is slightly bent at the knee and shifted forward",
+"footwear": "wearing classic black leather stiletto pumps #1A1A1A with sharp high heels",
+"hands": "her right hand is resting flat on the glass tabletop behind her for support, while her left hand is raised elegantly, fingers lightly brushing the temple of her cat-eye glasses",
+"gaze": "looking directly into the camera lens with a sophisticated, self-assured, and captivating expression"
+},
+"apparel_and_materials": {
+"outfit": "modern schoolgirl-inspired office-wear aesthetic. Consists of a cropped, structured grey blazer jacket #8E8E93, worn over an ultra-cropped white collared dress shirt exposing the lower portion of her bust, a sleek black necktie #121212 hanging down the center, and a matching grey pleated mini skirt #8E8E93. Styled with sheer black knee-high stockings with solid black top bands"
+}
+},
+"scene_and_environment": {
+"setting": "minimalist professional photo studio, plain off-white paper roll background stretching onto the floor, clean and bright aesthetics",
+"furniture": "a sleek circular glass-top side table with a chrome frame, with a transparent lucite folding chair positioned slightly in the background",
+"props": "a premium fashion magazine lying flat on the glass tabletop, featuring the text 'Pinodi' printed clearly and elegantly across its front cover in a minimalist sans-serif font"
+},
+"lighting_and_cinematography": {
+"camera_aspect_ratio": "9:16",
+"lens_and_style": "85mm focal length, full-body fashion editorial shot, soft professional studio lighting with gentle, directional shadows that highlight her silhouette, warm undertones, delicate analog film grain"
+},
+"negative_constraints": {
+"anatomical_anomalies": ["extra limbs", "deformed fingers", "extra toes", "floating limbs", "visible teeth", "open mouth"],
+"cleanliness": ["no incorrect spelling", "no logos", "no watermark", "no signature", "no UI overlays"]
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a19a7764-58cf-4d98-ba52-4362c0bd0549?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/PinodiArt/status/2077046459057295776>)
+
+---
+
+<a id="prompt-670eb73f-ca42-4923-ab2a-65ffa2b747fa"></a>
+
+## Olivia Rodrigo in a School Days Portrait
+
+<a href="https://musesignal.com/zh/prompt/670eb73f-ca42-4923-ab2a-65ffa2b747fa?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNWakEgXIAA9A0X.jpg?format=jpg&amp;name=small" width="480" alt="Olivia Rodrigo in a School Days Portrait" /></a>
+
+**Nano Banana 2** · 原作者: Pinodi
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+school days...
+Olivia Rodrigo
+Created with Nano Banana 2
+Much more content + JSON prompts now live on Patreon! 👇
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/670eb73f-ca42-4923-ab2a-65ffa2b747fa?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/PinodiArt/status/2077736958944522574>)
+
+---
+
+<a id="prompt-e5438517-68ec-4a23-85cd-f8278412e13a"></a>
+
+## Billie Eilish, Madison Beer, and Iggy Azalea in Bikinis
+
+<a href="https://musesignal.com/zh/prompt/e5438517-68ec-4a23-85cd-f8278412e13a?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNgYjPkWYAER8yH.jpg?format=jpg&amp;name=small" width="480" alt="Billie Eilish, Madison Beer, and Iggy Azalea in Bikinis" /></a>
+
+**Nano Banana 2** · 原作者: Pinodi
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Bikini season 👙
+Billie Eilish, Madison Beer and Iggy Azalea
+Created with Nano Banana 2
+Much more content + JSON prompts now live on Patreon! 👇
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e5438517-68ec-4a23-85cd-f8278412e13a?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/PinodiArt/status/2078438372612116968>)
+
+---
+
+<a id="prompt-dc5aaa9d-f992-4360-9209-388ecd0516a8"></a>
+
+## Mirror Therapy with Jenna Ortega and Emma Myers
+
+<a href="https://musesignal.com/zh/prompt/dc5aaa9d-f992-4360-9209-388ecd0516a8?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNL4oInXsAAuSVu.jpg?format=jpg&amp;name=small" width="480" alt="Mirror Therapy with Jenna Ortega and Emma Myers" /></a>
+
+**Nano Banana 2** · 原作者: Pinodi
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A little mirror therapy...
+Jenna Ortega, Emma Myers
+Created with Nano Banana 2
+Much more content + JSON prompts now live on Patreon! 👇
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/dc5aaa9d-f992-4360-9209-388ecd0516a8?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/PinodiArt/status/2076995898047922228>)
 
 ---

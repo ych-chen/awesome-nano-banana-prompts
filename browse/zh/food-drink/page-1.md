@@ -22,7 +22,7 @@ Check the Stey bye step Tutorial here 👇🏻
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/f3dee244-3ccb-4e43-884f-69c0da07a5aa?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Gemalpha_88/status/2073974704139104447>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f3dee244-3ccb-4e43-884f-69c0da07a5aa?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Gemalpha_88/status/2073974704139104447>)
 
 ---
 
@@ -46,7 +46,7 @@ Check the Stey bye step Tutorial here 👇🏻
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/2fc52523-a38c-44a2-be43-958544ec1010?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Gemalpha_88/status/2072485588486545680>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/2fc52523-a38c-44a2-be43-958544ec1010?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Gemalpha_88/status/2072485588486545680>)
 
 ---
 
@@ -70,7 +70,7 @@ Check the Stey bye step Tutorial here 👇🏻
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/3728cad7-dde0-4be0-b251-0f67c9094af5?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Gemalpha_88/status/2072983437854801990>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/3728cad7-dde0-4be0-b251-0f67c9094af5?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Gemalpha_88/status/2072983437854801990>)
 
 ---
 
@@ -91,7 +91,7 @@ low quality, worst quality (1.4), bad anatomy, deformed, ugly appearance, crosse
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/2dca3684-bdc2-427b-9e69-117ff319b389?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/kingofdairyque/status/2080989326557487445>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/2dca3684-bdc2-427b-9e69-117ff319b389?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/kingofdairyque/status/2080989326557487445>)
 
 ---
 
@@ -115,7 +115,7 @@ Full step by step tutorial below 👇
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/de59aa87-9e21-44ed-b7bc-5cd3e6b325a3?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Aqib__786Ai/status/2075787147169140997>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/de59aa87-9e21-44ed-b7bc-5cd3e6b325a3?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Aqib__786Ai/status/2075787147169140997>)
 
 ---
 
@@ -137,7 +137,7 @@ Full step by step tutorial 👇
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/31697c0e-0536-4a3c-8e01-9aa707bf0338?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Aqib__786Ai/status/2076630915271282932>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/31697c0e-0536-4a3c-8e01-9aa707bf0338?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Aqib__786Ai/status/2076630915271282932>)
 
 ---
 
@@ -158,7 +158,7 @@ Ultra-detailed macro product photography of glossy roasted coffee beans stacked 
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/fdb76bfd-0c8d-4c68-9cb1-360acfa5df8e?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Emmma__0/status/2021940449200508966>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/fdb76bfd-0c8d-4c68-9cb1-360acfa5df8e?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Emmma__0/status/2021940449200508966>)
 
 ---
 
@@ -179,7 +179,7 @@ A premium golden toffee suspended in mid air above a mirror polished black surfa
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/556f975f-8dc5-48d1-9390-6135df363e22?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/iamrealsnow/status/2066462510103056548>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/556f975f-8dc5-48d1-9390-6135df363e22?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/iamrealsnow/status/2066462510103056548>)
 
 ---
 
@@ -200,7 +200,7 @@ A commercial-style, close-up photograph of a smiling South Asian woman enjoying 
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/0010d000-1746-4db9-bf6e-c6a0466a8113?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/arsalannazir07/status/2060685589935206795>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/0010d000-1746-4db9-bf6e-c6a0466a8113?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/arsalannazir07/status/2060685589935206795>)
 
 ---
 
@@ -272,6 +272,6 @@ Gemini | Nano Banana Pro
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/01dd052a-f664-43e4-b2c5-b00b0ed5e73f?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/milaraeai/status/2020616810450608273>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/01dd052a-f664-43e4-b2c5-b00b0ed5e73f?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/milaraeai/status/2020616810450608273>)
 
 ---

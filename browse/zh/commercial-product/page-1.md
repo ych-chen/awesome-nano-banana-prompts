@@ -20,7 +20,7 @@ Turn just the subject into a gold enamel pin. It's a minimal photo of the pin on
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/c6beb52d-34fd-45cb-9e49-229af4ce108c?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/NanoBanana/status/2027716950705521054>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/c6beb52d-34fd-45cb-9e49-229af4ce108c?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/NanoBanana/status/2027716950705521054>)
 
 ---
 
@@ -48,7 +48,7 @@ Camera & Composition: Close-up to medium framing, slight low-angle selfie perspe
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/14d82000-1fd7-46ba-8140-79e10b46e271?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/ariaxawan/status/2061324766901088571>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/14d82000-1fd7-46ba-8140-79e10b46e271?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/ariaxawan/status/2061324766901088571>)
 
 ---
 
@@ -73,7 +73,7 @@ Check the Stey bye step Tutorial here 👇🏻
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/d1680c98-65ff-49df-84a9-10db1abf1568?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Gemalpha_88/status/2073221972432199693>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d1680c98-65ff-49df-84a9-10db1abf1568?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Gemalpha_88/status/2073221972432199693>)
 
 ---
 
@@ -94,7 +94,7 @@ Cinematic 3D action-packed advertisement for [INSERT PRODUCT/BRAND HERE], captur
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/e1e22381-87bd-4252-85f4-b17970f0a1f0?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/azed_ai/status/2069781855772233854>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e1e22381-87bd-4252-85f4-b17970f0a1f0?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/azed_ai/status/2069781855772233854>)
 
 ---
 
@@ -117,7 +117,7 @@ Midjourney + NanoBanana + Ps
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/fe49ff6c-3605-4f38-8055-3503200b0a15?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Dari_Designs/status/2043685636922806566>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/fe49ff6c-3605-4f38-8055-3503200b0a15?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Dari_Designs/status/2043685636922806566>)
 
 ---
 
@@ -143,7 +143,7 @@ MATERIAL & VINTAGE PRINTING: The overall poster exhibits tangible paper grain, a
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/0376ed86-67b2-4d11-ae83-72cf61e30c20?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Arminn_Ai/status/2064039812861186497>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/0376ed86-67b2-4d11-ae83-72cf61e30c20?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Arminn_Ai/status/2064039812861186497>)
 
 ---
 
@@ -165,7 +165,7 @@ Create a clean premium poster in 4:5 vertical format. Place the brand logo at th
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/295774ea-0236-40a3-9947-fe74a4710a2d?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Goodmanprotocol/status/2069647345374077253>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/295774ea-0236-40a3-9947-fe74a4710a2d?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Goodmanprotocol/status/2069647345374077253>)
 
 ---
 
@@ -188,7 +188,7 @@ Photorealistic, high-end commercial quality, shot on an 85mm lens, f/1.8 apertur
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/20aceaa8-1624-4bd7-b7c7-5a463da7512e?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/CaliraVal/status/2062391667567767855>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/20aceaa8-1624-4bd7-b7c7-5a463da7512e?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/CaliraVal/status/2062391667567767855>)
 
 ---
 
@@ -209,7 +209,7 @@ Ultra-realistic lifestyle product portrait of a young man holding a large red gl
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/e9b084d7-d0b2-4243-b041-4376d8db3789?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Emmma__0/status/2021210758521270528>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e9b084d7-d0b2-4243-b041-4376d8db3789?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Emmma__0/status/2021210758521270528>)
 
 ---
 
@@ -279,7 +279,7 @@ Nano Banana Pro:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/b654ee17-da97-491f-9068-3dd0362fe6db?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/manolyaai/status/2019535599464587304>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b654ee17-da97-491f-9068-3dd0362fe6db?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/manolyaai/status/2019535599464587304>)
 
 ---
 
@@ -302,7 +302,7 @@ Full step -by-step- tutorial 👇👇
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/6e2e6efd-5e93-461c-ae7f-3a1a7fbdb0f4?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Aqib__786Ai/status/2075915480112513107>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/6e2e6efd-5e93-461c-ae7f-3a1a7fbdb0f4?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Aqib__786Ai/status/2075915480112513107>)
 
 ---
 
@@ -324,7 +324,7 @@ A young adult male with short textured hair and a neatly trimmed short beard sta
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/cdbcdf29-df81-47b5-8d13-ad9c869a3416?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/pictsbyai/status/2067517575810945483>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/cdbcdf29-df81-47b5-8d13-ad9c869a3416?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/pictsbyai/status/2067517575810945483>)
 
 ---
 
@@ -351,7 +351,7 @@ Replace the placeholders:[PLAYER NAME] → e.g. Lionel Messi, Erling Haaland, Ky
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/92ecdced-9b11-405a-9460-46ef91507adb?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/ShamsAmin56/status/2067197326356341093>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/92ecdced-9b11-405a-9460-46ef91507adb?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/ShamsAmin56/status/2067197326356341093>)
 
 ---
 
@@ -411,7 +411,7 @@ CGI environment: Octane Render or Redshift — physically accurate grid floor wi
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/dc5d494a-9a9d-475e-95f3-c9b6a4f49168?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/AmirMushich/status/2066600393153397125>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/dc5d494a-9a9d-475e-95f3-c9b6a4f49168?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AmirMushich/status/2066600393153397125>)
 
 ---
 
@@ -435,7 +435,7 @@ Transform this photo into a highly detailed 3D collectible action figure in real
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/3ccd2d28-b790-4529-b15a-30f0ea263a09?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/sassyamara_/status/2016473615433441401>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/3ccd2d28-b790-4529-b15a-30f0ea263a09?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/sassyamara_/status/2016473615433441401>)
 
 ---
 
@@ -483,7 +483,7 @@ Try it now🤩
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/9773e463-71cc-4b54-9c2f-78ad7ba237b9?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Document195/status/2064701819356614721>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9773e463-71cc-4b54-9c2f-78ad7ba237b9?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Document195/status/2064701819356614721>)
 
 ---
 
@@ -510,7 +510,7 @@ Aspect ratio 3:4
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/9b3bb8ab-e533-4ada-92a2-0010deeb9633?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/meng_dagg695/status/2064571344608776261>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9b3bb8ab-e533-4ada-92a2-0010deeb9633?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/meng_dagg695/status/2064571344608776261>)
 
 ---
 
@@ -532,7 +532,7 @@ A confident male stands full-scale in the center of the composition, dressed in 
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/b2cb8053-6454-4b66-9d87-32cc5a4ea21a?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/pictsbyai/status/2068244151196377275>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b2cb8053-6454-4b66-9d87-32cc5a4ea21a?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/pictsbyai/status/2068244151196377275>)
 
 ---
 
@@ -564,7 +564,7 @@ Icy blue gradient background with light burst effects. Ultra photorealistic,
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/d31d3a43-1bbc-4398-b6b7-6c6e86bcbab0?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Ozayrr_irl/status/2050078225032691728>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d31d3a43-1bbc-4398-b6b7-6c6e86bcbab0?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Ozayrr_irl/status/2050078225032691728>)
 
 ---
 
@@ -591,7 +591,7 @@ MASSIVE TALL "[Main Vertical Word]" TYPOGRAPHY (Vertical Elongation): is printed
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/50cfae5e-08ff-426e-bcff-d94ce85b4b68?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Arminn_Ai/status/2062980594758275343>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/50cfae5e-08ff-426e-bcff-d94ce85b4b68?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Arminn_Ai/status/2062980594758275343>)
 
 ---
 
@@ -641,7 +641,7 @@ Try it now!
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/25eb8d83-cfb6-406a-87fd-71448c002f2b?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Document195/status/2066549583011057765>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/25eb8d83-cfb6-406a-87fd-71448c002f2b?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Document195/status/2066549583011057765>)
 
 ---
 
@@ -664,7 +664,7 @@ Create an ultra-premium, high-energy soda can product render that feels like a g
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/9862a193-702b-4066-8017-0f0c2df4a27b?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Max__Build/status/2022552052761608653>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9862a193-702b-4066-8017-0f0c2df4a27b?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Max__Build/status/2022552052761608653>)
 
 ---
 
@@ -687,7 +687,7 @@ A 3:4 vertical photo of a beautiful local young woman exploring a charming, hist
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/9a2d4d9e-337b-4fc7-8ae8-f8c40c27420d?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/iamsofiaijaz/status/2068228920760226066>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9a2d4d9e-337b-4fc7-8ae8-f8c40c27420d?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/iamsofiaijaz/status/2068228920760226066>)
 
 ---
 
@@ -710,6 +710,146 @@ A cinematic, photorealistic McDonald’s restaurant interior scene featuring the
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/bdc1a06a-d035-4d31-9ae5-84a3cbe5d985?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Max__Build/status/2022909185978175515>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/bdc1a06a-d035-4d31-9ae5-84a3cbe5d985?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Max__Build/status/2022909185978175515>)
+
+---
+
+<a id="prompt-cebd0e42-6637-40e8-9791-fcc40797f8e4"></a>
+
+## Giant Banana Mascot in Glasses-Free 3D
+
+<a href="https://musesignal.com/zh/prompt/cebd0e42-6637-40e8-9791-fcc40797f8e4?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HBP_iDLbwAAq0JM.jpg?format=jpg&amp;name=small" width="480" alt="Giant Banana Mascot in Glasses-Free 3D" /></a>
+
+**Nano Banana Pro** · 原作者: Max
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Nano Banana Pro || 8k
+Ultra-Realistic Promotional
+An enormous L shaped glasses free 3D LED screen situated prominently at a bustling urban intersection, designed in an iconic architectural style reminiscent of Shinjuku in Tokyo or Taikoo Li in Chengdu. The screen displays a captivating glasses free 3D animation featuring a giant hyper realistic banana mascot wearing stylish sunglasses and streetwear, playfully peeling itself open while smaller glowing bananas float outward toward the viewer. The characters and objects possess striking depth and appear to break through the screen’s boundaries, extending outward or floating vividly in mid air. Under realistic daylight conditions, these elements cast lifelike shadows onto the screen’s surface and surrounding buildings. Rich in intricate detail and vibrant colors, the animation seamlessly integrates with the urban setting and the bright sky overhead. Ultra realistic CGI, cinematic perspective, high dynamic range, sharp reflections, global illumination, volumetric lighting, extreme detail, Nano Banana Pro render quality, true 4K resolution, photorealistic, depth illusion, anamorphic perspective, HDR, professional CGI advertisement style, image size 4 5 .
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/cebd0e42-6637-40e8-9791-fcc40797f8e4?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Max__Build/status/2023241640849371231>)
+
+---
+
+<a id="prompt-bd6ce446-9dfc-4266-b051-f42c75af307d"></a>
+
+## Gym Selfie with Adidas Sports Bra
+
+<a href="https://musesignal.com/zh/prompt/bd6ce446-9dfc-4266-b051-f42c75af307d?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKRZUOOaYAAfQPR.jpg?format=jpg&amp;name=small" width="480" alt="Gym Selfie with Adidas Sports Bra" /></a>
+
+**Nano Banana Pro** · 原作者: Lore
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+{
+"prompt": "A highly detailed, realistic photograph of a beautiful young woman in her early 20s taking a gym selfie. She has fair skin with a light sweat sheen, striking blue-green eyes, subtle natural makeup, and light brown hair with darker roots tied in a messy high ponytail with loose strands framing her face. She is wearing a vibrant royal blue ribbed Adidas triangle sports bra with the black Adidas logo visible on the left side, and black leggings. She has a delicate pearl choker necklace and small gold hoop earrings. She is holding a smartphone with a black-and-white speckled/dalmatian-style case in her right hand, capturing her reflection. Confident slight smile, head slightly tilted, looking at the phone camera. Toned athletic physique with visible collarbones and abs. Gym setting with green artificial turf floor, treadmills, exercise balls, and large windows showing a city night view with lights in the background. Soft indoor lighting mixed with cool fluorescent gym lights, cinematic composition, sharp focus, photorealistic, 8k detail, natural skin texture, sweaty glow.",
+"negative_prompt": "blurry, deformed, ugly, extra limbs, bad anatomy, watermark, text, overexposed, underexposed, cartoon, painting, illustration, low quality",
+"aspect_ratio": "9:16",
+"style": "photorealistic",
+"quality": "high"
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/bd6ce446-9dfc-4266-b051-f42c75af307d?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/l_w_lorenzen/status/2063872806111318170>)
+
+---
+
+<a id="prompt-02186c85-c281-4234-9876-d5f42c8d71fa"></a>
+
+## Mysterious Product Reveal of Nano Banana Pro
+
+<a href="https://musesignal.com/zh/prompt/02186c85-c281-4234-9876-d5f42c8d71fa?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HBpdDzCbgAE1pXb.jpg?format=jpg&amp;name=small" width="480" alt="Mysterious Product Reveal of Nano Banana Pro" /></a>
+
+**Nano Banana Pro** · 原作者: Max
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Start with Nano Banana Pro || 8K Ultra-Realistic Promotional
+A mysterious cinematic product reveal. A closed vintage Briefsuitcase rests motionless on a premium desk surface. Subtle vibrations begin, metal latches gently rattle, and warm golden light leaks through
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/02186c85-c281-4234-9876-d5f42c8d71fa?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Max__Build/status/2025033305679401068>)
+
+---
+
+<a id="prompt-07665afa-c1e5-4585-8dd6-00b1f66ac11a"></a>
+
+## Cherry Blossom Skincare Elegance
+
+<a href="https://musesignal.com/zh/prompt/07665afa-c1e5-4585-8dd6-00b1f66ac11a?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLREkjYasAAZGPQ.jpg?format=jpg&amp;name=small" width="480" alt="Cherry Blossom Skincare Elegance" /></a>
+
+**Nano Banana 2** · 原作者: 𝐌
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Cherry Blossom Beauty 🌸
+Made with Nano Banana 2 & Gemini 3.5 flash
+Prompt - Elegant blush pink bottle surrounded by cherry blossom petals floating in air, soap bubbles reflecting soft pink light, glossy podium, premium Japanese beauty advertisement style, dreamy cinematic atmosphere, ultra realistic, luxury skincare campaign.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/07665afa-c1e5-4585-8dd6-00b1f66ac11a?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Strength04_X/status/2068353624800178493>)
+
+---
+
+<a id="prompt-20e00d02-8809-471f-9dbc-50f53afabbac"></a>
+
+## Snow Water Bottle in a Colorful Powder Explosion
+
+<a href="https://musesignal.com/zh/prompt/20e00d02-8809-471f-9dbc-50f53afabbac?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HB11gELaEAAQpRz.jpg?format=jpg&amp;name=small" width="480" alt="Snow Water Bottle in a Colorful Powder Explosion" /></a>
+
+**Nano Banana Pro** · 原作者: Max
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Nano Banana Pro || 8k
+Ultra-Realistic Promotional
+[SNOW WATER BOTTLE IN KASHMIR VALLEY AT RIVER] at center of colored powder, flour, cocoa, pigment explosion, particles radiating outward, frozen chaos, high speed flash photography, dynamic energy, against black background.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/20e00d02-8809-471f-9dbc-50f53afabbac?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Max__Build/status/2025904610880409683>)
+
+---
+
+<a id="prompt-b7a037b2-b348-47d4-8b4f-f6982bc73d56"></a>
+
+## Nano Banana Pro: Color Explosion Promo
+
+<a href="https://musesignal.com/zh/prompt/b7a037b2-b348-47d4-8b4f-f6982bc73d56?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HB5i4CTagAAmRtW.jpg?format=jpg&amp;name=small" width="480" alt="Nano Banana Pro: Color Explosion Promo" /></a>
+
+**Nano Banana Pro** · 原作者: Max
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Nano Banana Pro|| 8k
+Ultra-Realistic Promotional
+[ELON MUSK HAND SHAKE FOR RONALADO ] at center of colored powder, flour, cocoa, pigment explosion, particles radiating outward, frozen chaos, high-speed flash photography, dynamic energy, against black background, festival of color
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b7a037b2-b348-47d4-8b4f-f6982bc73d56?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Max__Build/status/2026165607864189223>)
 
 ---

@@ -31,7 +31,7 @@
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/8564d590-2e5a-4930-8cb6-57ab223eebfb?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/NanoBanana/status/2023519483885748336>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/8564d590-2e5a-4930-8cb6-57ab223eebfb?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/NanoBanana/status/2023519483885748336>)
 
 ---
 
@@ -52,7 +52,7 @@ Make a beautiful 9:16 wallpaper. Leave natural negative space near the top and b
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/ff5b3f0a-a3bc-4db9-8104-5c14140381af?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/NanoBanana/status/2024228848221491246>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/ff5b3f0a-a3bc-4db9-8104-5c14140381af?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/NanoBanana/status/2024228848221491246>)
 
 ---
 
@@ -74,7 +74,7 @@ Make a beautiful 9:16 wallpaper. Leave natural negative space near the top and b
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/1c022a06-4107-4d17-b5d9-eff0f8040008?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/NanoBanana/status/2028576407157080112>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/1c022a06-4107-4d17-b5d9-eff0f8040008?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/NanoBanana/status/2028576407157080112>)
 
 ---
 
@@ -101,7 +101,7 @@ Articles & Text: The rest of the page is filled with a professional multi-column
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/30d5cf29-3238-4afc-8a62-9bf93766e12c?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Arminn_Ai/status/2026005537968558304>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/30d5cf29-3238-4afc-8a62-9bf93766e12c?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Arminn_Ai/status/2026005537968558304>)
 
 ---
 
@@ -126,7 +126,7 @@ Check the Stey bye step Tutorial here 👇🏻
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/f013cad3-544b-4fb7-a990-2551e45f84b7?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Gemalpha_88/status/2072856943757308203>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/f013cad3-544b-4fb7-a990-2551e45f84b7?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Gemalpha_88/status/2072856943757308203>)
 
 ---
 
@@ -148,7 +148,7 @@ Keep Tom and Jerry faithful to their iconic and recognizable character designs, 
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/0528b4b0-070c-4baa-add9-9097d7c9e15c?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/ZaraIrahh/status/2080879220771958910>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/0528b4b0-070c-4baa-add9-9097d7c9e15c?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/ZaraIrahh/status/2080879220771958910>)
 
 ---
 
@@ -171,7 +171,7 @@ A surreal landscape featuring a lone figure standing beneath a large tree with g
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/5059b775-5e11-4aa4-b6ae-2a39a5deec5f?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/churvikv/status/2090858753583169966>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/5059b775-5e11-4aa4-b6ae-2a39a5deec5f?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/churvikv/status/2090858753583169966>)
 
 ---
 
@@ -252,7 +252,7 @@ A surreal landscape featuring a lone figure standing beneath a large tree with g
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/d76b0b32-cb91-470e-93f8-64dc812389c0?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/NameIsSudee/status/2060539696539955679>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/d76b0b32-cb91-470e-93f8-64dc812389c0?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/NameIsSudee/status/2060539696539955679>)
 
 ---
 
@@ -278,7 +278,7 @@ Replace the parts in [brackets] with your choices.
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/a5aecf69-f532-46f7-82cb-de60d6675a2e?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/ShamsAmin56/status/2063554006191161823>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/a5aecf69-f532-46f7-82cb-de60d6675a2e?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/ShamsAmin56/status/2063554006191161823>)
 
 ---
 
@@ -300,7 +300,7 @@ Nano Banana Pro
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/c428561d-9705-4e69-a4c2-e38871b97238?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/fofrAI/status/2081061879145779286>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/c428561d-9705-4e69-a4c2-e38871b97238?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/fofrAI/status/2081061879145779286>)
 
 ---
 
@@ -321,6 +321,6 @@ blurry, distorted hands, extra fingers, deformed legs, bad anatomy, cartoon, 3d 
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/513bda9d-9d48-4221-85a3-f8bfc4518e0d?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>) · [Original post](<https://x.com/simplyfutureai/status/2066008459334873438>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/513bda9d-9d48-4221-85a3-f8bfc4518e0d?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/simplyfutureai/status/2066008459334873438>)
 
 ---
