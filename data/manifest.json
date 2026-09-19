@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "template_version": 1,
+  "data_revision": "8ad03b74aebf03d1688aff1692e476f14a910ff7cc525704e245be8e45a7b1a5",
+  "count": 107,
+  "categories": {
+    "character-art": 22,
+    "commercial-product": 24,
+    "food-drink": 10,
+    "portrait": 24,
+    "poster-graphic": 16,
+    "scene-space": 11
+  },
+  "models": {
+    "nano-banana": 19,
+    "nano-banana-2": 36,
+    "nano-banana-pro": 52
+  },
+  "families": {
+    "nano-banana": 107
+  },
+  "content_updated_at": "2026-09-18T08:42:21.703Z",
+  "selection": {
+    "limit": 300,
+    "source_imports": [
+      "twitter_scrape"
+    ],
+    "strategy": "persistent-category-family-balanced-cohort"
+  },
+  "dataset_file": "prompts.json",
+  "image_policy": "external-twitter-only-no-musesignal-cdn-fallback",
+  "repository": "ych-chen/awesome-nano-banana-prompts",
+  "catalog_repository": "ych-chen/awesome-ai-image-prompts",
+  "family": "nano-banana"
+}
