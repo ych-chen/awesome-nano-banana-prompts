@@ -26,7 +26,7 @@
     "source_imports": [
       "twitter_scrape"
     ],
-    "strategy": "persistent-category-family-balanced-cohort"
+    "strategy": "persistent-cohort-approved-additions"
   },
   "dataset_file": "prompts.json",
   "image_policy": "external-twitter-only-no-musesignal-cdn-fallback",
