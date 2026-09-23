@@ -22,7 +22,7 @@
   },
   "content_updated_at": "2026-09-19T03:18:45.118Z",
   "selection": {
-    "limit": 600,
+    "limit": 601,
     "source_imports": [
       "twitter_scrape"
     ],
