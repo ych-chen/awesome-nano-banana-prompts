@@ -1656,3 +1656,59 @@ Ultra-realistic, photorealistic, luxury travel photography, DSLR quality, natura
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/c303c6b7-29d4-4aa9-99cc-08dff0f6fec1?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/PinodiArt/status/2069020183935512744>)
 
 ---
+
+<a id="prompt-1b7cb5cf-ce49-4c2f-9de2-9533424ddc89"></a>
+
+## Luxury Ballroom Fashion Editorial Portrait
+
+<a href="https://musesignal.com/zh/prompt/1b7cb5cf-ce49-4c2f-9de2-9533424ddc89?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNRPwl9bYAAnCzB.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Ballroom Fashion Editorial Portrait" /></a>
+
+**Nano Banana Pro** · 原作者: Miz
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+{
+  "prompt": "Ultra-realistic luxury ballroom fashion editorial portrait of a glamorous young woman with voluminous copper-red hair styled in an elegant textured updo with soft romantic tendrils framing the face. Warm ivory skin with visible pores, realistic skin texture, natural freckles, subtle peach blush, luminous satin complexion, champagne highlighter, feathered brows, warm bronze eyeshadow, delicate fox-eye eyeliner, wispy lashes, and glossy nude-peach lips with realistic lip texture. Wearing a fitted champagne-gold halter mini dress completely covered in shimmering sequins, body-hugging silhouette, open shoulders, and luxurious reflective fabric. Large polished gold hoop earrings, delicate gold rings, and refined minimalist jewelry. Holding an elegant crystal champagne flute filled with sparkling champagne while one hand rests naturally in her hair, eyes softly closed with a serene, sophisticated expression. Standing inside a grand European-style ballroom featuring magnificent crystal chandeliers, polished hardwood floors, ornate architecture, warm golden ambient lighting, luxurious bokeh, and timeless elegance. Warm chandelier lighting creates cinematic highlights across the sequins, realistic skin reflections, soft shadows, and glowing golden atmosphere. Vogue luxury fashion campaign, old-money aesthetic, premium editorial photography, Kodak Portra-inspired skin tones, realistic skin rendering, DSLR-quality sharpness, RAW photo, ultra photorealistic, 8K.",
+  
+  "negative_prompt": "cartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate chandeliers, oversaturated colors, clipped highlights, low-detail hair",
+  
+  "style": "photorealistic",
+  
+  "camera": {
+    "type": "Sony A7R V",
+    "lens": "85mm f/1.4 GM",
+    "aperture": "f/1.8",
+    "iso": 320,
+    "angle": "eye-level luxury editorial portrait",
+    "depth_of_field": "shallow"
+  },
+  
+  "lighting": {
+    "type": "warm crystal chandelier lighting",
+    "direction": "soft ambient illumination",
+    "mood": "luxury, elegant, cinematic"
+  },
+  
+  "composition": {
+    "framing": "vertical fashion portrait",
+    "subject_position": "centered",
+    "background": "grand ballroom with crystal chandeliers, polished wood floors, warm golden bokeh, and elegant architecture"
+  },
+  
+  "quality": {
+    "resolution": "8k",
+    "detail": "ultra high",
+    "sharpness": "DSLR-quality",
+    "skin_detail": "visible pores, realistic texture, natural freckles",
+    "realism": "maximum"
+  }
+}
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/1b7cb5cf-ce49-4c2f-9de2-9533424ddc89?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/mizq06/status/2077373186610806868>)
+
+---

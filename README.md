@@ -18,7 +18,7 @@ Complete prompts, real example images, original creators and sources. Curated by
 
 | Public prompts in this repository | Complete examples on this page | Dataset updated |
 | ---: | ---: | --- |
-| **172** | **60** | 2026-09-23 |
+| **174** | **60** | 2026-09-24 |
 
 This repository shares a selection from MuseSignal. The counts distinguish JSON records from examples on this page, not the full website library. Model collections are subsets of the catalog.
 
@@ -28,8 +28,8 @@ Open a filtered MuseSignal gallery. Counts refer to this repository's JSON; mode
 
 | Browse by use case | In JSON | MuseSignal |
 | --- | ---: | --- |
-| Portrait | 82 | [Nano Banana](<https://musesignal.com/?category=portrait&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana 2](<https://musesignal.com/?category=portrait&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana Pro](<https://musesignal.com/?category=portrait&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) |
-| Commercial &amp; Product | 31 | [Nano Banana](<https://musesignal.com/?category=commercial-product&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana 2](<https://musesignal.com/?category=commercial-product&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana Pro](<https://musesignal.com/?category=commercial-product&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) |
+| Portrait | 83 | [Nano Banana](<https://musesignal.com/?category=portrait&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana 2](<https://musesignal.com/?category=portrait&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana Pro](<https://musesignal.com/?category=portrait&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) |
+| Commercial &amp; Product | 32 | [Nano Banana](<https://musesignal.com/?category=commercial-product&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana 2](<https://musesignal.com/?category=commercial-product&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana Pro](<https://musesignal.com/?category=commercial-product&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) |
 | Poster &amp; Graphic | 16 | [Nano Banana](<https://musesignal.com/?category=poster-graphic&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) · [Nano Banana 2](<https://musesignal.com/?category=poster-graphic&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) · [Nano Banana Pro](<https://musesignal.com/?category=poster-graphic&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) |
 | Food &amp; Drink | 10 | [Nano Banana](<https://musesignal.com/?category=food-drink&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) · [Nano Banana 2](<https://musesignal.com/?category=food-drink&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) · [Nano Banana Pro](<https://musesignal.com/?category=food-drink&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) |
 | Character &amp; Art | 22 | [Nano Banana](<https://musesignal.com/?category=character-art&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana 2](<https://musesignal.com/?category=character-art&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana Pro](<https://musesignal.com/?category=character-art&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) |
@@ -45,7 +45,7 @@ Expand Full prompt to copy the original text. Try on MuseSignal opens the case; 
 
 <a id="selected-portrait"></a>
 
-### Portrait · 9
+### Portrait · 10
 
 [Nano Banana](<https://musesignal.com/?category=portrait&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana 2](<https://musesignal.com/?category=portrait&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana Pro](<https://musesignal.com/?category=portrait&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>)
 
@@ -634,6 +634,64 @@ Use case: Portrait
 
 ---
 
+<a id="prompt-1b7cb5cf-ce49-4c2f-9de2-9533424ddc89"></a>
+
+#### Luxury Ballroom Fashion Editorial Portrait
+
+<a href="https://musesignal.com/prompt/1b7cb5cf-ce49-4c2f-9de2-9533424ddc89?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNRPwl9bYAAnCzB.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Ballroom Fashion Editorial Portrait" /></a>
+
+**Nano Banana Pro** · Creator: Miz
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+{
+  "prompt": "Ultra-realistic luxury ballroom fashion editorial portrait of a glamorous young woman with voluminous copper-red hair styled in an elegant textured updo with soft romantic tendrils framing the face. Warm ivory skin with visible pores, realistic skin texture, natural freckles, subtle peach blush, luminous satin complexion, champagne highlighter, feathered brows, warm bronze eyeshadow, delicate fox-eye eyeliner, wispy lashes, and glossy nude-peach lips with realistic lip texture. Wearing a fitted champagne-gold halter mini dress completely covered in shimmering sequins, body-hugging silhouette, open shoulders, and luxurious reflective fabric. Large polished gold hoop earrings, delicate gold rings, and refined minimalist jewelry. Holding an elegant crystal champagne flute filled with sparkling champagne while one hand rests naturally in her hair, eyes softly closed with a serene, sophisticated expression. Standing inside a grand European-style ballroom featuring magnificent crystal chandeliers, polished hardwood floors, ornate architecture, warm golden ambient lighting, luxurious bokeh, and timeless elegance. Warm chandelier lighting creates cinematic highlights across the sequins, realistic skin reflections, soft shadows, and glowing golden atmosphere. Vogue luxury fashion campaign, old-money aesthetic, premium editorial photography, Kodak Portra-inspired skin tones, realistic skin rendering, DSLR-quality sharpness, RAW photo, ultra photorealistic, 8K.",
+  
+  "negative_prompt": "cartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate chandeliers, oversaturated colors, clipped highlights, low-detail hair",
+  
+  "style": "photorealistic",
+  
+  "camera": {
+    "type": "Sony A7R V",
+    "lens": "85mm f/1.4 GM",
+    "aperture": "f/1.8",
+    "iso": 320,
+    "angle": "eye-level luxury editorial portrait",
+    "depth_of_field": "shallow"
+  },
+  
+  "lighting": {
+    "type": "warm crystal chandelier lighting",
+    "direction": "soft ambient illumination",
+    "mood": "luxury, elegant, cinematic"
+  },
+  
+  "composition": {
+    "framing": "vertical fashion portrait",
+    "subject_position": "centered",
+    "background": "grand ballroom with crystal chandeliers, polished wood floors, warm golden bokeh, and elegant architecture"
+  },
+  
+  "quality": {
+    "resolution": "8k",
+    "detail": "ultra high",
+    "sharpness": "DSLR-quality",
+    "skin_detail": "visible pores, realistic texture, natural freckles",
+    "realism": "maximum"
+  }
+}
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/1b7cb5cf-ce49-4c2f-9de2-9533424ddc89?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/mizq06/status/2077373186610806868>)
+
+---
+
 <a id="prompt-c303c6b7-29d4-4aa9-99cc-08dff0f6fec1"></a>
 
 #### Elizabeth Olsen Kitchen Countertop Lifestyle Portrait
@@ -742,7 +800,7 @@ Use case: Portrait
 
 <a id="selected-commercial-product"></a>
 
-### Commercial &amp; Product · 15
+### Commercial &amp; Product · 16
 
 [Nano Banana](<https://musesignal.com/?category=commercial-product&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana 2](<https://musesignal.com/?category=commercial-product&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana Pro](<https://musesignal.com/?category=commercial-product&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>)
 
@@ -949,6 +1007,29 @@ Photorealistic, high-end commercial quality, shot on an 85mm lens, f/1.8 apertur
 </details>
 
 **[Try on MuseSignal →](<https://musesignal.com/prompt/20aceaa8-1624-4bd7-b7c7-5a463da7512e?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/CaliraVal/status/2062391667567767855>)
+
+---
+
+<a id="prompt-e431e1f3-272e-4598-83ed-2cdb642a665b"></a>
+
+#### Soccer Ball Leather Gaming Console Product Render
+
+<a href="https://musesignal.com/prompt/e431e1f3-272e-4598-83ed-2cdb642a665b?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLg5rYZaEAArlma.jpg?format=jpg&amp;name=small" width="480" alt="Soccer Ball Leather Gaming Console Product Render" /></a>
+
+**Nano Banana 2** · Creator: Shams
+
+Use case: Commercial &amp; Product
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ultra-realistic vertical product render of a [CONSOLE NAME] console sculpted entirely from a premium black-and-white soccer ball, 9:16 aspect ratio. The body features classic pentagonal and hexagonal panels with deep leather texture, visible raised stitching, subtle wear, and glossy highlights exactly like a professional match soccer ball. Signature accents integrated into the panel design. Matching controller (also soccer-ball textured with stitches) leaning against the base. Solid [BACKGROUND COLOR] background. Small clean monochrome console logo in the top-left corner. A tiny detailed [CONSOLE NAME] keychain replica hanging from the top-right corner by a metal ring and chain. Cinematic studio lighting, sharp focus, photorealistic materials, 4k detail, ultra realistic textures and stitches --ar 9:16 --stylize 250
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/e431e1f3-272e-4598-83ed-2cdb642a665b?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/ShamsAmin56/status/2069467450991890504>)
 
 ---
 
@@ -1856,7 +1937,7 @@ A premium golden toffee suspended in mid air above a mirror polished black surfa
 
 <a id="selected-character-art"></a>
 
-### Character &amp; Art · 10
+### Character &amp; Art · 9
 
 [Nano Banana](<https://musesignal.com/?category=character-art&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana 2](<https://musesignal.com/?category=character-art&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana Pro](<https://musesignal.com/?category=character-art&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>)
 
@@ -2085,35 +2166,9 @@ A vibrant watercolor painting of a beautiful, smiling young Asian woman standing
 
 ---
 
-<a id="prompt-eb9d0136-043d-4eaa-a279-9e99786da449"></a>
-
-#### Luminous Mixed-Media Portrait with Cinematic Color
-
-<a href="https://musesignal.com/prompt/eb9d0136-043d-4eaa-a279-9e99786da449?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HK7ETn6XYAABhtB.jpg?format=jpg&amp;name=small" width="480" alt="Luminous Mixed-Media Portrait with Cinematic Color" /></a>
-
-**Nano Banana Pro** · Creator: zayan
-
-Use case: Character &amp; Art
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Prompt ⤵️
-Masterpiece fine-art portrait illustration, museum-quality mixed-media realism, rich vibrant color palette, ultra-refined colored pencil, pastel, watercolor, and painterly rendering techniques seamlessly blended, luminous skin tones with sophisticated color transitions, highly realistic facial modeling, radiant warm highlights and cool shadow interplay, cinematic color grading, dramatic yet elegant lighting, soft diffused side illumination, atmospheric depth, expressive color harmony, vivid saturation balanced with natural realism, intricate facial details, realistic hair rendering with multi-tonal color variation, delicate brush textures, handcrafted artistic finish, luxurious painterly realism, rich chromatic depth, subtle glow effects, dynamic color contrast, fine-art portrait aesthetic, gallery-quality illustration.
-Brilliant spectrum of colors throughout the artwork, vibrant reds, deep blues, emerald greens, golden yellows, warm oranges, magentas, and turquoise accents integrated harmoniously, luminous color layering, sophisticated color blending, realistic reflected colors on skin and clothing, atmospheric color perspective, richly textured surfaces, painterly color transitions, elegant artistic brushwork, subtle color splashes and pigment variations, radiant highlights, colorful ambient lighting, expressive handcrafted detailing, visually striking yet refined composition.
-Light textured warm ivory paper background with layered colorful pastel and watercolor washes, large atmospheric color mass behind subject composed of blended blues, violets, turquoise, gold, coral, and magenta hues, directional warm sunlight from upper-left, glowing rim light accents, realistic colored cast shadows, soft ambient bounce light, colorful atmospheric gradients transitioning from bright warm tones to deeper cool tones, textured painterly backdrop with visible brush strokes and pigment granulation, subtle color bloom effects, harmonious background-to-subject integration, realistic environmental color reflections, soft edge transitions, no decorative elements, minimalist fine-art studio environment, visible premium paper texture, rich layered color depth, vibrant artistic realism, timeless gallery-quality contemporary portrait illustration.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/eb9d0136-043d-4eaa-a279-9e99786da449?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/HustleXR/status/2066805128749822125>)
-
----
-
 <a id="selected-scene-space"></a>
 
-### Scene &amp; Space · 9
+### Scene &amp; Space · 8
 
 [Nano Banana](<https://musesignal.com/?category=scene-space&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) · [Nano Banana 2](<https://musesignal.com/?category=scene-space&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) · [Nano Banana Pro](<https://musesignal.com/?category=scene-space&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>)
 
@@ -2387,29 +2442,6 @@ Use case: Scene &amp; Space
 
 ---
 
-<a id="prompt-513bda9d-9d48-4221-85a3-f8bfc4518e0d"></a>
-
-#### Modern Staircase in Minimalist Space
-
-<a href="https://musesignal.com/prompt/513bda9d-9d48-4221-85a3-f8bfc4518e0d?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKvvvnIWgAEFrlT.jpg?format=jpg&amp;name=small" width="480" alt="Modern Staircase in Minimalist Space" /></a>
-
-**Nano Banana 2** · Creator: Simply Ray
-
-Use case: Scene &amp; Space
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-blurry, distorted hands, extra fingers, deformed legs, bad anatomy, cartoon, 3d render, modern staircase, plain background, smiling, watermark
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/513bda9d-9d48-4221-85a3-f8bfc4518e0d?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/simplyfutureai/status/2066008459334873438>)
-
----
-
 ## Keep exploring
 
 [Browse on MuseSignal](<https://musesignal.com/?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=after_examples>) · [Start creating with free credits](<https://musesignal.com/?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=after_examples_create>)
@@ -2421,19 +2453,19 @@ Explore more examples, search and filters on MuseSignal.
 | Model | Prompts | MuseSignal |
 | --- | ---: | --- |
 | Nano Banana | 23 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana>) |
-| Nano Banana 2 | 72 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana-2>) |
-| Nano Banana Pro | 77 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana-pro>) |
+| Nano Banana 2 | 73 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana-2>) |
+| Nano Banana Pro | 78 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana-pro>) |
 
 ## Recently published
 
+- [Luxury Ballroom Fashion Editorial Portrait](<https://musesignal.com/prompt/1b7cb5cf-ce49-4c2f-9de2-9533424ddc89?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
+- [Soccer Ball Leather Gaming Console Product Render](<https://musesignal.com/prompt/e431e1f3-272e-4598-83ed-2cdb642a665b?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana 2
 - [Elizabeth Olsen Kitchen Countertop Lifestyle Portrait](<https://musesignal.com/prompt/c303c6b7-29d4-4aa9-99cc-08dff0f6fec1?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana 2
 - [Nano Banana Pro Mysterious Cinematic Reveal](<https://musesignal.com/prompt/21837dc1-2c06-4c26-8dea-a0a20e70fef2?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
 - [Lovart Soda Can Ultra-Realistic Render](<https://musesignal.com/prompt/9862a193-702b-4066-8017-0f0c2df4a27b?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
 - [Streamlined Status Report Layout](<https://musesignal.com/prompt/d4ad42b3-0864-44b0-86cf-ab5c57d6c276?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana
 - [Giant Banana Mascot in Glasses-Free 3D](<https://musesignal.com/prompt/cebd0e42-6637-40e8-9791-fcc40797f8e4?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
 - [Golden Toffee Caramel Explosion in Slow Motion](<https://musesignal.com/prompt/556f975f-8dc5-48d1-9390-6135df363e22?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
-- [Gym Selfie with Adidas Sports Bra](<https://musesignal.com/prompt/bd6ce446-9dfc-4266-b051-f42c75af307d?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
-- [Casual Tech and Style Portrait](<https://musesignal.com/prompt/cdbcdf29-df81-47b5-8d13-ad9c869a3416?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
 
 ## Generate on MuseSignal
 
@@ -2454,7 +2486,7 @@ Bring your own subject, product and reference images to these image models on Mu
 
 ## For developers: download the public dataset
 
-[Download full JSON · 172](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[Download full JSON · 174](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json

@@ -1,28 +1,28 @@
 {
   "schema_version": 1,
   "template_version": 2,
-  "data_revision": "96ace9aaf98c0c284b7a28dd0f78d64a4d345f5c7480111dba32983ef6e931e6",
-  "count": 172,
+  "data_revision": "8fc733ecb0aec18ce9c6a8f3e6b46a89811997fcda287ee3ca4297227626386f",
+  "count": 174,
   "readme_count": 60,
   "categories": {
     "character-art": 22,
-    "commercial-product": 31,
+    "commercial-product": 32,
     "food-drink": 10,
-    "portrait": 82,
+    "portrait": 83,
     "poster-graphic": 16,
     "scene-space": 11
   },
   "models": {
     "nano-banana": 23,
-    "nano-banana-2": 72,
-    "nano-banana-pro": 77
+    "nano-banana-2": 73,
+    "nano-banana-pro": 78
   },
   "families": {
-    "nano-banana": 172
+    "nano-banana": 174
   },
-  "content_updated_at": "2026-09-23T11:45:30.636Z",
+  "content_updated_at": "2026-09-24T00:00:26.377Z",
   "selection": {
-    "limit": 603,
+    "limit": 610,
     "source_imports": [
       "twitter_scrape"
     ],

@@ -484,6 +484,33 @@
     "content_hash": "2e50d1fe113f790783571993b5957951f9934dd6a2f2958233264dc7aaa23bf9"
   },
   {
+    "id": "1b7cb5cf-ce49-4c2f-9de2-9533424ddc89",
+    "title": "Luxury Ballroom Fashion Editorial Portrait",
+    "prompt": "{\n  \"prompt\": \"Ultra-realistic luxury ballroom fashion editorial portrait of a glamorous young woman with voluminous copper-red hair styled in an elegant textured updo with soft romantic tendrils framing the face. Warm ivory skin with visible pores, realistic skin texture, natural freckles, subtle peach blush, luminous satin complexion, champagne highlighter, feathered brows, warm bronze eyeshadow, delicate fox-eye eyeliner, wispy lashes, and glossy nude-peach lips with realistic lip texture. Wearing a fitted champagne-gold halter mini dress completely covered in shimmering sequins, body-hugging silhouette, open shoulders, and luxurious reflective fabric. Large polished gold hoop earrings, delicate gold rings, and refined minimalist jewelry. Holding an elegant crystal champagne flute filled with sparkling champagne while one hand rests naturally in her hair, eyes softly closed with a serene, sophisticated expression. Standing inside a grand European-style ballroom featuring magnificent crystal chandeliers, polished hardwood floors, ornate architecture, warm golden ambient lighting, luxurious bokeh, and timeless elegance. Warm chandelier lighting creates cinematic highlights across the sequins, realistic skin reflections, soft shadows, and glowing golden atmosphere. Vogue luxury fashion campaign, old-money aesthetic, premium editorial photography, Kodak Portra-inspired skin tones, realistic skin rendering, DSLR-quality sharpness, RAW photo, ultra photorealistic, 8K.\",\n  \n  \"negative_prompt\": \"cartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate chandeliers, oversaturated colors, clipped highlights, low-detail hair\",\n  \n  \"style\": \"photorealistic\",\n  \n  \"camera\": {\n    \"type\": \"Sony A7R V\",\n    \"lens\": \"85mm f/1.4 GM\",\n    \"aperture\": \"f/1.8\",\n    \"iso\": 320,\n    \"angle\": \"eye-level luxury editorial portrait\",\n    \"depth_of_field\": \"shallow\"\n  },\n  \n  \"lighting\": {\n    \"type\": \"warm crystal chandelier lighting\",\n    \"direction\": \"soft ambient illumination\",\n    \"mood\": \"luxury, elegant, cinematic\"\n  },\n  \n  \"composition\": {\n    \"framing\": \"vertical fashion portrait\",\n    \"subject_position\": \"centered\",\n    \"background\": \"grand ballroom with crystal chandeliers, polished wood floors, warm golden bokeh, and elegant architecture\"\n  },\n  \n  \"quality\": {\n    \"resolution\": \"8k\",\n    \"detail\": \"ultra high\",\n    \"sharpness\": \"DSLR-quality\",\n    \"skin_detail\": \"visible pores, realistic texture, natural freckles\",\n    \"realism\": \"maximum\"\n  }\n}",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Miz",
+      "handle": "mizq06"
+    },
+    "source_platform": "X",
+    "source_id": "2077373186610806868",
+    "source_url": "https://x.com/mizq06/status/2077373186610806868",
+    "images": [
+      "https://pbs.twimg.com/media/HNRPwl9bYAAnCzB.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HNRPwmFaAAArQQH.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/1b7cb5cf-ce49-4c2f-9de2-9533424ddc89",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/1b7cb5cf-ce49-4c2f-9de2-9533424ddc89",
+    "published_at": "2026-09-23T23:59:55.462727+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "87eb5951b7e34dc1785c630573d9d78f496dd63026e5a0ab674430df792ee22a"
+  },
+  {
     "id": "1c022a06-4107-4d17-b5d9-eff0f8040008",
     "title": "Snow Leopard in Melting Spring Landscape",
     "prompt": "1. A full body portrait photo of a snow leopard\n2. A full body portrait photo of a snow leopard. It has one paw raised as it is walking towards us. The snow on the ground is melting, and small purple and yellow flowers are showing with some grass. In the sky there is a sun dog. Behind, a sharp rock protrudes high into the sky. The warm light is catching the rock edge. The snow leopard's eyes are a radiant blue. Direct eye contact.",
@@ -4154,6 +4181,35 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "a69fb198e35f57d6de1ad7b06f56df97bdf4bae6d3c51d0bab200655aa2ca769"
+  },
+  {
+    "id": "e431e1f3-272e-4598-83ed-2cdb642a665b",
+    "title": "Soccer Ball Leather Gaming Console Product Render",
+    "prompt": "Ultra-realistic vertical product render of a [CONSOLE NAME] console sculpted entirely from a premium black-and-white soccer ball, 9:16 aspect ratio. The body features classic pentagonal and hexagonal panels with deep leather texture, visible raised stitching, subtle wear, and glossy highlights exactly like a professional match soccer ball. Signature accents integrated into the panel design. Matching controller (also soccer-ball textured with stitches) leaning against the base. Solid [BACKGROUND COLOR] background. Small clean monochrome console logo in the top-left corner. A tiny detailed [CONSOLE NAME] keychain replica hanging from the top-right corner by a metal ring and chain. Cinematic studio lighting, sharp focus, photorealistic materials, 4k detail, ultra realistic textures and stitches --ar 9:16 --stylize 250",
+    "category": "commercial-product",
+    "model_key": "nano-banana-2",
+    "model_name": "Nano Banana 2",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Shams",
+      "handle": "ShamsAmin56"
+    },
+    "source_platform": "X",
+    "source_id": "2069467450991890504",
+    "source_url": "https://x.com/ShamsAmin56/status/2069467450991890504",
+    "images": [
+      "https://pbs.twimg.com/media/HLg5rYZaEAArlma.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLg5rZ9bgAAtgm7.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLg5rX1bcAA1DyJ.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLg5rQ4bwAEGxm1.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/e431e1f3-272e-4598-83ed-2cdb642a665b",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/e431e1f3-272e-4598-83ed-2cdb642a665b",
+    "published_at": "2026-09-23T23:59:40.393677+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "ca808bf209d708ceab0e14ceb1353b9d43100a329b2d63d3d622d9a31df9a135"
   },
   {
     "id": "e46b67d4-71d2-4847-bed4-0717e7758fb2",
