@@ -2790,6 +2790,35 @@
     "content_hash": "6d7b068ec0683ddd10afb008e2a76e0b8df466a51afb0462e308bd0f2ba7f496"
   },
   {
+    "id": "a63507b2-0e03-44c3-9354-65439e7caa32",
+    "title": "LEGO Minifigure Mirror Selfie 3D Render",
+    "prompt": "“High-quality stylized 3D CGI LEGO render, vertical 3:4 composition, the 3 most iconic characters from [SHOW/MOVIE] recreated as authentic LEGO minifigures captured in a chaotic and joyful bathroom mirror selfie; the most recognizable character holds a large LEGO-built vintage camera up toward the mirror, the other two squeezed tightly into the frame around them, each showing their most signature expression printed on their yellow ABS plastic face; everyone wearing LEGO-accurate printed torso designs and accessories faithful to the source material; all crammed together creating classic crowded selfie energy; facial details rendered as flat printed minifigure graphics with classic LEGO stud-top heads, signature cylindrical hands and blocky proportions faithfully preserving each character’s most recognizable traits, hair pieces and costume prints from [SHOW/MOVIE]; the bathroom mirror has realistic toothpaste splatters and subtle smudges on the glass surface contrasting with the plastic toy world; the reflection shows bold black LEGO-style lettering reading “[SHOW/MOVIE]❤️”; the bathroom background is built entirely from LEGO bricks and plates styled to match the world of [SHOW/MOVIE] with thematic LEGO-built props and easter eggs relevant to [SHOW/MOVIE] placed naturally around the scene; lighting combines soft ambient bathroom lighting with a bright camera flash reflecting in the mirror creating gentle specular highlights bouncing off shiny ABS plastic surfaces; color grading faithful to the visual tone of [SHOW/MOVIE], visible plastic sheen and subtle fingerprint smudges on minifigure surfaces, ultra-detailed 4K render, no watermark.”",
+    "category": "character-art",
+    "model_key": "nano-banana-2",
+    "model_name": "Nano Banana 2",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "TechieSA",
+      "handle": "TechieBySA"
+    },
+    "source_platform": "X",
+    "source_id": "2081794164610437450",
+    "source_url": "https://x.com/TechieBySA/status/2081794164610437450",
+    "images": [
+      "https://pbs.twimg.com/media/HOQEwkPWMAATWHd.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HOQEwgrXYAEzqFZ.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HOQEwgpXgAA26Sm.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HOQEwgvWEAAxMox.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/a63507b2-0e03-44c3-9354-65439e7caa32",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/a63507b2-0e03-44c3-9354-65439e7caa32",
+    "published_at": "2026-09-24T05:10:15.455845+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "c0c71eb1999c73bfd57b0dbddaa64ff7071469f4ff444d7d1c343f9a63f6882f"
+  },
+  {
     "id": "a692f019-01c3-4cdc-a67f-6efe0b0b94e3",
     "title": "Playful Dutch Fan in Orange Jersey",
     "prompt": "Full-body studio commercial fashion and portrait photography of [NAME] with voluminous hair, flashing a playful wink and a joyful smile. She is wearing an orange 2026 Netherlands national football team jersey with the number 10, paired with short, tight blue gym shorts that highlight her curvy body type. Standing in a relaxed, energetic posture against a bright red seamless studio backdrop, she tilts her hips, bends her right leg backward to lift her bare foot, and frames her face cutely with her hands. The scene is captured in a medium long shot (cut above the knees) from a front-facing, eye-level view using a 50mm lens at f/5.6 to keep the entire subject in sharp focus. The indoor studio lighting is soft, bright, and diffused, evenly distributed to create delicate highlights on her natural skin texture and hair, with minimal, gentle shadows. The overall mood is fun, vibrant, and cute, captured in a high-quality RAW format with vivid colors and authentic textures. Aspect ratio 9:16.",

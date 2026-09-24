@@ -18,7 +18,7 @@ Complete prompts, real example images, original creators and sources. Curated by
 
 | Public prompts in this repository | Complete examples on this page | Dataset updated |
 | ---: | ---: | --- |
-| **174** | **60** | 2026-09-24 |
+| **175** | **60** | 2026-09-24 |
 
 This repository shares a selection from MuseSignal. The counts distinguish JSON records from examples on this page, not the full website library. Model collections are subsets of the catalog.
 
@@ -32,7 +32,7 @@ Open a filtered MuseSignal gallery. Counts refer to this repository's JSON; mode
 | Commercial &amp; Product | 32 | [Nano Banana](<https://musesignal.com/?category=commercial-product&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana 2](<https://musesignal.com/?category=commercial-product&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana Pro](<https://musesignal.com/?category=commercial-product&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) |
 | Poster &amp; Graphic | 16 | [Nano Banana](<https://musesignal.com/?category=poster-graphic&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) · [Nano Banana 2](<https://musesignal.com/?category=poster-graphic&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) · [Nano Banana Pro](<https://musesignal.com/?category=poster-graphic&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) |
 | Food &amp; Drink | 10 | [Nano Banana](<https://musesignal.com/?category=food-drink&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) · [Nano Banana 2](<https://musesignal.com/?category=food-drink&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) · [Nano Banana Pro](<https://musesignal.com/?category=food-drink&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) |
-| Character &amp; Art | 22 | [Nano Banana](<https://musesignal.com/?category=character-art&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana 2](<https://musesignal.com/?category=character-art&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana Pro](<https://musesignal.com/?category=character-art&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) |
+| Character &amp; Art | 23 | [Nano Banana](<https://musesignal.com/?category=character-art&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana 2](<https://musesignal.com/?category=character-art&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana Pro](<https://musesignal.com/?category=character-art&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) |
 | Scene &amp; Space | 11 | [Nano Banana](<https://musesignal.com/?category=scene-space&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) · [Nano Banana 2](<https://musesignal.com/?category=scene-space&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) · [Nano Banana Pro](<https://musesignal.com/?category=scene-space&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) |
 
 <a id="selected-prompts"></a>
@@ -800,7 +800,7 @@ Use case: Portrait
 
 <a id="selected-commercial-product"></a>
 
-### Commercial &amp; Product · 16
+### Commercial &amp; Product · 15
 
 [Nano Banana](<https://musesignal.com/?category=commercial-product&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana 2](<https://musesignal.com/?category=commercial-product&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana Pro](<https://musesignal.com/?category=commercial-product&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>)
 
@@ -1185,31 +1185,6 @@ MASSIVE TALL "[Main Vertical Word]" TYPOGRAPHY (Vertical Elongation): is printed
 </details>
 
 **[Try on MuseSignal →](<https://musesignal.com/prompt/50cfae5e-08ff-426e-bcff-d94ce85b4b68?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Arminn_Ai/status/2062980594758275343>)
-
----
-
-<a id="prompt-07665afa-c1e5-4585-8dd6-00b1f66ac11a"></a>
-
-#### Cherry Blossom Skincare Elegance
-
-<a href="https://musesignal.com/prompt/07665afa-c1e5-4585-8dd6-00b1f66ac11a?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLREkjYasAAZGPQ.jpg?format=jpg&amp;name=small" width="480" alt="Cherry Blossom Skincare Elegance" /></a>
-
-**Nano Banana 2** · Creator: 𝐌
-
-Use case: Commercial &amp; Product
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Cherry Blossom Beauty 🌸
-Made with Nano Banana 2 & Gemini 3.5 flash
-Prompt - Elegant blush pink bottle surrounded by cherry blossom petals floating in air, soap bubbles reflecting soft pink light, glossy podium, premium Japanese beauty advertisement style, dreamy cinematic atmosphere, ultra realistic, luxury skincare campaign.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/07665afa-c1e5-4585-8dd6-00b1f66ac11a?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Strength04_X/status/2068353624800178493>)
 
 ---
 
@@ -1937,7 +1912,7 @@ A premium golden toffee suspended in mid air above a mirror polished black surfa
 
 <a id="selected-character-art"></a>
 
-### Character &amp; Art · 9
+### Character &amp; Art · 10
 
 [Nano Banana](<https://musesignal.com/?category=character-art&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana 2](<https://musesignal.com/?category=character-art&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana Pro](<https://musesignal.com/?category=character-art&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>)
 
@@ -2140,6 +2115,29 @@ Check the Stey bye step Tutorial here 👇🏻
 </details>
 
 **[Try on MuseSignal →](<https://musesignal.com/prompt/536f7525-7ddd-4bd0-bf4f-21c4f94063e2?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Gemalpha_88/status/2072523354180141151>)
+
+---
+
+<a id="prompt-a63507b2-0e03-44c3-9354-65439e7caa32"></a>
+
+#### LEGO Minifigure Mirror Selfie 3D Render
+
+<a href="https://musesignal.com/prompt/a63507b2-0e03-44c3-9354-65439e7caa32?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOQEwkPWMAATWHd.jpg?format=jpg&amp;name=small" width="480" alt="LEGO Minifigure Mirror Selfie 3D Render" /></a>
+
+**Nano Banana 2** · Creator: TechieSA
+
+Use case: Character &amp; Art
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+“High-quality stylized 3D CGI LEGO render, vertical 3:4 composition, the 3 most iconic characters from [SHOW/MOVIE] recreated as authentic LEGO minifigures captured in a chaotic and joyful bathroom mirror selfie; the most recognizable character holds a large LEGO-built vintage camera up toward the mirror, the other two squeezed tightly into the frame around them, each showing their most signature expression printed on their yellow ABS plastic face; everyone wearing LEGO-accurate printed torso designs and accessories faithful to the source material; all crammed together creating classic crowded selfie energy; facial details rendered as flat printed minifigure graphics with classic LEGO stud-top heads, signature cylindrical hands and blocky proportions faithfully preserving each character’s most recognizable traits, hair pieces and costume prints from [SHOW/MOVIE]; the bathroom mirror has realistic toothpaste splatters and subtle smudges on the glass surface contrasting with the plastic toy world; the reflection shows bold black LEGO-style lettering reading “[SHOW/MOVIE]❤️”; the bathroom background is built entirely from LEGO bricks and plates styled to match the world of [SHOW/MOVIE] with thematic LEGO-built props and easter eggs relevant to [SHOW/MOVIE] placed naturally around the scene; lighting combines soft ambient bathroom lighting with a bright camera flash reflecting in the mirror creating gentle specular highlights bouncing off shiny ABS plastic surfaces; color grading faithful to the visual tone of [SHOW/MOVIE], visible plastic sheen and subtle fingerprint smudges on minifigure surfaces, ultra-detailed 4K render, no watermark.”
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/a63507b2-0e03-44c3-9354-65439e7caa32?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/TechieBySA/status/2081794164610437450>)
 
 ---
 
@@ -2453,11 +2451,12 @@ Explore more examples, search and filters on MuseSignal.
 | Model | Prompts | MuseSignal |
 | --- | ---: | --- |
 | Nano Banana | 23 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana>) |
-| Nano Banana 2 | 73 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana-2>) |
+| Nano Banana 2 | 74 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana-2>) |
 | Nano Banana Pro | 78 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana-pro>) |
 
 ## Recently published
 
+- [LEGO Minifigure Mirror Selfie 3D Render](<https://musesignal.com/prompt/a63507b2-0e03-44c3-9354-65439e7caa32?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana 2
 - [Luxury Ballroom Fashion Editorial Portrait](<https://musesignal.com/prompt/1b7cb5cf-ce49-4c2f-9de2-9533424ddc89?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
 - [Soccer Ball Leather Gaming Console Product Render](<https://musesignal.com/prompt/e431e1f3-272e-4598-83ed-2cdb642a665b?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana 2
 - [Elizabeth Olsen Kitchen Countertop Lifestyle Portrait](<https://musesignal.com/prompt/c303c6b7-29d4-4aa9-99cc-08dff0f6fec1?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana 2
@@ -2465,7 +2464,6 @@ Explore more examples, search and filters on MuseSignal.
 - [Lovart Soda Can Ultra-Realistic Render](<https://musesignal.com/prompt/9862a193-702b-4066-8017-0f0c2df4a27b?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
 - [Streamlined Status Report Layout](<https://musesignal.com/prompt/d4ad42b3-0864-44b0-86cf-ab5c57d6c276?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana
 - [Giant Banana Mascot in Glasses-Free 3D](<https://musesignal.com/prompt/cebd0e42-6637-40e8-9791-fcc40797f8e4?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
-- [Golden Toffee Caramel Explosion in Slow Motion](<https://musesignal.com/prompt/556f975f-8dc5-48d1-9390-6135df363e22?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
 
 ## Generate on MuseSignal
 
@@ -2486,7 +2484,7 @@ Bring your own subject, product and reference images to these image models on Mu
 
 ## For developers: download the public dataset
 
-[Download full JSON · 174](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[Download full JSON · 175](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json

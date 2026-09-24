@@ -673,3 +673,24 @@ Soft muted color palette combining dusty mauve, warm beige, muted sage green, pa
 **[Try on MuseSignal →](<https://musesignal.com/prompt/b5ebb6c1-7361-4811-bff1-c7144d30467a?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/SimplyAnnisa/status/2068359802208809395>)
 
 ---
+
+<a id="prompt-a63507b2-0e03-44c3-9354-65439e7caa32"></a>
+
+## LEGO Minifigure Mirror Selfie 3D Render
+
+<a href="https://musesignal.com/prompt/a63507b2-0e03-44c3-9354-65439e7caa32?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOQEwkPWMAATWHd.jpg?format=jpg&amp;name=small" width="480" alt="LEGO Minifigure Mirror Selfie 3D Render" /></a>
+
+**Nano Banana 2** · Creator: TechieSA
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+“High-quality stylized 3D CGI LEGO render, vertical 3:4 composition, the 3 most iconic characters from [SHOW/MOVIE] recreated as authentic LEGO minifigures captured in a chaotic and joyful bathroom mirror selfie; the most recognizable character holds a large LEGO-built vintage camera up toward the mirror, the other two squeezed tightly into the frame around them, each showing their most signature expression printed on their yellow ABS plastic face; everyone wearing LEGO-accurate printed torso designs and accessories faithful to the source material; all crammed together creating classic crowded selfie energy; facial details rendered as flat printed minifigure graphics with classic LEGO stud-top heads, signature cylindrical hands and blocky proportions faithfully preserving each character’s most recognizable traits, hair pieces and costume prints from [SHOW/MOVIE]; the bathroom mirror has realistic toothpaste splatters and subtle smudges on the glass surface contrasting with the plastic toy world; the reflection shows bold black LEGO-style lettering reading “[SHOW/MOVIE]❤️”; the bathroom background is built entirely from LEGO bricks and plates styled to match the world of [SHOW/MOVIE] with thematic LEGO-built props and easter eggs relevant to [SHOW/MOVIE] placed naturally around the scene; lighting combines soft ambient bathroom lighting with a bright camera flash reflecting in the mirror creating gentle specular highlights bouncing off shiny ABS plastic surfaces; color grading faithful to the visual tone of [SHOW/MOVIE], visible plastic sheen and subtle fingerprint smudges on minifigure surfaces, ultra-detailed 4K render, no watermark.”
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/a63507b2-0e03-44c3-9354-65439e7caa32?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/TechieBySA/status/2081794164610437450>)
+
+---
