@@ -324,3 +324,30 @@ blurry, distorted hands, extra fingers, deformed legs, bad anatomy, cartoon, 3d 
 **[Try on MuseSignal →](<https://musesignal.com/prompt/513bda9d-9d48-4221-85a3-f8bfc4518e0d?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/simplyfutureai/status/2066008459334873438>)
 
 ---
+
+<a id="prompt-833f008d-8ae1-4593-b569-195a6d48953c"></a>
+
+## Floating City Islands Miniature Diorama
+
+<a href="https://musesignal.com/prompt/833f008d-8ae1-4593-b569-195a6d48953c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLW6RLjXAAAxklW.jpg?format=jpg&amp;name=small" width="480" alt="Floating City Islands Miniature Diorama" /></a>
+
+**Nano Banana 2** · Creator: TechieSA
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+“A photorealistic miniature 3D diorama of [CITY], rendered as a small floating island chunk of earth torn from the ground, hovering above thick golden-hour clouds. The shape of the island should loosely mirror the city's real-life geography (coastline, riverbank, or land contour).
+The island's edge shows a jagged rock/cliff cross-section with exposed earth and roots, water flowing off the edges like a waterfall into the clouds below.
+On top of the island: a hyper-detailed miniature recreation of the city's skyline, automatically including only its most iconic, instantly-recognizable landmarks — chosen based on what the city is actually famous for — arranged naturally with tiny streets, cars, trees, and a beach or waterfront if applicable. Keep it clean and uncluttered, not overly dense or busy.
+Lighting: soft warm golden-hour sunset, glowing rim light, polished premium sheen on every surface — buildings, water, and rock should have a slightly glossy, high-end render quality that feels expensive and cinematic, like a luxury movie poster, not a toy diorama.
+Camera: aerial 3/4 view looking down at the island, tilt-shift miniature effect, ultra-detailed textures, volumetric clouds surrounding the island on all sides, sky gradient from warm gold to soft blue.
+Bottom of frame: large elegant gold serif text reading "CITY" in all caps, centered, with subtle metallic drop shadow, premium movie-poster typography.
+Aspect ratio 4:5, photorealistic 3D render, octane/unreal engine quality, no text other than the city name.”
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/833f008d-8ae1-4593-b569-195a6d48953c?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/TechieBySA/status/2068764415244009718>)
+
+---

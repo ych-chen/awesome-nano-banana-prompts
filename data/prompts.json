@@ -2149,6 +2149,32 @@
     "content_hash": "4dd9fd238a545afcae4232c818cc8f6ccc537bc6195808ca653cf879b7a1e096"
   },
   {
+    "id": "833f008d-8ae1-4593-b569-195a6d48953c",
+    "title": "Floating City Islands Miniature Diorama",
+    "prompt": "“A photorealistic miniature 3D diorama of [CITY], rendered as a small floating island chunk of earth torn from the ground, hovering above thick golden-hour clouds. The shape of the island should loosely mirror the city's real-life geography (coastline, riverbank, or land contour).\nThe island's edge shows a jagged rock/cliff cross-section with exposed earth and roots, water flowing off the edges like a waterfall into the clouds below.\nOn top of the island: a hyper-detailed miniature recreation of the city's skyline, automatically including only its most iconic, instantly-recognizable landmarks — chosen based on what the city is actually famous for — arranged naturally with tiny streets, cars, trees, and a beach or waterfront if applicable. Keep it clean and uncluttered, not overly dense or busy.\nLighting: soft warm golden-hour sunset, glowing rim light, polished premium sheen on every surface — buildings, water, and rock should have a slightly glossy, high-end render quality that feels expensive and cinematic, like a luxury movie poster, not a toy diorama.\nCamera: aerial 3/4 view looking down at the island, tilt-shift miniature effect, ultra-detailed textures, volumetric clouds surrounding the island on all sides, sky gradient from warm gold to soft blue.\nBottom of frame: large elegant gold serif text reading \"CITY\" in all caps, centered, with subtle metallic drop shadow, premium movie-poster typography.\nAspect ratio 4:5, photorealistic 3D render, octane/unreal engine quality, no text other than the city name.”",
+    "category": "scene-space",
+    "model_key": "nano-banana-2",
+    "model_name": "Nano Banana 2",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "TechieSA",
+      "handle": "TechieBySA"
+    },
+    "source_platform": "X",
+    "source_id": "2068764415244009718",
+    "source_url": "https://x.com/TechieBySA/status/2068764415244009718",
+    "images": [
+      "https://pbs.twimg.com/media/HLW6RLjXAAAxklW.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/833f008d-8ae1-4593-b569-195a6d48953c",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/833f008d-8ae1-4593-b569-195a6d48953c",
+    "published_at": "2026-09-26T06:18:39.233066+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "f1fc0c57a7e386b22d9b1ea86968d456638a0201c3b762f91bf62e1beac66a25"
+  },
+  {
     "id": "8493cc31-67ac-49fe-b50b-0fd4f1b40c4c",
     "title": "Trio Mirror Selfie with Victoria Justice and Sabrina Carpenter",
     "prompt": "{\n\"file_id\": \"1774399350801.png\",\n\"composition\": \"Trio portrait, mirror selfie, medium-full shot\",\n\"lighting\": \"Studio bright white, even distribution, overhead gym lights\",\n\"subjects\": [\n{\n\"name\": \"Victoria Justice\",\n\"position\": \"Left side\",\n\"attire\": {\n\"style\": \"Deep V-neck sports bra, high-waist biker shorts\",\n\"color_hex\": \"#0047AB\",\n\"fabric\": \"Matte spandex/polyester blend\"\n},\n\"appearance\": \"Dark brown long wavy hair, dimpled smile\"\n},\n{\n\"name\": \"Sabrina Carpenter\",\n\"position\": \"Center\",\n\"attire\": {\n\"style\": \"Plunging neckline activewear top, matching mini shorts\",\n\"color_hex\": \"#B19CD9\",\n\"fabric\": \"Breathable athletic mesh look\"\n},\n\"appearance\": \"Blonde highlights, holding black iPhone\"\n},\n{\n\"name\": \"Selena Gomez\",\n\"position\": \"Right side\",\n\"attire\": {\n\"style\": \"Racerback sports bra, high-compression shorts\",\n\"color_hex\": \"#800020\",\n\"fabric\": \"Seamless performance knit\"\n},\n\"appearance\": \"Messy brunette curls, natural glow\"\n}\n],\n\"background_elements\": [\"Multi-gym rack\", \"Cable machine\", \"Bright ceiling panels\", \"Mirror reflection line\"]\n},\n{\n\"file_id\": \"1774399334474.png\",\n\"composition\": \"Tight group framing, eye-level selfie\",\n\"technical_style\": \"High-fidelity photorealistic render\",\n\"subjects\": [\n{\n\"name\": \"Billie Eilish\",\n\"position\": \"Forefront, Left\",\n\"attire_color\": \"Steel Blue\",\n\"details\": \"Black hair tied up in a messy bun, holding phone\"\n},\n{\n\"name\": \"Sabrina Carpenter\",\n\"position\": \"Center\",\n\"attire_color\": \"Soft Lavender\",\n\"details\": \"Blonde hair, slightly sweaty forehead for realism\"\n},\n{\n\"name\": \"Olivia Rodrigo\",\n\"position\": \"Right\",\n\"attire_color\": \"Burnt Orange\",\n\"details\": \"Side profile view, leaning in toward the group\"\n}\n],\n\"environment\": {\n\"type\": \"Professional weight room\",\n\"props\": [\"Dumbbell rack\", \"Weight benches\", \"Gym floor matting\"]\n}\n},\n{\n\"file_id\": \"1774399425141.png\",\n\"composition\": \"Duo portrait, vertical alignment\",\n\"visual_theme\": \"Post-workout aesthetic\",\n\"subjects\": [\n{\n\"name\": \"Sabrina Carpenter\",\n\"color_palette\": \"Vibrant Crimson / Red\",\n\"stance\": \"Open posture, arm resting on gym equipment\"\n},\n{\n\"name\": \"Selena Gomez\",\n\"color_palette\": \"Hot Pink / Bubblegum\",\n\"stance\": \"Slightly hunched forward, smiling directly at the screen\"\n}\n],\n\"camera_details\": {\n\"device\": \"iPhone 15 Pro (Simulated)\",\n\"focus\": \"Sharp focus on foreground subjects, soft bokeh on background gym gear\"",
@@ -2845,6 +2871,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "41814fe7debc30a64dff447b66cc7bc03128f90be2b6c3100782fe41c7eda329"
+  },
+  {
+    "id": "a7044265-f084-4e65-b963-549e87502cd4",
+    "title": "Candid Courtyard Fashion Portrait",
+    "prompt": "ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH, vertical 3:4, candid outdoor fashion portrait of a young East Asian woman walking through an elegant landscaped courtyard on a bright summer afternoon.\nShe has very long, straight dark-brown to black hair, softly center-parted and flowing naturally down her back. She has delicate youthful facial features, clear natural skin, subtle makeup, and a gentle relaxed smile while turning her head slightly toward the camera.\nShe is wearing a fitted white sleeveless cropped blouse with delicate ruffled shoulder details and a softly gathered waist, paired with high-waisted black-and-white gingham check mini shorts. Minimal delicate jewelry, including a thin gold bracelet.\nA small structured black quilted handbag with beige upper panels, short handles, gold-tone hardware and a thin chain shoulder strap hangs naturally at her hip.\nCapture her mid-walk in a natural side-profile pose, body facing forward while her head turns back toward the camera. One arm is slightly raised in front of her as she walks, creating a spontaneous, unposed vacation-photo feeling.\nThe setting is a manicured green lawn surrounded by trimmed hedges, leafy ornamental trees and tropical greenery. Behind her stands a grand peach and terracotta European-inspired luxury building with cream stone trim, arched windows, decorative balustrades, classical architectural details and terraces. Several deep-red café umbrellas are visible near the building, with a large natural decorative stone positioned on the lawn.\nBright but soft natural daylight, realistic greenery, gentle highlights on her hair and skin, accurate outdoor shadows, fresh upscale garden atmosphere.\nRAW smartphone photography aesthetic, realistic skin pores, individual hair strands, natural hands and fingers, authentic fabric folds, detailed grass and architecture, slightly imperfect candid framing, natural perspective, subtle phone-camera sharpness, no artificial bokeh, no beauty filter, no plastic skin, no CGI appearance, no excessive retouching, vertical 3:4 composition.",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Aqsa",
+      "handle": "Aqsahere_"
+    },
+    "source_platform": "X",
+    "source_id": "2101963186769715628",
+    "source_url": "https://x.com/Aqsahere_/status/2101963186769715628",
+    "images": [
+      "https://pbs.twimg.com/media/HSusVipbEAAItsh.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/a7044265-f084-4e65-b963-549e87502cd4",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/a7044265-f084-4e65-b963-549e87502cd4",
+    "published_at": "2026-09-26T06:19:03.86625+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "98f35105b8eb16ad9ac9946d5f4db2dfd87a138f021084b1d8db310baf886ac2"
   },
   {
     "id": "a8a9b365-b6fd-4c31-9bc4-1dbc72c24758",
@@ -4685,6 +4737,33 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "daed03078717b13df8ed01df6c9d437cb64e997891ed4b597b601ca6c2cb070e"
+  },
+  {
+    "id": "fa4df9af-2def-4438-a745-1da26fd97eba",
+    "title": "Cozy Izakaya Sushi Counter Editorial Portrait",
+    "prompt": "PROMPT:\n\n{\n  \"prompt\": \"Ultra-realistic cozy Japanese izakaya lifestyle editorial portrait of a glamorous young platinum-blonde woman with long silky straight hair, soft center part, smooth layers, and natural shine. Warm ivory skin with visible pores, realistic skin texture, subtle freckles across the cheeks and nose, authentic facial vellus hair, luminous satin complexion, soft rosy blush, feathered brows, champagne shimmer eyeshadow, delicate fox-eye eyeliner, wispy lashes, glossy nude-pink lips with realistic lip texture, and bright blue-gray eyes. Wearing an oversized pastel pink zip-up hoodie layered over a matching blush-pink fitted camisole, creating a relaxed cozy Y2K aesthetic. Minimal jewelry including delicate rings and a natural nude manicure. Sitting at a wooden sushi counter while holding a sushi roll with black chopsticks near her face, looking directly into the camera with a soft, calm expression. Table filled with beautifully plated assorted sushi including salmon nigiri, shrimp nigiri, tuna nigiri, tamago, maki rolls, soy sauce dishes, edamame, miso soup, and traditional ceramic tableware. Authentic Japanese izakaya featuring warm glowing red paper lanterns with Japanese calligraphy, handwritten menu boards, open kitchen, wooden walls, bustling diners, cozy ambient lighting, and cinematic restaurant bokeh. Captured using an iPhone 15 Pro with direct flash, producing authentic smartphone flash reflections, crisp skin highlights, bright eye catchlights, realistic shadows, subtle lens bloom, and premium lifestyle photography. Kodak Portra-inspired skin tones, luxury travel editorial, cozy foodie aesthetic, realistic skin rendering, DSLR-quality sharpness with authentic iPhone flash characteristics, RAW photo, ultra photorealistic, 8K.\",\n  \n  \"negative_prompt\": \"cartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate food, oversaturated colors, clipped highlights, low-detail hair\",\n  \n  \"style\": \"photorealistic\",\n  \n  \"camera\": {\n    \"type\": \"iPhone 15 Pro\",\n    \"lens\": \"26mm main camera\",\n    \"aperture\": \"f/1.8\",\n    \"iso\": 500,\n    \"angle\": \"eye-level lifestyle portrait\",\n    \"depth_of_field\": \"moderate\"\n  },\n  \n  \"lighting\": {\n    \"type\": \"direct smartphone flash with warm izakaya ambient lighting\",\n    \"direction\": \"frontal flash\",\n    \"mood\": \"cozy, warm, authentic\"\n  },\n  \n  \"composition\": {\n    \"framing\": \"vertical editorial portrait\",\n    \"subject_position\": \"centered while seated at a wooden sushi counter\",\n    \"background\": \"authentic Japanese izakaya with glowing red paper lanterns, handwritten menu boards, open kitchen, wooden interior, diners, and cinematic bokeh\"\n  },\n  \n  \"quality\": {\n    \"resolution\": \"8k\",\n    \"detail\": \"ultra high\",\n    \"sharpness\": \"DSLR-quality with authentic iPhone flash rendering\",\n    \"skin_detail\": \"visible pores, realistic texture, natural freckles, subtle facial vellus hair\",\n    \"realism\": \"maximum\"\n  }\n}",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Dockie",
+      "handle": "Document195"
+    },
+    "source_platform": "X",
+    "source_id": "2082565170539429993",
+    "source_url": "https://x.com/Document195/status/2082565170539429993",
+    "images": [
+      "https://pbs.twimg.com/media/HObBy5uaAAAAUCZ.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HObBy5pbAAAX_Pf.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/fa4df9af-2def-4438-a745-1da26fd97eba",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/fa4df9af-2def-4438-a745-1da26fd97eba",
+    "published_at": "2026-09-26T06:18:54.06413+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "b7866de7454fafd7d8cc4b3c00db75d37df480667eb1a7eced08ca55e42ade98"
   },
   {
     "id": "fb135ff4-c51a-49b5-a074-cacace6104ec",

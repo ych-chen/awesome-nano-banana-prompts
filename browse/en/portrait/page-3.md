@@ -1712,3 +1712,89 @@ Ultra-realistic, photorealistic, luxury travel photography, DSLR quality, natura
 **[Try on MuseSignal →](<https://musesignal.com/prompt/1b7cb5cf-ce49-4c2f-9de2-9533424ddc89?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/mizq06/status/2077373186610806868>)
 
 ---
+
+<a id="prompt-a7044265-f084-4e65-b963-549e87502cd4"></a>
+
+## Candid Courtyard Fashion Portrait
+
+<a href="https://musesignal.com/prompt/a7044265-f084-4e65-b963-549e87502cd4?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSusVipbEAAItsh.jpg?format=jpg&amp;name=small" width="480" alt="Candid Courtyard Fashion Portrait" /></a>
+
+**Nano Banana Pro** · Creator: Aqsa
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH, vertical 3:4, candid outdoor fashion portrait of a young East Asian woman walking through an elegant landscaped courtyard on a bright summer afternoon.
+She has very long, straight dark-brown to black hair, softly center-parted and flowing naturally down her back. She has delicate youthful facial features, clear natural skin, subtle makeup, and a gentle relaxed smile while turning her head slightly toward the camera.
+She is wearing a fitted white sleeveless cropped blouse with delicate ruffled shoulder details and a softly gathered waist, paired with high-waisted black-and-white gingham check mini shorts. Minimal delicate jewelry, including a thin gold bracelet.
+A small structured black quilted handbag with beige upper panels, short handles, gold-tone hardware and a thin chain shoulder strap hangs naturally at her hip.
+Capture her mid-walk in a natural side-profile pose, body facing forward while her head turns back toward the camera. One arm is slightly raised in front of her as she walks, creating a spontaneous, unposed vacation-photo feeling.
+The setting is a manicured green lawn surrounded by trimmed hedges, leafy ornamental trees and tropical greenery. Behind her stands a grand peach and terracotta European-inspired luxury building with cream stone trim, arched windows, decorative balustrades, classical architectural details and terraces. Several deep-red café umbrellas are visible near the building, with a large natural decorative stone positioned on the lawn.
+Bright but soft natural daylight, realistic greenery, gentle highlights on her hair and skin, accurate outdoor shadows, fresh upscale garden atmosphere.
+RAW smartphone photography aesthetic, realistic skin pores, individual hair strands, natural hands and fingers, authentic fabric folds, detailed grass and architecture, slightly imperfect candid framing, natural perspective, subtle phone-camera sharpness, no artificial bokeh, no beauty filter, no plastic skin, no CGI appearance, no excessive retouching, vertical 3:4 composition.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/a7044265-f084-4e65-b963-549e87502cd4?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Aqsahere_/status/2101963186769715628>)
+
+---
+
+<a id="prompt-fa4df9af-2def-4438-a745-1da26fd97eba"></a>
+
+## Cozy Izakaya Sushi Counter Editorial Portrait
+
+<a href="https://musesignal.com/prompt/fa4df9af-2def-4438-a745-1da26fd97eba?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HObBy5uaAAAAUCZ.jpg?format=jpg&amp;name=small" width="480" alt="Cozy Izakaya Sushi Counter Editorial Portrait" /></a>
+
+**Nano Banana Pro** · Creator: Dockie
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+PROMPT:
+
+{
+  "prompt": "Ultra-realistic cozy Japanese izakaya lifestyle editorial portrait of a glamorous young platinum-blonde woman with long silky straight hair, soft center part, smooth layers, and natural shine. Warm ivory skin with visible pores, realistic skin texture, subtle freckles across the cheeks and nose, authentic facial vellus hair, luminous satin complexion, soft rosy blush, feathered brows, champagne shimmer eyeshadow, delicate fox-eye eyeliner, wispy lashes, glossy nude-pink lips with realistic lip texture, and bright blue-gray eyes. Wearing an oversized pastel pink zip-up hoodie layered over a matching blush-pink fitted camisole, creating a relaxed cozy Y2K aesthetic. Minimal jewelry including delicate rings and a natural nude manicure. Sitting at a wooden sushi counter while holding a sushi roll with black chopsticks near her face, looking directly into the camera with a soft, calm expression. Table filled with beautifully plated assorted sushi including salmon nigiri, shrimp nigiri, tuna nigiri, tamago, maki rolls, soy sauce dishes, edamame, miso soup, and traditional ceramic tableware. Authentic Japanese izakaya featuring warm glowing red paper lanterns with Japanese calligraphy, handwritten menu boards, open kitchen, wooden walls, bustling diners, cozy ambient lighting, and cinematic restaurant bokeh. Captured using an iPhone 15 Pro with direct flash, producing authentic smartphone flash reflections, crisp skin highlights, bright eye catchlights, realistic shadows, subtle lens bloom, and premium lifestyle photography. Kodak Portra-inspired skin tones, luxury travel editorial, cozy foodie aesthetic, realistic skin rendering, DSLR-quality sharpness with authentic iPhone flash characteristics, RAW photo, ultra photorealistic, 8K.",
+  
+  "negative_prompt": "cartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate food, oversaturated colors, clipped highlights, low-detail hair",
+  
+  "style": "photorealistic",
+  
+  "camera": {
+    "type": "iPhone 15 Pro",
+    "lens": "26mm main camera",
+    "aperture": "f/1.8",
+    "iso": 500,
+    "angle": "eye-level lifestyle portrait",
+    "depth_of_field": "moderate"
+  },
+  
+  "lighting": {
+    "type": "direct smartphone flash with warm izakaya ambient lighting",
+    "direction": "frontal flash",
+    "mood": "cozy, warm, authentic"
+  },
+  
+  "composition": {
+    "framing": "vertical editorial portrait",
+    "subject_position": "centered while seated at a wooden sushi counter",
+    "background": "authentic Japanese izakaya with glowing red paper lanterns, handwritten menu boards, open kitchen, wooden interior, diners, and cinematic bokeh"
+  },
+  
+  "quality": {
+    "resolution": "8k",
+    "detail": "ultra high",
+    "sharpness": "DSLR-quality with authentic iPhone flash rendering",
+    "skin_detail": "visible pores, realistic texture, natural freckles, subtle facial vellus hair",
+    "realism": "maximum"
+  }
+}
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/fa4df9af-2def-4438-a745-1da26fd97eba?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Document195/status/2082565170539429993>)
+
+---
