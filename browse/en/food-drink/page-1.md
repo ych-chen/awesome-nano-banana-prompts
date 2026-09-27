@@ -275,3 +275,24 @@ Gemini | Nano Banana Pro
 **[Try on MuseSignal →](<https://musesignal.com/prompt/01dd052a-f664-43e4-b2c5-b00b0ed5e73f?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/milaraeai/status/2020616810450608273>)
 
 ---
+
+<a id="prompt-8f761fdd-cd2f-47ba-af48-1c0dccaf1219"></a>
+
+## Kawaii Doodle Food Photo Transformation
+
+<a href="https://musesignal.com/prompt/8f761fdd-cd2f-47ba-af48-1c0dccaf1219?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOUI-G1bkAAbhL0.jpg?format=jpg&amp;name=small" width="480" alt="Kawaii Doodle Food Photo Transformation" /></a>
+
+**Nano Banana** · Creator: Smiling Khan
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Transform a close-up food photo into a whimsical kawaii doodle aesthetic. Add adorable hand-drawn cartoon eyes, a smiling mouth, rosy blush cheeks, tiny arms and legs, making the food look alive and expressive. Surround it with playful white doodles including sparkles, stars, hearts, arrows, swirls, speech bubbles, and cute handwritten captions in a casual marker style. Include small accessories like a tiny crown, party hat, sunglasses, or cape to give the food a fun personality. Keep the original food photo realistic while layering clean, sketchy doodles on top. Use soft pastel accent colors (yellow, pink, mint, light blue) sparingly for highlights, maintaining a cozy, cheerful, Instagram-worthy aesthetic. The overall look should feel like a charming hand-illustrated journal page with a playful, heartwarming vibe, while preserving the food as the main focus.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/8f761fdd-cd2f-47ba-af48-1c0dccaf1219?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/AIwithkhan/status/2082080274968608811>)
+
+---

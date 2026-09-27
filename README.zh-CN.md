@@ -18,7 +18,7 @@
 
 | 本仓库公开 Prompt | 本页完整展示 | 数据更新 |
 | ---: | ---: | --- |
-| **178** | **60** | 2026-09-26 |
+| **181** | **60** | 2026-09-27 |
 
 本仓库发布 MuseSignal 的部分内容。以上数字分别为 JSON 收录量和本页展示量，不代表网站全量；模型专题是总库子集。
 
@@ -28,11 +28,11 @@
 
 | 按场景浏览 | JSON 收录 | MuseSignal |
 | --- | ---: | --- |
-| 人像摄影 | 85 | [Nano Banana](<https://musesignal.com/zh?category=portrait&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana 2](<https://musesignal.com/zh?category=portrait&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana Pro](<https://musesignal.com/zh?category=portrait&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) |
+| 人像摄影 | 86 | [Nano Banana](<https://musesignal.com/zh?category=portrait&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana 2](<https://musesignal.com/zh?category=portrait&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana Pro](<https://musesignal.com/zh?category=portrait&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) |
 | 商业产品 | 32 | [Nano Banana](<https://musesignal.com/zh?category=commercial-product&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana 2](<https://musesignal.com/zh?category=commercial-product&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana Pro](<https://musesignal.com/zh?category=commercial-product&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) |
 | 海报设计 | 16 | [Nano Banana](<https://musesignal.com/zh?category=poster-graphic&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) · [Nano Banana 2](<https://musesignal.com/zh?category=poster-graphic&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) · [Nano Banana Pro](<https://musesignal.com/zh?category=poster-graphic&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) |
-| 食物饮品 | 10 | [Nano Banana](<https://musesignal.com/zh?category=food-drink&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) · [Nano Banana 2](<https://musesignal.com/zh?category=food-drink&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) · [Nano Banana Pro](<https://musesignal.com/zh?category=food-drink&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) |
-| 角色艺术 | 23 | [Nano Banana](<https://musesignal.com/zh?category=character-art&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana 2](<https://musesignal.com/zh?category=character-art&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana Pro](<https://musesignal.com/zh?category=character-art&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) |
+| 食物饮品 | 11 | [Nano Banana](<https://musesignal.com/zh?category=food-drink&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) · [Nano Banana 2](<https://musesignal.com/zh?category=food-drink&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) · [Nano Banana Pro](<https://musesignal.com/zh?category=food-drink&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) |
+| 角色艺术 | 24 | [Nano Banana](<https://musesignal.com/zh?category=character-art&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana 2](<https://musesignal.com/zh?category=character-art&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana Pro](<https://musesignal.com/zh?category=character-art&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) |
 | 场景空间 | 12 | [Nano Banana](<https://musesignal.com/zh?category=scene-space&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) · [Nano Banana 2](<https://musesignal.com/zh?category=scene-space&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) · [Nano Banana Pro](<https://musesignal.com/zh?category=scene-space&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) |
 
 <a id="selected-prompts"></a>
@@ -45,7 +45,7 @@
 
 <a id="selected-portrait"></a>
 
-### 人像摄影 · 12
+### 人像摄影 · 13
 
 [Nano Banana](<https://musesignal.com/zh?category=portrait&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana 2](<https://musesignal.com/zh?category=portrait&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana Pro](<https://musesignal.com/zh?category=portrait&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>)
 
@@ -634,6 +634,33 @@ The scene is captured with high-key flat beauty lighting, creating a bright, air
 
 ---
 
+<a id="prompt-214bc881-d2e8-4745-a953-1593bf60ed1d"></a>
+
+#### Cozy Morning Portrait with Golden Retriever
+
+<a href="https://musesignal.com/zh/prompt/214bc881-d2e8-4745-a953-1593bf60ed1d?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKgK-G0bkAAHyqU.jpg?format=jpg&amp;name=small" width="480" alt="Cozy Morning Portrait with Golden Retriever" /></a>
+
+**Nano Banana Pro** · 原作者: liana
+
+创作场景: 人像摄影
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A high-fashion, high-fidelity 8K lifestyle portrait in a 9:16 aspect ratio, capturing a candid, cozy morning moment. A beautiful young woman with flawless skin, striking green eyes, and rich dark brown hair styled in elaborate, neat crown braids that flow into a voluminous, wavy low ponytail on the side. She is smiling subtly while taking a bite of a thick slice of golden-brown brioche toast topped with creamy scrambled eggs. She is wearing a casual, off-the-shoulder white oversized t-shirt with a minimalist cartoon dog graphic on the front that says "Life is GREAT!!".
+
+Sitting right next to her at a rustic, weathered wooden dining table is a gorgeous Golden Retriever, looking up at her with adoring eyes. On the table sits a clean aesthetic layout: a red and white ceramic mug, a clear plastic container filled with a vibrant green garden salad, a matte pink protein shaker bottle, and a neatly folded newspaper. 
+
+The background is a bright, sunlit kitchen interior filled with cozy Scandinavian-boho decor, featuring lush green potted Monstera plants, warm wooden cabinetry, and soft light filtering through wooden window blinds. In the soft-focus background, a vintage retro red toaster oven sits on the counter. Shot on an 85mm lens, f/1.8, shallow depth of field, soft natural cinematic lighting, Douyin realism aesthetic, vibrant colors, completely clean visual without any text overlays, logos, or watermarks.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/214bc881-d2e8-4745-a953-1593bf60ed1d?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Lianaalane/status/2064912501314064662>)
+
+---
+
 <a id="prompt-a7044265-f084-4e65-b963-549e87502cd4"></a>
 
 #### Candid Courtyard Fashion Portrait
@@ -890,7 +917,7 @@ PROMPT:
 
 <a id="selected-commercial-product"></a>
 
-### 商业产品 · 13
+### 商业产品 · 11
 
 [Nano Banana](<https://musesignal.com/zh?category=commercial-product&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana 2](<https://musesignal.com/zh?category=commercial-product&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana Pro](<https://musesignal.com/zh?category=commercial-product&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>)
 
@@ -1172,62 +1199,9 @@ Create an ultra-premium, high-energy soda can product render that feels like a g
 
 ---
 
-<a id="prompt-cebd0e42-6637-40e8-9791-fcc40797f8e4"></a>
-
-#### Giant Banana Mascot in Glasses-Free 3D
-
-<a href="https://musesignal.com/zh/prompt/cebd0e42-6637-40e8-9791-fcc40797f8e4?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HBP_iDLbwAAq0JM.jpg?format=jpg&amp;name=small" width="480" alt="Giant Banana Mascot in Glasses-Free 3D" /></a>
-
-**Nano Banana Pro** · 原作者: Max
-
-创作场景: 商业产品
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Nano Banana Pro || 8k
-Ultra-Realistic Promotional
-An enormous L shaped glasses free 3D LED screen situated prominently at a bustling urban intersection, designed in an iconic architectural style reminiscent of Shinjuku in Tokyo or Taikoo Li in Chengdu. The screen displays a captivating glasses free 3D animation featuring a giant hyper realistic banana mascot wearing stylish sunglasses and streetwear, playfully peeling itself open while smaller glowing bananas float outward toward the viewer. The characters and objects possess striking depth and appear to break through the screen’s boundaries, extending outward or floating vividly in mid air. Under realistic daylight conditions, these elements cast lifelike shadows onto the screen’s surface and surrounding buildings. Rich in intricate detail and vibrant colors, the animation seamlessly integrates with the urban setting and the bright sky overhead. Ultra realistic CGI, cinematic perspective, high dynamic range, sharp reflections, global illumination, volumetric lighting, extreme detail, Nano Banana Pro render quality, true 4K resolution, photorealistic, depth illusion, anamorphic perspective, HDR, professional CGI advertisement style, image size 4 5 .
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/cebd0e42-6637-40e8-9791-fcc40797f8e4?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Max__Build/status/2023241640849371231>)
-
----
-
-<a id="prompt-bd6ce446-9dfc-4266-b051-f42c75af307d"></a>
-
-#### Gym Selfie with Adidas Sports Bra
-
-<a href="https://musesignal.com/zh/prompt/bd6ce446-9dfc-4266-b051-f42c75af307d?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKRZUOOaYAAfQPR.jpg?format=jpg&amp;name=small" width="480" alt="Gym Selfie with Adidas Sports Bra" /></a>
-
-**Nano Banana Pro** · 原作者: Lore
-
-创作场景: 商业产品
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-{
-"prompt": "A highly detailed, realistic photograph of a beautiful young woman in her early 20s taking a gym selfie. She has fair skin with a light sweat sheen, striking blue-green eyes, subtle natural makeup, and light brown hair with darker roots tied in a messy high ponytail with loose strands framing her face. She is wearing a vibrant royal blue ribbed Adidas triangle sports bra with the black Adidas logo visible on the left side, and black leggings. She has a delicate pearl choker necklace and small gold hoop earrings. She is holding a smartphone with a black-and-white speckled/dalmatian-style case in her right hand, capturing her reflection. Confident slight smile, head slightly tilted, looking at the phone camera. Toned athletic physique with visible collarbones and abs. Gym setting with green artificial turf floor, treadmills, exercise balls, and large windows showing a city night view with lights in the background. Soft indoor lighting mixed with cool fluorescent gym lights, cinematic composition, sharp focus, photorealistic, 8k detail, natural skin texture, sweaty glow.",
-"negative_prompt": "blurry, deformed, ugly, extra limbs, bad anatomy, watermark, text, overexposed, underexposed, cartoon, painting, illustration, low quality",
-"aspect_ratio": "9:16",
-"style": "photorealistic",
-"quality": "high"
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/bd6ce446-9dfc-4266-b051-f42c75af307d?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/l_w_lorenzen/status/2063872806111318170>)
-
----
-
 <a id="selected-poster-graphic"></a>
 
-### 海报设计 · 9
+### 海报设计 · 8
 
 [Nano Banana](<https://musesignal.com/zh?category=poster-graphic&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) · [Nano Banana 2](<https://musesignal.com/zh?category=poster-graphic&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) · [Nano Banana Pro](<https://musesignal.com/zh?category=poster-graphic&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>)
 
@@ -1713,40 +1687,9 @@ disconnected landmark montage.
 
 ---
 
-<a id="prompt-d4ad42b3-0864-44b0-86cf-ab5c57d6c276"></a>
-
-#### Streamlined Status Report Layout
-
-<a href="https://musesignal.com/zh/prompt/d4ad42b3-0864-44b0-86cf-ab5c57d6c276?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HK-3P4_aUAAej8s.jpg?format=jpg&amp;name=small" width="480" alt="Streamlined Status Report Layout" /></a>
-
-**Nano Banana** · 原作者: 路飞 🏴‍☠️ AI 研究员🧐
-
-创作场景: 海报设计
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-1/ 状态报告
-把散乱笔记变成一段高管看得懂的汇报：
-→ 摘要
-→ 影响
-→ 进度（绿/黄/红）
-→ 阻碍
-→ 下一步
-→ 待决策事项
-清晰、简洁、拿得出手
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d4ad42b3-0864-44b0-86cf-ab5c57d6c276?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/0xluffy_eth/status/2067072246548680941>)
-
----
-
 <a id="selected-food-drink"></a>
 
-### 食物饮品 · 8
+### 食物饮品 · 9
 
 [Nano Banana](<https://musesignal.com/zh?category=food-drink&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) · [Nano Banana 2](<https://musesignal.com/zh?category=food-drink&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) · [Nano Banana Pro](<https://musesignal.com/zh?category=food-drink&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>)
 
@@ -1947,9 +1890,32 @@ A premium golden toffee suspended in mid air above a mirror polished black surfa
 
 ---
 
+<a id="prompt-8f761fdd-cd2f-47ba-af48-1c0dccaf1219"></a>
+
+#### Kawaii Doodle Food Photo Transformation
+
+<a href="https://musesignal.com/zh/prompt/8f761fdd-cd2f-47ba-af48-1c0dccaf1219?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOUI-G1bkAAbhL0.jpg?format=jpg&amp;name=small" width="480" alt="Kawaii Doodle Food Photo Transformation" /></a>
+
+**Nano Banana** · 原作者: Smiling Khan
+
+创作场景: 食物饮品
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Transform a close-up food photo into a whimsical kawaii doodle aesthetic. Add adorable hand-drawn cartoon eyes, a smiling mouth, rosy blush cheeks, tiny arms and legs, making the food look alive and expressive. Surround it with playful white doodles including sparkles, stars, hearts, arrows, swirls, speech bubbles, and cute handwritten captions in a casual marker style. Include small accessories like a tiny crown, party hat, sunglasses, or cape to give the food a fun personality. Keep the original food photo realistic while layering clean, sketchy doodles on top. Use soft pastel accent colors (yellow, pink, mint, light blue) sparingly for highlights, maintaining a cozy, cheerful, Instagram-worthy aesthetic. The overall look should feel like a charming hand-illustrated journal page with a playful, heartwarming vibe, while preserving the food as the main focus.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/8f761fdd-cd2f-47ba-af48-1c0dccaf1219?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/AIwithkhan/status/2082080274968608811>)
+
+---
+
 <a id="selected-character-art"></a>
 
-### 角色艺术 · 9
+### 角色艺术 · 10
 
 [Nano Banana](<https://musesignal.com/zh?category=character-art&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana 2](<https://musesignal.com/zh?category=character-art&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana Pro](<https://musesignal.com/zh?category=character-art&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>)
 
@@ -2152,6 +2118,35 @@ Check the Stey bye step Tutorial here 👇🏻
 </details>
 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/536f7525-7ddd-4bd0-bf4f-21c4f94063e2?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Gemalpha_88/status/2072523354180141151>)
+
+---
+
+<a id="prompt-d947e1af-93aa-4881-b4bf-1cb908343cc8"></a>
+
+#### Pixar-Style 3D Character Avatar Bust
+
+<a href="https://musesignal.com/zh/prompt/d947e1af-93aa-4881-b4bf-1cb908343cc8?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOC7D0qa0AApNMB.jpg?format=jpg&amp;name=small" width="480" alt="Pixar-Style 3D Character Avatar Bust" /></a>
+
+**Nano Banana** · 原作者: Aijaz
+
+创作场景: 角色艺术
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Detailed Prompt
+​3D stylized character avatar bust of a friendly man, Pixar and Disney animation style, smooth digital clay render.
+​Character Details: Dark wavy brown hair styled upwards with volume, thick dark eyebrows, expressively large green eyes, a neatly groomed full beard and mustache, and a subtle friendly smile.
+​Accessories: Round metallic wire-frame glasses with light yellow tint lenses.
+​Attire: Plain black crew-neck t-shirt.
+​Style & Lighting: Clean 3D studio render, soft volumetric studio lighting, smooth matte shading, high-detail textures, centered front facing headshot composition.
+​Background: Solid dark forest green backdrop with a soft radial vignette.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d947e1af-93aa-4881-b4bf-1cb908343cc8?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/iamsofiaijaz/status/2080868713709154525>)
 
 ---
 
@@ -2493,20 +2488,20 @@ Aspect ratio 4:5, photorealistic 3D render, octane/unreal engine quality, no tex
 
 | 模型 | 提示词 | MuseSignal |
 | --- | ---: | --- |
-| Nano Banana | 23 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana>) |
+| Nano Banana | 25 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana>) |
 | Nano Banana 2 | 75 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana-2>) |
-| Nano Banana Pro | 80 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana-pro>) |
+| Nano Banana Pro | 81 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana-pro>) |
 
 ## 最近发布
 
+- [Kawaii Doodle Food Photo Transformation](<https://musesignal.com/zh/prompt/8f761fdd-cd2f-47ba-af48-1c0dccaf1219?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana
+- [Pixar-Style 3D Character Avatar Bust](<https://musesignal.com/zh/prompt/d947e1af-93aa-4881-b4bf-1cb908343cc8?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana
+- [Cozy Morning Portrait with Golden Retriever](<https://musesignal.com/zh/prompt/214bc881-d2e8-4745-a953-1593bf60ed1d?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
 - [Candid Courtyard Fashion Portrait](<https://musesignal.com/zh/prompt/a7044265-f084-4e65-b963-549e87502cd4?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
 - [Cozy Izakaya Sushi Counter Editorial Portrait](<https://musesignal.com/zh/prompt/fa4df9af-2def-4438-a745-1da26fd97eba?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
 - [Floating City Islands Miniature Diorama](<https://musesignal.com/zh/prompt/833f008d-8ae1-4593-b569-195a6d48953c?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana 2
 - [LEGO Minifigure Mirror Selfie 3D Render](<https://musesignal.com/zh/prompt/a63507b2-0e03-44c3-9354-65439e7caa32?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana 2
 - [Luxury Ballroom Fashion Editorial Portrait](<https://musesignal.com/zh/prompt/1b7cb5cf-ce49-4c2f-9de2-9533424ddc89?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
-- [Soccer Ball Leather Gaming Console Product Render](<https://musesignal.com/zh/prompt/e431e1f3-272e-4598-83ed-2cdb642a665b?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana 2
-- [Elizabeth Olsen Kitchen Countertop Lifestyle Portrait](<https://musesignal.com/zh/prompt/c303c6b7-29d4-4aa9-99cc-08dff0f6fec1?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana 2
-- [Nano Banana Pro Mysterious Cinematic Reveal](<https://musesignal.com/zh/prompt/21837dc1-2c06-4c26-8dea-a0a20e70fef2?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
 
 ## 在 MuseSignal 生成
 
@@ -2527,7 +2522,7 @@ Aspect ratio 4:5, photorealistic 3D render, octane/unreal engine quality, no tex
 
 ## 开发者：下载公开数据
 
-[下载完整 JSON · 178](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[下载完整 JSON · 181](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json

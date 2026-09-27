@@ -645,6 +645,32 @@
     "content_hash": "0ad00911376f68762d6e2cece130b3f4d6caaef6249a068105abcefe1ec32e54"
   },
   {
+    "id": "214bc881-d2e8-4745-a953-1593bf60ed1d",
+    "title": "Cozy Morning Portrait with Golden Retriever",
+    "prompt": "A high-fashion, high-fidelity 8K lifestyle portrait in a 9:16 aspect ratio, capturing a candid, cozy morning moment. A beautiful young woman with flawless skin, striking green eyes, and rich dark brown hair styled in elaborate, neat crown braids that flow into a voluminous, wavy low ponytail on the side. She is smiling subtly while taking a bite of a thick slice of golden-brown brioche toast topped with creamy scrambled eggs. She is wearing a casual, off-the-shoulder white oversized t-shirt with a minimalist cartoon dog graphic on the front that says \"Life is GREAT!!\".\n\nSitting right next to her at a rustic, weathered wooden dining table is a gorgeous Golden Retriever, looking up at her with adoring eyes. On the table sits a clean aesthetic layout: a red and white ceramic mug, a clear plastic container filled with a vibrant green garden salad, a matte pink protein shaker bottle, and a neatly folded newspaper. \n\nThe background is a bright, sunlit kitchen interior filled with cozy Scandinavian-boho decor, featuring lush green potted Monstera plants, warm wooden cabinetry, and soft light filtering through wooden window blinds. In the soft-focus background, a vintage retro red toaster oven sits on the counter. Shot on an 85mm lens, f/1.8, shallow depth of field, soft natural cinematic lighting, Douyin realism aesthetic, vibrant colors, completely clean visual without any text overlays, logos, or watermarks.",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "liana",
+      "handle": "Lianaalane"
+    },
+    "source_platform": "X",
+    "source_id": "2064912501314064662",
+    "source_url": "https://x.com/Lianaalane/status/2064912501314064662",
+    "images": [
+      "https://pbs.twimg.com/media/HKgK-G0bkAAHyqU.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/214bc881-d2e8-4745-a953-1593bf60ed1d",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/214bc881-d2e8-4745-a953-1593bf60ed1d",
+    "published_at": "2026-09-27T06:54:13.011163+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "86046ccb546c031ec0df3dfc1be3f5c7be63ce44694e91544a39945ccad6b783"
+  },
+  {
     "id": "21837dc1-2c06-4c26-8dea-a0a20e70fef2",
     "title": "Nano Banana Pro Mysterious Cinematic Reveal",
     "prompt": "Start with Nano Banana Pro || 8K Ultra-Realistic Promotional\nA mysterious cinematic product reveal. A closed vintage Briefsuitcase rests motionless on a premium desk surface. Subtle vibrations begin, metal latches gently rattle",
@@ -2368,6 +2394,32 @@
     "content_hash": "255602d67ed7d51f2704c904b3dceb5214dbe25e82c88a3211a88a06a38299a8"
   },
   {
+    "id": "8f761fdd-cd2f-47ba-af48-1c0dccaf1219",
+    "title": "Kawaii Doodle Food Photo Transformation",
+    "prompt": "Transform a close-up food photo into a whimsical kawaii doodle aesthetic. Add adorable hand-drawn cartoon eyes, a smiling mouth, rosy blush cheeks, tiny arms and legs, making the food look alive and expressive. Surround it with playful white doodles including sparkles, stars, hearts, arrows, swirls, speech bubbles, and cute handwritten captions in a casual marker style. Include small accessories like a tiny crown, party hat, sunglasses, or cape to give the food a fun personality. Keep the original food photo realistic while layering clean, sketchy doodles on top. Use soft pastel accent colors (yellow, pink, mint, light blue) sparingly for highlights, maintaining a cozy, cheerful, Instagram-worthy aesthetic. The overall look should feel like a charming hand-illustrated journal page with a playful, heartwarming vibe, while preserving the food as the main focus.",
+    "category": "food-drink",
+    "model_key": "nano-banana",
+    "model_name": "Nano Banana",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Smiling Khan",
+      "handle": "AIwithkhan"
+    },
+    "source_platform": "X",
+    "source_id": "2082080274968608811",
+    "source_url": "https://x.com/AIwithkhan/status/2082080274968608811",
+    "images": [
+      "https://pbs.twimg.com/media/HOUI-G1bkAAbhL0.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/8f761fdd-cd2f-47ba-af48-1c0dccaf1219",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/8f761fdd-cd2f-47ba-af48-1c0dccaf1219",
+    "published_at": "2026-09-27T06:54:28.806608+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "345123f7c79b2a370f3b17a611b074d2c9855cd6a0d640f152690ca3cab6c21c"
+  },
+  {
     "id": "8f7c10fa-661b-43bb-acf7-dde6ea96825e",
     "title": "Reclining in Leopard Print",
     "prompt": "{\n\"image_prompt\": {\n\"aspect_ratio\": \"3:4\",\n\"subject\": {\n\"reference\": \"Use the reference image for the subject’s identity, face, and hair — preserve exact facial features, proportions, and likeness.\"\n},\n\"clothing_and_accessories\": {\n\"outfit\": \"Strapless leopard-print dress, black scalloped lace top trim, pulled up to reveal high thigh slit.\",\n\"accessories\": {\n\"jewelry\": \"Thin silver ring on left middle finger, silver ring on right index finger.\",\n\"nails\": \"Solid off-white/pale polish.\"\n}\n},\n\"pose\": \"Reclining comfortably on a bed, angled body. Left hand gently touching chin/lower lip. Right hand resting on bare thigh, holding the dress fabric.\",\n\"background_details\": {\n\"setting\": \"Minimalist bedroom corner.\",\n\"objects\": \"Unmade bed with heavily wrinkled, draped white sheets. One light grey square pillow propped against the corner. Plain, flat off-white walls.\"\n},\n\"lighting\": \"Soft, diffused, balanced indoor lighting creating smooth shadows and flattering skin tones.\"",
@@ -3958,6 +4010,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "57706a9ff267f55a9cb2c9879165047280c325c8b579727e615ec25b1793e248"
+  },
+  {
+    "id": "d947e1af-93aa-4881-b4bf-1cb908343cc8",
+    "title": "Pixar-Style 3D Character Avatar Bust",
+    "prompt": "Detailed Prompt\n​3D stylized character avatar bust of a friendly man, Pixar and Disney animation style, smooth digital clay render.\n​Character Details: Dark wavy brown hair styled upwards with volume, thick dark eyebrows, expressively large green eyes, a neatly groomed full beard and mustache, and a subtle friendly smile.\n​Accessories: Round metallic wire-frame glasses with light yellow tint lenses.\n​Attire: Plain black crew-neck t-shirt.\n​Style & Lighting: Clean 3D studio render, soft volumetric studio lighting, smooth matte shading, high-detail textures, centered front facing headshot composition.\n​Background: Solid dark forest green backdrop with a soft radial vignette.",
+    "category": "character-art",
+    "model_key": "nano-banana",
+    "model_name": "Nano Banana",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Aijaz",
+      "handle": "iamsofiaijaz"
+    },
+    "source_platform": "X",
+    "source_id": "2080868713709154525",
+    "source_url": "https://x.com/iamsofiaijaz/status/2080868713709154525",
+    "images": [
+      "https://pbs.twimg.com/media/HOC7D0qa0AApNMB.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/d947e1af-93aa-4881-b4bf-1cb908343cc8",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/d947e1af-93aa-4881-b4bf-1cb908343cc8",
+    "published_at": "2026-09-27T06:54:24.039958+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "ed0615e4973b8e2ae2c434bf24e9cc3ff5a2dd609db31adcc850c21e415b7bad"
   },
   {
     "id": "da934fe0-b4f4-4d1b-85eb-ed3f8217f12e",

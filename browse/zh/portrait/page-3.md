@@ -1798,3 +1798,28 @@ PROMPT:
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/fa4df9af-2def-4438-a745-1da26fd97eba?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Document195/status/2082565170539429993>)
 
 ---
+
+<a id="prompt-214bc881-d2e8-4745-a953-1593bf60ed1d"></a>
+
+## Cozy Morning Portrait with Golden Retriever
+
+<a href="https://musesignal.com/zh/prompt/214bc881-d2e8-4745-a953-1593bf60ed1d?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKgK-G0bkAAHyqU.jpg?format=jpg&amp;name=small" width="480" alt="Cozy Morning Portrait with Golden Retriever" /></a>
+
+**Nano Banana Pro** · 原作者: liana
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A high-fashion, high-fidelity 8K lifestyle portrait in a 9:16 aspect ratio, capturing a candid, cozy morning moment. A beautiful young woman with flawless skin, striking green eyes, and rich dark brown hair styled in elaborate, neat crown braids that flow into a voluminous, wavy low ponytail on the side. She is smiling subtly while taking a bite of a thick slice of golden-brown brioche toast topped with creamy scrambled eggs. She is wearing a casual, off-the-shoulder white oversized t-shirt with a minimalist cartoon dog graphic on the front that says "Life is GREAT!!".
+
+Sitting right next to her at a rustic, weathered wooden dining table is a gorgeous Golden Retriever, looking up at her with adoring eyes. On the table sits a clean aesthetic layout: a red and white ceramic mug, a clear plastic container filled with a vibrant green garden salad, a matte pink protein shaker bottle, and a neatly folded newspaper. 
+
+The background is a bright, sunlit kitchen interior filled with cozy Scandinavian-boho decor, featuring lush green potted Monstera plants, warm wooden cabinetry, and soft light filtering through wooden window blinds. In the soft-focus background, a vintage retro red toaster oven sits on the counter. Shot on an 85mm lens, f/1.8, shallow depth of field, soft natural cinematic lighting, Douyin realism aesthetic, vibrant colors, completely clean visual without any text overlays, logos, or watermarks.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/214bc881-d2e8-4745-a953-1593bf60ed1d?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Lianaalane/status/2064912501314064662>)
+
+---

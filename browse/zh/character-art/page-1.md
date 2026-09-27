@@ -694,3 +694,30 @@ Soft muted color palette combining dusty mauve, warm beige, muted sage green, pa
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a63507b2-0e03-44c3-9354-65439e7caa32?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/TechieBySA/status/2081794164610437450>)
 
 ---
+
+<a id="prompt-d947e1af-93aa-4881-b4bf-1cb908343cc8"></a>
+
+## Pixar-Style 3D Character Avatar Bust
+
+<a href="https://musesignal.com/zh/prompt/d947e1af-93aa-4881-b4bf-1cb908343cc8?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOC7D0qa0AApNMB.jpg?format=jpg&amp;name=small" width="480" alt="Pixar-Style 3D Character Avatar Bust" /></a>
+
+**Nano Banana** · 原作者: Aijaz
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Detailed Prompt
+​3D stylized character avatar bust of a friendly man, Pixar and Disney animation style, smooth digital clay render.
+​Character Details: Dark wavy brown hair styled upwards with volume, thick dark eyebrows, expressively large green eyes, a neatly groomed full beard and mustache, and a subtle friendly smile.
+​Accessories: Round metallic wire-frame glasses with light yellow tint lenses.
+​Attire: Plain black crew-neck t-shirt.
+​Style & Lighting: Clean 3D studio render, soft volumetric studio lighting, smooth matte shading, high-detail textures, centered front facing headshot composition.
+​Background: Solid dark forest green backdrop with a soft radial vignette.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d947e1af-93aa-4881-b4bf-1cb908343cc8?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/iamsofiaijaz/status/2080868713709154525>)
+
+---
