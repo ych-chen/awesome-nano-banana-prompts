@@ -44,3 +44,30 @@ Ultra-realistic vertical product render of a [CONSOLE NAME] console sculpted ent
 **[Try on MuseSignal →](<https://musesignal.com/prompt/e431e1f3-272e-4598-83ed-2cdb642a665b?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/ShamsAmin56/status/2069467450991890504>)
 
 ---
+
+<a id="prompt-af2db61b-a5f1-4b4b-93b8-fad742ad8ac3"></a>
+
+## Premium 3D Sports Logo from Sports Equipment
+
+<a href="https://musesignal.com/prompt/af2db61b-a5f1-4b4b-93b8-fad742ad8ac3?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLkdlgSXIAAjCm-.jpg?format=jpg&amp;name=small" width="480" alt="Premium 3D Sports Logo from Sports Equipment" /></a>
+
+**Nano Banana 2** · Creator: Shams
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create a premium 3D sports logo for [BRAND NAME], the main logo symbol realistically sculpted from a rich mix of sports equipment including soccer balls, basketballs, running shoes, tennis rackets, footballs, boxing gloves, dumbbells, and cricket bats fused together in dynamic floating 3D form, highly detailed textures and materials, cinematic studio lighting.
+
+Top-left: small monochrome black [BRAND] logo. 
+Top-right corner: half-visible, slightly cropped cluster of sports equipment softly faded into background. 
+Bottom-left corner: half-visible, slightly cropped cluster of sports equipment softly faded. 
+
+Clean off-white background #F5F5F0, minimalist premium product visualization, 9:16 aspect ratio, sharp focus, 8k --stylize 250.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/af2db61b-a5f1-4b4b-93b8-fad742ad8ac3?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/ShamsAmin56/status/2069718453821559218>)
+
+---

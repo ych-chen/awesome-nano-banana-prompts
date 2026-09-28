@@ -3004,6 +3004,35 @@
     "content_hash": "3c97f970611d23361c1a2dede11107d3a06f564f2161d4f9869bebecb0483cc1"
   },
   {
+    "id": "af2db61b-a5f1-4b4b-93b8-fad742ad8ac3",
+    "title": "Premium 3D Sports Logo from Sports Equipment",
+    "prompt": "Create a premium 3D sports logo for [BRAND NAME], the main logo symbol realistically sculpted from a rich mix of sports equipment including soccer balls, basketballs, running shoes, tennis rackets, footballs, boxing gloves, dumbbells, and cricket bats fused together in dynamic floating 3D form, highly detailed textures and materials, cinematic studio lighting.\n\nTop-left: small monochrome black [BRAND] logo. \nTop-right corner: half-visible, slightly cropped cluster of sports equipment softly faded into background. \nBottom-left corner: half-visible, slightly cropped cluster of sports equipment softly faded. \n\nClean off-white background #F5F5F0, minimalist premium product visualization, 9:16 aspect ratio, sharp focus, 8k --stylize 250.",
+    "category": "commercial-product",
+    "model_key": "nano-banana-2",
+    "model_name": "Nano Banana 2",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Shams",
+      "handle": "ShamsAmin56"
+    },
+    "source_platform": "X",
+    "source_id": "2069718453821559218",
+    "source_url": "https://x.com/ShamsAmin56/status/2069718453821559218",
+    "images": [
+      "https://pbs.twimg.com/media/HLkdlgSXIAAjCm-.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLkdlgMWUAAfbhn.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLkdlgKWUAAiJsJ.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLkdlgEW4AAZ2UC.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/af2db61b-a5f1-4b4b-93b8-fad742ad8ac3",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/af2db61b-a5f1-4b4b-93b8-fad742ad8ac3",
+    "published_at": "2026-09-28T07:08:41.770037+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "ff243241c32d4820960e6c75dc1785dfca230796e0b3c3a329e0b45adf6204eb"
+  },
+  {
     "id": "b0203a6a-e6b1-4a0e-881a-354a1cdf4ff6",
     "title": "Sabrina Carpenter in Radiant Portrait",
     "prompt": "{\n\"nano_banana_pro_system_v6.0\": {\n\"global_master_rendering_specifications\": {\n\"resolution\": \"8K Ultra-HD / 7680x4320 native upscale\",\n\"lighting_engine\": \"Unreal Engine 5.4 Lumen + Nanite, Path Traced global illumination\",\n\"post_processing\": \"Subsurface scattering (SSS), chromatic aberration (0.02), film grain (0.1), ACES color grading\",\n\"branding_overlay\": \"Digital watermark text '@emer_web3' in bottom right corner, 20% opacity\"\n},\n\"asset_profile_01_sabrina_yellow\": {\n\"subject\": \"Sabrina Carpenter\",\n\"physique_metadata\": {\n\"hair\": \"Voluminous long blonde wavy hair, warm honey highlights, soft curtain bangs\",\n\"complexion\": \"Radiant, sun-kissed skin texture with natural specular highlights\"\n},\n\"wardrobe_specifications\": {\n\"material\": \"High-elasticity performance spandex, matte lemon yellow finish\",\n\"top\": \"Cropped tank with intricate multi-strap criss-cross back design\",\n\"bottom\": \"High-waisted matching leggings, ruched seam 'scrunch' detail on posterior\"\n},\n\"scene_coordinates\": [\n\"Pose: Prone on mat, knees bent at 90 degrees, feet raised, looking over shoulder with soft smile\",\n\"Pose: Kneeling lunge, hands clasped above head, torso twisted toward lens\",\n\"Pose: Kneeling, rear-facing torso twist, hands resting on thighs\",\n\"Environment: Seamless white photography cyclorama with a single black rectangular rubber yoga mat\"\n]\n},\n\"asset_profile_02_sadie_sink_multiverse\": {\n\"subject\": \"Sadie Sink\",\n\"hair\": \"Vibrant wavy copper-red hair, textured finish\",\n\"variant_01_lounge\": {\n\"outfit\": \"Blue 'HAWAIIAN Tropic' strapless tube top with yellow floral logo, matching blue high-waisted shorts\",\n\"environment\": \"Modern grey-walled interior, KAWS Companion pop-art red canvas, warm wall sconce lighting\",\n\"jewelry\": \"Gold circular pendant, silver navel piercing\"\n},\n\"variant_02_cosplay\": {\n\"outfit\": \"Red wide-brimmed cowboy hat, tricolor (blue/gold/white) strapless top with silver ring connector, denim shorts, white chaps\",\n\"accessories\": \"Brown leather belt with gold buckle, yellow armbands with red ribbon ties\",\n\"prop\": \"Elegant wine glass with dark red liquid\"\n},\n\"variant_03_fitness\": {\n\"outfit\": \"Black 'HAWKINS ATHLETICS' spaghetti strap top, deep cobalt blue high-waisted compression leggings, white crew socks\",\n\"environment\": \"Gym locker room, full-length mirror reflection, industrial lighting, visible fitness equipment in background\"\n}\n},\n\"asset_profile_03_sweeney_blue\": {\n\"subject\": \"Sydney Sweeney\",\n\"outfit_specs\": \"Premium cobalt blue performance activewear set, high-neck racerback top, high-rise leggings\",\n\"yoga_sequence\": [\n\"Tabletop pose (all-fours) on black mat, focused neutral expression, concrete wall background\",\n\"Seated resting pose, torso leaning back, weight supported by straight arms behind back\",\n\"Prone sphinx variation, chest lifted by forearms, lower legs elevated vertically\",\n\"Vertical leg extension stretch, grasping ankles, intense focus\"\n]\n},\n\"asset_profile_04_editorial_red\": {\n\"wardrobe\": \"Vibrant crimson red high-performance gym wear, multi-lattice strap bra, matching leggings\",\n\"visual_highlights\": [\n\"Back view showing intricate lattice strap pattern and tied bow detail\",\n\"Prone pose on black mat against high-key white background, accentuating fabric tension\",\n\"Kneeling pose showing rear scrunch-seam detail and bare feet on mat\"",
