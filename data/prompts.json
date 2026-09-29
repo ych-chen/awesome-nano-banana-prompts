@@ -894,6 +894,32 @@
     "content_hash": "f5a3a51faa17a8506111a2b82beca28f4c2215941598127412723541ab3cc688"
   },
   {
+    "id": "299e40f8-757f-414a-be62-f91a42e763a0",
+    "title": "Coca-Cola Couple Commercial Render",
+    "prompt": "young Japanese couple, woman and man, both smiling joyfully and looking at each other playfully. Woman wearing white crop top, red athletic shorts, transparent PVC windbreaker with red accents, white sneakers with red details. Man wearing white oversized tee, red jogger shorts, transparent PVC jacket with red black accents, white red sneakers. Both holding iced Coca-Cola glasses with cherry garnish. A giant oversized Coca-Cola can sits centered between them covered in water droplets and surrounded by scattered ice cubes. Soft red white gradient studio background with warm cinematic light bloom. Floating bubbles, cherry garnish and ice cubes. Full body couple shot, ultra realistic 3D render, hyperrealistic commercial product photography, glossy reflective floor, 8K resolution, cinematic studio lighting.\n\n...giant oversized [Coca-Cola] can floating mid-air beside the model at shoulder height, tilted at a dynamic angle, water droplets flying off the surface, surrounded by floating ice cubes and bubbles as if levitating with energy. Model reaches up touching the can with one hand...",
+    "category": "commercial-product",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Al-Shamus",
+      "handle": "im_shahid7"
+    },
+    "source_platform": "X",
+    "source_id": "2069443108664975734",
+    "source_url": "https://x.com/im_shahid7/status/2069443108664975734",
+    "images": [
+      "https://pbs.twimg.com/media/HLgjiGNawAAJUAB.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/299e40f8-757f-414a-be62-f91a42e763a0",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/299e40f8-757f-414a-be62-f91a42e763a0",
+    "published_at": "2026-09-29T07:07:58.863536+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "e43ae9e4f46fc8e0716fd761bf078ce64e657f9c0554378eddcd30d6755fbe8e"
+  },
+  {
     "id": "2d3566b4-03c4-49e1-9a71-3e3cd854012e",
     "title": "Ocean Breeze and Golden Skin",
     "prompt": "{\n\"prompt\": \"Ultra-realistic luxury tropical beach fashion editorial portrait of a young woman with long naturally wavy copper-red hair flowing freely in the ocean breeze, soft center part, natural volume, and subtle flyaway strands. Warm ivory skin with visible pores, realistic skin texture, natural freckles across the cheeks, nose, shoulders, arms, and collarbones, authentic facial vellus hair, luminous sun-kissed complexion, soft peach blush, feathered brows, warm bronze eyeshadow, delicate fox-eye eyeliner, wispy lashes, glossy nude-coral lips with realistic lip texture, and hazel-green eyes. Wearing an olive-green twist-front halter bikini top with a flattering gathered center knot, matching olive-green flowing beach sarong featuring a natural crochet mesh waist detail, and a large white tropical lily flower tucked behind one ear. Relaxed reclining pose on pristine white sand, supported on one forearm while the opposite hand rests gently on the sand near small seashells. Calm, confident expression looking directly into the camera. Tropical paradise featuring crystal-clear turquoise ocean, gentle waves, swaying coconut palm trees, lush island vegetation, bright blue sky, and untouched white sand beach. Warm tropical midday sunlight creates realistic highlights, natural skin reflections, soft shadows, sparkling water, and vibrant island colors. Captured with a Sony A7R V and an 85mm f/1.4 GM lens. Luxury resort campaign aesthetic, Maldives-inspired paradise, Kodak Gold 200 color science, Portra-inspired skin tones, realistic skin rendering, DSLR-quality sharpness, high-frequency skin detail, RAW photo, ultra photorealistic, 8K.\",\n\"negative_prompt\": \"cartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate flowers, duplicate shells, oversaturated colors, clipped highlights, low-detail hair\",\n\"style\": \"photorealistic\",\n\"camera\": {\n\"type\": \"Sony A7R V\",\n\"lens\": \"85mm f/1.4 GM\",\n\"aperture\": \"f/2.0\",\n\"iso\": 100,\n\"angle\": \"low eye-level beach portrait\",\n\"depth_of_field\": \"shallow\"\n},\n\"lighting\": {\n\"type\": \"natural tropical midday sunlight\",\n\"direction\": \"soft front-side sunlight\",\n\"mood\": \"bright, luxurious, tropical\"\n},\n\"composition\": {\n\"framing\": \"vertical editorial portrait\",\n\"subject_position\": \"reclining on white sand\",\n\"background\": \"crystal-clear turquoise ocean, coconut palms, lush tropical island, blue sky, and pristine white beach with soft cinematic bokeh\"\n},\n\"quality\": {\n\"resolution\": \"8k\",\n\"detail\": \"ultra high\",\n\"sharpness\": \"DSLR-quality\",\n\"skin_detail\": \"visible pores, realistic texture, natural freckles, subtle facial vellus hair\",\n\"realism\": \"maximum\"",
@@ -1525,6 +1551,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "56a681c18875874f8180df97fe8fcfeee91329891a94469ff62915bfdeab97a4"
+  },
+  {
+    "id": "532719cf-91da-4102-a30a-e864b16de3f3",
+    "title": "Matcha Green Bottle Skincare Ad on Stone Podium",
+    "prompt": "Premium green bottle placed on stone podium, surrounded by matcha powder clouds, green tea leaves and creamy foam, Japanese spa aesthetic, minimal luxury composition, soft natural lighting, highly realistic skincare advertisement, 8K.",
+    "category": "commercial-product",
+    "model_key": "nano-banana-2",
+    "model_name": "Nano Banana 2",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "𝐌",
+      "handle": "Strength04_X"
+    },
+    "source_platform": "X",
+    "source_id": "2068276166738509986",
+    "source_url": "https://x.com/Strength04_X/status/2068276166738509986",
+    "images": [
+      "https://pbs.twimg.com/media/HLP-DxuakAA2AOk.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/532719cf-91da-4102-a30a-e864b16de3f3",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/532719cf-91da-4102-a30a-e864b16de3f3",
+    "published_at": "2026-09-29T07:07:47.886429+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "4174e032712f4adaa7569f9cd1a9ccfeef5ffa1b6a3ea2bb3d6e5aac71b7b34f"
   },
   {
     "id": "53366911-7071-47b9-9dce-ca86dccbdbfb",

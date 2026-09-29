@@ -71,3 +71,47 @@ Clean off-white background #F5F5F0, minimalist premium product visualization, 9:
 **[Try on MuseSignal →](<https://musesignal.com/prompt/af2db61b-a5f1-4b4b-93b8-fad742ad8ac3?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/ShamsAmin56/status/2069718453821559218>)
 
 ---
+
+<a id="prompt-299e40f8-757f-414a-be62-f91a42e763a0"></a>
+
+## Coca-Cola Couple Commercial Render
+
+<a href="https://musesignal.com/prompt/299e40f8-757f-414a-be62-f91a42e763a0?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLgjiGNawAAJUAB.jpg?format=jpg&amp;name=small" width="480" alt="Coca-Cola Couple Commercial Render" /></a>
+
+**Nano Banana Pro** · Creator: Al-Shamus
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+young Japanese couple, woman and man, both smiling joyfully and looking at each other playfully. Woman wearing white crop top, red athletic shorts, transparent PVC windbreaker with red accents, white sneakers with red details. Man wearing white oversized tee, red jogger shorts, transparent PVC jacket with red black accents, white red sneakers. Both holding iced Coca-Cola glasses with cherry garnish. A giant oversized Coca-Cola can sits centered between them covered in water droplets and surrounded by scattered ice cubes. Soft red white gradient studio background with warm cinematic light bloom. Floating bubbles, cherry garnish and ice cubes. Full body couple shot, ultra realistic 3D render, hyperrealistic commercial product photography, glossy reflective floor, 8K resolution, cinematic studio lighting.
+
+...giant oversized [Coca-Cola] can floating mid-air beside the model at shoulder height, tilted at a dynamic angle, water droplets flying off the surface, surrounded by floating ice cubes and bubbles as if levitating with energy. Model reaches up touching the can with one hand...
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/299e40f8-757f-414a-be62-f91a42e763a0?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/im_shahid7/status/2069443108664975734>)
+
+---
+
+<a id="prompt-532719cf-91da-4102-a30a-e864b16de3f3"></a>
+
+## Matcha Green Bottle Skincare Ad on Stone Podium
+
+<a href="https://musesignal.com/prompt/532719cf-91da-4102-a30a-e864b16de3f3?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLP-DxuakAA2AOk.jpg?format=jpg&amp;name=small" width="480" alt="Matcha Green Bottle Skincare Ad on Stone Podium" /></a>
+
+**Nano Banana 2** · Creator: 𝐌
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Premium green bottle placed on stone podium, surrounded by matcha powder clouds, green tea leaves and creamy foam, Japanese spa aesthetic, minimal luxury composition, soft natural lighting, highly realistic skincare advertisement, 8K.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/532719cf-91da-4102-a30a-e864b16de3f3?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Strength04_X/status/2068276166738509986>)
+
+---
