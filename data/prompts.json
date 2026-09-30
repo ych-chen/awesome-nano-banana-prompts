@@ -2142,6 +2142,32 @@
     "content_hash": "2c0cf7818185af135fcd877cf07643aad2f91a26184c9c70944a1805b11e8d7d"
   },
   {
+    "id": "7eda030b-391d-42a0-8533-199f68b270da",
+    "title": "Alice in Wonderland Fashion Portrait",
+    "prompt": "Prompt:\nA surreal Alice in Wonderland–inspired fashion portrait of a stylish young woman standing inside a large ornate wooden heart-shaped frame decorated with vibrant red roses and scattered playing cards. She wears a beige linen blazer, matching newsboy cap, round black sunglasses, and dark leather gloves. In one hand she holds a bouquet of fresh red roses; in the other, a burning Ace of Hearts playing card with realistic flames. The setting is an outdoor rose garden with soft natural sunlight, shallow depth of field, cinematic bokeh, whimsical fantasy atmosphere, luxury editorial photography, highly detailed, photorealistic skin, warm color grading, intricate wood carving, dreamy storytelling composition, centered framing, ultra-sharp focus, 85mm lens, f/1.8, high-end fashion magazine style, masterpiece, 8K.",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Aijaz",
+      "handle": "iamsofiaijaz"
+    },
+    "source_platform": "X",
+    "source_id": "2068743816174239980",
+    "source_url": "https://x.com/iamsofiaijaz/status/2068743816174239980",
+    "images": [
+      "https://pbs.twimg.com/media/HLWnh-PbMAEloqW.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/7eda030b-391d-42a0-8533-199f68b270da",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/7eda030b-391d-42a0-8533-199f68b270da",
+    "published_at": "2026-09-30T06:53:58.886081+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "ab053fb36fef6880879696628f87f9fc23a62956c4e0ec2607df16f8b5ca9280"
+  },
+  {
     "id": "8152c892-23b9-406c-b8cd-e6a25bb7522b",
     "title": "Dua Lipa's Reflective Gaze",
     "prompt": "{\n  \"subject\": {\n    \"identity\": {\n      \"biometric_reference\": \"Billie Eilish\",\n      \"facial_structure\": \"Soft-edged oval facial structure with mathematically balanced zygomatic arches, a defined mandible profile, and distinct philtrum alignment.\",\n      \"eyes\": {\n        \"iris_pattern\": \"Pale ice-blue irises featuring high-density radial striae and a distinct dark peripheral limbal ring.\",\n        \"shape\": \"Large, downward-slanted almond eye morphology with a natural hooded upper eyelid crease and dense, prominent eyelashes.\"\n      },\n      \"dentition\": \"Naturally aligned anatomical dentition with translucent incisal enamel edges, visible within a neutral, slightly unoccluded jaw position.\",\n      \"lips\": \"Symmetrical vermilion border with a defined Cupid's bow, exhibiting micro-linear surface grooves and a natural cool-pink tone (#E5A9A9).\"\n    },\n    \"body\": {\n      \"somatotype\": \"Natural endomorphic-mesomorphic body composition with anatomical waist-to-hip proportions, maintaining standard bone and muscle density mapping.\",\n      \"morphology\": \"Standard clavicular alignment, natural upper torso contours interacting with the single-layer garment architecture, and anatomically precise limb length.\",\n      \"skin_physics\": \"Porcelain skin tone (#F7EFE9) with comprehensive subsurface scattering (SSS). High-fidelity surface physics displaying micro-pores and epidermal grain, completely devoid of post-processing or digital smoothing filters.\",\n      \"hair\": \"Deep raven black (#0A0A0A) keratin structure, mid-back length with linear layering, displaying distinct specular highlights along the hair shafts, styled with a central part.\"\n    },\n    \"pose_action\": \"The subject is captured in a complete sitting posture directly on the horizontal floor plane, referencing the structural positioning within the image bbb4168b91e22895085d06bed641f356.jpg. The dorsal region is positioned parallel to and supported by the vertical brushed metal wall panel. The lower extremities are flexed at the knee joints, with the left knee elevated vertically in the foreground, establishing a clear geometric line. The head maintains a minor posterior tilt and subtle rotation toward the optical axis, exhibiting an unblinking, analytical orthogonal gaze.\"\n  },\n  \"wardrobe\": {\n    \"dress\": {\n      \"type\": \"High-tension black metallic chainmail halter mini dress\",\n      \"material_physics\": \"Constructed from an interlocking matrix of micro-scale dark obsidian and black metallic rings (#0D0D0D). The textile exhibits a structural, body-conforming wrap that follows the anatomical surface contours precisely, operating as a single unlayered textile layer over the skin surface. Generates sharp anisotropic specular highlights and dark occlusions within the micro-scale mesh gaps.\",\n      \"fit\": \"Form-conforming technical fit across the abdominal, pelvic, and lumbar regions, creating a continuous, highly structured reflective black silhouette.\"\n    },\n    \"accessories\": {\n      \"footwear\": \"Minimalist black metallic sandal architecture (#1A1A1A) featuring linear rhinestone ankle straps, with precise anatomical digital alignment of the feet.\",\n      \"handbag\": \"A structural black chainmail or rhinestone-embellished shoulder bag resting statically on the horizontal floor plane near the lower extremities.\",\n      \"jewelry\": \"A single linear, segmented diamond tennis bracelet positioned on the wrist.\"\n    }\n  },\n  \"scene\": {\n    \"environment\": \"The internal volume of a contemporary mechanical elevator cabin.\",\n    \"surfaces\": \"Vertical architectural cladding composed of vertical-grained brushed stainless steel panels (#8A8D8F). The posterior wall features a highly polished specular chrome mirror surface. The floor plane consists of a matte gray industrial alloy sheet.\",\n    \"reflection_integrity_rules\": \"The posterior specular mirror surface must execute geometrically precise ray-traced reflections of the subject's dorsal aspect. This includes the upper back anatomy, the halter strap anchor points, the downward extension of the hair mass, and the continuous linear path of the metal handrail with zero structural distortion.\"\n  },\n  \"lighting\": {\n    \"primary_sources\": \"Ceiling-recessed luminescent LED spotlights emitting a cool chromatic temperature of 5500K.\",\n    \"distribution\": \"Direct overhead directional illumination creating high-contrast specular highlights on the black metallic textile and cranial vertex, complemented by diffused ambient secondary reflections from the steel wall panels to fill structural shadows.\"\n  },\n  \"camera\": {\n    \"aspect_ratio\": \"9:16\",\n    \"framing\": \"Full-body orthographic framing capturing the entire anatomical figure from head to feet, utilizing a slight low-angle vertical orientation to emphasize architectural lines.\",\n    \"technical_specifications\": \"Simulated medium-format sensor capture, 35mm optical focal length, f/2.8 aperture settings ensuring deep focal clarity across the primary subject and corresponding specular reflections. High edge sharpness, rich tonal contrast, and authentic structural film grain with zero motion artifacts.\"\n  },\n  \"negative_constraints\": [\n    \"no text\",\n    \"no logos\",\n    \"no typographic elements\",\n    \"no watermarks\",\n    \"no skin smoothing adjustments\",\n    \"no digital airbrushing artifacts\",\n    \"no supernumerary limbs\",\n    \"no distorted digital anatomy\",\n    \"no asymmetric ocular rendering\",\n    \"no non-Euclidean reflections\",\n    \"no duplicated joints\",\n    \"no anatomical errors\",\n    \"no layered tank top\",\n    \"no separate black top underneath\"\n  ]\n}",
@@ -4392,6 +4418,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "18b1a757e91c9dcad8775ee165881681f263f7418cac47ca15a1d4ff8b2ee140"
+  },
+  {
+    "id": "e28048c2-76f8-4c89-9b1c-2f9fba5f5c89",
+    "title": "Miniature Workers Assembling a Giant Pepsi Can",
+    "prompt": "A surreal macro world where miniature workers assemble a giant Pepsi can surrounded by ice cubes. Tiny welders polish aluminum, cranes place the logo, workers clean condensation drops. The can stands on a branded Pepsi platform. Hyper-realistic reflections, cinematic lighting, playful scene.",
+    "category": "commercial-product",
+    "model_key": "nano-banana-2",
+    "model_name": "Nano Banana 2",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "𝐌",
+      "handle": "Strength04_X"
+    },
+    "source_platform": "X",
+    "source_id": "2067861589894877369",
+    "source_url": "https://x.com/Strength04_X/status/2067861589894877369",
+    "images": [
+      "https://pbs.twimg.com/media/HLKAsYmbkAAzz4S.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/e28048c2-76f8-4c89-9b1c-2f9fba5f5c89",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/e28048c2-76f8-4c89-9b1c-2f9fba5f5c89",
+    "published_at": "2026-09-30T06:53:53.775033+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "3d1deab5d1f07eda399e7b2f35730e46a44f723d84ad71e7260a7946e78150a8"
   },
   {
     "id": "e3196436-4a79-42e4-9fb8-47ca8f5fab53",

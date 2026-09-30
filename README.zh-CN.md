@@ -18,7 +18,7 @@
 
 | 本仓库公开 Prompt | 本页完整展示 | 数据更新 |
 | ---: | ---: | --- |
-| **184** | **60** | 2026-09-29 |
+| **186** | **60** | 2026-09-30 |
 
 本仓库发布 MuseSignal 的部分内容。以上数字分别为 JSON 收录量和本页展示量，不代表网站全量；模型专题是总库子集。
 
@@ -28,8 +28,8 @@
 
 | 按场景浏览 | JSON 收录 | MuseSignal |
 | --- | ---: | --- |
-| 人像摄影 | 86 | [Nano Banana](<https://musesignal.com/zh?category=portrait&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana 2](<https://musesignal.com/zh?category=portrait&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana Pro](<https://musesignal.com/zh?category=portrait&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) |
-| 商业产品 | 35 | [Nano Banana](<https://musesignal.com/zh?category=commercial-product&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana 2](<https://musesignal.com/zh?category=commercial-product&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana Pro](<https://musesignal.com/zh?category=commercial-product&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) |
+| 人像摄影 | 87 | [Nano Banana](<https://musesignal.com/zh?category=portrait&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana 2](<https://musesignal.com/zh?category=portrait&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana Pro](<https://musesignal.com/zh?category=portrait&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) |
+| 商业产品 | 36 | [Nano Banana](<https://musesignal.com/zh?category=commercial-product&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana 2](<https://musesignal.com/zh?category=commercial-product&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana Pro](<https://musesignal.com/zh?category=commercial-product&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) |
 | 海报设计 | 16 | [Nano Banana](<https://musesignal.com/zh?category=poster-graphic&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) · [Nano Banana 2](<https://musesignal.com/zh?category=poster-graphic&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) · [Nano Banana Pro](<https://musesignal.com/zh?category=poster-graphic&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) |
 | 食物饮品 | 11 | [Nano Banana](<https://musesignal.com/zh?category=food-drink&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) · [Nano Banana 2](<https://musesignal.com/zh?category=food-drink&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) · [Nano Banana Pro](<https://musesignal.com/zh?category=food-drink&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) |
 | 角色艺术 | 24 | [Nano Banana](<https://musesignal.com/zh?category=character-art&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana 2](<https://musesignal.com/zh?category=character-art&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana Pro](<https://musesignal.com/zh?category=character-art&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) |
@@ -634,6 +634,30 @@ The scene is captured with high-key flat beauty lighting, creating a bright, air
 
 ---
 
+<a id="prompt-7eda030b-391d-42a0-8533-199f68b270da"></a>
+
+#### Alice in Wonderland Fashion Portrait
+
+<a href="https://musesignal.com/zh/prompt/7eda030b-391d-42a0-8533-199f68b270da?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLWnh-PbMAEloqW.jpg?format=jpg&amp;name=small" width="480" alt="Alice in Wonderland Fashion Portrait" /></a>
+
+**Nano Banana Pro** · 原作者: Aijaz
+
+创作场景: 人像摄影
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Prompt:
+A surreal Alice in Wonderland–inspired fashion portrait of a stylish young woman standing inside a large ornate wooden heart-shaped frame decorated with vibrant red roses and scattered playing cards. She wears a beige linen blazer, matching newsboy cap, round black sunglasses, and dark leather gloves. In one hand she holds a bouquet of fresh red roses; in the other, a burning Ace of Hearts playing card with realistic flames. The setting is an outdoor rose garden with soft natural sunlight, shallow depth of field, cinematic bokeh, whimsical fantasy atmosphere, luxury editorial photography, highly detailed, photorealistic skin, warm color grading, intricate wood carving, dreamy storytelling composition, centered framing, ultra-sharp focus, 85mm lens, f/1.8, high-end fashion magazine style, masterpiece, 8K.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/7eda030b-391d-42a0-8533-199f68b270da?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/iamsofiaijaz/status/2068743816174239980>)
+
+---
+
 <a id="prompt-214bc881-d2e8-4745-a953-1593bf60ed1d"></a>
 
 #### Cozy Morning Portrait with Golden Retriever
@@ -748,64 +772,6 @@ PROMPT:
 </details>
 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/fa4df9af-2def-4438-a745-1da26fd97eba?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Document195/status/2082565170539429993>)
-
----
-
-<a id="prompt-1b7cb5cf-ce49-4c2f-9de2-9533424ddc89"></a>
-
-#### Luxury Ballroom Fashion Editorial Portrait
-
-<a href="https://musesignal.com/zh/prompt/1b7cb5cf-ce49-4c2f-9de2-9533424ddc89?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNRPwl9bYAAnCzB.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Ballroom Fashion Editorial Portrait" /></a>
-
-**Nano Banana Pro** · 原作者: Miz
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-{
-  "prompt": "Ultra-realistic luxury ballroom fashion editorial portrait of a glamorous young woman with voluminous copper-red hair styled in an elegant textured updo with soft romantic tendrils framing the face. Warm ivory skin with visible pores, realistic skin texture, natural freckles, subtle peach blush, luminous satin complexion, champagne highlighter, feathered brows, warm bronze eyeshadow, delicate fox-eye eyeliner, wispy lashes, and glossy nude-peach lips with realistic lip texture. Wearing a fitted champagne-gold halter mini dress completely covered in shimmering sequins, body-hugging silhouette, open shoulders, and luxurious reflective fabric. Large polished gold hoop earrings, delicate gold rings, and refined minimalist jewelry. Holding an elegant crystal champagne flute filled with sparkling champagne while one hand rests naturally in her hair, eyes softly closed with a serene, sophisticated expression. Standing inside a grand European-style ballroom featuring magnificent crystal chandeliers, polished hardwood floors, ornate architecture, warm golden ambient lighting, luxurious bokeh, and timeless elegance. Warm chandelier lighting creates cinematic highlights across the sequins, realistic skin reflections, soft shadows, and glowing golden atmosphere. Vogue luxury fashion campaign, old-money aesthetic, premium editorial photography, Kodak Portra-inspired skin tones, realistic skin rendering, DSLR-quality sharpness, RAW photo, ultra photorealistic, 8K.",
-  
-  "negative_prompt": "cartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate chandeliers, oversaturated colors, clipped highlights, low-detail hair",
-  
-  "style": "photorealistic",
-  
-  "camera": {
-    "type": "Sony A7R V",
-    "lens": "85mm f/1.4 GM",
-    "aperture": "f/1.8",
-    "iso": 320,
-    "angle": "eye-level luxury editorial portrait",
-    "depth_of_field": "shallow"
-  },
-  
-  "lighting": {
-    "type": "warm crystal chandelier lighting",
-    "direction": "soft ambient illumination",
-    "mood": "luxury, elegant, cinematic"
-  },
-  
-  "composition": {
-    "framing": "vertical fashion portrait",
-    "subject_position": "centered",
-    "background": "grand ballroom with crystal chandeliers, polished wood floors, warm golden bokeh, and elegant architecture"
-  },
-  
-  "quality": {
-    "resolution": "8k",
-    "detail": "ultra high",
-    "sharpness": "DSLR-quality",
-    "skin_detail": "visible pores, realistic texture, natural freckles",
-    "realism": "maximum"
-  }
-}
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/1b7cb5cf-ce49-4c2f-9de2-9533424ddc89?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/mizq06/status/2077373186610806868>)
 
 ---
 
@@ -1021,6 +987,29 @@ Photorealistic, high-end commercial quality, shot on an 85mm lens, f/1.8 apertur
 
 ---
 
+<a id="prompt-e28048c2-76f8-4c89-9b1c-2f9fba5f5c89"></a>
+
+#### Miniature Workers Assembling a Giant Pepsi Can
+
+<a href="https://musesignal.com/zh/prompt/e28048c2-76f8-4c89-9b1c-2f9fba5f5c89?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLKAsYmbkAAzz4S.jpg?format=jpg&amp;name=small" width="480" alt="Miniature Workers Assembling a Giant Pepsi Can" /></a>
+
+**Nano Banana 2** · 原作者: 𝐌
+
+创作场景: 商业产品
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A surreal macro world where miniature workers assemble a giant Pepsi can surrounded by ice cubes. Tiny welders polish aluminum, cranes place the logo, workers clean condensation drops. The can stands on a branded Pepsi platform. Hyper-realistic reflections, cinematic lighting, playful scene.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e28048c2-76f8-4c89-9b1c-2f9fba5f5c89?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Strength04_X/status/2067861589894877369>)
+
+---
+
 <a id="prompt-299e40f8-757f-414a-be62-f91a42e763a0"></a>
 
 #### Coca-Cola Couple Commercial Render
@@ -1095,29 +1084,6 @@ Clean off-white background #F5F5F0, minimalist premium product visualization, 9:
 </details>
 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/af2db61b-a5f1-4b4b-93b8-fad742ad8ac3?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/ShamsAmin56/status/2069718453821559218>)
-
----
-
-<a id="prompt-e431e1f3-272e-4598-83ed-2cdb642a665b"></a>
-
-#### Soccer Ball Leather Gaming Console Product Render
-
-<a href="https://musesignal.com/zh/prompt/e431e1f3-272e-4598-83ed-2cdb642a665b?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLg5rYZaEAArlma.jpg?format=jpg&amp;name=small" width="480" alt="Soccer Ball Leather Gaming Console Product Render" /></a>
-
-**Nano Banana 2** · 原作者: Shams
-
-创作场景: 商业产品
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Ultra-realistic vertical product render of a [CONSOLE NAME] console sculpted entirely from a premium black-and-white soccer ball, 9:16 aspect ratio. The body features classic pentagonal and hexagonal panels with deep leather texture, visible raised stitching, subtle wear, and glossy highlights exactly like a professional match soccer ball. Signature accents integrated into the panel design. Matching controller (also soccer-ball textured with stitches) leaning against the base. Solid [BACKGROUND COLOR] background. Small clean monochrome console logo in the top-left corner. A tiny detailed [CONSOLE NAME] keychain replica hanging from the top-right corner by a metal ring and chain. Cinematic studio lighting, sharp focus, photorealistic materials, 4k detail, ultra realistic textures and stitches --ar 9:16 --stylize 250
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e431e1f3-272e-4598-83ed-2cdb642a665b?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/ShamsAmin56/status/2069467450991890504>)
 
 ---
 
@@ -2411,19 +2377,19 @@ Aspect ratio 4:5, photorealistic 3D render, octane/unreal engine quality, no tex
 | 模型 | 提示词 | MuseSignal |
 | --- | ---: | --- |
 | Nano Banana | 25 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana>) |
-| Nano Banana 2 | 77 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana-2>) |
-| Nano Banana Pro | 82 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana-pro>) |
+| Nano Banana 2 | 78 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana-2>) |
+| Nano Banana Pro | 83 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana-pro>) |
 
 ## 最近发布
 
+- [Alice in Wonderland Fashion Portrait](<https://musesignal.com/zh/prompt/7eda030b-391d-42a0-8533-199f68b270da?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
+- [Miniature Workers Assembling a Giant Pepsi Can](<https://musesignal.com/zh/prompt/e28048c2-76f8-4c89-9b1c-2f9fba5f5c89?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana 2
 - [Coca-Cola Couple Commercial Render](<https://musesignal.com/zh/prompt/299e40f8-757f-414a-be62-f91a42e763a0?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
 - [Matcha Green Bottle Skincare Ad on Stone Podium](<https://musesignal.com/zh/prompt/532719cf-91da-4102-a30a-e864b16de3f3?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana 2
 - [Premium 3D Sports Logo from Sports Equipment](<https://musesignal.com/zh/prompt/af2db61b-a5f1-4b4b-93b8-fad742ad8ac3?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana 2
 - [Kawaii Doodle Food Photo Transformation](<https://musesignal.com/zh/prompt/8f761fdd-cd2f-47ba-af48-1c0dccaf1219?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana
 - [Pixar-Style 3D Character Avatar Bust](<https://musesignal.com/zh/prompt/d947e1af-93aa-4881-b4bf-1cb908343cc8?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana
 - [Cozy Morning Portrait with Golden Retriever](<https://musesignal.com/zh/prompt/214bc881-d2e8-4745-a953-1593bf60ed1d?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
-- [Candid Courtyard Fashion Portrait](<https://musesignal.com/zh/prompt/a7044265-f084-4e65-b963-549e87502cd4?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
-- [Cozy Izakaya Sushi Counter Editorial Portrait](<https://musesignal.com/zh/prompt/fa4df9af-2def-4438-a745-1da26fd97eba?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
 
 ## 在 MuseSignal 生成
 
@@ -2444,7 +2410,7 @@ Aspect ratio 4:5, photorealistic 3D render, octane/unreal engine quality, no tex
 
 ## 开发者：下载公开数据
 
-[下载完整 JSON · 184](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[下载完整 JSON · 186](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json

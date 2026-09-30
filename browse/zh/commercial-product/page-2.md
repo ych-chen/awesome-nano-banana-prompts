@@ -115,3 +115,24 @@ Premium green bottle placed on stone podium, surrounded by matcha powder clouds,
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/532719cf-91da-4102-a30a-e864b16de3f3?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Strength04_X/status/2068276166738509986>)
 
 ---
+
+<a id="prompt-e28048c2-76f8-4c89-9b1c-2f9fba5f5c89"></a>
+
+## Miniature Workers Assembling a Giant Pepsi Can
+
+<a href="https://musesignal.com/zh/prompt/e28048c2-76f8-4c89-9b1c-2f9fba5f5c89?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLKAsYmbkAAzz4S.jpg?format=jpg&amp;name=small" width="480" alt="Miniature Workers Assembling a Giant Pepsi Can" /></a>
+
+**Nano Banana 2** · 原作者: 𝐌
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A surreal macro world where miniature workers assemble a giant Pepsi can surrounded by ice cubes. Tiny welders polish aluminum, cranes place the logo, workers clean condensation drops. The can stands on a branded Pepsi platform. Hyper-realistic reflections, cinematic lighting, playful scene.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e28048c2-76f8-4c89-9b1c-2f9fba5f5c89?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Strength04_X/status/2067861589894877369>)
+
+---

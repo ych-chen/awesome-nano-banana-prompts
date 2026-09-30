@@ -1823,3 +1823,25 @@ The background is a bright, sunlit kitchen interior filled with cozy Scandinavia
 **[Try on MuseSignal →](<https://musesignal.com/prompt/214bc881-d2e8-4745-a953-1593bf60ed1d?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Lianaalane/status/2064912501314064662>)
 
 ---
+
+<a id="prompt-7eda030b-391d-42a0-8533-199f68b270da"></a>
+
+## Alice in Wonderland Fashion Portrait
+
+<a href="https://musesignal.com/prompt/7eda030b-391d-42a0-8533-199f68b270da?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLWnh-PbMAEloqW.jpg?format=jpg&amp;name=small" width="480" alt="Alice in Wonderland Fashion Portrait" /></a>
+
+**Nano Banana Pro** · Creator: Aijaz
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Prompt:
+A surreal Alice in Wonderland–inspired fashion portrait of a stylish young woman standing inside a large ornate wooden heart-shaped frame decorated with vibrant red roses and scattered playing cards. She wears a beige linen blazer, matching newsboy cap, round black sunglasses, and dark leather gloves. In one hand she holds a bouquet of fresh red roses; in the other, a burning Ace of Hearts playing card with realistic flames. The setting is an outdoor rose garden with soft natural sunlight, shallow depth of field, cinematic bokeh, whimsical fantasy atmosphere, luxury editorial photography, highly detailed, photorealistic skin, warm color grading, intricate wood carving, dreamy storytelling composition, centered framing, ultra-sharp focus, 85mm lens, f/1.8, high-end fashion magazine style, masterpiece, 8K.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/7eda030b-391d-42a0-8533-199f68b270da?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/iamsofiaijaz/status/2068743816174239980>)
+
+---
