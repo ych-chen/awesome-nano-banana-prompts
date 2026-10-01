@@ -4923,6 +4923,35 @@
     "content_hash": "a094db050de997f4c3f55b4d3bdd89c3fddad556ff8609521da3c1bae3222514"
   },
   {
+    "id": "f5ff41f3-52fc-4935-b79d-1b1278ca4b44",
+    "title": "8-Bit Embroidered FIFA Players Product Photo",
+    "prompt": "Highly detailed close-up product photograph of [ITEM DESCRIPTION] laid flat on a minimal off-white background #F8F7F2, featuring a horizontal row of four distinct 8-bit pixel art style embroidered FIFA soccer players in dynamic action poses [PLACEMENT], exactly like retro video game sprites or cross-stitch. From left to right: Lionel Messi mid-kick in Argentina jersey, Cristiano Ronaldo signature celebration jump in Portugal jersey, Kylian Mbappé sprinting in France jersey, Erling Haaland powerful shot in Manchester City jersey. Small cute blocky pixelated designs with visible stitch texture and a slight 3D raised embroidery effect on [FABRIC MATERIAL]. Soft even lighting, sharp focus on embroidery details, realistic fabric texture, clean minimalist product photography style --ar 9:16 --stylize 250 --v 6",
+    "category": "commercial-product",
+    "model_key": "nano-banana-2",
+    "model_name": "Nano Banana 2",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Shams",
+      "handle": "ShamsAmin56"
+    },
+    "source_platform": "X",
+    "source_id": "2068060163702149447",
+    "source_url": "https://x.com/ShamsAmin56/status/2068060163702149447",
+    "images": [
+      "https://pbs.twimg.com/media/HLM5wecaoAAbHKp.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLM5wfgakAATxr7.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLM5whSbAAAnZF1.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLM5wc7a8AA82E9.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/f5ff41f3-52fc-4935-b79d-1b1278ca4b44",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/f5ff41f3-52fc-4935-b79d-1b1278ca4b44",
+    "published_at": "2026-10-01T07:22:07.888189+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "9fec416da65a1e789eb5e97bac8151f6a9d5b0738d047a9203cc772c6c0623ab"
+  },
+  {
     "id": "f90c09cb-1285-4667-930e-6bdcd2485789",
     "title": "Sunlit Serenity: Blonde Woman Relaxing on Bed",
     "prompt": "{\n\"prompt\": \"Ultra-realistic close-up lifestyle portrait of a young blonde woman relaxing on a neatly made bed in a bright modern bedroom. Her hair is styled in a casual messy bun with soft face-framing bangs. She wears a simple white t-shirt and lies comfortably on white bedding while holding a smartphone. Natural makeup, soft skin texture, expressive eyes, and a calm thoughtful expression. Warm daylight streams through large windows, illuminating the room with soft natural light. Minimalist interior design with light wood ceiling panels, indoor greenery, and clean contemporary decor. Cozy morning aesthetic, candid social media photography, shallow depth of field, highly detailed, photorealistic, authentic everyday lifestyle moment.\",\n\"negative_prompt\": \"blurry, low resolution, distorted anatomy, extra limbs, extra fingers, unrealistic proportions, plastic skin, excessive retouching, cartoon, anime, CGI, painting, watermark, text, logo, motion blur, noisy image, cluttered room, harsh shadows, overexposed highlights\",\n\"style\": \"photorealistic\",\n\"camera\": {\n\"lens\": \"50mm\",\n\"aperture\": \"f/1.8\",\n\"angle\": \"close-up selfie perspective\",\n\"depth_of_field\": \"shallow\"\n},\n\"lighting\": {\n\"type\": \"soft natural window light\",\n\"direction\": \"diffused daylight\",\n\"mood\": \"cozy, relaxed, intimate\"\n},\n\"composition\": {\n\"framing\": \"vertical portrait\",\n\"subject_position\": \"foreground on bed\",\n\"background\": \"minimalist bedroom with natural wood accents and indoor plants\"\n},\n\"quality\": {\n\"resolution\": \"8k\",\n\"detail\": \"ultra high\",\n\"realism\": \"maximum\"",

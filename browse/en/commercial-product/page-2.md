@@ -136,3 +136,24 @@ A surreal macro world where miniature workers assemble a giant Pepsi can surroun
 **[Try on MuseSignal →](<https://musesignal.com/prompt/e28048c2-76f8-4c89-9b1c-2f9fba5f5c89?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Strength04_X/status/2067861589894877369>)
 
 ---
+
+<a id="prompt-f5ff41f3-52fc-4935-b79d-1b1278ca4b44"></a>
+
+## 8-Bit Embroidered FIFA Players Product Photo
+
+<a href="https://musesignal.com/prompt/f5ff41f3-52fc-4935-b79d-1b1278ca4b44?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLM5wecaoAAbHKp.jpg?format=jpg&amp;name=small" width="480" alt="8-Bit Embroidered FIFA Players Product Photo" /></a>
+
+**Nano Banana 2** · Creator: Shams
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Highly detailed close-up product photograph of [ITEM DESCRIPTION] laid flat on a minimal off-white background #F8F7F2, featuring a horizontal row of four distinct 8-bit pixel art style embroidered FIFA soccer players in dynamic action poses [PLACEMENT], exactly like retro video game sprites or cross-stitch. From left to right: Lionel Messi mid-kick in Argentina jersey, Cristiano Ronaldo signature celebration jump in Portugal jersey, Kylian Mbappé sprinting in France jersey, Erling Haaland powerful shot in Manchester City jersey. Small cute blocky pixelated designs with visible stitch texture and a slight 3D raised embroidery effect on [FABRIC MATERIAL]. Soft even lighting, sharp focus on embroidery details, realistic fabric texture, clean minimalist product photography style --ar 9:16 --stylize 250 --v 6
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/f5ff41f3-52fc-4935-b79d-1b1278ca4b44?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/ShamsAmin56/status/2068060163702149447>)
+
+---
