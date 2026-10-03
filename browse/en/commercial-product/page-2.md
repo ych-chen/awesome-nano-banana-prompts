@@ -157,3 +157,24 @@ Highly detailed close-up product photograph of [ITEM DESCRIPTION] laid flat on a
 **[Try on MuseSignal →](<https://musesignal.com/prompt/f5ff41f3-52fc-4935-b79d-1b1278ca4b44?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/ShamsAmin56/status/2068060163702149447>)
 
 ---
+
+<a id="prompt-bf809ccc-3b6b-433b-9946-dfd2d93169a5"></a>
+
+## Black-and-White High Fashion Jewelry Editorial
+
+<a href="https://musesignal.com/prompt/bf809ccc-3b6b-433b-9946-dfd2d93169a5?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HM3t6c2bYAAmrGo.jpg?format=jpg&amp;name=small" width="480" alt="Black-and-White High Fashion Jewelry Editorial" /></a>
+
+**Nano Banana Pro** · Creator: Maddox
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Black-and-white high fashion jewelry editorial photograph featuring two models — a woman in the foreground and a man in the background. The woman has sleek hair pulled back tightly, wearing a black turtleneck top, a small geometric diamond stud earring, and a delicate diamond eternity ring on her finger. Her hand rests gently on the man's chest/shoulder. The man is positioned behind her in side profile, head slightly tilted upward, wearing a dark structured jacket, his face partially in deep shadow creating a dramatic silhouette. Pure white overexposed background. Dramatic high contrast studio lighting with deep shadows sculpting the faces. Intimate yet distant mood, luxury jewelry campaign aesthetic, sharp focus on the ring and earring, cinematic composition, shot from a slight low angle looking up, editorial Vogue or Tiffany & Co. campaign style, 8K, hyper-realistic.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/bf809ccc-3b6b-433b-9946-dfd2d93169a5?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Maddox_Digital/status/2075576614973530314>)
+
+---

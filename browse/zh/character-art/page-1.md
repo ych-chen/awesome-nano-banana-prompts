@@ -721,3 +721,179 @@ Detailed Prompt
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d947e1af-93aa-4881-b4bf-1cb908343cc8?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/iamsofiaijaz/status/2080868713709154525>)
 
 ---
+
+<a id="prompt-bfafecae-53ee-43d2-bd1a-852ae6648748"></a>
+
+## Comic-Book Illustration Style Prompt
+
+<a href="https://musesignal.com/zh/prompt/bfafecae-53ee-43d2-bd1a-852ae6648748?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSUOklcXQAACy5l.jpg?format=jpg&amp;name=small" width="480" alt="Comic-Book Illustration Style Prompt" /></a>
+
+**Nano Banana Pro** · 原作者: Zayan
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Modern comic-book illustration style with a semi-realistic approach, bold inked linework combined with clean sharp edges, dynamic cel-shading with high contrast between light and shadow, subtle painterly blending on skin while maintaining graphic comic aesthetics, vibrant yet slightly gritty color grading, strong rim lighting and dramatic highlights, stylized anatomy with heroic proportions, detailed hair rendered with flowing strands and sharp highlights, textured brush splashes and ink splatter accents for a dynamic effect, minimalistic light background to emphasize the subject, cinematic composition, ultra-detailed, high resolution, graphic novel quality.
+ar 9:16!
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/bfafecae-53ee-43d2-bd1a-852ae6648748?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/HustleXR/status/2100100831945408531>)
+
+---
+
+<a id="prompt-cd24a259-12f5-4997-aca3-801eaff33460"></a>
+
+## Engraving-Style Semi-Realistic Digital Painting
+
+<a href="https://musesignal.com/zh/prompt/cd24a259-12f5-4997-aca3-801eaff33460?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HR1GrB1aQAETXtM.jpg?format=jpg&amp;name=small" width="480" alt="Engraving-Style Semi-Realistic Digital Painting" /></a>
+
+**Nano Banana Pro** · 原作者: Zayan
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Soft semi-realistic digital painting blended with highly detailed engraving illustration style, combining painterly softness with ultra-fine crosshatching and dotting techniques. Cinematic warm lighting with a strong golden-orange glow illuminating one side of the subject, contrasted by soft cool shadows, enhanced by dramatic chiaroscuro. Skin and textures are rendered through a fusion of smooth luminous digital shading and dense layered engraving lines, creating a balance between soft gradients and intricate linework. Subtle glossy highlights and reflective surfaces are preserved, especially in the eyes, giving a luminous and lifelike appearance.
+Delicate painterly blending remains visible through soft brush strokes, seamlessly integrated with precise contour lines and micro-detail etching, forming rich textures built from thousands of fine strokes. Edges transition naturally—sharp and clean in focal areas while dissolving into loose sketch-like strokes in unfinished regions. The top of the head and lower body fade into an incomplete sketch effect with soft, disappearing lines and partially dissolved forms blending into the background.
+Background uses a textured brown cardboard surface with visible matte grain and slightly rough tactile quality, subtly merged with a dark, studio-like atmospheric depth. The composition is minimalistic and elegant, with a calm yet dramatic mood. Color grading leans toward warm, natural tones with a slightly muted and faded palette, maintaining harmony between digital painting warmth and classic engraving aesthetics.
+High contrast lighting with deep blacks and controlled highlights enhances depth, while maintaining soft transitions in key areas. Ultra-high detail, macro texture emphasis, cinematic shadow depth, museum-quality finish, handcrafted engraving feel, 8K resolution. Ar 9:16!
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/cd24a259-12f5-4997-aca3-801eaff33460?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/HustleXR/status/2097910747980255291>)
+
+---
+
+<a id="prompt-50f58b96-7d6f-4644-9e50-fce5c0cf24bd"></a>
+
+## Cinematic 2D Anime Character Art Style
+
+<a href="https://musesignal.com/zh/prompt/50f58b96-7d6f-4644-9e50-fce5c0cf24bd?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HRgKek6a4AAUpiZ.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic 2D Anime Character Art Style" /></a>
+
+**Nano Banana Pro** · 原作者: Zayan
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Cinematic 2D digital illustration, polished semi-realistic anime aesthetic, clean bold linework, smooth cel shading blended with soft painterly gradients, expressive detailed facial rendering, subtly exaggerated proportions, glossy eyes, natural skin texture, dimensional hair with individual flowing strands, warm rim lighting, moody teal-and-amber color grading, muted vintage tones, soft ambient shadows, slightly grainy texture, nostalgic 1990s/2000s editorial-poster vibe, atmospheric indoor lighting, highly polished character art, crisp details, depth and cinematic composition, vertical 9:16.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/50f58b96-7d6f-4644-9e50-fce5c0cf24bd?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/HustleXR/status/2096437155606196729>)
+
+---
+
+<a id="prompt-2daed836-8113-4f45-adc1-1a25c80736d8"></a>
+
+## Monochrome Ink Fashion Portrait Illustration
+
+<a href="https://musesignal.com/zh/prompt/2daed836-8113-4f45-adc1-1a25c80736d8?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HRvaETCbsAEJXUf.jpg?format=jpg&amp;name=small" width="480" alt="Monochrome Ink Fashion Portrait Illustration" /></a>
+
+**Nano Banana Pro** · 原作者: Zayan
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+"Highly stylized monochrome fashion illustration, expressive black-and-white ink portrait style, ultra-clean grayscale palette with soft tonal shading and sharp dark accents, elegant feminine facial construction, elongated proportions, minimalistic luxury editorial aesthetic. Use flowing organic contour lines mixed with geometric construction lines crossing the face naturally. Combine loose gestural strokes with precise ink detailing around the eyes, eyebrows, lips, and hair strands.
+Hair rendered with sweeping fluid brush lines and layered ink curves, creating dynamic movement and asymmetrical framing. Skin shading uses smooth cel-shaded grayscale planes with subtle gradient transitions, while maintaining a hand-drawn ink illustration appearance. Thin sketch lines remain visible as part of the composition.
+Eyes highly detailed and luminous with crisp eyelashes and reflective highlights. Lips softly sculpted with semi-realistic shading and delicate line texture. Use selective contrast: bold black strokes around facial features balanced against large clean white negative spaces.
+Overall composition resembles a fusion of modern fashion sketch, manga-inspired editorial art, and minimalist ink wash illustration. Background kept plain light gray or off-white with uncluttered negative space. High contrast, elegant, refined, cinematic, expressive line-art aesthetic."
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/2daed836-8113-4f45-adc1-1a25c80736d8?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/HustleXR/status/2097509829753651228>)
+
+---
+
+<a id="prompt-792126f5-29b1-4371-92d6-84a1316a23af"></a>
+
+## Cinematic Graphic Realism Engraved Portrait
+
+<a href="https://musesignal.com/zh/prompt/792126f5-29b1-4371-92d6-84a1316a23af?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HThX9M5WYAAbkmq.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic Graphic Realism Engraved Portrait" /></a>
+
+**Nano Banana Pro** · 原作者: Zayan
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+CINEMATIC GRAPHIC REALISM
+Created with google gemini nano banana pro 
+
+Ultra-detailed cinematic graphic realism fused with traditional engraved illustration, dark fantasy comic art, and expressive hand-inked portraiture. The visual style combines highly dimensional semi-realistic anatomy with dense, controlled ink linework and dramatic chiaroscuro.
+
+Use a predominantly near-black environment/background, allowing the subject to emerge from darkness through carefully controlled warm highlights and deep shadow masses. The overall image should feel mysterious, dramatic, powerful, tactile, and intensely atmospheric.
+
+Color palette
+
+Use a restrained, dark cinematic palette dominated by:
+
+- deep black / near-black — background and deepest shadows
+- burnt umber and dark brown
+- rich copper / warm bronze
+- deep rust-orange
+- warm ochre
+- natural warm sienna skin tones
+- muted ivory / silver-gray for hair and highlights
+- extremely restrained desaturated blue-gray accents
+
+Colors should appear rich, earthy, dark, and slightly muted, with luminous warm highlights emerging against black. Avoid neon or overly saturated digital colors.
+
+Rendering technique
+
+Construct the image using dense fine ink strokes, engraving-style hatching, cross-hatching, contour hatching, stippling, and layered painterly brushwork.
+
+Every major anatomical plane should contain visible directional strokes following the form. Skin, hands, wrinkles, beard, hair, fabric, and accessories should be rendered with hundreds of controlled micro-strokes rather than smooth digital surfaces.
+
+Combine sharp ink contours with painterly color masses, creating a hybrid appearance between an old master engraving and a modern cinematic graphic-novel painting.
+
+Lighting
+
+Use intense low-key chiaroscuro lighting.
+
+Most of the surrounding environment disappears into almost pure black, while selected planes of the subject receive warm copper-orange illumination. Highlights should be concentrated on facial planes, hands, hair strands, and important structural details.
+
+Use strong directional lighting with:
+deep black shadow → rich burnt-orange midtone → narrow warm highlight.
+
+Highlights should remain controlled and relatively hard-edged, emphasizing wrinkles, bone structure, muscles, fingers, hair strands, and textured surfaces.
+
+Linework and texture
+
+Use extremely fine black/brown engraved lines combined with stronger graphic contours.
+
+Include:
+cross-hatching, parallel hatching, contour lines, stippled texture, scratch-like ink marks, fine hair strokes, irregular brush edges, and tiny engraved details.
+
+Line density should increase naturally inside shadow areas and decrease toward illuminated planes.
+
+Surface treatment
+
+Avoid perfectly smooth digital rendering. Preserve a hand-crafted tactile texture throughout the image.
+
+Skin should show subtle pores, wrinkles, folds, fine facial hair, and directional brush/ink strokes. Hair should be constructed from numerous individual strands mixed with larger graphic masses. Fabric should contain visible woven/brush textures and deep folds.
+
+Overall aesthetic
+
+Dark cinematic portrait + engraved realism + graphic novel realism + Renaissance-inspired chiaroscuro + hand-inked illustration + painterly color blocking + dark fantasy editorial art.
+
+The final appearance should be extremely detailed, dramatic, mature, rugged, cinematic, tactile, and powerful, with the realism coming from anatomical modeling and microscopic linework rather than photographic rendering.
+
+No flat vector style, no clean cartoon appearance, no soft airbrush, no plastic skin, no 3D-rendered look, no glossy CGI, no neon colors, no typography, no logo, no watermark.
+
+Aspect ratio: 9:16 — vertical composition.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/792126f5-29b1-4371-92d6-84a1316a23af?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/HustleXR/status/2105529544945832340>)
+
+---

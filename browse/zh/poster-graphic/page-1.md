@@ -1342,3 +1342,24 @@ Restrictions:
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d4ad42b3-0864-44b0-86cf-ab5c57d6c276?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/0xluffy_eth/status/2067072246548680941>)
 
 ---
+
+<a id="prompt-bd35ff88-1392-43ca-be7b-33c46bf7ea36"></a>
+
+## Blue Ballpoint Ink Zine Poster Illustration
+
+<a href="https://musesignal.com/zh/prompt/bd35ff88-1392-43ca-be7b-33c46bf7ea36?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HR3nnAIXYAYSAvd.jpg?format=jpg&amp;name=small" width="480" alt="Blue Ballpoint Ink Zine Poster Illustration" /></a>
+
+**Nano Banana Pro** · 原作者: Zayan
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+"Ultra-detailed blue ballpoint pen illustration translated into monochrome black ink, dense cross-hatching and fine hatch shading, intricate biro sketch texture, obsessive linework, engraved contour rendering, hand-drawn pen illustration aesthetic, expressive organic strokes, editorial surreal composition, high-detail facial rendering, layered sketchbook construction lines, vintage technical scribbles and handwritten notes in pure white only over bold red background, white typographic annotations integrated into backdrop, underground zine poster aesthetic, raw imperfect ink marks, high-contrast black ink subject against vivid red field, experimental graphic design, avant-garde magazine cover style --ar 9:16 --stylize 750."
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/bd35ff88-1392-43ca-be7b-33c46bf7ea36?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/HustleXR/status/2098087685348892674>)
+
+---

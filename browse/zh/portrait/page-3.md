@@ -1845,3 +1845,70 @@ A surreal Alice in Wonderland–inspired fashion portrait of a stylish young wom
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/7eda030b-391d-42a0-8533-199f68b270da?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/iamsofiaijaz/status/2068743816174239980>)
 
 ---
+
+<a id="prompt-efe11ff2-16af-4656-a41c-37ad87b9973c"></a>
+
+## Expressive Oil Painting Portrait Style
+
+<a href="https://musesignal.com/zh/prompt/efe11ff2-16af-4656-a41c-37ad87b9973c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSK6UW5XYAM-KP7.jpg?format=jpg&amp;name=small" width="480" alt="Expressive Oil Painting Portrait Style" /></a>
+
+**Nano Banana Pro** · 原作者: Zayan
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Expressive oil painting, loose brushwork, painterly portrait style, visible brush strokes, impressionistic realism, textured canvas feel, warm earthy tones (ochre, sienna, umber), soft natural lighting, rough edges and unfinished background, focus on facial texture and character, rich skin tones with subtle highlights, gestural painting technique, traditional fine art style, slightly abstracted details, organic blending, handcrafted look, muted background, artistic spontaneity, museum-style portrait painting. Ar 9:16!
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/efe11ff2-16af-4656-a41c-37ad87b9973c?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/HustleXR/status/2099445268634894339>)
+
+---
+
+<a id="prompt-ff0b57fd-16cf-40f4-b04a-b7a9f564c039"></a>
+
+## Atelier-Style Digital Oil Portrait
+
+<a href="https://musesignal.com/zh/prompt/ff0b57fd-16cf-40f4-b04a-b7a9f564c039?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSZY3acb0AAcw4_.jpg?format=jpg&amp;name=small" width="480" alt="Atelier-Style Digital Oil Portrait" /></a>
+
+**Nano Banana Pro** · 原作者: Zayan
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Digital oil painting with a semi-realistic portrait approach, painterly brushwork with visible, loose strokes and textured edges. Soft blending on facial features combined with expressive, rough brush strokes around the hair and clothing. Use a warm, natural skin tone palette with subtle color variation (peach, beige, soft pink highlights) and gentle light diffusion.
+Lighting is soft and directional, slightly from the front/side, creating smooth shadows without harsh contrast. Emphasize natural highlights on the nose, cheeks, and forehead with a slightly glossy, painterly finish.
+Background is abstract and minimal, composed of broad, dry-brush strokes with muted colors (desaturated teal, gray, olive, and beige), creating a soft halo effect around the subject. Edges of the subject fade organically into the background using broken brush strokes.
+Color treatment is vibrant but controlled, with warm tones (orange, red) contrasted against cool, muted background hues. Brush strokes should feel spontaneous and layered, with visible paint texture, as if done on canvas.
+Overall finish should resemble a modern atelier-style portrait painting, slightly stylized but still grounded in realism, with an artistic, handcrafted feel rather than hyper-detailed realism. No sharp outlines—forms are defined by color and light transitions.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/ff0b57fd-16cf-40f4-b04a-b7a9f564c039?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/HustleXR/status/2100463992938643539>)
+
+---
+
+<a id="prompt-e9915f4c-2619-4671-8701-858b5599d76c"></a>
+
+## Watercolor Portrait With Painter&#39;s Hand
+
+<a href="https://musesignal.com/zh/prompt/e9915f4c-2619-4671-8701-858b5599d76c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HRhngZ6bUAA3TJD.jpg?format=jpg&amp;name=small" width="480" alt="Watercolor Portrait With Painter&#39;s Hand" /></a>
+
+**Nano Banana Pro** · 原作者: Zayan
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ar 9:16! Expressive loose watercolor illustration style, ultra-detailed watercolor portrait rendering, soft translucent paint layering, wet-on-wet watercolor diffusion, natural pigment bleeding effects, delicate brushstroke textures, airy hand-painted aesthetic, realistic anatomy blended with painterly abstraction, subtle ink-like edge definition, elegant unfinished watercolor splashes around the composition, soft feathered transitions between colors, luminous paper texture visible through transparent paint layers, warm natural skin tones with gentle blush highlights, cinematic soft lighting, flowing organic brush movement, refined watercolor realism with emotional fine art atmosphere, smooth facial rendering contrasted with loose expressive edges, handcrafted traditional painting aesthetic, watercolor bloom effects, fluid color gradients, lightly desaturated palette with earthy warm neutrals and muted blues, premium sketchbook illustration style, visible artistic spontaneity, delicate strand-like hair strokes, atmospheric white negative space, minimal background detail, soft focus depth, editorial fine art watercolor aesthetic, subtle accidental paint marks and organic imperfections, elegant composition balance, painter’s hand holding a thin paintbrush visible in foreground, immersive artist-at-work perspective, realistic brush and hand rendering, museum-quality watercolor artwork, timeless classical painting mood, sophisticated contemporary watercolor portrait style, ultra refined paper-and-pigment texture, dreamy and poetic visual tone, handcrafted artistic realism, master-level watercolor detailing.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e9915f4c-2619-4671-8701-858b5599d76c?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/HustleXR/status/2096539446120530325>)
+
+---

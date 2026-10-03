@@ -18,7 +18,7 @@
 
 | 本仓库公开 Prompt | 本页完整展示 | 数据更新 |
 | ---: | ---: | --- |
-| **187** | **60** | 2026-10-01 |
+| **204** | **60** | 2026-10-03 |
 
 本仓库发布 MuseSignal 的部分内容。以上数字分别为 JSON 收录量和本页展示量，不代表网站全量；模型专题是总库子集。
 
@@ -28,12 +28,12 @@
 
 | 按场景浏览 | JSON 收录 | MuseSignal |
 | --- | ---: | --- |
-| 人像摄影 | 87 | [Nano Banana](<https://musesignal.com/zh?category=portrait&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana 2](<https://musesignal.com/zh?category=portrait&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana Pro](<https://musesignal.com/zh?category=portrait&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) |
-| 商业产品 | 37 | [Nano Banana](<https://musesignal.com/zh?category=commercial-product&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana 2](<https://musesignal.com/zh?category=commercial-product&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana Pro](<https://musesignal.com/zh?category=commercial-product&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) |
-| 海报设计 | 16 | [Nano Banana](<https://musesignal.com/zh?category=poster-graphic&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) · [Nano Banana 2](<https://musesignal.com/zh?category=poster-graphic&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) · [Nano Banana Pro](<https://musesignal.com/zh?category=poster-graphic&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) |
+| 人像摄影 | 94 | [Nano Banana](<https://musesignal.com/zh?category=portrait&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana 2](<https://musesignal.com/zh?category=portrait&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana Pro](<https://musesignal.com/zh?category=portrait&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) |
+| 商业产品 | 38 | [Nano Banana](<https://musesignal.com/zh?category=commercial-product&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana 2](<https://musesignal.com/zh?category=commercial-product&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana Pro](<https://musesignal.com/zh?category=commercial-product&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) |
+| 海报设计 | 17 | [Nano Banana](<https://musesignal.com/zh?category=poster-graphic&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) · [Nano Banana 2](<https://musesignal.com/zh?category=poster-graphic&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) · [Nano Banana Pro](<https://musesignal.com/zh?category=poster-graphic&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) |
 | 食物饮品 | 11 | [Nano Banana](<https://musesignal.com/zh?category=food-drink&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) · [Nano Banana 2](<https://musesignal.com/zh?category=food-drink&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) · [Nano Banana Pro](<https://musesignal.com/zh?category=food-drink&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) |
-| 角色艺术 | 24 | [Nano Banana](<https://musesignal.com/zh?category=character-art&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana 2](<https://musesignal.com/zh?category=character-art&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana Pro](<https://musesignal.com/zh?category=character-art&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) |
-| 场景空间 | 12 | [Nano Banana](<https://musesignal.com/zh?category=scene-space&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) · [Nano Banana 2](<https://musesignal.com/zh?category=scene-space&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) · [Nano Banana Pro](<https://musesignal.com/zh?category=scene-space&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) |
+| 角色艺术 | 29 | [Nano Banana](<https://musesignal.com/zh?category=character-art&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana 2](<https://musesignal.com/zh?category=character-art&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana Pro](<https://musesignal.com/zh?category=character-art&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) |
+| 场景空间 | 15 | [Nano Banana](<https://musesignal.com/zh?category=scene-space&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) · [Nano Banana 2](<https://musesignal.com/zh?category=scene-space&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) · [Nano Banana Pro](<https://musesignal.com/zh?category=scene-space&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) |
 
 <a id="selected-prompts"></a>
 
@@ -45,7 +45,7 @@
 
 <a id="selected-portrait"></a>
 
-### 人像摄影 · 12
+### 人像摄影 · 13
 
 [Nano Banana](<https://musesignal.com/zh?category=portrait&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana 2](<https://musesignal.com/zh?category=portrait&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana Pro](<https://musesignal.com/zh?category=portrait&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>)
 
@@ -634,13 +634,13 @@ The scene is captured with high-key flat beauty lighting, creating a bright, air
 
 ---
 
-<a id="prompt-7eda030b-391d-42a0-8533-199f68b270da"></a>
+<a id="prompt-ff0b57fd-16cf-40f4-b04a-b7a9f564c039"></a>
 
-#### Alice in Wonderland Fashion Portrait
+#### Atelier-Style Digital Oil Portrait
 
-<a href="https://musesignal.com/zh/prompt/7eda030b-391d-42a0-8533-199f68b270da?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLWnh-PbMAEloqW.jpg?format=jpg&amp;name=small" width="480" alt="Alice in Wonderland Fashion Portrait" /></a>
+<a href="https://musesignal.com/zh/prompt/ff0b57fd-16cf-40f4-b04a-b7a9f564c039?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSZY3acb0AAcw4_.jpg?format=jpg&amp;name=small" width="480" alt="Atelier-Style Digital Oil Portrait" /></a>
 
-**Nano Banana Pro** · 原作者: Aijaz
+**Nano Banana Pro** · 原作者: Zayan
 
 创作场景: 人像摄影
 
@@ -648,23 +648,26 @@ The scene is captured with high-key flat beauty lighting, creating a bright, air
 <summary>完整提示词</summary>
 
 ```text
-Prompt:
-A surreal Alice in Wonderland–inspired fashion portrait of a stylish young woman standing inside a large ornate wooden heart-shaped frame decorated with vibrant red roses and scattered playing cards. She wears a beige linen blazer, matching newsboy cap, round black sunglasses, and dark leather gloves. In one hand she holds a bouquet of fresh red roses; in the other, a burning Ace of Hearts playing card with realistic flames. The setting is an outdoor rose garden with soft natural sunlight, shallow depth of field, cinematic bokeh, whimsical fantasy atmosphere, luxury editorial photography, highly detailed, photorealistic skin, warm color grading, intricate wood carving, dreamy storytelling composition, centered framing, ultra-sharp focus, 85mm lens, f/1.8, high-end fashion magazine style, masterpiece, 8K.
+Digital oil painting with a semi-realistic portrait approach, painterly brushwork with visible, loose strokes and textured edges. Soft blending on facial features combined with expressive, rough brush strokes around the hair and clothing. Use a warm, natural skin tone palette with subtle color variation (peach, beige, soft pink highlights) and gentle light diffusion.
+Lighting is soft and directional, slightly from the front/side, creating smooth shadows without harsh contrast. Emphasize natural highlights on the nose, cheeks, and forehead with a slightly glossy, painterly finish.
+Background is abstract and minimal, composed of broad, dry-brush strokes with muted colors (desaturated teal, gray, olive, and beige), creating a soft halo effect around the subject. Edges of the subject fade organically into the background using broken brush strokes.
+Color treatment is vibrant but controlled, with warm tones (orange, red) contrasted against cool, muted background hues. Brush strokes should feel spontaneous and layered, with visible paint texture, as if done on canvas.
+Overall finish should resemble a modern atelier-style portrait painting, slightly stylized but still grounded in realism, with an artistic, handcrafted feel rather than hyper-detailed realism. No sharp outlines—forms are defined by color and light transitions.
 ```
 
 </details>
 
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/7eda030b-391d-42a0-8533-199f68b270da?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/iamsofiaijaz/status/2068743816174239980>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/ff0b57fd-16cf-40f4-b04a-b7a9f564c039?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/HustleXR/status/2100463992938643539>)
 
 ---
 
-<a id="prompt-214bc881-d2e8-4745-a953-1593bf60ed1d"></a>
+<a id="prompt-efe11ff2-16af-4656-a41c-37ad87b9973c"></a>
 
-#### Cozy Morning Portrait with Golden Retriever
+#### Expressive Oil Painting Portrait Style
 
-<a href="https://musesignal.com/zh/prompt/214bc881-d2e8-4745-a953-1593bf60ed1d?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKgK-G0bkAAHyqU.jpg?format=jpg&amp;name=small" width="480" alt="Cozy Morning Portrait with Golden Retriever" /></a>
+<a href="https://musesignal.com/zh/prompt/efe11ff2-16af-4656-a41c-37ad87b9973c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSK6UW5XYAM-KP7.jpg?format=jpg&amp;name=small" width="480" alt="Expressive Oil Painting Portrait Style" /></a>
 
-**Nano Banana Pro** · 原作者: liana
+**Nano Banana Pro** · 原作者: Zayan
 
 创作场景: 人像摄影
 
@@ -672,26 +675,22 @@ A surreal Alice in Wonderland–inspired fashion portrait of a stylish young wom
 <summary>完整提示词</summary>
 
 ```text
-A high-fashion, high-fidelity 8K lifestyle portrait in a 9:16 aspect ratio, capturing a candid, cozy morning moment. A beautiful young woman with flawless skin, striking green eyes, and rich dark brown hair styled in elaborate, neat crown braids that flow into a voluminous, wavy low ponytail on the side. She is smiling subtly while taking a bite of a thick slice of golden-brown brioche toast topped with creamy scrambled eggs. She is wearing a casual, off-the-shoulder white oversized t-shirt with a minimalist cartoon dog graphic on the front that says "Life is GREAT!!".
-
-Sitting right next to her at a rustic, weathered wooden dining table is a gorgeous Golden Retriever, looking up at her with adoring eyes. On the table sits a clean aesthetic layout: a red and white ceramic mug, a clear plastic container filled with a vibrant green garden salad, a matte pink protein shaker bottle, and a neatly folded newspaper. 
-
-The background is a bright, sunlit kitchen interior filled with cozy Scandinavian-boho decor, featuring lush green potted Monstera plants, warm wooden cabinetry, and soft light filtering through wooden window blinds. In the soft-focus background, a vintage retro red toaster oven sits on the counter. Shot on an 85mm lens, f/1.8, shallow depth of field, soft natural cinematic lighting, Douyin realism aesthetic, vibrant colors, completely clean visual without any text overlays, logos, or watermarks.
+Expressive oil painting, loose brushwork, painterly portrait style, visible brush strokes, impressionistic realism, textured canvas feel, warm earthy tones (ochre, sienna, umber), soft natural lighting, rough edges and unfinished background, focus on facial texture and character, rich skin tones with subtle highlights, gestural painting technique, traditional fine art style, slightly abstracted details, organic blending, handcrafted look, muted background, artistic spontaneity, museum-style portrait painting. Ar 9:16!
 ```
 
 </details>
 
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/214bc881-d2e8-4745-a953-1593bf60ed1d?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Lianaalane/status/2064912501314064662>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/efe11ff2-16af-4656-a41c-37ad87b9973c?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/HustleXR/status/2099445268634894339>)
 
 ---
 
-<a id="prompt-a7044265-f084-4e65-b963-549e87502cd4"></a>
+<a id="prompt-2fb5e7db-dcd9-4bc1-a54e-35c94d0d9ab4"></a>
 
-#### Candid Courtyard Fashion Portrait
+#### Hand-Drawn Editorial Portrait Illustration
 
-<a href="https://musesignal.com/zh/prompt/a7044265-f084-4e65-b963-549e87502cd4?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSusVipbEAAItsh.jpg?format=jpg&amp;name=small" width="480" alt="Candid Courtyard Fashion Portrait" /></a>
+<a href="https://musesignal.com/zh/prompt/2fb5e7db-dcd9-4bc1-a54e-35c94d0d9ab4?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HR_bO1sboAAr712.jpg?format=jpg&amp;name=small" width="480" alt="Hand-Drawn Editorial Portrait Illustration" /></a>
 
-**Nano Banana Pro** · 原作者: Aqsa
+**Nano Banana Pro** · 原作者: Zayan
 
 创作场景: 人像摄影
 
@@ -699,29 +698,22 @@ The background is a bright, sunlit kitchen interior filled with cozy Scandinavia
 <summary>完整提示词</summary>
 
 ```text
-ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH, vertical 3:4, candid outdoor fashion portrait of a young East Asian woman walking through an elegant landscaped courtyard on a bright summer afternoon.
-She has very long, straight dark-brown to black hair, softly center-parted and flowing naturally down her back. She has delicate youthful facial features, clear natural skin, subtle makeup, and a gentle relaxed smile while turning her head slightly toward the camera.
-She is wearing a fitted white sleeveless cropped blouse with delicate ruffled shoulder details and a softly gathered waist, paired with high-waisted black-and-white gingham check mini shorts. Minimal delicate jewelry, including a thin gold bracelet.
-A small structured black quilted handbag with beige upper panels, short handles, gold-tone hardware and a thin chain shoulder strap hangs naturally at her hip.
-Capture her mid-walk in a natural side-profile pose, body facing forward while her head turns back toward the camera. One arm is slightly raised in front of her as she walks, creating a spontaneous, unposed vacation-photo feeling.
-The setting is a manicured green lawn surrounded by trimmed hedges, leafy ornamental trees and tropical greenery. Behind her stands a grand peach and terracotta European-inspired luxury building with cream stone trim, arched windows, decorative balustrades, classical architectural details and terraces. Several deep-red café umbrellas are visible near the building, with a large natural decorative stone positioned on the lawn.
-Bright but soft natural daylight, realistic greenery, gentle highlights on her hair and skin, accurate outdoor shadows, fresh upscale garden atmosphere.
-RAW smartphone photography aesthetic, realistic skin pores, individual hair strands, natural hands and fingers, authentic fabric folds, detailed grass and architecture, slightly imperfect candid framing, natural perspective, subtle phone-camera sharpness, no artificial bokeh, no beauty filter, no plastic skin, no CGI appearance, no excessive retouching, vertical 3:4 composition.
+Hand-drawn editorial portrait illustration, semi-realistic sketch style, fine ink linework, cross-hatching shading, textured pencil strokes, subtle watercolor wash, muted earthy color palette, warm tones, soft paper grain texture, vintage magazine illustration aesthetic, clean centered composition, minimal background with bold geometric color block, rough brush edges, natural skin texture rendering, soft shadow gradients, high detail facial features, artistic sketch-paint hybrid, modern retro illustration style, matte finish, subtle grunge texture, professional editorial artwork.
 ```
 
 </details>
 
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a7044265-f084-4e65-b963-549e87502cd4?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Aqsahere_/status/2101963186769715628>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/2fb5e7db-dcd9-4bc1-a54e-35c94d0d9ab4?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/HustleXR/status/2098637009191604686>)
 
 ---
 
-<a id="prompt-fa4df9af-2def-4438-a745-1da26fd97eba"></a>
+<a id="prompt-e9915f4c-2619-4671-8701-858b5599d76c"></a>
 
-#### Cozy Izakaya Sushi Counter Editorial Portrait
+#### Watercolor Portrait With Painter&#39;s Hand
 
-<a href="https://musesignal.com/zh/prompt/fa4df9af-2def-4438-a745-1da26fd97eba?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HObBy5uaAAAAUCZ.jpg?format=jpg&amp;name=small" width="480" alt="Cozy Izakaya Sushi Counter Editorial Portrait" /></a>
+<a href="https://musesignal.com/zh/prompt/e9915f4c-2619-4671-8701-858b5599d76c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HRhngZ6bUAA3TJD.jpg?format=jpg&amp;name=small" width="480" alt="Watercolor Portrait With Painter&#39;s Hand" /></a>
 
-**Nano Banana Pro** · 原作者: Dockie
+**Nano Banana Pro** · 原作者: Zayan
 
 创作场景: 人像摄影
 
@@ -729,55 +721,41 @@ RAW smartphone photography aesthetic, realistic skin pores, individual hair stra
 <summary>完整提示词</summary>
 
 ```text
-PROMPT:
-
-{
-  "prompt": "Ultra-realistic cozy Japanese izakaya lifestyle editorial portrait of a glamorous young platinum-blonde woman with long silky straight hair, soft center part, smooth layers, and natural shine. Warm ivory skin with visible pores, realistic skin texture, subtle freckles across the cheeks and nose, authentic facial vellus hair, luminous satin complexion, soft rosy blush, feathered brows, champagne shimmer eyeshadow, delicate fox-eye eyeliner, wispy lashes, glossy nude-pink lips with realistic lip texture, and bright blue-gray eyes. Wearing an oversized pastel pink zip-up hoodie layered over a matching blush-pink fitted camisole, creating a relaxed cozy Y2K aesthetic. Minimal jewelry including delicate rings and a natural nude manicure. Sitting at a wooden sushi counter while holding a sushi roll with black chopsticks near her face, looking directly into the camera with a soft, calm expression. Table filled with beautifully plated assorted sushi including salmon nigiri, shrimp nigiri, tuna nigiri, tamago, maki rolls, soy sauce dishes, edamame, miso soup, and traditional ceramic tableware. Authentic Japanese izakaya featuring warm glowing red paper lanterns with Japanese calligraphy, handwritten menu boards, open kitchen, wooden walls, bustling diners, cozy ambient lighting, and cinematic restaurant bokeh. Captured using an iPhone 15 Pro with direct flash, producing authentic smartphone flash reflections, crisp skin highlights, bright eye catchlights, realistic shadows, subtle lens bloom, and premium lifestyle photography. Kodak Portra-inspired skin tones, luxury travel editorial, cozy foodie aesthetic, realistic skin rendering, DSLR-quality sharpness with authentic iPhone flash characteristics, RAW photo, ultra photorealistic, 8K.",
-  
-  "negative_prompt": "cartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate food, oversaturated colors, clipped highlights, low-detail hair",
-  
-  "style": "photorealistic",
-  
-  "camera": {
-    "type": "iPhone 15 Pro",
-    "lens": "26mm main camera",
-    "aperture": "f/1.8",
-    "iso": 500,
-    "angle": "eye-level lifestyle portrait",
-    "depth_of_field": "moderate"
-  },
-  
-  "lighting": {
-    "type": "direct smartphone flash with warm izakaya ambient lighting",
-    "direction": "frontal flash",
-    "mood": "cozy, warm, authentic"
-  },
-  
-  "composition": {
-    "framing": "vertical editorial portrait",
-    "subject_position": "centered while seated at a wooden sushi counter",
-    "background": "authentic Japanese izakaya with glowing red paper lanterns, handwritten menu boards, open kitchen, wooden interior, diners, and cinematic bokeh"
-  },
-  
-  "quality": {
-    "resolution": "8k",
-    "detail": "ultra high",
-    "sharpness": "DSLR-quality with authentic iPhone flash rendering",
-    "skin_detail": "visible pores, realistic texture, natural freckles, subtle facial vellus hair",
-    "realism": "maximum"
-  }
-}
+Ar 9:16! Expressive loose watercolor illustration style, ultra-detailed watercolor portrait rendering, soft translucent paint layering, wet-on-wet watercolor diffusion, natural pigment bleeding effects, delicate brushstroke textures, airy hand-painted aesthetic, realistic anatomy blended with painterly abstraction, subtle ink-like edge definition, elegant unfinished watercolor splashes around the composition, soft feathered transitions between colors, luminous paper texture visible through transparent paint layers, warm natural skin tones with gentle blush highlights, cinematic soft lighting, flowing organic brush movement, refined watercolor realism with emotional fine art atmosphere, smooth facial rendering contrasted with loose expressive edges, handcrafted traditional painting aesthetic, watercolor bloom effects, fluid color gradients, lightly desaturated palette with earthy warm neutrals and muted blues, premium sketchbook illustration style, visible artistic spontaneity, delicate strand-like hair strokes, atmospheric white negative space, minimal background detail, soft focus depth, editorial fine art watercolor aesthetic, subtle accidental paint marks and organic imperfections, elegant composition balance, painter’s hand holding a thin paintbrush visible in foreground, immersive artist-at-work perspective, realistic brush and hand rendering, museum-quality watercolor artwork, timeless classical painting mood, sophisticated contemporary watercolor portrait style, ultra refined paper-and-pigment texture, dreamy and poetic visual tone, handcrafted artistic realism, master-level watercolor detailing.
 ```
 
 </details>
 
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/fa4df9af-2def-4438-a745-1da26fd97eba?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Document195/status/2082565170539429993>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e9915f4c-2619-4671-8701-858b5599d76c?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/HustleXR/status/2096539446120530325>)
+
+---
+
+<a id="prompt-c709c036-8035-405d-aa92-ae77131c9c84"></a>
+
+#### Cinematic Taj Mahal Model Portrait
+
+<a href="https://musesignal.com/zh/prompt/c709c036-8035-405d-aa92-ae77131c9c84?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOwxKZjaUAAmWJY.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic Taj Mahal Model Portrait" /></a>
+
+**Nano Banana Pro** · 原作者: Maddox
+
+创作场景: 人像摄影
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+a elegant long hair, black girl model wearing black summer dress, standing in front of the taj mahal with a big elephant touching her with its trunk, Whole body in frame shot from the side. Soft outdoor daylight, diffused lighting, warm highlights, gentle white tones, natural color grading. Natural skin texture, realistic facial proportions, confident yet friendly expression. High-end commercial photography, photorealistic, ultra-detailed, cinematic realism. Canon EOS R5, 85mm lens, f/1.2 aperture, shallow depth of field, creamy bokeh, sharp focus, 8K, the camera makes a close up, she is posing for the camera
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/c709c036-8035-405d-aa92-ae77131c9c84?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Maddox_Digital/status/2084094837012455860>)
 
 ---
 
 <a id="selected-commercial-product"></a>
 
-### 商业产品 · 13
+### 商业产品 · 9
 
 [Nano Banana](<https://musesignal.com/zh?category=commercial-product&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana 2](<https://musesignal.com/zh?category=commercial-product&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana Pro](<https://musesignal.com/zh?category=commercial-product&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>)
 
@@ -987,36 +965,13 @@ Photorealistic, high-end commercial quality, shot on an 85mm lens, f/1.8 apertur
 
 ---
 
-<a id="prompt-f5ff41f3-52fc-4935-b79d-1b1278ca4b44"></a>
+<a id="prompt-bf809ccc-3b6b-433b-9946-dfd2d93169a5"></a>
 
-#### 8-Bit Embroidered FIFA Players Product Photo
+#### Black-and-White High Fashion Jewelry Editorial
 
-<a href="https://musesignal.com/zh/prompt/f5ff41f3-52fc-4935-b79d-1b1278ca4b44?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLM5wecaoAAbHKp.jpg?format=jpg&amp;name=small" width="480" alt="8-Bit Embroidered FIFA Players Product Photo" /></a>
+<a href="https://musesignal.com/zh/prompt/bf809ccc-3b6b-433b-9946-dfd2d93169a5?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HM3t6c2bYAAmrGo.jpg?format=jpg&amp;name=small" width="480" alt="Black-and-White High Fashion Jewelry Editorial" /></a>
 
-**Nano Banana 2** · 原作者: Shams
-
-创作场景: 商业产品
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Highly detailed close-up product photograph of [ITEM DESCRIPTION] laid flat on a minimal off-white background #F8F7F2, featuring a horizontal row of four distinct 8-bit pixel art style embroidered FIFA soccer players in dynamic action poses [PLACEMENT], exactly like retro video game sprites or cross-stitch. From left to right: Lionel Messi mid-kick in Argentina jersey, Cristiano Ronaldo signature celebration jump in Portugal jersey, Kylian Mbappé sprinting in France jersey, Erling Haaland powerful shot in Manchester City jersey. Small cute blocky pixelated designs with visible stitch texture and a slight 3D raised embroidery effect on [FABRIC MATERIAL]. Soft even lighting, sharp focus on embroidery details, realistic fabric texture, clean minimalist product photography style --ar 9:16 --stylize 250 --v 6
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f5ff41f3-52fc-4935-b79d-1b1278ca4b44?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/ShamsAmin56/status/2068060163702149447>)
-
----
-
-<a id="prompt-e28048c2-76f8-4c89-9b1c-2f9fba5f5c89"></a>
-
-#### Miniature Workers Assembling a Giant Pepsi Can
-
-<a href="https://musesignal.com/zh/prompt/e28048c2-76f8-4c89-9b1c-2f9fba5f5c89?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLKAsYmbkAAzz4S.jpg?format=jpg&amp;name=small" width="480" alt="Miniature Workers Assembling a Giant Pepsi Can" /></a>
-
-**Nano Banana 2** · 原作者: 𝐌
+**Nano Banana Pro** · 原作者: Maddox
 
 创作场景: 商业产品
 
@@ -1024,89 +979,12 @@ Highly detailed close-up product photograph of [ITEM DESCRIPTION] laid flat on a
 <summary>完整提示词</summary>
 
 ```text
-A surreal macro world where miniature workers assemble a giant Pepsi can surrounded by ice cubes. Tiny welders polish aluminum, cranes place the logo, workers clean condensation drops. The can stands on a branded Pepsi platform. Hyper-realistic reflections, cinematic lighting, playful scene.
+Black-and-white high fashion jewelry editorial photograph featuring two models — a woman in the foreground and a man in the background. The woman has sleek hair pulled back tightly, wearing a black turtleneck top, a small geometric diamond stud earring, and a delicate diamond eternity ring on her finger. Her hand rests gently on the man's chest/shoulder. The man is positioned behind her in side profile, head slightly tilted upward, wearing a dark structured jacket, his face partially in deep shadow creating a dramatic silhouette. Pure white overexposed background. Dramatic high contrast studio lighting with deep shadows sculpting the faces. Intimate yet distant mood, luxury jewelry campaign aesthetic, sharp focus on the ring and earring, cinematic composition, shot from a slight low angle looking up, editorial Vogue or Tiffany & Co. campaign style, 8K, hyper-realistic.
 ```
 
 </details>
 
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e28048c2-76f8-4c89-9b1c-2f9fba5f5c89?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Strength04_X/status/2067861589894877369>)
-
----
-
-<a id="prompt-299e40f8-757f-414a-be62-f91a42e763a0"></a>
-
-#### Coca-Cola Couple Commercial Render
-
-<a href="https://musesignal.com/zh/prompt/299e40f8-757f-414a-be62-f91a42e763a0?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLgjiGNawAAJUAB.jpg?format=jpg&amp;name=small" width="480" alt="Coca-Cola Couple Commercial Render" /></a>
-
-**Nano Banana Pro** · 原作者: Al-Shamus
-
-创作场景: 商业产品
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-young Japanese couple, woman and man, both smiling joyfully and looking at each other playfully. Woman wearing white crop top, red athletic shorts, transparent PVC windbreaker with red accents, white sneakers with red details. Man wearing white oversized tee, red jogger shorts, transparent PVC jacket with red black accents, white red sneakers. Both holding iced Coca-Cola glasses with cherry garnish. A giant oversized Coca-Cola can sits centered between them covered in water droplets and surrounded by scattered ice cubes. Soft red white gradient studio background with warm cinematic light bloom. Floating bubbles, cherry garnish and ice cubes. Full body couple shot, ultra realistic 3D render, hyperrealistic commercial product photography, glossy reflective floor, 8K resolution, cinematic studio lighting.
-
-...giant oversized [Coca-Cola] can floating mid-air beside the model at shoulder height, tilted at a dynamic angle, water droplets flying off the surface, surrounded by floating ice cubes and bubbles as if levitating with energy. Model reaches up touching the can with one hand...
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/299e40f8-757f-414a-be62-f91a42e763a0?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/im_shahid7/status/2069443108664975734>)
-
----
-
-<a id="prompt-532719cf-91da-4102-a30a-e864b16de3f3"></a>
-
-#### Matcha Green Bottle Skincare Ad on Stone Podium
-
-<a href="https://musesignal.com/zh/prompt/532719cf-91da-4102-a30a-e864b16de3f3?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLP-DxuakAA2AOk.jpg?format=jpg&amp;name=small" width="480" alt="Matcha Green Bottle Skincare Ad on Stone Podium" /></a>
-
-**Nano Banana 2** · 原作者: 𝐌
-
-创作场景: 商业产品
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Premium green bottle placed on stone podium, surrounded by matcha powder clouds, green tea leaves and creamy foam, Japanese spa aesthetic, minimal luxury composition, soft natural lighting, highly realistic skincare advertisement, 8K.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/532719cf-91da-4102-a30a-e864b16de3f3?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Strength04_X/status/2068276166738509986>)
-
----
-
-<a id="prompt-af2db61b-a5f1-4b4b-93b8-fad742ad8ac3"></a>
-
-#### Premium 3D Sports Logo from Sports Equipment
-
-<a href="https://musesignal.com/zh/prompt/af2db61b-a5f1-4b4b-93b8-fad742ad8ac3?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLkdlgSXIAAjCm-.jpg?format=jpg&amp;name=small" width="480" alt="Premium 3D Sports Logo from Sports Equipment" /></a>
-
-**Nano Banana 2** · 原作者: Shams
-
-创作场景: 商业产品
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Create a premium 3D sports logo for [BRAND NAME], the main logo symbol realistically sculpted from a rich mix of sports equipment including soccer balls, basketballs, running shoes, tennis rackets, footballs, boxing gloves, dumbbells, and cricket bats fused together in dynamic floating 3D form, highly detailed textures and materials, cinematic studio lighting.
-
-Top-left: small monochrome black [BRAND] logo. 
-Top-right corner: half-visible, slightly cropped cluster of sports equipment softly faded into background. 
-Bottom-left corner: half-visible, slightly cropped cluster of sports equipment softly faded. 
-
-Clean off-white background #F5F5F0, minimalist premium product visualization, 9:16 aspect ratio, sharp focus, 8k --stylize 250.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/af2db61b-a5f1-4b4b-93b8-fad742ad8ac3?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/ShamsAmin56/status/2069718453821559218>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/bf809ccc-3b6b-433b-9946-dfd2d93169a5?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Maddox_Digital/status/2075576614973530314>)
 
 ---
 
@@ -1466,6 +1344,29 @@ Is this where Pitch Monopoly becomes the most interesting part?
 
 ---
 
+<a id="prompt-bd35ff88-1392-43ca-be7b-33c46bf7ea36"></a>
+
+#### Blue Ballpoint Ink Zine Poster Illustration
+
+<a href="https://musesignal.com/zh/prompt/bd35ff88-1392-43ca-be7b-33c46bf7ea36?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HR3nnAIXYAYSAvd.jpg?format=jpg&amp;name=small" width="480" alt="Blue Ballpoint Ink Zine Poster Illustration" /></a>
+
+**Nano Banana Pro** · 原作者: Zayan
+
+创作场景: 海报设计
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+"Ultra-detailed blue ballpoint pen illustration translated into monochrome black ink, dense cross-hatching and fine hatch shading, intricate biro sketch texture, obsessive linework, engraved contour rendering, hand-drawn pen illustration aesthetic, expressive organic strokes, editorial surreal composition, high-detail facial rendering, layered sketchbook construction lines, vintage technical scribbles and handwritten notes in pure white only over bold red background, white typographic annotations integrated into backdrop, underground zine poster aesthetic, raw imperfect ink marks, high-contrast black ink subject against vivid red field, experimental graphic design, avant-garde magazine cover style --ar 9:16 --stylize 750."
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/bd35ff88-1392-43ca-be7b-33c46bf7ea36?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/HustleXR/status/2098087685348892674>)
+
+---
+
 <a id="prompt-ab0d09b4-ab41-4252-b4b3-417590962fea"></a>
 
 #### Minimal Yellow, Maximum Confidence
@@ -1491,116 +1392,9 @@ Full step-by-step tutorial below 👇
 
 ---
 
-<a id="prompt-5890b96c-ab35-4d72-a83b-c445bf05f636"></a>
-
-#### Harmonious City: Heritage Meets Modernity
-
-<a href="https://musesignal.com/zh/prompt/5890b96c-ab35-4d72-a83b-c445bf05f636?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HK-2rMDawAAQ2dA.jpg?format=jpg&amp;name=small" width="480" alt="Harmonious City: Heritage Meets Modernity" /></a>
-
-**Nano Banana Pro** · 原作者: simeon-sanai
-
-创作场景: 海报设计
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Create a premium commercial-quality vertical 3:4 layered paper-cut collage illustration of [CITY], [COUNTRY], celebrating the harmonious coexistence of the city's historic heritage and contemporary urban identity.
-Automatically select a believable viewpoint where old and new architecture naturally coexist within one continuous landscape.
-Let authentic historic districts, traditional buildings, streets, rooftops, bridges, waterfronts, hillsides, plazas, local architectural details, and cultural elements dominate the foreground and middle ground, while representative modern architecture appears subtly and naturally in the distant background.
-Compose the city as a handcrafted multi-layer paper diorama built from carefully cut and stacked matte papers.
-Use overlapping paper layers, repeated rooflines, streets, bridges, rivers, canals, coastlines, hills, terraces, pathways, structural rhythms, and atmospheric spacing to connect the entire city into one coherent composition.
-Avoid a disconnected landmark collage.
-VISUAL STYLE
-• layered paper-cut collage
-• visible paper edges and thickness
-• delicate stacked shadows
-• hand-cut organic contours
-• matte gouache paper texture
-• subtle paper grain and fiber texture
-• soft handmade irregularities
-• museum-quality handcrafted travel poster aesthetic
-COLOR PALETTE
-Use a restrained color palette inspired by [CITY].
-Colors should be:
-• lightly toned down
-• pastel
-• airy
-• elegant
-• softly weathered
-• low saturation
-Avoid vivid or highly saturated colors.
-COMPOSITION
-• vertical 3:4 format
-• open sky occupies 40–50% of composition
-• generous negative space
-• simplified city silhouettes
-• selective architectural detail only
-• depth created through paper layering rather than realistic perspective
-• clean foreground, middle ground, and background separation
-EVERYDAY LIFE DETAILS
-Include only a few tiny signs of life:
-• one or two pedestrians
-• a small café table
-• local transportation
-• a bicycle, boat, tram, ferry, train, or vehicle appropriate to the city
-• a few birds in the sky
-Keep all figures very small and secondary.
-TRAVEL JOURNAL DOODLES
-Integrate subtle white hand-drawn travel-journal doodles:
-• arrows
-• route lines
-• stars
-• location pins
-• tiny local motifs
-• transportation notes
-• architectural annotations
-• handwritten marks
-Keep doodles sparse, delicate, and secondary.
-TYPOGRAPHY
-Place "[CITY]" in the upper-right sky area using elegant hand-lettered travel-journal typography.
-The text should feel lightly drawn onto the paper surface and never dominate the composition.
-LIGHTING
-Warm late-afternoon sunlight.
-Long soft shadows between paper layers.
-Calm nostalgic atmosphere.
-Refined editorial travel-poster mood.
-OVERALL FEELING
-minimal
-airy
-handcrafted
-poetic
-cultured
-timeless
-warm
-quiet
-premium collectible destination poster
-AVOID
-photorealism,
-glossy CGI,
-3D rendering,
-plastic textures,
-hard digital edges,
-excessive detail,
-crowded tourists,
-HDR lighting,
-lens blur,
-realistic camera effects,
-oversized landmarks,
-heavy typography,
-souvenir-poster clichés,
-disconnected landmark montage.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/5890b96c-ab35-4d72-a83b-c445bf05f636?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Naiknelofar788/status/2067071619982664148>)
-
----
-
 <a id="selected-food-drink"></a>
 
-### 食物饮品 · 9
+### 食物饮品 · 8
 
 [Nano Banana](<https://musesignal.com/zh?category=food-drink&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) · [Nano Banana 2](<https://musesignal.com/zh?category=food-drink&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) · [Nano Banana Pro](<https://musesignal.com/zh?category=food-drink&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>)
 
@@ -1801,32 +1595,9 @@ A premium golden toffee suspended in mid air above a mirror polished black surfa
 
 ---
 
-<a id="prompt-8f761fdd-cd2f-47ba-af48-1c0dccaf1219"></a>
-
-#### Kawaii Doodle Food Photo Transformation
-
-<a href="https://musesignal.com/zh/prompt/8f761fdd-cd2f-47ba-af48-1c0dccaf1219?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOUI-G1bkAAbhL0.jpg?format=jpg&amp;name=small" width="480" alt="Kawaii Doodle Food Photo Transformation" /></a>
-
-**Nano Banana** · 原作者: Smiling Khan
-
-创作场景: 食物饮品
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Transform a close-up food photo into a whimsical kawaii doodle aesthetic. Add adorable hand-drawn cartoon eyes, a smiling mouth, rosy blush cheeks, tiny arms and legs, making the food look alive and expressive. Surround it with playful white doodles including sparkles, stars, hearts, arrows, swirls, speech bubbles, and cute handwritten captions in a casual marker style. Include small accessories like a tiny crown, party hat, sunglasses, or cape to give the food a fun personality. Keep the original food photo realistic while layering clean, sketchy doodles on top. Use soft pastel accent colors (yellow, pink, mint, light blue) sparingly for highlights, maintaining a cozy, cheerful, Instagram-worthy aesthetic. The overall look should feel like a charming hand-illustrated journal page with a playful, heartwarming vibe, while preserving the food as the main focus.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/8f761fdd-cd2f-47ba-af48-1c0dccaf1219?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/AIwithkhan/status/2082080274968608811>)
-
----
-
 <a id="selected-character-art"></a>
 
-### 角色艺术 · 9
+### 角色艺术 · 11
 
 [Nano Banana](<https://musesignal.com/zh?category=character-art&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana 2](<https://musesignal.com/zh?category=character-art&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana Pro](<https://musesignal.com/zh?category=character-art&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>)
 
@@ -1980,13 +1751,13 @@ Check the Stey bye step Tutorial here 👇🏻
 
 ---
 
-<a id="prompt-f48b2b34-74c1-4f9c-be42-412c8762c905"></a>
+<a id="prompt-bfafecae-53ee-43d2-bd1a-852ae6648748"></a>
 
-#### Digital Tear: Girl Ripping Telegram Profile
+#### Comic-Book Illustration Style Prompt
 
-<a href="https://musesignal.com/zh/prompt/f48b2b34-74c1-4f9c-be42-412c8762c905?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKCkZHlb0AALik-.jpg?format=jpg&amp;name=small" width="480" alt="Digital Tear: Girl Ripping Telegram Profile" /></a>
+<a href="https://musesignal.com/zh/prompt/bfafecae-53ee-43d2-bd1a-852ae6648748?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSUOklcXQAACy5l.jpg?format=jpg&amp;name=small" width="480" alt="Comic-Book Illustration Style Prompt" /></a>
 
-**Nano Banana Pro** · 原作者: Noor
+**Nano Banana Pro** · 原作者: Zayan
 
 创作场景: 角色艺术
 
@@ -1994,25 +1765,23 @@ Check the Stey bye step Tutorial here 👇🏻
 <summary>完整提示词</summary>
 
 ```text
-A very creative digital work of art, where a realistic girl (whose face 100% repeats the attached first photo) dramatically tears up the Telegram social media profile page. The Telegram profile looks like paper or a digital screen being torn apart, with sharp torn edges and flying fragments creating a dynamic motion effect.
-The girl is half outside the profile frame, forcefully pushing the page apart with one hand, her expression tense yet confident and powerful. Her face must match exactly the image of the girl from the first photo without any changes or alterations.
-The background of the Telegram profile must match exactly with the provided profile picture from the second photo.
-Dynamic cinematic lighting, ultra-realistic skin texture, shallow depth of field, cinematic composition, high contrast details, modern aesthetic style, soft white or subtle gradient background, 4K ultra high resolution, trending digital art style, highly detailed, sharp focus.
+Modern comic-book illustration style with a semi-realistic approach, bold inked linework combined with clean sharp edges, dynamic cel-shading with high contrast between light and shadow, subtle painterly blending on skin while maintaining graphic comic aesthetics, vibrant yet slightly gritty color grading, strong rim lighting and dramatic highlights, stylized anatomy with heroic proportions, detailed hair rendered with flowing strands and sharp highlights, textured brush splashes and ink splatter accents for a dynamic effect, minimalistic light background to emphasize the subject, cinematic composition, ultra-detailed, high resolution, graphic novel quality.
+ar 9:16!
 ```
 
 </details>
 
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f48b2b34-74c1-4f9c-be42-412c8762c905?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/noorlewisx/status/2062829384709607905>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/bfafecae-53ee-43d2-bd1a-852ae6648748?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/HustleXR/status/2100100831945408531>)
 
 ---
 
-<a id="prompt-536f7525-7ddd-4bd0-bf4f-21c4f94063e2"></a>
+<a id="prompt-cd24a259-12f5-4997-aca3-801eaff33460"></a>
 
-#### Robot&#39;s Coffee Break
+#### Engraving-Style Semi-Realistic Digital Painting
 
-<a href="https://musesignal.com/zh/prompt/536f7525-7ddd-4bd0-bf4f-21c4f94063e2?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMMVAYHbkAAaC8w.jpg?format=jpg&amp;name=small" width="480" alt="Robot&#39;s Coffee Break" /></a>
+<a href="https://musesignal.com/zh/prompt/cd24a259-12f5-4997-aca3-801eaff33460?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HR1GrB1aQAETXtM.jpg?format=jpg&amp;name=small" width="480" alt="Engraving-Style Semi-Realistic Digital Painting" /></a>
 
-**Nano Banana 2** · 原作者: Gem Alpha
+**Nano Banana Pro** · 原作者: Zayan
 
 创作场景: 角色艺术
 
@@ -2020,25 +1789,25 @@ Dynamic cinematic lighting, ultra-realistic skin texture, shallow depth of field
 <summary>完整提示词</summary>
 
 ```text
-Even machines need a coffee break. ☕🤖
-Powered by coffee. Driven by intelligence.
-Created with Nano Banana 2 on @Lart_AI
-Check the Stey bye step Tutorial here 👇🏻
+Soft semi-realistic digital painting blended with highly detailed engraving illustration style, combining painterly softness with ultra-fine crosshatching and dotting techniques. Cinematic warm lighting with a strong golden-orange glow illuminating one side of the subject, contrasted by soft cool shadows, enhanced by dramatic chiaroscuro. Skin and textures are rendered through a fusion of smooth luminous digital shading and dense layered engraving lines, creating a balance between soft gradients and intricate linework. Subtle glossy highlights and reflective surfaces are preserved, especially in the eyes, giving a luminous and lifelike appearance.
+Delicate painterly blending remains visible through soft brush strokes, seamlessly integrated with precise contour lines and micro-detail etching, forming rich textures built from thousands of fine strokes. Edges transition naturally—sharp and clean in focal areas while dissolving into loose sketch-like strokes in unfinished regions. The top of the head and lower body fade into an incomplete sketch effect with soft, disappearing lines and partially dissolved forms blending into the background.
+Background uses a textured brown cardboard surface with visible matte grain and slightly rough tactile quality, subtly merged with a dark, studio-like atmospheric depth. The composition is minimalistic and elegant, with a calm yet dramatic mood. Color grading leans toward warm, natural tones with a slightly muted and faded palette, maintaining harmony between digital painting warmth and classic engraving aesthetics.
+High contrast lighting with deep blacks and controlled highlights enhances depth, while maintaining soft transitions in key areas. Ultra-high detail, macro texture emphasis, cinematic shadow depth, museum-quality finish, handcrafted engraving feel, 8K resolution. Ar 9:16!
 ```
 
 </details>
 
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/536f7525-7ddd-4bd0-bf4f-21c4f94063e2?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Gemalpha_88/status/2072523354180141151>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/cd24a259-12f5-4997-aca3-801eaff33460?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/HustleXR/status/2097910747980255291>)
 
 ---
 
-<a id="prompt-d947e1af-93aa-4881-b4bf-1cb908343cc8"></a>
+<a id="prompt-792126f5-29b1-4371-92d6-84a1316a23af"></a>
 
-#### Pixar-Style 3D Character Avatar Bust
+#### Cinematic Graphic Realism Engraved Portrait
 
-<a href="https://musesignal.com/zh/prompt/d947e1af-93aa-4881-b4bf-1cb908343cc8?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOC7D0qa0AApNMB.jpg?format=jpg&amp;name=small" width="480" alt="Pixar-Style 3D Character Avatar Bust" /></a>
+<a href="https://musesignal.com/zh/prompt/792126f5-29b1-4371-92d6-84a1316a23af?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HThX9M5WYAAbkmq.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic Graphic Realism Engraved Portrait" /></a>
 
-**Nano Banana** · 原作者: Aijaz
+**Nano Banana Pro** · 原作者: Zayan
 
 创作场景: 角色艺术
 
@@ -2046,24 +1815,131 @@ Check the Stey bye step Tutorial here 👇🏻
 <summary>完整提示词</summary>
 
 ```text
-Detailed Prompt
-​3D stylized character avatar bust of a friendly man, Pixar and Disney animation style, smooth digital clay render.
-​Character Details: Dark wavy brown hair styled upwards with volume, thick dark eyebrows, expressively large green eyes, a neatly groomed full beard and mustache, and a subtle friendly smile.
-​Accessories: Round metallic wire-frame glasses with light yellow tint lenses.
-​Attire: Plain black crew-neck t-shirt.
-​Style & Lighting: Clean 3D studio render, soft volumetric studio lighting, smooth matte shading, high-detail textures, centered front facing headshot composition.
-​Background: Solid dark forest green backdrop with a soft radial vignette.
+CINEMATIC GRAPHIC REALISM
+Created with google gemini nano banana pro 
+
+Ultra-detailed cinematic graphic realism fused with traditional engraved illustration, dark fantasy comic art, and expressive hand-inked portraiture. The visual style combines highly dimensional semi-realistic anatomy with dense, controlled ink linework and dramatic chiaroscuro.
+
+Use a predominantly near-black environment/background, allowing the subject to emerge from darkness through carefully controlled warm highlights and deep shadow masses. The overall image should feel mysterious, dramatic, powerful, tactile, and intensely atmospheric.
+
+Color palette
+
+Use a restrained, dark cinematic palette dominated by:
+
+- deep black / near-black — background and deepest shadows
+- burnt umber and dark brown
+- rich copper / warm bronze
+- deep rust-orange
+- warm ochre
+- natural warm sienna skin tones
+- muted ivory / silver-gray for hair and highlights
+- extremely restrained desaturated blue-gray accents
+
+Colors should appear rich, earthy, dark, and slightly muted, with luminous warm highlights emerging against black. Avoid neon or overly saturated digital colors.
+
+Rendering technique
+
+Construct the image using dense fine ink strokes, engraving-style hatching, cross-hatching, contour hatching, stippling, and layered painterly brushwork.
+
+Every major anatomical plane should contain visible directional strokes following the form. Skin, hands, wrinkles, beard, hair, fabric, and accessories should be rendered with hundreds of controlled micro-strokes rather than smooth digital surfaces.
+
+Combine sharp ink contours with painterly color masses, creating a hybrid appearance between an old master engraving and a modern cinematic graphic-novel painting.
+
+Lighting
+
+Use intense low-key chiaroscuro lighting.
+
+Most of the surrounding environment disappears into almost pure black, while selected planes of the subject receive warm copper-orange illumination. Highlights should be concentrated on facial planes, hands, hair strands, and important structural details.
+
+Use strong directional lighting with:
+deep black shadow → rich burnt-orange midtone → narrow warm highlight.
+
+Highlights should remain controlled and relatively hard-edged, emphasizing wrinkles, bone structure, muscles, fingers, hair strands, and textured surfaces.
+
+Linework and texture
+
+Use extremely fine black/brown engraved lines combined with stronger graphic contours.
+
+Include:
+cross-hatching, parallel hatching, contour lines, stippled texture, scratch-like ink marks, fine hair strokes, irregular brush edges, and tiny engraved details.
+
+Line density should increase naturally inside shadow areas and decrease toward illuminated planes.
+
+Surface treatment
+
+Avoid perfectly smooth digital rendering. Preserve a hand-crafted tactile texture throughout the image.
+
+Skin should show subtle pores, wrinkles, folds, fine facial hair, and directional brush/ink strokes. Hair should be constructed from numerous individual strands mixed with larger graphic masses. Fabric should contain visible woven/brush textures and deep folds.
+
+Overall aesthetic
+
+Dark cinematic portrait + engraved realism + graphic novel realism + Renaissance-inspired chiaroscuro + hand-inked illustration + painterly color blocking + dark fantasy editorial art.
+
+The final appearance should be extremely detailed, dramatic, mature, rugged, cinematic, tactile, and powerful, with the realism coming from anatomical modeling and microscopic linework rather than photographic rendering.
+
+No flat vector style, no clean cartoon appearance, no soft airbrush, no plastic skin, no 3D-rendered look, no glossy CGI, no neon colors, no typography, no logo, no watermark.
+
+Aspect ratio: 9:16 — vertical composition.
 ```
 
 </details>
 
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d947e1af-93aa-4881-b4bf-1cb908343cc8?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/iamsofiaijaz/status/2080868713709154525>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/792126f5-29b1-4371-92d6-84a1316a23af?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/HustleXR/status/2105529544945832340>)
+
+---
+
+<a id="prompt-2daed836-8113-4f45-adc1-1a25c80736d8"></a>
+
+#### Monochrome Ink Fashion Portrait Illustration
+
+<a href="https://musesignal.com/zh/prompt/2daed836-8113-4f45-adc1-1a25c80736d8?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HRvaETCbsAEJXUf.jpg?format=jpg&amp;name=small" width="480" alt="Monochrome Ink Fashion Portrait Illustration" /></a>
+
+**Nano Banana Pro** · 原作者: Zayan
+
+创作场景: 角色艺术
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+"Highly stylized monochrome fashion illustration, expressive black-and-white ink portrait style, ultra-clean grayscale palette with soft tonal shading and sharp dark accents, elegant feminine facial construction, elongated proportions, minimalistic luxury editorial aesthetic. Use flowing organic contour lines mixed with geometric construction lines crossing the face naturally. Combine loose gestural strokes with precise ink detailing around the eyes, eyebrows, lips, and hair strands.
+Hair rendered with sweeping fluid brush lines and layered ink curves, creating dynamic movement and asymmetrical framing. Skin shading uses smooth cel-shaded grayscale planes with subtle gradient transitions, while maintaining a hand-drawn ink illustration appearance. Thin sketch lines remain visible as part of the composition.
+Eyes highly detailed and luminous with crisp eyelashes and reflective highlights. Lips softly sculpted with semi-realistic shading and delicate line texture. Use selective contrast: bold black strokes around facial features balanced against large clean white negative spaces.
+Overall composition resembles a fusion of modern fashion sketch, manga-inspired editorial art, and minimalist ink wash illustration. Background kept plain light gray or off-white with uncluttered negative space. High contrast, elegant, refined, cinematic, expressive line-art aesthetic."
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/2daed836-8113-4f45-adc1-1a25c80736d8?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/HustleXR/status/2097509829753651228>)
+
+---
+
+<a id="prompt-50f58b96-7d6f-4644-9e50-fce5c0cf24bd"></a>
+
+#### Cinematic 2D Anime Character Art Style
+
+<a href="https://musesignal.com/zh/prompt/50f58b96-7d6f-4644-9e50-fce5c0cf24bd?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HRgKek6a4AAUpiZ.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic 2D Anime Character Art Style" /></a>
+
+**Nano Banana Pro** · 原作者: Zayan
+
+创作场景: 角色艺术
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Cinematic 2D digital illustration, polished semi-realistic anime aesthetic, clean bold linework, smooth cel shading blended with soft painterly gradients, expressive detailed facial rendering, subtly exaggerated proportions, glossy eyes, natural skin texture, dimensional hair with individual flowing strands, warm rim lighting, moody teal-and-amber color grading, muted vintage tones, soft ambient shadows, slightly grainy texture, nostalgic 1990s/2000s editorial-poster vibe, atmospheric indoor lighting, highly polished character art, crisp details, depth and cinematic composition, vertical 9:16.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/50f58b96-7d6f-4644-9e50-fce5c0cf24bd?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/HustleXR/status/2096437155606196729>)
 
 ---
 
 <a id="selected-scene-space"></a>
 
-### 场景空间 · 9
+### 场景空间 · 11
 
 [Nano Banana](<https://musesignal.com/zh?category=scene-space&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) · [Nano Banana 2](<https://musesignal.com/zh?category=scene-space&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) · [Nano Banana Pro](<https://musesignal.com/zh?category=scene-space&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>)
 
@@ -2337,13 +2213,13 @@ A surreal landscape featuring a lone figure standing beneath a large tree with g
 
 ---
 
-<a id="prompt-833f008d-8ae1-4593-b569-195a6d48953c"></a>
+<a id="prompt-8e50358f-22b5-4498-b53b-82f76e582eae"></a>
 
-#### Floating City Islands Miniature Diorama
+#### Mid-Air Soccer Kick Action Shot
 
-<a href="https://musesignal.com/zh/prompt/833f008d-8ae1-4593-b569-195a6d48953c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLW6RLjXAAAxklW.jpg?format=jpg&amp;name=small" width="480" alt="Floating City Islands Miniature Diorama" /></a>
+<a href="https://musesignal.com/zh/prompt/8e50358f-22b5-4498-b53b-82f76e582eae?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKwe1TQXgAAohX0.jpg?format=jpg&amp;name=small" width="480" alt="Mid-Air Soccer Kick Action Shot" /></a>
 
-**Nano Banana 2** · 原作者: TechieSA
+**Nano Banana** · 原作者: Minahil
 
 创作场景: 场景空间
 
@@ -2351,18 +2227,116 @@ A surreal landscape featuring a lone figure standing beneath a large tree with g
 <summary>完整提示词</summary>
 
 ```text
-“A photorealistic miniature 3D diorama of [CITY], rendered as a small floating island chunk of earth torn from the ground, hovering above thick golden-hour clouds. The shape of the island should loosely mirror the city's real-life geography (coastline, riverbank, or land contour).
-The island's edge shows a jagged rock/cliff cross-section with exposed earth and roots, water flowing off the edges like a waterfall into the clouds below.
-On top of the island: a hyper-detailed miniature recreation of the city's skyline, automatically including only its most iconic, instantly-recognizable landmarks — chosen based on what the city is actually famous for — arranged naturally with tiny streets, cars, trees, and a beach or waterfront if applicable. Keep it clean and uncluttered, not overly dense or busy.
-Lighting: soft warm golden-hour sunset, glowing rim light, polished premium sheen on every surface — buildings, water, and rock should have a slightly glossy, high-end render quality that feels expensive and cinematic, like a luxury movie poster, not a toy diorama.
-Camera: aerial 3/4 view looking down at the island, tilt-shift miniature effect, ultra-detailed textures, volumetric clouds surrounding the island on all sides, sky gradient from warm gold to soft blue.
-Bottom of frame: large elegant gold serif text reading "CITY" in all caps, centered, with subtle metallic drop shadow, premium movie-poster typography.
-Aspect ratio 4:5, photorealistic 3D render, octane/unreal engine quality, no text other than the city name.”
+An action shot capturing a dynamic mid-air soccer kick in an open, grassy field under a bright, partly cloudy sky. The subject is frozen in a powerful, airborne leap, body twisted horizontally to the ground, with one leg extended high to strike a weathered, airborne soccer ball. Clods of dirt and grass fly off the boots, emphasizing the raw energy of the movement. The setting is a rustic, unmanicured field of dry winter grass, with soft-focus hills visible in the distant background, shot with a shallow depth of field that sharply isolates the athlete against the landscape.
 ```
 
 </details>
 
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/833f008d-8ae1-4593-b569-195a6d48953c?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/TechieBySA/status/2068764415244009718>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/8e50358f-22b5-4498-b53b-82f76e582eae?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Minahil42298354/status/2066060276776993001>)
+
+---
+
+<a id="prompt-fcdc1324-3613-457b-934d-7c538267bbe6"></a>
+
+#### Architectural Watercolor Painting
+
+<a href="https://musesignal.com/zh/prompt/fcdc1324-3613-457b-934d-7c538267bbe6?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSO1xNwW8AAUtKg.jpg?format=jpg&amp;name=small" width="480" alt="Architectural Watercolor Painting" /></a>
+
+**Nano Banana Pro** · 原作者: Zayan
+
+创作场景: 场景空间
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Expressive architectural watercolor painting, fluid confident brushwork, delicate structural ink/sketch lines, bright textured white paper background. Exact palette: deep charcoal gray, cool slate blue, warm golden-amber, beige, crisp white, subtle black accents. Glistening wet reflections, luminous atmospheric mist, controlled washes & paint splatters, translucent layered depth, balanced warm/cool contrast, elegant semi-simplified details, airy metropolitan mood, premium handcrafted fine-art quality. Ar 9:16!
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/fcdc1324-3613-457b-934d-7c538267bbe6?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/HustleXR/status/2099721717853860339>)
+
+---
+
+<a id="prompt-92bc9097-fdaa-4d01-85d4-30e955de0ac5"></a>
+
+#### Architectural Watercolor-and-Ink Hybrid Style
+
+<a href="https://musesignal.com/zh/prompt/92bc9097-fdaa-4d01-85d4-30e955de0ac5?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSGfLicbAAAinOg.jpg?format=jpg&amp;name=small" width="480" alt="Architectural Watercolor-and-Ink Hybrid Style" /></a>
+
+**Nano Banana Pro** · 原作者: Zayan
+
+创作场景: 场景空间
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a completely new visual style by synthesizing two contrasting visual languages:
+
+STYLE FOUNDATION:
+A cinematic architectural illustration with the clean composition, strong perspective, elegant architectural forms, crisp selective linework, luminous tropical colors, dramatic blue sky, and polished environmental storytelling of a high-end anime-inspired background painting.
+
+PAINT HANDLING:
+Fuse this with expressive traditional watercolor and ink techniques: loose gestural brush strokes, dry-brush texture, translucent watercolor washes, pigment blooms, irregular ink contours, spontaneous splatters, visible paper grain, partially unfinished edges, atmospheric paint bleeding, and subtle abstract fragmentation.
+
+NEW HYBRID STYLE:
+Do NOT simply imitate either reference. Develop an original visual language that sits between polished digital illustration and expressive architectural watercolor sketching.
+
+Keep the major architectural structures highly readable and beautifully designed, but allow secondary details, vegetation, reflections, clouds, distant objects, and peripheral elements to dissolve into loose watercolor marks and ink gestures.
+
+Use selective precision:
+sharp, deliberate linework around important architectural silhouettes, windows, domes, roofs, bridges, lamps, boats, and foreground structures;
+looser broken lines and painterly abstraction toward the edges and background.
+
+Combine luminous cinematic lighting with watercolor transparency.
+Use layered washes of turquoise, cyan, deep blue, warm ochre, coral, terracotta, muted green, and soft cream.
+Let colors subtly bleed into one another rather than appearing as perfectly flat digital fills.
+
+Atmosphere should feel tropical, poetic, nostalgic, peaceful, slightly dreamlike, and cinematic.
+
+Include strong foreground / middle-ground / background depth.
+Use reflections on water as loose, broken watercolor reflections rather than perfectly mirrored digital reflections.
+Clouds should be volumetric and luminous but painted with soft watercolor masses and irregular edges.
+Vegetation should alternate between identifiable tropical foliage and expressive abstract brushwork.
+
+SURFACE:
+fine cold-pressed watercolor paper texture,
+subtle grain,
+transparent pigment layers,
+ink-and-wash marks,
+dry brush,
+soft granulation,
+occasional paint splashes,
+slightly imperfect handmade edges.
+
+COMPOSITION:
+vertical cinematic composition,
+strong leading lines,
+architectural focal point,
+deep perspective,
+generous atmospheric space,
+balanced negative space,
+beautiful visual hierarchy,
+high-end editorial travel illustration.
+
+IMPORTANT:
+The final result must look like a coherent NEW ART STYLE, not a collage and not a literal combination of the two references.
+Avoid photorealism.
+Avoid generic watercolor clip-art.
+Avoid overly clean vector art.
+Avoid excessive anime facial features.
+Avoid uniform line thickness.
+Avoid making every object equally detailed.
+Preserve architectural clarity while allowing painterly abstraction to emerge naturally.
+
+highly sophisticated, cinematic, expressive, elegant, atmospheric, hand-painted, architectural watercolor-and-ink illustration, contemporary visual development art, original style. Ar 9:16!
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/92bc9097-fdaa-4d01-85d4-30e955de0ac5?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/HustleXR/status/2099133932122096054>)
 
 ---
 
@@ -2376,20 +2350,20 @@ Aspect ratio 4:5, photorealistic 3D render, octane/unreal engine quality, no tex
 
 | 模型 | 提示词 | MuseSignal |
 | --- | ---: | --- |
-| Nano Banana | 25 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana>) |
+| Nano Banana | 28 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana>) |
 | Nano Banana 2 | 79 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana-2>) |
-| Nano Banana Pro | 83 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana-pro>) |
+| Nano Banana Pro | 97 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana-pro>) |
 
 ## 最近发布
 
-- [8-Bit Embroidered FIFA Players Product Photo](<https://musesignal.com/zh/prompt/f5ff41f3-52fc-4935-b79d-1b1278ca4b44?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana 2
-- [Alice in Wonderland Fashion Portrait](<https://musesignal.com/zh/prompt/7eda030b-391d-42a0-8533-199f68b270da?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
-- [Miniature Workers Assembling a Giant Pepsi Can](<https://musesignal.com/zh/prompt/e28048c2-76f8-4c89-9b1c-2f9fba5f5c89?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana 2
-- [Coca-Cola Couple Commercial Render](<https://musesignal.com/zh/prompt/299e40f8-757f-414a-be62-f91a42e763a0?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
-- [Matcha Green Bottle Skincare Ad on Stone Podium](<https://musesignal.com/zh/prompt/532719cf-91da-4102-a30a-e864b16de3f3?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana 2
-- [Premium 3D Sports Logo from Sports Equipment](<https://musesignal.com/zh/prompt/af2db61b-a5f1-4b4b-93b8-fad742ad8ac3?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana 2
-- [Kawaii Doodle Food Photo Transformation](<https://musesignal.com/zh/prompt/8f761fdd-cd2f-47ba-af48-1c0dccaf1219?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana
-- [Pixar-Style 3D Character Avatar Bust](<https://musesignal.com/zh/prompt/d947e1af-93aa-4881-b4bf-1cb908343cc8?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana
+- [Black-and-White High Fashion Jewelry Editorial](<https://musesignal.com/zh/prompt/bf809ccc-3b6b-433b-9946-dfd2d93169a5?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
+- [Mid-Air Soccer Kick Action Shot](<https://musesignal.com/zh/prompt/8e50358f-22b5-4498-b53b-82f76e582eae?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana
+- [Cinematic Graphic Realism Engraved Portrait](<https://musesignal.com/zh/prompt/792126f5-29b1-4371-92d6-84a1316a23af?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
+- [Atelier-Style Digital Oil Portrait](<https://musesignal.com/zh/prompt/ff0b57fd-16cf-40f4-b04a-b7a9f564c039?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
+- [Comic-Book Illustration Style Prompt](<https://musesignal.com/zh/prompt/bfafecae-53ee-43d2-bd1a-852ae6648748?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
+- [Architectural Watercolor Painting](<https://musesignal.com/zh/prompt/fcdc1324-3613-457b-934d-7c538267bbe6?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
+- [Expressive Oil Painting Portrait Style](<https://musesignal.com/zh/prompt/efe11ff2-16af-4656-a41c-37ad87b9973c?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
+- [Architectural Watercolor-and-Ink Hybrid Style](<https://musesignal.com/zh/prompt/92bc9097-fdaa-4d01-85d4-30e955de0ac5?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
 
 ## 在 MuseSignal 生成
 
@@ -2410,7 +2384,7 @@ Aspect ratio 4:5, photorealistic 3D render, octane/unreal engine quality, no tex
 
 ## 开发者：下载公开数据
 
-[下载完整 JSON · 187](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[下载完整 JSON · 204](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json
