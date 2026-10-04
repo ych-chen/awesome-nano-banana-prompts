@@ -85,3 +85,78 @@ A medium shot of a handsome man with styled brown hair and a neat beard, looking
 **[Try on MuseSignal →](<https://musesignal.com/prompt/22db3731-18ce-48e1-b97c-de41d7aca2b3?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/iamsofiaijaz/status/2068653183233360316>)
 
 ---
+
+<a id="prompt-bdc7fc5f-05f6-418e-a48c-c444b8f8eaf5"></a>
+
+## Three-Panel Cinematic Portrait Collage of a Woman
+
+<a href="https://musesignal.com/prompt/bdc7fc5f-05f6-418e-a48c-c444b8f8eaf5?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNFa8bRbcAATim8.jpg?format=jpg&amp;name=small" width="480" alt="Three-Panel Cinematic Portrait Collage of a Woman" /></a>
+
+**Nano Banana** · Creator: NUSRAT
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Gemini nano Banana image. 
+Prompt:
+
+  "image_composition": {
+    "layout": "Collage of three distinct scenes featuring the same female subject.",
+    "style": "4k resolution, cinematic lighting, photorealistic, high detail."
+  },
+  "panel_1_left": {
+    "subject": "Young woman with long dark wavy hair, elegant facial features.",
+    "pose": "Standing, leaning against a glass storefront at night, looking towards the camera.",
+    "outfit": "Vibrant red pantsuit consisting of a structured blazer and matching tailored trousers over a matching red top.",
+    "accessories": "Gold wristwatch, small gold hoop earrings.",
+    "setting": "Urban city street at night, illuminated by neon signs in Chinese characters and blurred city lights in the background."
+  },
+  "panel_2_top_right": {
+    "subject": "Same young woman, joyful expression, hair styled in an intricate braided updo.",
+    "pose": "Standing outdoors, holding a coconut with a straw, smiling naturally.",
+    "outfit": "Silk halter-neck top with a white, navy, and gold pattern, paired with beige linen trousers.",
+    "setting": "Resort or tropical poolside setting, lush green tropical plants, palm trees, golden hour lighting."
+  },
+  "panel_3_bottom_right": {
+    "subject": "Same young woman, serene expression, hair styled in a sleek low bun.",
+    "pose": "Sitting gracefully, looking down demurely.",
+    "outfit": "Rich dark emerald green ethnic Indian lehenga choli with intricate gold embroidery and a matching sheer dupatta.",
+    "accessories": "Large ornate gold jhumka earrings, small clutch bag.",
+    "setting": "Festive indoor event, bokeh lighting from hanging fairy lights or chandeliers in the background, elegant atmosphere."
+  }
+}
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/bdc7fc5f-05f6-418e-a48c-c444b8f8eaf5?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/nxnusratul/status/2076540906266882321>)
+
+---
+
+<a id="prompt-73cd6790-1448-413a-a863-f046f61c8463"></a>
+
+## Sydney Sweeney on Red Lamborghini in High-Fashion Street Scene
+
+<a href="https://musesignal.com/prompt/73cd6790-1448-413a-a863-f046f61c8463?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQlol5FbAAAaS06.jpg?format=jpg&amp;name=small" width="480" alt="Sydney Sweeney on Red Lamborghini in High-Fashion Street Scene" /></a>
+
+**Nano Banana 2** · Creator: ANKIT PATEL 🇮🇳 \| AI
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Who wants to join this sport ride ?
+
+Nano Banana 2 via @ImagineArt_X @imagineart_creo 
+
+Sydney Sweeney, Madlyen Cline and Angelina Jolie 
+
+A quiet residential avenue turns into an elegant open-air setting against modern apartment facades. Perched on the electric red Lamborghini sports car hood, Sydney Sweeney radiates an unhurried, sculpted authority with a coolly withheld gaze behind dark lenses. The long high-gloss black  leather coat drapes heavily over a tight black latex short skirt, framing glossy high black heels with a small sign 'love' engraved on it. Soft overcast daylight descends as an immense canopy, wrapping gentle satin highlights around her ivory skin and coat. Defocused white plaster walls, climbing ivy, and grey stone pavers form a muted cool background pierced by the car's crimson bodywork. Stillness becomes an architectural statement where silent composure redefines the language of modern high-fashion luxury.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/73cd6790-1448-413a-a863-f046f61c8463?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Ankit_patel211/status/2092318524966646067>)
+
+---

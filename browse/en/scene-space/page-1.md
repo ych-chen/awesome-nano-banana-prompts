@@ -472,3 +472,24 @@ An action shot capturing a dynamic mid-air soccer kick in an open, grassy field 
 **[Try on MuseSignal →](<https://musesignal.com/prompt/8e50358f-22b5-4498-b53b-82f76e582eae?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Minahil42298354/status/2066060276776993001>)
 
 ---
+
+<a id="prompt-8c628218-1cdc-4615-827a-7f4102f86b13"></a>
+
+## Grandmother Feeding Crocodiles in 1970s Film Style
+
+<a href="https://musesignal.com/prompt/8c628218-1cdc-4615-827a-7f4102f86b13?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQpLFU0XMAAylBX.jpg?format=jpg&amp;name=small" width="480" alt="Grandmother Feeding Crocodiles in 1970s Film Style" /></a>
+
+**Nano Banana** · Creator: Michael Rabone
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create a funny photographic image of an elderly grandmother feeding bread to 3 large crocodiles in shallow water with a 1970's vintage film aesthetic
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/8c628218-1cdc-4615-827a-7f4102f86b13?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/michaelrabone/status/2092567741014200799>)
+
+---

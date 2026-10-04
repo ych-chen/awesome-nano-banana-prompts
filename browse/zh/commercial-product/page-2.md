@@ -178,3 +178,24 @@ Black-and-white high fashion jewelry editorial photograph featuring two models �
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/bf809ccc-3b6b-433b-9946-dfd2d93169a5?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Maddox_Digital/status/2075576614973530314>)
 
 ---
+
+<a id="prompt-7b43ca80-aa44-49f3-8cb1-9323033ec8b3"></a>
+
+## Luxury Water Bottle Splash Product Shot
+
+<a href="https://musesignal.com/zh/prompt/7b43ca80-aa44-49f3-8cb1-9323033ec8b3?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HPKntutaMAAQ3v1.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Water Bottle Splash Product Shot" /></a>
+
+**Nano Banana Pro** · 原作者: Maddox
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ultra-realistic luxury commercial product photography of a premium transparent water bottle standing upright on a glossy reflective surface. The bottle is covered with tiny cold water droplets, symbolizing freshness. A dramatic splash of crystal-clear water wraps around the bottle in a dynamic spiral. Background features cool icy blue gradients with soft white lighting, floating ice cubes, light mist, and subtle glowing particles. High-end studio lighting with cinematic rim light, premium advertising style, sharp focus, ultra-detailed, photorealistic, 8K, clean composition, luxury beverage campaign, minimalistic yet eye-catching, plenty of copy space for branding and text.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/7b43ca80-aa44-49f3-8cb1-9323033ec8b3?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Maddox_Digital/status/2085914015390458233>)
+
+---
