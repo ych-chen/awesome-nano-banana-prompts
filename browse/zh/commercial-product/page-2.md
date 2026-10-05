@@ -199,3 +199,24 @@ Ultra-realistic luxury commercial product photography of a premium transparent w
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/7b43ca80-aa44-49f3-8cb1-9323033ec8b3?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Maddox_Digital/status/2085914015390458233>)
 
 ---
+
+<a id="prompt-80ba7a5f-e99e-4c19-a8ff-b51a340b50b9"></a>
+
+## Rose Gold Luxury Perfume Ad
+
+<a href="https://musesignal.com/zh/prompt/80ba7a5f-e99e-4c19-a8ff-b51a340b50b9?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLL_X5yaIAA0lE1.jpg?format=jpg&amp;name=small" width="480" alt="Rose Gold Luxury Perfume Ad" /></a>
+
+**Nano Banana 2** · 原作者: 𝐌
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Premium rose-colored bottle with gold cap placed on layered marble podium, surrounded by blooming pink roses and silky fabric waves, floating bubbles, luxury perfume advertisement style, cinematic lighting, soft shadows, ultra realistic skincare campaign, high-end aesthetic.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/80ba7a5f-e99e-4c19-a8ff-b51a340b50b9?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Strength04_X/status/2067998351887593888>)
+
+---

@@ -160,3 +160,55 @@ A quiet residential avenue turns into an elegant open-air setting against modern
 **[Try on MuseSignal →](<https://musesignal.com/prompt/73cd6790-1448-413a-a863-f046f61c8463?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Ankit_patel211/status/2092318524966646067>)
 
 ---
+
+<a id="prompt-d57fd658-53c2-4026-a4e2-561f73cde896"></a>
+
+## Architectural Ink Dissolution Portrait
+
+<a href="https://musesignal.com/prompt/d57fd658-53c2-4026-a4e2-561f73cde896?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLUIgX0b0AA7_WR.jpg?format=jpg&amp;name=small" width="480" alt="Architectural Ink Dissolution Portrait" /></a>
+
+**Nano Banana Pro** · Creator: zayan
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ultra-contemporary portrait artwork blending luxury fashion illustration, hyperrealistic figurative painting, and abstract structural deconstruction. The face emerges from an intricate interplay of flowing black ink contours, geometric construction frameworks, translucent painterly veils, and dissolving atmospheric textures. Elegant elongated facial proportions create a refined editorial presence while fragmented architectural linework appears to build and dismantle the portrait simultaneously.
+The composition combines expressive monochromatic ink drawing with subtle desaturated flesh tones, allowing realism and abstraction to coexist. Smooth luminous skin surfaces transition seamlessly into fractured regions of liquid brushwork, transparent washes, drifting pigment clouds, and evaporating paint textures. Organic contour lines weave through geometric guides, grids, and structural markings as though the portrait is being drafted, erased, and reconstructed in real time.
+Hair is rendered as sweeping calligraphic brush ribbons mixed with layered ink currents, flowing beyond the boundaries of the figure and dissolving into soft atmospheric paint haze. Individual strands alternate between razor-sharp ink precision and blurred painterly diffusion, creating dynamic movement and asymmetrical balance.
+Eyes become the emotional focal point: intensely detailed, luminous, and reflective, surrounded by delicate ink etching, ghosted contours, and subtle glazing effects. Lips are softly sculpted with realistic tonal transitions while fragmented brush fragments and translucent overlays partially interrupt their form.
+The palette is dominated by ivory, warm gray, pearl white, smoky charcoal, pale beige, faded umber, dusty rose undertones, and muted blue-gray accents. Deep black ink passages create dramatic visual anchors against expansive fields of negative space, producing a sophisticated rhythm between density and emptiness.
+Visible sketch marks, unfinished painterly sections, atmospheric smears, transparent layers, subtle paint drips, soft motion blur, and dissolving edges remain intentionally preserved. Areas of hyperrealistic rendering gradually melt into abstract expressionist passages, creating the illusion that the portrait exists between memory, architecture, and emotion.
+Minimalist gallery background with vast negative space, cinematic directional lighting, museum-quality fine-art presentation, emotional depth, ethereal softness, elegant imperfection, contemporary editorial sophistication, manga-inspired facial sensitivity, architectural abstraction, ink-dissolution aesthetics, poetic realism, ultra-refined tonal harmony, high-fashion visual storytelling, masterpiece quality.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/d57fd658-53c2-4026-a4e2-561f73cde896?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/HustleXR/status/2068568964687331773>)
+
+---
+
+<a id="prompt-fa340079-f08a-4ff8-8c41-4d8aa29f0e25"></a>
+
+## CCTV Surveillance Style Portrait of a Teenage Girl
+
+<a href="https://musesignal.com/prompt/fa340079-f08a-4ff8-8c41-4d8aa29f0e25?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLYbNuebgAA6Qcf.jpg?format=jpg&amp;name=small" width="480" alt="CCTV Surveillance Style Portrait of a Teenage Girl" /></a>
+
+**Nano Banana 2** · Creator: Ozair AI
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Generate a image 
+
+CCTV-style surveillance footage capturing a stylish teenage girl walking past a security camera. She pauses, looks directly up into the lens with a bright, friendly smile, and waves her hand casually. Her movements are candid and natural, yet carrying a subtle, confident, model-like poise. She is wearing a casual, modern outfit, walking through an indoor public space such as a hallway or a lobby.
+The shot is captured from a high-angle security camera perspective utilizing a slightly distorted wide-angle lens. The visual quality is intentionally low-resolution and desaturated, nearly monochrome, to mimic authentic security footage.
+A digital timestamp overlay ticks in the corner, while subtle scan lines, digital noise, and heavy compression artifacts overlay the video. There is realistic motion blur on her wave, uneven lighting across the space, and harsh shadows. The entire frame has a grainy texture, embodying a raw, unpolished, and documentary-style surveillance aesthetic.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/fa340079-f08a-4ff8-8c41-4d8aa29f0e25?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Ozayrr_irl/status/2068871040051331204>)
+
+---

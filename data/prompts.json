@@ -2363,6 +2363,32 @@
     "content_hash": "ab053fb36fef6880879696628f87f9fc23a62956c4e0ec2607df16f8b5ca9280"
   },
   {
+    "id": "80ba7a5f-e99e-4c19-a8ff-b51a340b50b9",
+    "title": "Rose Gold Luxury Perfume Ad",
+    "prompt": "Premium rose-colored bottle with gold cap placed on layered marble podium, surrounded by blooming pink roses and silky fabric waves, floating bubbles, luxury perfume advertisement style, cinematic lighting, soft shadows, ultra realistic skincare campaign, high-end aesthetic.",
+    "category": "commercial-product",
+    "model_key": "nano-banana-2",
+    "model_name": "Nano Banana 2",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "𝐌",
+      "handle": "Strength04_X"
+    },
+    "source_platform": "X",
+    "source_id": "2067998351887593888",
+    "source_url": "https://x.com/Strength04_X/status/2067998351887593888",
+    "images": [
+      "https://pbs.twimg.com/media/HLL_X5yaIAA0lE1.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/80ba7a5f-e99e-4c19-a8ff-b51a340b50b9",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/80ba7a5f-e99e-4c19-a8ff-b51a340b50b9",
+    "published_at": "2026-10-05T07:13:14.332246+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "39f3388b3d5adc4ca5186e0998536f38e3eaf5fa4142a3ef1f53d3c968490fa7"
+  },
+  {
     "id": "8152c892-23b9-406c-b8cd-e6a25bb7522b",
     "title": "Dua Lipa's Reflective Gaze",
     "prompt": "{\n  \"subject\": {\n    \"identity\": {\n      \"biometric_reference\": \"Billie Eilish\",\n      \"facial_structure\": \"Soft-edged oval facial structure with mathematically balanced zygomatic arches, a defined mandible profile, and distinct philtrum alignment.\",\n      \"eyes\": {\n        \"iris_pattern\": \"Pale ice-blue irises featuring high-density radial striae and a distinct dark peripheral limbal ring.\",\n        \"shape\": \"Large, downward-slanted almond eye morphology with a natural hooded upper eyelid crease and dense, prominent eyelashes.\"\n      },\n      \"dentition\": \"Naturally aligned anatomical dentition with translucent incisal enamel edges, visible within a neutral, slightly unoccluded jaw position.\",\n      \"lips\": \"Symmetrical vermilion border with a defined Cupid's bow, exhibiting micro-linear surface grooves and a natural cool-pink tone (#E5A9A9).\"\n    },\n    \"body\": {\n      \"somatotype\": \"Natural endomorphic-mesomorphic body composition with anatomical waist-to-hip proportions, maintaining standard bone and muscle density mapping.\",\n      \"morphology\": \"Standard clavicular alignment, natural upper torso contours interacting with the single-layer garment architecture, and anatomically precise limb length.\",\n      \"skin_physics\": \"Porcelain skin tone (#F7EFE9) with comprehensive subsurface scattering (SSS). High-fidelity surface physics displaying micro-pores and epidermal grain, completely devoid of post-processing or digital smoothing filters.\",\n      \"hair\": \"Deep raven black (#0A0A0A) keratin structure, mid-back length with linear layering, displaying distinct specular highlights along the hair shafts, styled with a central part.\"\n    },\n    \"pose_action\": \"The subject is captured in a complete sitting posture directly on the horizontal floor plane, referencing the structural positioning within the image bbb4168b91e22895085d06bed641f356.jpg. The dorsal region is positioned parallel to and supported by the vertical brushed metal wall panel. The lower extremities are flexed at the knee joints, with the left knee elevated vertically in the foreground, establishing a clear geometric line. The head maintains a minor posterior tilt and subtle rotation toward the optical axis, exhibiting an unblinking, analytical orthogonal gaze.\"\n  },\n  \"wardrobe\": {\n    \"dress\": {\n      \"type\": \"High-tension black metallic chainmail halter mini dress\",\n      \"material_physics\": \"Constructed from an interlocking matrix of micro-scale dark obsidian and black metallic rings (#0D0D0D). The textile exhibits a structural, body-conforming wrap that follows the anatomical surface contours precisely, operating as a single unlayered textile layer over the skin surface. Generates sharp anisotropic specular highlights and dark occlusions within the micro-scale mesh gaps.\",\n      \"fit\": \"Form-conforming technical fit across the abdominal, pelvic, and lumbar regions, creating a continuous, highly structured reflective black silhouette.\"\n    },\n    \"accessories\": {\n      \"footwear\": \"Minimalist black metallic sandal architecture (#1A1A1A) featuring linear rhinestone ankle straps, with precise anatomical digital alignment of the feet.\",\n      \"handbag\": \"A structural black chainmail or rhinestone-embellished shoulder bag resting statically on the horizontal floor plane near the lower extremities.\",\n      \"jewelry\": \"A single linear, segmented diamond tennis bracelet positioned on the wrist.\"\n    }\n  },\n  \"scene\": {\n    \"environment\": \"The internal volume of a contemporary mechanical elevator cabin.\",\n    \"surfaces\": \"Vertical architectural cladding composed of vertical-grained brushed stainless steel panels (#8A8D8F). The posterior wall features a highly polished specular chrome mirror surface. The floor plane consists of a matte gray industrial alloy sheet.\",\n    \"reflection_integrity_rules\": \"The posterior specular mirror surface must execute geometrically precise ray-traced reflections of the subject's dorsal aspect. This includes the upper back anatomy, the halter strap anchor points, the downward extension of the hair mass, and the continuous linear path of the metal handrail with zero structural distortion.\"\n  },\n  \"lighting\": {\n    \"primary_sources\": \"Ceiling-recessed luminescent LED spotlights emitting a cool chromatic temperature of 5500K.\",\n    \"distribution\": \"Direct overhead directional illumination creating high-contrast specular highlights on the black metallic textile and cranial vertex, complemented by diffused ambient secondary reflections from the steel wall panels to fill structural shadows.\"\n  },\n  \"camera\": {\n    \"aspect_ratio\": \"9:16\",\n    \"framing\": \"Full-body orthographic framing capturing the entire anatomical figure from head to feet, utilizing a slight low-angle vertical orientation to emphasize architectural lines.\",\n    \"technical_specifications\": \"Simulated medium-format sensor capture, 35mm optical focal length, f/2.8 aperture settings ensuring deep focal clarity across the primary subject and corresponding specular reflections. High edge sharpness, rich tonal contrast, and authentic structural film grain with zero motion artifacts.\"\n  },\n  \"negative_constraints\": [\n    \"no text\",\n    \"no logos\",\n    \"no typographic elements\",\n    \"no watermarks\",\n    \"no skin smoothing adjustments\",\n    \"no digital airbrushing artifacts\",\n    \"no supernumerary limbs\",\n    \"no distorted digital anatomy\",\n    \"no asymmetric ocular rendering\",\n    \"no non-Euclidean reflections\",\n    \"no duplicated joints\",\n    \"no anatomical errors\",\n    \"no layered tank top\",\n    \"no separate black top underneath\"\n  ]\n}",
@@ -4453,6 +4479,34 @@
     "content_hash": "db5656868e2700a232e00c451460125e67e1141a1e4b63c672a41a6fe853b3cb"
   },
   {
+    "id": "d57fd658-53c2-4026-a4e2-561f73cde896",
+    "title": "Architectural Ink Dissolution Portrait",
+    "prompt": "Ultra-contemporary portrait artwork blending luxury fashion illustration, hyperrealistic figurative painting, and abstract structural deconstruction. The face emerges from an intricate interplay of flowing black ink contours, geometric construction frameworks, translucent painterly veils, and dissolving atmospheric textures. Elegant elongated facial proportions create a refined editorial presence while fragmented architectural linework appears to build and dismantle the portrait simultaneously.\nThe composition combines expressive monochromatic ink drawing with subtle desaturated flesh tones, allowing realism and abstraction to coexist. Smooth luminous skin surfaces transition seamlessly into fractured regions of liquid brushwork, transparent washes, drifting pigment clouds, and evaporating paint textures. Organic contour lines weave through geometric guides, grids, and structural markings as though the portrait is being drafted, erased, and reconstructed in real time.\nHair is rendered as sweeping calligraphic brush ribbons mixed with layered ink currents, flowing beyond the boundaries of the figure and dissolving into soft atmospheric paint haze. Individual strands alternate between razor-sharp ink precision and blurred painterly diffusion, creating dynamic movement and asymmetrical balance.\nEyes become the emotional focal point: intensely detailed, luminous, and reflective, surrounded by delicate ink etching, ghosted contours, and subtle glazing effects. Lips are softly sculpted with realistic tonal transitions while fragmented brush fragments and translucent overlays partially interrupt their form.\nThe palette is dominated by ivory, warm gray, pearl white, smoky charcoal, pale beige, faded umber, dusty rose undertones, and muted blue-gray accents. Deep black ink passages create dramatic visual anchors against expansive fields of negative space, producing a sophisticated rhythm between density and emptiness.\nVisible sketch marks, unfinished painterly sections, atmospheric smears, transparent layers, subtle paint drips, soft motion blur, and dissolving edges remain intentionally preserved. Areas of hyperrealistic rendering gradually melt into abstract expressionist passages, creating the illusion that the portrait exists between memory, architecture, and emotion.\nMinimalist gallery background with vast negative space, cinematic directional lighting, museum-quality fine-art presentation, emotional depth, ethereal softness, elegant imperfection, contemporary editorial sophistication, manga-inspired facial sensitivity, architectural abstraction, ink-dissolution aesthetics, poetic realism, ultra-refined tonal harmony, high-fashion visual storytelling, masterpiece quality.",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "zayan",
+      "handle": "HustleXR"
+    },
+    "source_platform": "X",
+    "source_id": "2068568964687331773",
+    "source_url": "https://x.com/HustleXR/status/2068568964687331773",
+    "images": [
+      "https://pbs.twimg.com/media/HLUIgX0b0AA7_WR.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLUIghYaYAAM319.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLUIglwaAAItXH9.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/d57fd658-53c2-4026-a4e2-561f73cde896",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/d57fd658-53c2-4026-a4e2-561f73cde896",
+    "published_at": "2026-10-05T07:13:16.881811+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "a34cd8bce612f6ffb20d60ef127fc77402a0d719569572f11041eae54c57a19e"
+  },
+  {
     "id": "d59e62fb-ec44-41f6-95b9-a6b8c2a9c7e6",
     "title": "Surprised Woman with Curly Bob and Red Clips",
     "prompt": "{\n\"image_generation_prompt\": {\n\"subject\": {\n\"description\": \"Young woman with a strong resemblance to Sabrina Carpenter.\",\n\"hair\": \"Short curly bob with loose natural ringlets and soft texture, voluminous and bouncy, styled with two small red claw clips or barrettes pinned at the temples on each side.\",\n\"face\": \"Three-quarter gaze toward camera with a surprised or caught-off-guard expression, mouth slightly open, hand raised to lips, rosy flushed cheeks with heavy blush, glossy pink-red lips, soft dewy skin.\",\n\"body\": \"Petite and slender feminine physique, bare midriff exposed, visible belly button piercing, soft natural curves, long bare legs.\"\n},\n\"attire\": {\n\"clothing\": \"White textured knit cropped cardigan with long sleeves, partially unbuttoned at center revealing a white lace bralette underneath, cropped above the midriff. Ultra-mini white ruffle peplum skirt with low waistband, front tie detail at hip and layered ruffle hem — extremely short. Thigh-high white knit crochet socks with lace frill ruffle at the top. Red suede block-heel loafers or mary-jane style shoes.\",\n\"style\": \"Coquette, Feminine Y2K, Preppy Dollcore, Romantic Academia.\"\n},\n\"styling_and_accessories\": {\n\"jewelry\": [\n\"Red heart pendant necklace on a delicate cord sitting at mid-chest\",\n\"Pearl bracelet on right wrist\",\n\"Pearl bracelet on left wrist\",\n\"Gold hoop earrings\",\n\"Large cocktail ring on left hand\",\n\"Two small red hair claw clips in hair at temples\",\n\"Red structured mini shoulder bag hung over left shoulder\",\n\"Belly button piercing\"\n]\n},\n\"environment\": {\n\"setting\": \"Elegant interior hallway or hotel corridor, standing against a door frame.\",\n\"background\": \"Classic interior with white panelled wall moulding on the left, warm wood-framed door with brass hardware on the right, hexagonal white mosaic tile floor, terracotta-tiled step visible.\",\n\"water\": \"None.\"\n},\n\"pose\": {\n\"posture\": \"Leaning back against the door frame pillar, body slightly angled, one leg raised and bent at the knee with foot propped against the wall behind.\",\n\"arms\": \"Right hand raised to lips in a playful surprised gesture, fingers lightly touching mouth; left arm hanging down holding the strap of the red handbag.\",\n\"angle\": \"Eye-level shot, slight low-angle, medium full-body frame from head to toe.\"\n},\n\"lighting_and_mood\": {\n\"lighting\": \"Warm soft indoor ambient lighting, even and flattering, natural light from nearby source casting gentle warmth, minimal shadows.\",\n\"mood\": \"Playful, coquettish, girly and romantic — effortlessly cute with a hint of mischief.\",\n\"colors\": \"Crisp white dominant palette with bold red accents — red shoes, red bag, red heart necklace, red hair clips — clean and striking contrast.\"\n},\n\"camera_and_technical\": {\n\"style\": \"Ultra Photorealistic, RAW photo, lifestyle fashion editorial photography.\",\n\"lens\": \"35mm lens.\",\n\"aperture\": \"f/2.8 — subject sharp, background with gentle depth falloff.\",\n\"quality_tags\": [\n\"8k resolution\",\n\"highly detailed\",\n\"knit texture detail\",\n\"lace fabric realism\",\n\"ray tracing reflections\",\n\"hyper-realistic texture\",\n\"Hasselblad photography\",\n\"natural indoor lighting\",\n\"editorial street style aesthetic\"",
@@ -4640,6 +4694,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "793b39ca6d84ac8b8c86b64f18e95e508e54c996be31e760cc32f386902ff512"
+  },
+  {
+    "id": "db9c2670-d11c-4a52-be01-a5ee24bb120f",
+    "title": "Messi and Ronaldo at Taiwanese Night Market",
+    "prompt": "Ultra-realistic nighttime street food photography at a crowded Taiwanese night market.\n\nTwo world-famous football superstars Ronaldo and Messi sitting side-by-side at a busy outdoor food stall. One athlete wears a sky-blue-and-white striped football jersey and gestures with a hesitant expression, while the other athlete wears a red national team football jersey and confidently eats a bowl of roasted snails. Friendly rivalry and contrasting reactions create a humorous moment.\n\nLocation: Shilin Night Market, Taipei, Taiwan. Bright neon signs with Chinese characters, glowing storefronts, colorful food stalls, crowded market atmosphere, authentic Taiwanese street-food culture.\n\nForeground:\n\n- Athlete in red jersey holding a paper bowl full of roasted snails\n- Eating a snail with fingers\n- Luxury watch visible\n- Detailed facial expression of enjoyment\n\nSecond athlete:\n\n- Sitting beside him\n- Looking skeptical and slightly disgusted\n- One hand raised in refusal\n- Tattoo sleeve visible on forearm\n- Wearing striped football jersey\n\nBackground:\n\n- Night market entrance sign\n- Neon lights and illuminated food signs\n- Street-food vendors cooking\n- Busy crowd with shallow depth of field\n- Bokeh lights throughout scene\n- Authentic Asian night market atmosphere\n\nCamera:\n\n- Eye-level angle\n- Medium shot\n- 35mm lens\n- f/1.8 aperture\n- Cinematic depth of field\n- High-detail documentary photography\n- Natural skin texture\n- Sharp focus on subjects\n- Soft background blur\n\nLighting:\n\n- Mixed neon and warm food-stall lighting\n- Vibrant night colors\n- Realistic reflections\n- Professional travel photography\n\nStyle:\n\n- Hyperrealistic\n- Award-winning photojournalism\n- National Geographic travel photography\n- Ultra detailed\n- 8K resolution\n- HDR\n- Realistic facial expressions\n- Authentic street-food culture\n\nMood:\nPlayful rivalry, curiosity, travel adventure, cultural food experience, humorous reaction shot, candid moment.\n\nNegative Prompt:\ncartoon, illustration, painting, CGI, 3D render, anime, low resolution, blurry face, distorted hands, extra fingers, oversaturated colors, artificial lighting, unrealistic proportions.",
+    "category": "food-drink",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Ciri",
+      "handle": "Ciri_ai"
+    },
+    "source_platform": "X",
+    "source_id": "2069470215185027181",
+    "source_url": "https://x.com/Ciri_ai/status/2069470215185027181",
+    "images": [
+      "https://pbs.twimg.com/media/HLg8K--aQAAVwXt.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/db9c2670-d11c-4a52-be01-a5ee24bb120f",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/db9c2670-d11c-4a52-be01-a5ee24bb120f",
+    "published_at": "2026-10-05T07:13:23.211913+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "a7af11f3473b3e437057931fa0b520180f165a8756d1168274b9d678d586df55"
   },
   {
     "id": "dc5aaa9d-f992-4360-9209-388ecd0516a8",
@@ -5503,6 +5583,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "daed03078717b13df8ed01df6c9d437cb64e997891ed4b597b601ca6c2cb070e"
+  },
+  {
+    "id": "fa340079-f08a-4ff8-8c41-4d8aa29f0e25",
+    "title": "CCTV Surveillance Style Portrait of a Teenage Girl",
+    "prompt": "Generate a image \n\nCCTV-style surveillance footage capturing a stylish teenage girl walking past a security camera. She pauses, looks directly up into the lens with a bright, friendly smile, and waves her hand casually. Her movements are candid and natural, yet carrying a subtle, confident, model-like poise. She is wearing a casual, modern outfit, walking through an indoor public space such as a hallway or a lobby.\nThe shot is captured from a high-angle security camera perspective utilizing a slightly distorted wide-angle lens. The visual quality is intentionally low-resolution and desaturated, nearly monochrome, to mimic authentic security footage.\nA digital timestamp overlay ticks in the corner, while subtle scan lines, digital noise, and heavy compression artifacts overlay the video. There is realistic motion blur on her wave, uneven lighting across the space, and harsh shadows. The entire frame has a grainy texture, embodying a raw, unpolished, and documentary-style surveillance aesthetic.",
+    "category": "portrait",
+    "model_key": "nano-banana-2",
+    "model_name": "Nano Banana 2",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Ozair AI",
+      "handle": "Ozayrr_irl"
+    },
+    "source_platform": "X",
+    "source_id": "2068871040051331204",
+    "source_url": "https://x.com/Ozayrr_irl/status/2068871040051331204",
+    "images": [
+      "https://pbs.twimg.com/media/HLYbNuebgAA6Qcf.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/fa340079-f08a-4ff8-8c41-4d8aa29f0e25",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/fa340079-f08a-4ff8-8c41-4d8aa29f0e25",
+    "published_at": "2026-10-05T07:13:22.129301+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "ba9422c4d6f0b65269abb53fcdce9297dbb3b7467e49a09bde2db3088c32efd3"
   },
   {
     "id": "fa4df9af-2def-4438-a745-1da26fd97eba",
