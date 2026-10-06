@@ -493,3 +493,38 @@ Create a funny photographic image of an elderly grandmother feeding bread to 3 l
 **[Try on MuseSignal →](<https://musesignal.com/prompt/8c628218-1cdc-4615-827a-7f4102f86b13?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/michaelrabone/status/2092567741014200799>)
 
 ---
+
+<a id="prompt-e5cd83d5-202c-4bc9-bd4e-4f93f1da5ba1"></a>
+
+## Architectural Cat Houses in Studio Style
+
+<a href="https://musesignal.com/prompt/e5cd83d5-202c-4bc9-bd4e-4f93f1da5ba1?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNB_elFa4AA89TJ.jpg?format=jpg&amp;name=small" width="480" alt="Architectural Cat Houses in Studio Style" /></a>
+
+**Nano Banana 2** · Creator: Shams
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A breathtaking luxury cat house inspired by [ARCHITECTURE STYLE], transformed into a highly detailed miniature architectural masterpiece for cats while faithfully preserving the iconic design language of [ARCHITECTURE STYLE]. The structure features [signature architectural elements], intricate handcrafted detailing, premium construction materials, elegant proportions, layered architectural depth, decorative façades, sculptural roofs, grand entrance, ornamental windows, balconies, arches, columns, towers, staircases, hidden cat tunnels, cozy cat rooms, elevated observation decks, built-in scratching areas, sleeping nooks, and playful climbing platforms seamlessly integrated into the architecture. Every surface showcases exceptional craftsmanship with realistic materials, rich textures, and authentic architectural detailing.
+Beside the house stands one beautiful mature ornamental tree that perfectly complements the architectural style, featuring a naturally sculpted trunk and lush foliage. Two adorable playful kittens are climbing, sitting, and interacting naturally among the branches. One elegant adult cat sits proudly at the main entrance, looking directly toward the viewer. Three extremely tiny fluffy kittens peek curiously from different parts of the house, including windows, balconies, roof openings, arches, decorative niches, and cozy interior spaces, creating storytelling, depth, and a charming sense of scale.
+Centered composition, isolated architectural subject, pure white seamless studio background, clean negative space, soft realistic contact shadows beneath the house and tree only, luxury product-style presentation, architectural visualization, ultra-photorealistic rendering, physically based rendering (PBR), ray tracing, global illumination, ambient occlusion, realistic reflections, cinematic daylight, HDR lighting, hyper-realistic textures, ultra-detailed architectural ornamentation, realistic stone, wood, metal, glass, or marble materials according to the selected style, ultra-realistic cat fur, razor-sharp focus, Octane Render quality, Unreal Engine 5 quality, V-Ray quality, Corona Renderer quality, architectural photography, magazine-quality render, masterpiece, 8K ultra-high resolution, vertical 9:16, no people, no text, no watermark, no logo, no border, no extra animals beyond 1 adult cat, 2 kittens in the tree, and 3 tiny kittens inside the house.
+- Replace These Fields
+[ARCHITECTURE STYLE]
+Milan Cathedral Gothic
+Parametric Architecture
+Japanese Zen
+Santorini Greek
+Baroque Palace
+Brutalism
+Neo-Futurism
+Mughal Palace
+French Château
+Tudor Manor
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/e5cd83d5-202c-4bc9-bd4e-4f93f1da5ba1?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/ShamsAmin56/status/2076300999057449082>)
+
+---
