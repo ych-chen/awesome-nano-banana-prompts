@@ -266,6 +266,32 @@
     "content_hash": "98821188bf307c917d3b70341c58fded2a574c9db04460eef505db880f9ffb03"
   },
   {
+    "id": "0a2ebf28-8a8e-4cd0-be6c-5e3add6750d8",
+    "title": "Luxury Editorial Korean Woman Collage",
+    "prompt": "Create a luxurious editorial-style digital collage featuring the same elegant Korean woman consistently across every frame. Preserve perfect facial consistency in all portraits with the same hairstyle, facial proportions, skin texture, eye shape, nose, lips, and expression while varying only the pose and camera angle.\n\nDesign a warm, cinematic composition in a rich palette of amber, bronze, mahogany, burnt sienna, copper, and golden candlelight. Arrange four main portraits blended seamlessly into a single vertical collage:\n•A large, softly lit close-up portrait with direct eye contact and a gentle smile.\n•A graceful side-profile with eyes closed, creating a peaceful, introspective mood.\n•A three-quarter portrait looking confidently toward the viewer with subtle elegance.\n•An extreme macro close-up of one eye showcasing intricate eyelashes, iris details, and warm reflections.\n•A soft macro crop of naturally glossy lips blended artistically into the composition.\n\nDress her in an exquisite deep burgundy traditional-inspired embroidered outfit with intricate gold threadwork, delicate floral motifs, sheer embroidered sleeves, and elegant drop earrings. Her long black hair falls naturally with soft, slightly tousled waves framing her face.\n\nSurround the portraits with blooming bronze lilies, warm-toned flowers, floating petals, glowing candles, delicate bokeh lights, handwritten vintage manuscript textures, and subtle smoky overlays. Blend every element with smooth cinematic transitions so the collage feels like one cohesive artwork rather than separate photographs.\n\nUse soft Rembrandt lighting mixed with warm candlelight, volumetric glow, rich shadows, shallow depth of field, dreamy atmosphere, premium fashion editorial styling, luxury magazine aesthetics, cinematic color grading, ultra-realistic skin texture, natural makeup, photorealistic details, HDR, masterpiece quality, ultra-high detail, 8K resolution, award-winning digital art, harmonious composition, and an elegant romantic mood.",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Professor",
+      "handle": "Professor_134"
+    },
+    "source_platform": "X",
+    "source_id": "2074526602931904514",
+    "source_url": "https://x.com/Professor_134/status/2074526602931904514",
+    "images": [
+      "https://pbs.twimg.com/media/HMoy6qqbkAA1G0L.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/0a2ebf28-8a8e-4cd0-be6c-5e3add6750d8",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/0a2ebf28-8a8e-4cd0-be6c-5e3add6750d8",
+    "published_at": "2026-10-07T07:29:09.912453+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "e744bfbd62162a2a0d9c66dcc7e8a1f47d793da55ea96173d7d0649e6ad06a8e"
+  },
+  {
     "id": "0c8b249a-0c83-442b-9c18-da2b489cf759",
     "title": "Relaxed Pose in Teal Bodysuit on Outdoor Couch",
     "prompt": "{\n\"image_description\": {\n\"subject\": {\n\"use_reference_image\": true,\n\"override\": false,\n\"pose_and_composition\": {\n\"position\": \"sitting on the top backrest of an outdoor couch\",\n\"body_language\": \"arms raised with hands behind the head, legs crossed at the calves, relaxed and symmetrical\",\n\"angle\": \"eye-level, front-facing\",\n\"shot_type\": \"full-body portrait\",\n\"aspect_ratio\": \"2:3 (vertical)\"\n}\n},\n\"attire\": {\n\"primary_garment\": \"dusty blue/teal ribbed knit bodysuit or romper\",\n\"garment_details\": \"square neckline, thick tank-style straps, body-con fit\",\n\"footwear\": \"white ankle-high crew socks with 'TNA' logo printed in dark text on the foot and ankle\",\n\"jewelry\": [\n\"multiple gold and pearl beaded bracelets on both wrists\",\n\"delicate gold chain necklace\"\n],\n},\n\"environment\": {\n\"setting\": \"outdoor patio or deck\",\n\"furniture\": \"grey wicker-style couch with thick light-grey fabric cushions\",\n\"background_elements\": [\n\"sliding glass doors with white frames\",\n\"interior view showing a wooden floor and a dark wooden table\",\n\"a glimpse of a patterned rug (blue and white) inside the room\",\n\"a small, colorful abstract-patterned rug on the wooden deck floor near the door\"\n]\n},\n\"lighting_and_style\": {\n\"lighting\": \"natural daylight, soft and diffused\",\n\"vibe\": \"warm, casual, lifestyle photography\"\n},\n\"technical_details\": {\n\"focus\": \"sharp focus on subject with slight background softness\",\n\"depth_of_field\": \"shallow to moderate\",\n\"color_palette\": [\n\"dusty blue\",\n\"cool grey\",\n\"warm wood tones\",\n\"crisp white\"",
@@ -3662,6 +3688,33 @@
     "content_hash": "998d7a22f4bdb26cd4f50860a8e286b38d33ace3d9fd1959d77fb5c18c7992b1"
   },
   {
+    "id": "b67d51d9-95b7-4f83-8393-785c477fbdce",
+    "title": "Football Screening Euphoria to Suspense",
+    "prompt": "A vibrant outdoor public screening of a football match in a historic European city square, filled with a dense crowd of passionate spectators. The main focus is on a young Caucasian couple—a man with dark, curly hair and a beard, and a woman with long, wavy brown hair—both wearing jerseys in the national team colors of red and green, featuring numbers 7 and 10, with Portuguese flags painted on their cheeks. In one scene, they are captured in a moment of pure euphoria; the man is ecstatically cheering while waving a large national flag high in the air, his arm wrapped around the woman, who smiles brightly with a fist raised in celebration. In a contrasting scene, the atmosphere shifts to intense suspense and anxiety; they lean close together, looking at each other with wide, worried eyes. The woman holds her hands together in a prayer-like gesture near her face, while the man holds a printed match schedule or ticket, looking stressed. The background shows a massive LED screen broadcasting the game, string lights illuminating the evening, and other fans reacting emotionally, all set against historic stone buildings and cobblestone streets.",
+    "category": "scene-space",
+    "model_key": "nano-banana",
+    "model_name": "Nano Banana",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Minahil",
+      "handle": "Minahil42298354"
+    },
+    "source_platform": "X",
+    "source_id": "2065489535044039039",
+    "source_url": "https://x.com/Minahil42298354/status/2065489535044039039",
+    "images": [
+      "https://pbs.twimg.com/media/HKoXxxKWMAADliU.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HKoXxxIWsAAAD0k.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/b67d51d9-95b7-4f83-8393-785c477fbdce",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/b67d51d9-95b7-4f83-8393-785c477fbdce",
+    "published_at": "2026-10-07T07:28:52.619066+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "a42f439189b51ba0a5234ff5944525f9ca65f7b0df1dc62630d5bed57d9c5585"
+  },
+  {
     "id": "b7a037b2-b348-47d4-8b4f-f6982bc73d56",
     "title": "Nano Banana Pro: Color Explosion Promo",
     "prompt": "Nano Banana Pro|| 8k\nUltra-Realistic Promotional\n[ELON MUSK HAND SHAKE FOR RONALADO ] at center of colored powder, flour, cocoa, pigment explosion, particles radiating outward, frozen chaos, high-speed flash photography, dynamic energy, against black background, festival of color",
@@ -4452,32 +4505,6 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "1ce92a148d44a2831338d64fd099ea3b4b065f570ecbee86d6be044b57eed426"
-  },
-  {
-    "id": "d468ae68-8448-4a3d-bf50-a0c99793fea4",
-    "title": "AI Model Timeline Infographic Since October 2025",
-    "prompt": "Since October 2025:\n- OpenAI: 5 models\n- Anthropic: 6 models\n- Google: 3 models, one of them was Gemini 3.5 Flash, which was more expensive to use than 3.1 Pro and also worse than it",
-    "category": "poster-graphic",
-    "model_key": "nano-banana",
-    "model_name": "Nano Banana",
-    "model_family": "nano-banana",
-    "author": {
-      "name": "Angel 🌼",
-      "handle": "Angaisb_"
-    },
-    "source_platform": "X",
-    "source_id": "2067699508830507040",
-    "source_url": "https://x.com/Angaisb_/status/2067699508830507040",
-    "images": [
-      "https://pbs.twimg.com/media/HLHxM0JWsAACtWy.png?format=jpg&name=large"
-    ],
-    "musesignal_url": "https://musesignal.com/prompt/d468ae68-8448-4a3d-bf50-a0c99793fea4",
-    "musesignal_url_zh": "https://musesignal.com/zh/prompt/d468ae68-8448-4a3d-bf50-a0c99793fea4",
-    "published_at": "2026-07-29T15:47:36.243755+00:00",
-    "source_published_at": null,
-    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
-    "license": null,
-    "content_hash": "62e9a195b7a92f714d77ca6d7691a05319f0c0e91739f816b75000ed3d40f805"
   },
   {
     "id": "d4ad42b3-0864-44b0-86cf-ab5c57d6c276",
@@ -5583,6 +5610,35 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "a094db050de997f4c3f55b4d3bdd89c3fddad556ff8609521da3c1bae3222514"
+  },
+  {
+    "id": "f5d8bdf7-0d14-4614-b319-6040b98d2e32",
+    "title": "3D Soccer Letter Player Poster Prompt",
+    "prompt": "Massive 3D capital letter [LETTER] in modern bold typography with realistic black-and-white soccer ball texture, detailed pentagonal and hexagonal panels, glossy leather texture with subtle stitching and slight wear, [PLAYER NAME] in [POSE/ACTION] emerging powerfully from the letter, wearing [TEAM] home jersey, [ADDITIONAL ACTION OR MOTION], at the bottom center a smaller funny caricature head and neck of the same player with exaggerated humorous playful expression peeking from the bottom mid of the canvas, only head and neck visible, not too large, well-balanced composition, small FIFA 2026 logo placed in the top left corner, player number [NUMBER] displayed prominently in the top right corner in bold modern font, dramatic cinematic lighting, strong shadows, realistic depth and volume, premium sports branding aesthetic, solid [BACKGROUND COLOR] background, dynamic composition, ultra realistic, highly detailed textures, professional sports advertising style, sharp focus, cinematic color grading, masterpiece, 16:9 aspect ratio.",
+    "category": "poster-graphic",
+    "model_key": "nano-banana-2",
+    "model_name": "Nano Banana 2",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Shams",
+      "handle": "ShamsAmin56"
+    },
+    "source_platform": "X",
+    "source_id": "2069026620925698186",
+    "source_url": "https://x.com/ShamsAmin56/status/2069026620925698186",
+    "images": [
+      "https://pbs.twimg.com/media/HLaoPbsaQAAc34F.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLaoPbsbUAAm4aI.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLaoPbnawAEZbpO.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLaoPbrbQAEatmV.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/f5d8bdf7-0d14-4614-b319-6040b98d2e32",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/f5d8bdf7-0d14-4614-b319-6040b98d2e32",
+    "published_at": "2026-10-07T07:29:02.701501+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "da49fc7cf4fc975d32eee241dc349b21d84a799fc7d0e3a9d1ff0f9188310b90"
   },
   {
     "id": "f5ff41f3-52fc-4935-b79d-1b1278ca4b44",

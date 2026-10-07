@@ -528,3 +528,24 @@ Tudor Manor
 **[Try on MuseSignal →](<https://musesignal.com/prompt/e5cd83d5-202c-4bc9-bd4e-4f93f1da5ba1?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/ShamsAmin56/status/2076300999057449082>)
 
 ---
+
+<a id="prompt-b67d51d9-95b7-4f83-8393-785c477fbdce"></a>
+
+## Football Screening Euphoria to Suspense
+
+<a href="https://musesignal.com/prompt/b67d51d9-95b7-4f83-8393-785c477fbdce?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKoXxxKWMAADliU.jpg?format=jpg&amp;name=small" width="480" alt="Football Screening Euphoria to Suspense" /></a>
+
+**Nano Banana** · Creator: Minahil
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A vibrant outdoor public screening of a football match in a historic European city square, filled with a dense crowd of passionate spectators. The main focus is on a young Caucasian couple—a man with dark, curly hair and a beard, and a woman with long, wavy brown hair—both wearing jerseys in the national team colors of red and green, featuring numbers 7 and 10, with Portuguese flags painted on their cheeks. In one scene, they are captured in a moment of pure euphoria; the man is ecstatically cheering while waving a large national flag high in the air, his arm wrapped around the woman, who smiles brightly with a fist raised in celebration. In a contrasting scene, the atmosphere shifts to intense suspense and anxiety; they lean close together, looking at each other with wide, worried eyes. The woman holds her hands together in a prayer-like gesture near her face, while the man holds a printed match schedule or ticket, looking stressed. The background shows a massive LED screen broadcasting the game, string lights illuminating the evening, and other fans reacting emotionally, all set against historic stone buildings and cobblestone streets.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/b67d51d9-95b7-4f83-8393-785c477fbdce?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Minahil42298354/status/2065489535044039039>)
+
+---

@@ -18,7 +18,7 @@ Complete prompts, real example images, original creators and sources. Curated by
 
 | Public prompts in this repository | Complete examples on this page | Dataset updated |
 | ---: | ---: | --- |
-| **214** | **60** | 2026-10-06 |
+| **216** | **60** | 2026-10-07 |
 
 This repository shares a selection from MuseSignal. The counts distinguish JSON records from examples on this page, not the full website library. Model collections are subsets of the catalog.
 
@@ -28,12 +28,12 @@ Open a filtered MuseSignal gallery. Counts refer to this repository's JSON; mode
 
 | Browse by use case | In JSON | MuseSignal |
 | --- | ---: | --- |
-| Portrait | 98 | [Nano Banana](<https://musesignal.com/?category=portrait&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana 2](<https://musesignal.com/?category=portrait&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana Pro](<https://musesignal.com/?category=portrait&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) |
+| Portrait | 99 | [Nano Banana](<https://musesignal.com/?category=portrait&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana 2](<https://musesignal.com/?category=portrait&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana Pro](<https://musesignal.com/?category=portrait&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) |
 | Commercial &amp; Product | 41 | [Nano Banana](<https://musesignal.com/?category=commercial-product&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana 2](<https://musesignal.com/?category=commercial-product&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana Pro](<https://musesignal.com/?category=commercial-product&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) |
 | Poster &amp; Graphic | 17 | [Nano Banana](<https://musesignal.com/?category=poster-graphic&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) · [Nano Banana 2](<https://musesignal.com/?category=poster-graphic&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) · [Nano Banana Pro](<https://musesignal.com/?category=poster-graphic&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) |
 | Food &amp; Drink | 12 | [Nano Banana](<https://musesignal.com/?category=food-drink&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) · [Nano Banana 2](<https://musesignal.com/?category=food-drink&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) · [Nano Banana Pro](<https://musesignal.com/?category=food-drink&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) |
 | Character &amp; Art | 29 | [Nano Banana](<https://musesignal.com/?category=character-art&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana 2](<https://musesignal.com/?category=character-art&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana Pro](<https://musesignal.com/?category=character-art&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) |
-| Scene &amp; Space | 17 | [Nano Banana](<https://musesignal.com/?category=scene-space&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) · [Nano Banana 2](<https://musesignal.com/?category=scene-space&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) · [Nano Banana Pro](<https://musesignal.com/?category=scene-space&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) |
+| Scene &amp; Space | 18 | [Nano Banana](<https://musesignal.com/?category=scene-space&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) · [Nano Banana 2](<https://musesignal.com/?category=scene-space&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) · [Nano Banana Pro](<https://musesignal.com/?category=scene-space&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) |
 
 <a id="selected-prompts"></a>
 
@@ -634,6 +634,42 @@ Use case: Portrait
 
 ---
 
+<a id="prompt-0a2ebf28-8a8e-4cd0-be6c-5e3add6750d8"></a>
+
+#### Luxury Editorial Korean Woman Collage
+
+<a href="https://musesignal.com/prompt/0a2ebf28-8a8e-4cd0-be6c-5e3add6750d8?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMoy6qqbkAA1G0L.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Editorial Korean Woman Collage" /></a>
+
+**Nano Banana Pro** · Creator: Professor
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create a luxurious editorial-style digital collage featuring the same elegant Korean woman consistently across every frame. Preserve perfect facial consistency in all portraits with the same hairstyle, facial proportions, skin texture, eye shape, nose, lips, and expression while varying only the pose and camera angle.
+
+Design a warm, cinematic composition in a rich palette of amber, bronze, mahogany, burnt sienna, copper, and golden candlelight. Arrange four main portraits blended seamlessly into a single vertical collage:
+•A large, softly lit close-up portrait with direct eye contact and a gentle smile.
+•A graceful side-profile with eyes closed, creating a peaceful, introspective mood.
+•A three-quarter portrait looking confidently toward the viewer with subtle elegance.
+•An extreme macro close-up of one eye showcasing intricate eyelashes, iris details, and warm reflections.
+•A soft macro crop of naturally glossy lips blended artistically into the composition.
+
+Dress her in an exquisite deep burgundy traditional-inspired embroidered outfit with intricate gold threadwork, delicate floral motifs, sheer embroidered sleeves, and elegant drop earrings. Her long black hair falls naturally with soft, slightly tousled waves framing her face.
+
+Surround the portraits with blooming bronze lilies, warm-toned flowers, floating petals, glowing candles, delicate bokeh lights, handwritten vintage manuscript textures, and subtle smoky overlays. Blend every element with smooth cinematic transitions so the collage feels like one cohesive artwork rather than separate photographs.
+
+Use soft Rembrandt lighting mixed with warm candlelight, volumetric glow, rich shadows, shallow depth of field, dreamy atmosphere, premium fashion editorial styling, luxury magazine aesthetics, cinematic color grading, ultra-realistic skin texture, natural makeup, photorealistic details, HDR, masterpiece quality, ultra-high detail, 8K resolution, award-winning digital art, harmonious composition, and an elegant romantic mood.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/0a2ebf28-8a8e-4cd0-be6c-5e3add6750d8?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Professor_134/status/2074526602931904514>)
+
+---
+
 <a id="prompt-fa340079-f08a-4ff8-8c41-4d8aa29f0e25"></a>
 
 #### CCTV Surveillance Style Portrait of a Teenage Girl
@@ -719,59 +755,9 @@ A quiet residential avenue turns into an elegant open-air setting against modern
 
 ---
 
-<a id="prompt-bdc7fc5f-05f6-418e-a48c-c444b8f8eaf5"></a>
-
-#### Three-Panel Cinematic Portrait Collage of a Woman
-
-<a href="https://musesignal.com/prompt/bdc7fc5f-05f6-418e-a48c-c444b8f8eaf5?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNFa8bRbcAATim8.jpg?format=jpg&amp;name=small" width="480" alt="Three-Panel Cinematic Portrait Collage of a Woman" /></a>
-
-**Nano Banana** · Creator: NUSRAT
-
-Use case: Portrait
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Gemini nano Banana image. 
-Prompt:
-
-  "image_composition": {
-    "layout": "Collage of three distinct scenes featuring the same female subject.",
-    "style": "4k resolution, cinematic lighting, photorealistic, high detail."
-  },
-  "panel_1_left": {
-    "subject": "Young woman with long dark wavy hair, elegant facial features.",
-    "pose": "Standing, leaning against a glass storefront at night, looking towards the camera.",
-    "outfit": "Vibrant red pantsuit consisting of a structured blazer and matching tailored trousers over a matching red top.",
-    "accessories": "Gold wristwatch, small gold hoop earrings.",
-    "setting": "Urban city street at night, illuminated by neon signs in Chinese characters and blurred city lights in the background."
-  },
-  "panel_2_top_right": {
-    "subject": "Same young woman, joyful expression, hair styled in an intricate braided updo.",
-    "pose": "Standing outdoors, holding a coconut with a straw, smiling naturally.",
-    "outfit": "Silk halter-neck top with a white, navy, and gold pattern, paired with beige linen trousers.",
-    "setting": "Resort or tropical poolside setting, lush green tropical plants, palm trees, golden hour lighting."
-  },
-  "panel_3_bottom_right": {
-    "subject": "Same young woman, serene expression, hair styled in a sleek low bun.",
-    "pose": "Sitting gracefully, looking down demurely.",
-    "outfit": "Rich dark emerald green ethnic Indian lehenga choli with intricate gold embroidery and a matching sheer dupatta.",
-    "accessories": "Large ornate gold jhumka earrings, small clutch bag.",
-    "setting": "Festive indoor event, bokeh lighting from hanging fairy lights or chandeliers in the background, elegant atmosphere."
-  }
-}
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/bdc7fc5f-05f6-418e-a48c-c444b8f8eaf5?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/nxnusratul/status/2076540906266882321>)
-
----
-
 <a id="selected-commercial-product"></a>
 
-### Commercial &amp; Product · 12
+### Commercial &amp; Product · 11
 
 [Nano Banana](<https://musesignal.com/?category=commercial-product&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana 2](<https://musesignal.com/?category=commercial-product&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana Pro](<https://musesignal.com/?category=commercial-product&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>)
 
@@ -1054,32 +1040,9 @@ Ultra-realistic luxury commercial product photography of a premium transparent w
 
 ---
 
-<a id="prompt-bf809ccc-3b6b-433b-9946-dfd2d93169a5"></a>
-
-#### Black-and-White High Fashion Jewelry Editorial
-
-<a href="https://musesignal.com/prompt/bf809ccc-3b6b-433b-9946-dfd2d93169a5?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HM3t6c2bYAAmrGo.jpg?format=jpg&amp;name=small" width="480" alt="Black-and-White High Fashion Jewelry Editorial" /></a>
-
-**Nano Banana Pro** · Creator: Maddox
-
-Use case: Commercial &amp; Product
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Black-and-white high fashion jewelry editorial photograph featuring two models — a woman in the foreground and a man in the background. The woman has sleek hair pulled back tightly, wearing a black turtleneck top, a small geometric diamond stud earring, and a delicate diamond eternity ring on her finger. Her hand rests gently on the man's chest/shoulder. The man is positioned behind her in side profile, head slightly tilted upward, wearing a dark structured jacket, his face partially in deep shadow creating a dramatic silhouette. Pure white overexposed background. Dramatic high contrast studio lighting with deep shadows sculpting the faces. Intimate yet distant mood, luxury jewelry campaign aesthetic, sharp focus on the ring and earring, cinematic composition, shot from a slight low angle looking up, editorial Vogue or Tiffany & Co. campaign style, 8K, hyper-realistic.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/bf809ccc-3b6b-433b-9946-dfd2d93169a5?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Maddox_Digital/status/2075576614973530314>)
-
----
-
 <a id="selected-poster-graphic"></a>
 
-### Poster &amp; Graphic · 8
+### Poster &amp; Graphic · 9
 
 [Nano Banana](<https://musesignal.com/?category=poster-graphic&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) · [Nano Banana 2](<https://musesignal.com/?category=poster-graphic&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) · [Nano Banana Pro](<https://musesignal.com/?category=poster-graphic&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>)
 
@@ -1478,6 +1441,29 @@ Full step-by-step tutorial below 👇
 </details>
 
 **[Try on MuseSignal →](<https://musesignal.com/prompt/ab0d09b4-ab41-4252-b4b3-417590962fea?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/SadiaMalik182/status/2073984278963335636>)
+
+---
+
+<a id="prompt-f5d8bdf7-0d14-4614-b319-6040b98d2e32"></a>
+
+#### 3D Soccer Letter Player Poster Prompt
+
+<a href="https://musesignal.com/prompt/f5d8bdf7-0d14-4614-b319-6040b98d2e32?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLaoPbsaQAAc34F.jpg?format=jpg&amp;name=small" width="480" alt="3D Soccer Letter Player Poster Prompt" /></a>
+
+**Nano Banana 2** · Creator: Shams
+
+Use case: Poster &amp; Graphic
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Massive 3D capital letter [LETTER] in modern bold typography with realistic black-and-white soccer ball texture, detailed pentagonal and hexagonal panels, glossy leather texture with subtle stitching and slight wear, [PLAYER NAME] in [POSE/ACTION] emerging powerfully from the letter, wearing [TEAM] home jersey, [ADDITIONAL ACTION OR MOTION], at the bottom center a smaller funny caricature head and neck of the same player with exaggerated humorous playful expression peeking from the bottom mid of the canvas, only head and neck visible, not too large, well-balanced composition, small FIFA 2026 logo placed in the top left corner, player number [NUMBER] displayed prominently in the top right corner in bold modern font, dramatic cinematic lighting, strong shadows, realistic depth and volume, premium sports branding aesthetic, solid [BACKGROUND COLOR] background, dynamic composition, ultra realistic, highly detailed textures, professional sports advertising style, sharp focus, cinematic color grading, masterpiece, 16:9 aspect ratio.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/f5d8bdf7-0d14-4614-b319-6040b98d2e32?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/ShamsAmin56/status/2069026620925698186>)
 
 ---
 
@@ -2253,6 +2239,29 @@ Use case: Scene &amp; Space
 
 ---
 
+<a id="prompt-b67d51d9-95b7-4f83-8393-785c477fbdce"></a>
+
+#### Football Screening Euphoria to Suspense
+
+<a href="https://musesignal.com/prompt/b67d51d9-95b7-4f83-8393-785c477fbdce?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKoXxxKWMAADliU.jpg?format=jpg&amp;name=small" width="480" alt="Football Screening Euphoria to Suspense" /></a>
+
+**Nano Banana** · Creator: Minahil
+
+Use case: Scene &amp; Space
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A vibrant outdoor public screening of a football match in a historic European city square, filled with a dense crowd of passionate spectators. The main focus is on a young Caucasian couple—a man with dark, curly hair and a beard, and a woman with long, wavy brown hair—both wearing jerseys in the national team colors of red and green, featuring numbers 7 and 10, with Portuguese flags painted on their cheeks. In one scene, they are captured in a moment of pure euphoria; the man is ecstatically cheering while waving a large national flag high in the air, his arm wrapped around the woman, who smiles brightly with a fist raised in celebration. In a contrasting scene, the atmosphere shifts to intense suspense and anxiety; they lean close together, looking at each other with wide, worried eyes. The woman holds her hands together in a prayer-like gesture near her face, while the man holds a printed match schedule or ticket, looking stressed. The background shows a massive LED screen broadcasting the game, string lights illuminating the evening, and other fans reacting emotionally, all set against historic stone buildings and cobblestone streets.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/b67d51d9-95b7-4f83-8393-785c477fbdce?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Minahil42298354/status/2065489535044039039>)
+
+---
+
 <a id="prompt-e5cd83d5-202c-4bc9-bd4e-4f93f1da5ba1"></a>
 
 #### Architectural Cat Houses in Studio Style
@@ -2313,29 +2322,6 @@ Create a funny photographic image of an elderly grandmother feeding bread to 3 l
 
 ---
 
-<a id="prompt-8e50358f-22b5-4498-b53b-82f76e582eae"></a>
-
-#### Mid-Air Soccer Kick Action Shot
-
-<a href="https://musesignal.com/prompt/8e50358f-22b5-4498-b53b-82f76e582eae?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKwe1TQXgAAohX0.jpg?format=jpg&amp;name=small" width="480" alt="Mid-Air Soccer Kick Action Shot" /></a>
-
-**Nano Banana** · Creator: Minahil
-
-Use case: Scene &amp; Space
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-An action shot capturing a dynamic mid-air soccer kick in an open, grassy field under a bright, partly cloudy sky. The subject is frozen in a powerful, airborne leap, body twisted horizontally to the ground, with one leg extended high to strike a weathered, airborne soccer ball. Clods of dirt and grass fly off the boots, emphasizing the raw energy of the movement. The setting is a rustic, unmanicured field of dry winter grass, with soft-focus hills visible in the distant background, shot with a shallow depth of field that sharply isolates the athlete against the landscape.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/8e50358f-22b5-4498-b53b-82f76e582eae?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Minahil42298354/status/2066060276776993001>)
-
----
-
 ## Keep exploring
 
 [Browse on MuseSignal](<https://musesignal.com/?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=after_examples>) · [Start creating with free credits](<https://musesignal.com/?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=after_examples_create>)
@@ -2347,19 +2333,19 @@ Explore more examples, search and filters on MuseSignal.
 | Model | Prompts | MuseSignal |
 | --- | ---: | --- |
 | Nano Banana | 30 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana>) |
-| Nano Banana 2 | 83 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana-2>) |
-| Nano Banana Pro | 101 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana-pro>) |
+| Nano Banana 2 | 84 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana-2>) |
+| Nano Banana Pro | 102 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana-pro>) |
 
 ## Recently published
 
+- [Luxury Editorial Korean Woman Collage](<https://musesignal.com/prompt/0a2ebf28-8a8e-4cd0-be6c-5e3add6750d8?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
+- [3D Soccer Letter Player Poster Prompt](<https://musesignal.com/prompt/f5d8bdf7-0d14-4614-b319-6040b98d2e32?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana 2
+- [Football Screening Euphoria to Suspense](<https://musesignal.com/prompt/b67d51d9-95b7-4f83-8393-785c477fbdce?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana
 - [Cheetos Fisheye Snack-Ad Portrait](<https://musesignal.com/prompt/63f87d90-fb43-42b5-b635-afdbf48ac80a?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
 - [Architectural Cat Houses in Studio Style](<https://musesignal.com/prompt/e5cd83d5-202c-4bc9-bd4e-4f93f1da5ba1?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana 2
 - [Messi and Ronaldo at Taiwanese Night Market](<https://musesignal.com/prompt/db9c2670-d11c-4a52-be01-a5ee24bb120f?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
 - [CCTV Surveillance Style Portrait of a Teenage Girl](<https://musesignal.com/prompt/fa340079-f08a-4ff8-8c41-4d8aa29f0e25?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana 2
 - [Architectural Ink Dissolution Portrait](<https://musesignal.com/prompt/d57fd658-53c2-4026-a4e2-561f73cde896?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
-- [Rose Gold Luxury Perfume Ad](<https://musesignal.com/prompt/80ba7a5f-e99e-4c19-a8ff-b51a340b50b9?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana 2
-- [Grandmother Feeding Crocodiles in 1970s Film Style](<https://musesignal.com/prompt/8c628218-1cdc-4615-827a-7f4102f86b13?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana
-- [Sydney Sweeney on Red Lamborghini in High-Fashion Street Scene](<https://musesignal.com/prompt/73cd6790-1448-413a-a863-f046f61c8463?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana 2
 
 ## Generate on MuseSignal
 
@@ -2380,7 +2366,7 @@ Bring your own subject, product and reference images to these image models on Mu
 
 ## For developers: download the public dataset
 
-[Download full JSON · 214](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[Download full JSON · 216](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json

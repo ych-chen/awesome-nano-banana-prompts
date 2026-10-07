@@ -212,3 +212,37 @@ A digital timestamp overlay ticks in the corner, while subtle scan lines, digita
 **[Try on MuseSignal →](<https://musesignal.com/prompt/fa340079-f08a-4ff8-8c41-4d8aa29f0e25?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Ozayrr_irl/status/2068871040051331204>)
 
 ---
+
+<a id="prompt-0a2ebf28-8a8e-4cd0-be6c-5e3add6750d8"></a>
+
+## Luxury Editorial Korean Woman Collage
+
+<a href="https://musesignal.com/prompt/0a2ebf28-8a8e-4cd0-be6c-5e3add6750d8?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMoy6qqbkAA1G0L.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Editorial Korean Woman Collage" /></a>
+
+**Nano Banana Pro** · Creator: Professor
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create a luxurious editorial-style digital collage featuring the same elegant Korean woman consistently across every frame. Preserve perfect facial consistency in all portraits with the same hairstyle, facial proportions, skin texture, eye shape, nose, lips, and expression while varying only the pose and camera angle.
+
+Design a warm, cinematic composition in a rich palette of amber, bronze, mahogany, burnt sienna, copper, and golden candlelight. Arrange four main portraits blended seamlessly into a single vertical collage:
+•A large, softly lit close-up portrait with direct eye contact and a gentle smile.
+•A graceful side-profile with eyes closed, creating a peaceful, introspective mood.
+•A three-quarter portrait looking confidently toward the viewer with subtle elegance.
+•An extreme macro close-up of one eye showcasing intricate eyelashes, iris details, and warm reflections.
+•A soft macro crop of naturally glossy lips blended artistically into the composition.
+
+Dress her in an exquisite deep burgundy traditional-inspired embroidered outfit with intricate gold threadwork, delicate floral motifs, sheer embroidered sleeves, and elegant drop earrings. Her long black hair falls naturally with soft, slightly tousled waves framing her face.
+
+Surround the portraits with blooming bronze lilies, warm-toned flowers, floating petals, glowing candles, delicate bokeh lights, handwritten vintage manuscript textures, and subtle smoky overlays. Blend every element with smooth cinematic transitions so the collage feels like one cohesive artwork rather than separate photographs.
+
+Use soft Rembrandt lighting mixed with warm candlelight, volumetric glow, rich shadows, shallow depth of field, dreamy atmosphere, premium fashion editorial styling, luxury magazine aesthetics, cinematic color grading, ultra-realistic skin texture, natural makeup, photorealistic details, HDR, masterpiece quality, ultra-high detail, 8K resolution, award-winning digital art, harmonious composition, and an elegant romantic mood.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/0a2ebf28-8a8e-4cd0-be6c-5e3add6750d8?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Professor_134/status/2074526602931904514>)
+
+---
