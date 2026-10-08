@@ -1360,3 +1360,25 @@ Massive 3D capital letter [LETTER] in modern bold typography with realistic blac
 **[Try on MuseSignal →](<https://musesignal.com/prompt/f5d8bdf7-0d14-4614-b319-6040b98d2e32?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/ShamsAmin56/status/2069026620925698186>)
 
 ---
+
+<a id="prompt-26355e61-bf1e-413e-b6cb-f320cf52e298"></a>
+
+## Neo-Futuristic Cyberpunk Poster Illustration
+
+<a href="https://musesignal.com/prompt/26355e61-bf1e-413e-b6cb-f320cf52e298?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLQdN2LW8AAZe2P.jpg?format=jpg&amp;name=small" width="480" alt="Neo-Futuristic Cyberpunk Poster Illustration" /></a>
+
+**Nano Banana Pro** · Creator: zayan
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ultra-detailed neo-futuristic illustration style fused with expressive vintage character engraving aesthetics. Bold cyberpunk streetwear design rendered using sharp vector-like silhouettes, clean geometric contouring, and high-contrast cel-shaded lighting combined with organic painterly facial detailing. Strong Japanese graphic-poster influence with oversized typography blocks, abstract kanji elements, urban decals, and minimal industrial background compositions. Dominant palette of deep matte black, off-white, muted sepia, and aggressive neon red accents creating a striking editorial contrast.
+Facial rendering uses carved woodcut-inspired planes, dramatic wrinkle topology, angular anatomy lines, and flowing hand-illustrated beard/hair strands with subtle inked texture. Clothing and mechanical accessories feature layered techwear details, modular panels, patches, straps, cables, and futuristic industrial design language. Brushwork alternates between crisp hard-edge graphic fills and textured painterly shading with visible handcrafted imperfections. Overall aesthetic feels like a fusion of cyberpunk anime poster art, retro propaganda graphics, graphic novel illustration, ukiyo-e inspired line simplification, and cinematic concept-art portraiture with bold visual storytelling energy.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/26355e61-bf1e-413e-b6cb-f320cf52e298?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/HustleXR/status/2068310266388062571>)
+
+---

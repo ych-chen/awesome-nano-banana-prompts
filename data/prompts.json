@@ -804,6 +804,34 @@
     "content_hash": "b3fd4dcc23ed909c678184834b318f7a28dc275b468a281e8c4bf1306ae4ff8d"
   },
   {
+    "id": "26355e61-bf1e-413e-b6cb-f320cf52e298",
+    "title": "Neo-Futuristic Cyberpunk Poster Illustration",
+    "prompt": "Ultra-detailed neo-futuristic illustration style fused with expressive vintage character engraving aesthetics. Bold cyberpunk streetwear design rendered using sharp vector-like silhouettes, clean geometric contouring, and high-contrast cel-shaded lighting combined with organic painterly facial detailing. Strong Japanese graphic-poster influence with oversized typography blocks, abstract kanji elements, urban decals, and minimal industrial background compositions. Dominant palette of deep matte black, off-white, muted sepia, and aggressive neon red accents creating a striking editorial contrast.\nFacial rendering uses carved woodcut-inspired planes, dramatic wrinkle topology, angular anatomy lines, and flowing hand-illustrated beard/hair strands with subtle inked texture. Clothing and mechanical accessories feature layered techwear details, modular panels, patches, straps, cables, and futuristic industrial design language. Brushwork alternates between crisp hard-edge graphic fills and textured painterly shading with visible handcrafted imperfections. Overall aesthetic feels like a fusion of cyberpunk anime poster art, retro propaganda graphics, graphic novel illustration, ukiyo-e inspired line simplification, and cinematic concept-art portraiture with bold visual storytelling energy.",
+    "category": "poster-graphic",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "zayan",
+      "handle": "HustleXR"
+    },
+    "source_platform": "X",
+    "source_id": "2068310266388062571",
+    "source_url": "https://x.com/HustleXR/status/2068310266388062571",
+    "images": [
+      "https://pbs.twimg.com/media/HLQdN2LW8AAZe2P.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLQdOTaXkAAit_p.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLQdOa9XUAAfcHe.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/26355e61-bf1e-413e-b6cb-f320cf52e298",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/26355e61-bf1e-413e-b6cb-f320cf52e298",
+    "published_at": "2026-10-08T07:34:19.137173+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "3cd4b502dcb3141d7b5d33dc88ece62f1c877abe5201f6fd48f7dc17ade2bb17"
+  },
+  {
     "id": "26898e57-951d-496c-8ab1-02a1cdf214eb",
     "title": "Phoenix Force in Iconic Suits",
     "prompt": "[\n{\n\"image_index\": 1,\n\"file_name\": \"image-3.jpg\",\n\"character\": \"Jean Grey / Phoenix\",\n\"description\": \"Sadie Sink ne 'Phoenix' ka iconic suit pehna hai. Suit ka rang pinkish-magenta hai jismein seene par bade size ka white phoenix logo bana hai. Saath hi golden gloves, golden boots aur ek golden waist sash (belt) bhi hai.\",\n\"theme\": \"Phoenix Force\"\n},\n{\n\"image_index\": 2,\n\"file_name\": \"image-2.jpg\",\n\"character\": \"Jean Grey\",\n\"description\": \"Yeh ek modern tactical suit hai jo 90s ki animated series se prerit lagta hai. Suit ka rang neela (blue) aur peela (yellow) hai, jismein metallic shoulder pads aur ek metallic headpiece shamil hai. Belt par 'X' ka logo saaf dikhayi de raha hai.\",\n\"theme\": \"X-Men Uniform\"\n},\n{\n\"image_index\": 3,\n\"file_name\": \"image-1.jpg\",\n\"character\": \"Jean Grey / Dark Phoenix style\",\n\"description\": \"Ismein Sadie Sink ne poore laal (crimson red) rang ka metallic suit pehna hai. Iska design body armor jaisa hai jismein abdominal plating aur boots par peele rang ke 'X' straps bane hue hain. Sar par ek chota laal tiara/headband bhi hai.\",\n\"theme\": \"Red Tactical/Phoenix\"",
@@ -1443,6 +1471,33 @@
     "content_hash": "613e9c6c72adfa283e02ec9bf0bc1d40096ccccedcaaecc14bfe50dffc2a0729"
   },
   {
+    "id": "41c31874-9ace-4083-a2fd-dc89c1177887",
+    "title": "Colored Pencil Portrait on Recycled Paper",
+    "prompt": "Ultra-detailed traditional colored pencil illustration, realistic hand-drawn portrait with refined graphite construction lines and layered colored pencil rendering, soft cross-hatching, delicate directional strokes, subtle burnished pencil blending, rich paper grain texture, visible sketch marks intentionally preserved, elegant mixed-media illustration combining colored pencil, graphite, and light pastel accents, handcrafted fine-art aesthetic.\nThe face is rendered with maximum precision and clarity, featuring razor-sharp details, rich color saturation, crisp edges, realistic skin texture, finely layered pencil pigments, luminous highlights, expressive eyes, and high-definition facial features as the primary focal point. Strong tonal contrast and refined color transitions create a striking, realistic traditional drawing appearance.\nThe illustration gradually transitions downward into an intentionally unfinished sketch. Colors softly fade into loose colored pencil strokes, rough graphite lines, expressive cross-hatching, visible construction marks, painterly smudges, incomplete outlines, and spontaneous hand-drawn gestures. The lower clothing and surrounding elements dissolve naturally into abstract unfinished sketch textures, preserving the authentic work-in-progress aesthetic.\nBackground: muted teal-green to warm gray recycled paper, textured handmade paper surface with visible recycled fibers, subtle pulp grain, soft paper speckles, natural paper imperfections, lightly weathered matte finish, organic fibrous texture, gentle tonal variations, clean minimal composition, elegant sketchbook presentation. The artwork blends naturally into the paper surface, allowing some pencil strokes and unfinished marks to merge seamlessly with the textured recycled paper.\nNatural muted color palette featuring dusty teal, sage green, muted turquoise, warm gray, soft ivory, beige, sepia, charcoal, faded denim blue, and restrained warm golden highlights. The face remains the most vibrant and sharply colored area, while the lower portion gradually becomes lighter, softer, and more transparent.\nSoft natural lighting, gentle highlights, subtle ambient shadows, smooth tonal gradients created entirely through layered pencil strokes, crisp focal details concentrated on the face, gradually dissolving into expressive unfinished linework toward the bottom, premium traditional illustration aesthetic, timeless fine-art realism, museum-quality sketchbook illustration, ultra-high detail. Ar 9:16!",
+    "category": "portrait",
+    "model_key": "nano-banana",
+    "model_name": "Nano Banana",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "zayan",
+      "handle": "HustleXR"
+    },
+    "source_platform": "X",
+    "source_id": "2081706843227975967",
+    "source_url": "https://x.com/HustleXR/status/2081706843227975967",
+    "images": [
+      "https://pbs.twimg.com/media/HOO1UFPbYAApnvs.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HOO1VYobMAA3hCq.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/41c31874-9ace-4083-a2fd-dc89c1177887",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/41c31874-9ace-4083-a2fd-dc89c1177887",
+    "published_at": "2026-10-08T07:34:34.511083+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "9693ba4d5c5fc03e0074f258860d008a3b213a3bec4bed569fef1470371a656d"
+  },
+  {
     "id": "453e2104-9a6a-44aa-bd87-a5a7e1dcbd33",
     "title": "Nature's Sculptural Portrait in Bloom",
     "prompt": "A photorealistic 3D sculptural portrait constructed from weathered wood branches, bark pieces, blooming red and pink roses, lush green leaves, moss, and polished black obsidian crystals, in the organic, high-fashion style of image_0.png. The person's face and head are intricately formed from these natural materials, with twisted wood forming the contours of the skin and hair, flowers and foliage adorning the features and forming a crown, and glossy black stones used for the eyes and other accents. Dew drops cling to the petals and crystals, and small specks of soil and bark are visible. The sculpture is floating against a clean white studio background with a soft shadow beneath, shot with dramatic, detailed lighting to emphasize texture. [user's photo reference here] as the subject base for the portrait's likeness.",
@@ -2031,6 +2086,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "2f99fac46009137f9ce442996cac6ad2343f11f57e96f952fe1613d8636baf59"
+  },
+  {
+    "id": "63e2be27-0935-411b-aae1-375ea6df83cc",
+    "title": "Lakeside Lifestyle Portrait in Tortoiseshell Sunglasses",
+    "prompt": "A young male sits in a black outdoor chair, positioned in the center with a confident demeanor and a relaxed 45-degree turn of his body. His short hair features a matte styled, textured top about two to three inches long with tapered sides, revealing natural imperfections, subtle waves, and realistic stray flyaways. He maintains a neutral mouth and directs a steady gaze through tortoiseshell sunglasses. He is dressed in a black shirt. His relaxed shoulders lead down to his organically positioned hands; his left hand rests smoothly on his thigh, casually holding a cylindrical matte taupe handleless cup, while his right hand rests elevated on his right thigh with fingers loosely curled inward, displaying a gold rectangular watch with a brown leather strap. He interacts seamlessly with his outdoor setting, where the foreground features a heavily weathered, grayish-brown wooden deck with prominently grooved planks, flanked subtly by a small round table frame on the right edge. The medium depth of field slightly blurs the deep spatial background, giving way to a calm midground lake that perfectly reflects the cloudy sky, alongside a small floating wooden pier accented by a yellow buoy on the left. In the deep background, thriving coastal town architecture and rolling hills fade gently into the distance. The scene exudes a calm, relaxed, overcast lakeside atmosphere, dominated by an analogous and cool color palette of desaturated cloudy blue-grays, plum browns, and weathered wood tones. A single source of natural, soft daylight diffuses gently from above, wrapping the scene in moderate intensity and low flat contrast. This creates a flattering illumination that casts faint, short shadows with soft gradual edges directly under the subject, while dusting subtle specular highlights across the texture of his matte hair and shoulders supported by neutral ambient fill. Captured as a tack sharp digital photograph employing an 85mm lens at an f/4.0 aperture, the straight-on perspective draws heavily from clean lifestyle social media photography. The realistic, grain-free image undergoes post-processing to desaturate the blues, mute the overall tones, and apply a mild contrast adjustment, seamlessly guiding the asymmetric visual hierarchy from his face down to his hands and out toward the lake, beautifully framed in a 4:5 aspect ratio.",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Picts by AI",
+      "handle": "pictsbyai"
+    },
+    "source_platform": "X",
+    "source_id": "2068605868212355268",
+    "source_url": "https://x.com/pictsbyai/status/2068605868212355268",
+    "images": [
+      "https://pbs.twimg.com/media/HLUqDgUWIAACCfu.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/63e2be27-0935-411b-aae1-375ea6df83cc",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/63e2be27-0935-411b-aae1-375ea6df83cc",
+    "published_at": "2026-10-08T07:34:24.324495+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "fa2d77dc3a601180b7cfbc197d651746b363e9697ce29677b09ae755c06c7fa6"
   },
   {
     "id": "63f87d90-fb43-42b5-b635-afdbf48ac80a",
@@ -3686,6 +3767,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "998d7a22f4bdb26cd4f50860a8e286b38d33ace3d9fd1959d77fb5c18c7992b1"
+  },
+  {
+    "id": "b672095a-a66a-41f3-9fe8-de2cd617ddae",
+    "title": "Rugged Man on Italian Lakeside Balcony",
+    "prompt": "A ruggedly handsome man stands in profile, leaning back slightly with relaxed shoulders, his gaze directed away in a candid, serious expression with neutral brows and mouth. He features medium textured hair and a thick beard, with subtle specular highlights catching his forehead, nose bridge, and the individual strands of his hair. He wears an unbuttoned dark charcoal brown linen shirt that reveals a silver pendant necklace resting on his exposed chest, paired with black trousers. His left hand is tucked casually into his trouser pocket with only the wrist and thumb visible, while his right hand rests effortlessly near his hip, lightly holding a pair of sunglasses by the frames in a relaxed, organic gesture, accented by a silver watch and bracelet. He is positioned on a gray concrete floor behind a pristine black wrought-iron balcony railing featuring twisted vertical bars in the immediate foreground. Beyond the balcony, the scene opens with deep spatial depth to a calm, deep slate blue lake dotted with moored sailboats, flanked on the bottom right by vintage Italian-style buildings displaying weathered, patchy plaster walls painted in pale yellow and topped with warm terracotta tiled roofs. The background is dominated by steep, rocky mountain cliffs that are misty and partially obscured by low-hanging clouds. The atmosphere exudes calm, sophisticated luxury, illuminated by a single diffused natural light source from above that casts a soft, moody, low-contrast glow. Soft, gradual gray shadows pool gently under the man's chin and shirt collar, while an ambient fill unifies the cool, desaturated complementary color palette of charcoal brown, slate blue, and terracotta. Captured as a tack-sharp realistic digital photograph straight-on using an 85mm lens at f/5.6 for deep focus, the European luxury lifestyle aesthetic is finalized with a grain-free finish, desaturated greens and blues, enhanced midtone contrast, and a subtle cool color grade, all naturally framed in a 4:5 aspect ratio.",
+    "category": "portrait",
+    "model_key": "nano-banana-2",
+    "model_name": "Nano Banana 2",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Picts by AI",
+      "handle": "pictsbyai"
+    },
+    "source_platform": "X",
+    "source_id": "2069327718865363334",
+    "source_url": "https://x.com/pictsbyai/status/2069327718865363334",
+    "images": [
+      "https://pbs.twimg.com/media/HLe6jz2XoAAFLm2.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/b672095a-a66a-41f3-9fe8-de2cd617ddae",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/b672095a-a66a-41f3-9fe8-de2cd617ddae",
+    "published_at": "2026-10-08T07:34:25.963849+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "8f421f0e8e07a3efff76c2f93a51a9e85a02f2c18ca3d47d1736fc6aa67a4461"
   },
   {
     "id": "b67d51d9-95b7-4f83-8393-785c477fbdce",
