@@ -314,3 +314,149 @@ A young male sits in a black outdoor chair, positioned in the center with a conf
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/63e2be27-0935-411b-aae1-375ea6df83cc?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/pictsbyai/status/2068605868212355268>)
 
 ---
+
+<a id="prompt-145af37b-22f0-4a71-8b3d-c203b7923170"></a>
+
+## Three-Panel Professional Office Portrait Collage
+
+<a href="https://musesignal.com/zh/prompt/145af37b-22f0-4a71-8b3d-c203b7923170?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HM6aGVSaYAARf8s.jpg?format=jpg&amp;name=small" width="480" alt="Three-Panel Professional Office Portrait Collage" /></a>
+
+**Nano Banana** · 原作者: NUSRAT
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Gemini nano Banana image .
+Prompt:
+
+  "subject": {
+    "person": "Young woman with an elegant, professional appearance",
+    "hair": "Dark brown, styled in a polished, wavy shoulder-length bob cut",
+    "facial_features": "Defined eyebrows, warm brown eyes, soft natural makeup, neutral-toned lipstick",
+    "jewelry": "Art Deco style dangling geometric silver earrings"
+  },
+  "outfit": {
+    "suit": "Tailored deep blue blazer and matching slim-fit trousers",
+    "blouse": "Silk button-down shirt featuring an intricate teal, cream, and gold botanical/artistic pattern",
+    "accessories": "Black leather belt with a decorative silver buckle",
+    "footwear": "Dark grey or metallic pointed-toe Mary Jane heels"
+  },
+  "setting": {
+    "environment": "Modern professional office",
+    "background_elements": "Large floor-to-ceiling windows with a city skyline view, a wooden desk, a sleek office chair, indoor plants, and framed artwork on the wall",
+    "lighting": "Bright, natural daylight with soft, professional studio lighting"
+  },
+  "composition": {
+    "style": "Three-panel professional portrait collage",
+    "layout": "Left: Close-up bust shot; Center: Full-body standing shot with arms crossed; Right: Macro close-up shot focused on face and earrings",
+    "quality": "Photorealistic, 4k resolution, high-end commercial photography style, sharp focus, crisp textures"
+  }
+}
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/145af37b-22f0-4a71-8b3d-c203b7923170?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/nxnusratul/status/2075765919947919725>)
+
+---
+
+<a id="prompt-0fc18e43-54ab-4c30-817c-696f2133fd5e"></a>
+
+## Vintage Italian Street Editorial Portrait
+
+<a href="https://musesignal.com/zh/prompt/0fc18e43-54ab-4c30-817c-696f2133fd5e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HPv46wVXwAAUeHN.jpg?format=jpg&amp;name=small" width="480" alt="Vintage Italian Street Editorial Portrait" /></a>
+
+**Nano Banana 2** · 原作者: Picts by AI
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A young adult male exudes confident masculinity, positioned centrally and leaning slightly to his right at a 45-degree angle against a vintage navy blue moped. He features dark, slicked-back hair catching subtle specular highlights from styling product, and his expression is fixed in a calm, closed-mouth neutral state, his gaze directed off-camera to the left from behind dark rectangular sunglasses. He is dressed in a fitted light grey short-sleeve t-shirt and dark brown high-waisted pleated trousers. His left hand is casually tucked into his trouser pocket, exposing only his wrist and forearm resting against his hip, while his right hand rests lightly on the moped left handlebar, his relaxed fingers draped gently over the grip to reveal silver rings. In the immediate foreground, the navy blue Piaggio moped features a chrome headlight casing. Behind him unfolds a medium-depth vintage European cobblestone street, framed asymmetrically to balance his visual weight against the left side of the scene. To the left in the midground, there is a dominant vintage dark carved wood window frame, while two worn dark wood chairs with woven rush seats sit stacked beneath it. To the right, a worn dark brown paneled wooden door features a circular brass knocker and silver handle, adjacent to a weathered off-white matte plaster wall with patchy warm grey undertones, faded peach borders, and minor dirt accumulation, bearing an aged black cast iron wall-mounted post box with a crest emblem, all grounded by a dark charcoal grey concrete and cobblestone floor. The atmosphere is quiet, moody, and sophisticated, bathed in soft, diffused natural lighting spilling from a single large overcast sky source above. This neutral-temperature, low-contrast lighting casts short, soft-edged shadows beneath his chin, under the moped chassis, and lightly along the textured wall, while leaving subtle specular highlights on his left shoulder and the moped chrome details. The desaturated, cool-toned color profile heavily emphasizes dark warm browns, off-whites, and charcoal contrasted against the cool navy blue. Shot straight-on as a medium editorial portrait drawing from Italian Neorealism cinema, captured with a 50mm lens at f/4.0, ISO 400, and a 1/250s shutter speed to maintain a tack-sharp subject alongside medium depth of field. The final image undergoes post-processing with a desaturated color grade pulling down greens and blues, a lifted black point, and a subtle film grain overlay to achieve a faded cinematic tonality, framed in a 4:5 aspect ratio.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/0fc18e43-54ab-4c30-817c-696f2133fd5e?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/pictsbyai/status/2090352638168609233>)
+
+---
+
+<a id="prompt-96ba898e-8fc7-4b9a-87c0-0dd159e6e7e9"></a>
+
+## Painterly Digital Sketch Portrait Illustration
+
+<a href="https://musesignal.com/zh/prompt/96ba898e-8fc7-4b9a-87c0-0dd159e6e7e9?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLBC_iEb0AA8Ny1.jpg?format=jpg&amp;name=small" width="480" alt="Painterly Digital Sketch Portrait Illustration" /></a>
+
+**Nano Banana 2** · 原作者: zayan
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ultra-premium expressive portrait illustration, blending painterly realism with stylized digital sketch art, highly detailed facial rendering, semi-realistic character design, crisp facial anatomy, smooth brush-painted skin textures, subtle hand-drawn construction lines and loose artistic scribbles surrounding the subject, cinematic warm-and-cool dual lighting, golden-orange highlights contrasted with soft teal-blue rim lighting, rich skin depth and natural color transitions, realistic eyes with painterly reflections, refined hair strands with dynamic volume, elegant eyewear reflections, soft graphic shading, contemporary editorial portrait aesthetics, concept-art quality, controlled brushwork mixed with clean digital painting, minimalist bright background with abstract sketch accents, selective texture overlays, professional illustration finish, balanced realism and artistic stylization, sophisticated color harmony, modern visual storytelling, gallery-quality portrait artwork, ultra-sharp details, high-end digital painting, 8K masterpiece. R 9:16 vertikal.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/96ba898e-8fc7-4b9a-87c0-0dd159e6e7e9?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/HustleXR/status/2067233028121006260>)
+
+---
+
+<a id="prompt-11941c8d-8e88-422c-a902-6f8b9f2adc4b"></a>
+
+## Y2K Luxury Nightlife Editorial Portrait
+
+<a href="https://musesignal.com/zh/prompt/11941c8d-8e88-422c-a902-6f8b9f2adc4b?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HN6eAOVbcAAz6lU.jpg?format=jpg&amp;name=small" width="480" alt="Y2K Luxury Nightlife Editorial Portrait" /></a>
+
+**Nano Banana Pro** · 原作者: Dockie
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Prompt:
+
+{
+  "prompt": "Ultra-realistic Y2K luxury nightlife editorial portrait of a glamorous young platinum-blonde woman with long voluminous soft Hollywood waves, center part, and silky smooth texture. Warm ivory skin with visible pores, realistic skin texture, subtle freckles across the cheeks and shoulders, authentic facial vellus hair, luminous satin complexion, soft peach blush, feathered brows, champagne shimmer eyeshadow, soft fox-eye eyeliner, wispy lashes, glossy caramel-nude lips with realistic lip texture, and bright blue-gray eyes. Wearing a fitted sunshine-yellow floral lace camisole with scalloped lace trim, delicate spaghetti straps, and a feminine Y2K-inspired silhouette. Low-rise dark-wash bootcut jeans paired with a sparkling rhinestone belt, carrying a small crystal-studded shoulder bag. Relaxed seated pose on a plush velvet lounge chair with one arm resting naturally on the armrest while looking directly into the camera with a calm, confident editorial expression. Elegant luxury lounge at night featuring floor-to-ceiling windows, velvet seating, warm ambient lighting, decorative drapes, subtle fairy lights, rich wood accents, and cinematic bokeh. Captured using an iPhone 15 Pro with direct flash, producing authentic smartphone flash reflections, crisp skin highlights, bright eye catchlights, subtle lens flare, realistic shadows, and premium lifestyle photography. Kodak Portra-inspired skin tones, luxury influencer aesthetic, Y2K fashion editorial, realistic skin rendering, DSLR-quality sharpness with authentic iPhone flash characteristics, RAW photo, ultra photorealistic, 8K.",
+  
+  "negative_prompt": "cartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate objects, oversaturated colors, clipped highlights, low-detail hair",
+  
+  "style": "photorealistic",
+  
+  "camera": {
+    "type": "iPhone 15 Pro",
+    "lens": "26mm main camera",
+    "aperture": "f/1.8",
+    "iso": 500,
+    "angle": "eye-level fashion portrait",
+    "depth_of_field": "moderate"
+  },
+  
+  "lighting": {
+    "type": "direct smartphone flash with warm luxury lounge ambient lighting",
+    "direction": "frontal flash",
+    "mood": "luxury, glamorous, Y2K"
+  },
+  
+  "composition": {
+    "framing": "vertical editorial portrait",
+    "subject_position": "seated on a velvet lounge chair",
+    "background": "luxury lounge with floor-to-ceiling windows, velvet furniture, warm ambient lighting, elegant drapes, fairy lights, and cinematic bokeh"
+  },
+  
+  "quality": {
+    "resolution": "8k",
+    "detail": "ultra high",
+    "sharpness": "DSLR-quality with authentic iPhone flash rendering",
+    "skin_detail": "visible pores, realistic texture, natural freckles",
+    "realism": "maximum"
+  }
+}
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/11941c8d-8e88-422c-a902-6f8b9f2adc4b?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Document195/status/2080274223000654316>)
+
+---

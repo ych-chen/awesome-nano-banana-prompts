@@ -245,3 +245,27 @@ Expressive smile, fun street-commercial aesthetic.
 **[Try on MuseSignal →](<https://musesignal.com/prompt/63f87d90-fb43-42b5-b635-afdbf48ac80a?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Naiknelofar788/status/2106745724545446089>)
 
 ---
+
+<a id="prompt-25db3fcb-f09c-4ac6-9625-6e57e31b2a70"></a>
+
+## Miniature 3D Diorama Product Promo
+
+<a href="https://musesignal.com/prompt/25db3fcb-f09c-4ac6-9625-6e57e31b2a70?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HBXUd3ubcAIidMX.jpg?format=jpg&amp;name=small" width="480" alt="Miniature 3D Diorama Product Promo" /></a>
+
+**Nano Banana Pro** · Creator: Max
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Start Nano Banana Pro || 8K Ultra-Realistic Promotional
+Create a stylized miniature 3D diorama viewed from a 45-degree angled perspective, emphasizing careful scale, clean geometry, and fine craftsmanship. WATER GLASS device serves as the central base of the composition. From within or above this device, a miniature interpretation of the selected NEW YORK emerges naturally, forming a compact, self contained world.
+The scene highlights recognizable landmarks, terrain features, or symbolic structures associated with the NEW YORK, arranged harmoniously and rendered with precise detail. Miniature roads, pathways, environmental elements, and tiny human figures interact naturally with the Nano Banana Pro, reinforcing its presence as the foundation of the world.
+Use cinematic lighting, soft highlights, reflections on premium surfaces, and selective depth-of-field blur to create a magical, dreamlike, ultra realistic promotional atmosphere. Emphasize the product’s premium materials, sleek design, and futuristic aesthetic,Image size 4 5..
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/25db3fcb-f09c-4ac6-9625-6e57e31b2a70?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Max__Build/status/2023757225148510702>)
+
+---
