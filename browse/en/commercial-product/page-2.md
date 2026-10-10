@@ -269,3 +269,28 @@ Use cinematic lighting, soft highlights, reflections on premium surfaces, and se
 **[Try on MuseSignal →](<https://musesignal.com/prompt/25db3fcb-f09c-4ac6-9625-6e57e31b2a70?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Max__Build/status/2023757225148510702>)
 
 ---
+
+<a id="prompt-9a2c0c8c-4885-4bcd-93f7-b38f411871c8"></a>
+
+## Cheetos Fisheye Snack-Ad Portrait
+
+<a href="https://musesignal.com/prompt/9a2c0c8c-4885-4bcd-93f7-b38f411871c8?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTwZ2I6a4AA-N_z.jpg?format=jpg&amp;name=small" width="480" alt="Cheetos Fisheye Snack-Ad Portrait" /></a>
+
+**Nano Banana Pro** · Creator: Duet \| AI
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Studio portrait of one smiling person holding a Cheetos Crunchy orange chips bag close to the camera, both the bag and the person’s head in the foreground. Captured with an ultra-wide fisheye lens for a playful, youthful, energetic feel.
+The model wears a glossy bright orange puffer jacket over a white t-shirt.
+Background in a vibrant orange gradient with light yellow accents, bold and fun.
+Soft cinematic lighting, juicy highlights, slight saturation boost, modern snack-ad editorial style.
+Expressive smile, fun street-commercial aesthetic.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/9a2c0c8c-4885-4bcd-93f7-b38f411871c8?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Sheldon056/status/2106587208916566057>)
+
+---

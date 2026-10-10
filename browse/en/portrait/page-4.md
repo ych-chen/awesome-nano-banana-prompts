@@ -460,3 +460,81 @@ Prompt:
 **[Try on MuseSignal →](<https://musesignal.com/prompt/11941c8d-8e88-422c-a902-6f8b9f2adc4b?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Document195/status/2080274223000654316>)
 
 ---
+
+<a id="prompt-c0cc6c7f-587b-449b-901c-fafbb7df1f64"></a>
+
+## Monochrome Streetwear Editorial Portrait
+
+<a href="https://musesignal.com/prompt/c0cc6c7f-587b-449b-901c-fafbb7df1f64?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLT53Q-acAAVnEW.jpg?format=jpg&amp;name=small" width="480" alt="Monochrome Streetwear Editorial Portrait" /></a>
+
+**Nano Banana 2** · Creator: Heisenberg
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ultra-realistic monochrome portrait of a young man wearing black wayfarer sunglasses, messy dark hair, well groomed beard beard, and a thin silver chain necklace with a small round pendant. Dressed in an oversized black t-shirt with a minimal white chest logo. Subject standing indoors, head slightly tilted downward and turned 15 degrees to the side, relaxed confident expression. Moody editorial fashion photography, luxury streetwear campaign aesthetic.
+Soft natural window light coming from camera-right, creating gentle highlights on the face and subtle shadow falloff across the body. Shallow depth of field with creamy background blur. Dark gray minimalist interior background with soft gradients and no distractions. High contrast black-and-white grading with deep blacks, rich midtones, and cinematic shadows. Shot on a full-frame camera with an 85mm telephoto lens, f/1.8 aperture, ISO 200, professional portrait composition, chest-up framing, subject centered slightly left. Fine skin texture, realistic fabric details, premium magazine-quality retouching, subtle film grain, Leica photography style, luxury fashion editorial, Vogue Men aesthetic, cinematic mood, ultra sharp focus on face, photorealistic, 8K.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/c0cc6c7f-587b-449b-901c-fafbb7df1f64?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/rovvmut_/status/2068552876860088635>)
+
+---
+
+<a id="prompt-f7895897-d9b1-4e91-a68d-bb1934e8a337"></a>
+
+## Golden Hour Luxury Apartment Portrait
+
+<a href="https://musesignal.com/prompt/f7895897-d9b1-4e91-a68d-bb1934e8a337?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNRQdvyagAARid5.jpg?format=jpg&amp;name=small" width="480" alt="Golden Hour Luxury Apartment Portrait" /></a>
+
+**Nano Banana Pro** · Creator: Dockie
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+{
+  "prompt": "Ultra-realistic lifestyle fashion portrait of a young platinum-blonde woman sitting casually inside a luxurious modern high-rise apartment during golden hour. Hair styled in two soft messy space buns with wispy curtain bangs and loose face-framing strands, natural flyaways, and subtle volume. Warm ivory skin with visible pores, realistic skin texture, natural freckles across the cheeks and nose, soft facial vellus hair, luminous satin complexion, subtle peach blush, feathered brows, champagne shimmer eyeshadow, delicate fox-eye eyeliner, wispy lashes, glossy nude-pink lips, and authentic micro skin imperfections. Wearing a fitted black spaghetti-strap camisole tucked into high-waisted acid-wash denim shorts with a black leather belt, layered beneath an oversized faded light-wash denim jacket casually slipping off the shoulders. Relaxed seated pose on a light gray sofa while looking directly into the camera with a calm editorial expression. Bright luxury apartment featuring floor-to-ceiling windows overlooking a modern city skyline, warm golden sunset light flooding the room, indoor tropical plants, designer furniture, neutral décor, coffee table, and elegant minimalist styling. Captured with a Sony A7R V and 50mm f/1.4 GM lens. Kodak Portra-inspired skin tones, cinematic golden-hour lighting, premium influencer aesthetic, luxury lifestyle editorial, realistic skin rendering, DSLR-quality sharpness, RAW photo, ultra photorealistic, 8K.",
+  
+  "negative_prompt": "cartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate furniture, oversaturated colors, clipped highlights, low-detail hair",
+  
+  "style": "photorealistic",
+  
+  "camera": {
+    "type": "Sony A7R V",
+    "lens": "50mm f/1.4 GM",
+    "aperture": "f/2.0",
+    "iso": 100,
+    "angle": "eye-level lifestyle portrait",
+    "depth_of_field": "shallow"
+  },
+  
+  "lighting": {
+    "type": "natural golden-hour window light",
+    "direction": "soft side lighting",
+    "mood": "warm, cozy, luxury"
+  },
+  
+  "composition": {
+    "framing": "vertical portrait",
+    "subject_position": "centered on sofa",
+    "background": "luxury penthouse apartment with floor-to-ceiling windows, city skyline, indoor plants, designer furniture, and golden sunset"
+  },
+  
+  "quality": {
+    "resolution": "8k",
+    "detail": "ultra high",
+    "sharpness": "DSLR-quality",
+    "skin_detail": "visible pores, realistic texture, natural freckles",
+    "realism": "maximum"
+  }
+}
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/f7895897-d9b1-4e91-a68d-bb1934e8a337?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Document195/status/2077375459374068134>)
+
+---

@@ -3232,6 +3232,35 @@
     "content_hash": "410f9b9e52548428246478c795927be03874a3f97c3d9ae67752165f5b9f40b5"
   },
   {
+    "id": "9a2c0c8c-4885-4bcd-93f7-b38f411871c8",
+    "title": "Cheetos Fisheye Snack-Ad Portrait",
+    "prompt": "Studio portrait of one smiling person holding a Cheetos Crunchy orange chips bag close to the camera, both the bag and the person’s head in the foreground. Captured with an ultra-wide fisheye lens for a playful, youthful, energetic feel.\nThe model wears a glossy bright orange puffer jacket over a white t-shirt.\nBackground in a vibrant orange gradient with light yellow accents, bold and fun.\nSoft cinematic lighting, juicy highlights, slight saturation boost, modern snack-ad editorial style.\nExpressive smile, fun street-commercial aesthetic.",
+    "category": "commercial-product",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Duet | AI",
+      "handle": "Sheldon056"
+    },
+    "source_platform": "X",
+    "source_id": "2106587208916566057",
+    "source_url": "https://x.com/Sheldon056/status/2106587208916566057",
+    "images": [
+      "https://pbs.twimg.com/media/HTwZ2I6a4AA-N_z.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTwZ2JlaEAAyDDP.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTwZ2Ija0AA6rwP.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTwZ2JUbQAAtuxm.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/9a2c0c8c-4885-4bcd-93f7-b38f411871c8",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/9a2c0c8c-4885-4bcd-93f7-b38f411871c8",
+    "published_at": "2026-10-10T07:20:49.009774+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "558d3153ecc24df8c626d000567d4d70d005712135b1e005408aca1b36e64e21"
+  },
+  {
     "id": "9a2d4d9e-337b-4fc7-8ae8-f8c40c27420d",
     "title": "Local Woman in Traditional Dress with Local Food",
     "prompt": "Google gemini nano banana pro image\nPrompt 👇\nA 3:4 vertical photo of a beautiful local young woman exploring a charming, historic street in [CITY/CAPITAL NAME], [COUNTRY NAME]. She is wearing a traditional [NAME OF CLOTHING/DRESS, e.g., Dirndl / Kimono / Sari] that perfectly matches her heritage. She is smiling, walking toward the camera while holding a traditional local food, [FOOD NAME], on a small plate. In the background, iconic architecture of the city is visible under a clear blue sky. Hanging beautifully at the top of the image, the name \"[CITY OR COUNTRY NAME IN CAPITAL LETTERS]\" is written in a clean, elegant, bold white font with subtle textured details.",
@@ -4250,6 +4279,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "b8f508e7dddd1322fff95f0a55b4a80c7a1cb38e04a498d791ca0be668f7e066"
+  },
+  {
+    "id": "c0cc6c7f-587b-449b-901c-fafbb7df1f64",
+    "title": "Monochrome Streetwear Editorial Portrait",
+    "prompt": "Ultra-realistic monochrome portrait of a young man wearing black wayfarer sunglasses, messy dark hair, well groomed beard beard, and a thin silver chain necklace with a small round pendant. Dressed in an oversized black t-shirt with a minimal white chest logo. Subject standing indoors, head slightly tilted downward and turned 15 degrees to the side, relaxed confident expression. Moody editorial fashion photography, luxury streetwear campaign aesthetic.\nSoft natural window light coming from camera-right, creating gentle highlights on the face and subtle shadow falloff across the body. Shallow depth of field with creamy background blur. Dark gray minimalist interior background with soft gradients and no distractions. High contrast black-and-white grading with deep blacks, rich midtones, and cinematic shadows. Shot on a full-frame camera with an 85mm telephoto lens, f/1.8 aperture, ISO 200, professional portrait composition, chest-up framing, subject centered slightly left. Fine skin texture, realistic fabric details, premium magazine-quality retouching, subtle film grain, Leica photography style, luxury fashion editorial, Vogue Men aesthetic, cinematic mood, ultra sharp focus on face, photorealistic, 8K.",
+    "category": "portrait",
+    "model_key": "nano-banana-2",
+    "model_name": "Nano Banana 2",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Heisenberg",
+      "handle": "rovvmut_"
+    },
+    "source_platform": "X",
+    "source_id": "2068552876860088635",
+    "source_url": "https://x.com/rovvmut_/status/2068552876860088635",
+    "images": [
+      "https://pbs.twimg.com/media/HLT53Q-acAAVnEW.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/c0cc6c7f-587b-449b-901c-fafbb7df1f64",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/c0cc6c7f-587b-449b-901c-fafbb7df1f64",
+    "published_at": "2026-10-10T07:19:57.07551+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "581ec25cd3ce663eb51fe6fc18af9522282eb44f4c52dbce554980df7b608cdf"
   },
   {
     "id": "c303c6b7-29d4-4aa9-99cc-08dff0f6fec1",
@@ -5905,6 +5960,33 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "9fec416da65a1e789eb5e97bac8151f6a9d5b0738d047a9203cc772c6c0623ab"
+  },
+  {
+    "id": "f7895897-d9b1-4e91-a68d-bb1934e8a337",
+    "title": "Golden Hour Luxury Apartment Portrait",
+    "prompt": "{\n  \"prompt\": \"Ultra-realistic lifestyle fashion portrait of a young platinum-blonde woman sitting casually inside a luxurious modern high-rise apartment during golden hour. Hair styled in two soft messy space buns with wispy curtain bangs and loose face-framing strands, natural flyaways, and subtle volume. Warm ivory skin with visible pores, realistic skin texture, natural freckles across the cheeks and nose, soft facial vellus hair, luminous satin complexion, subtle peach blush, feathered brows, champagne shimmer eyeshadow, delicate fox-eye eyeliner, wispy lashes, glossy nude-pink lips, and authentic micro skin imperfections. Wearing a fitted black spaghetti-strap camisole tucked into high-waisted acid-wash denim shorts with a black leather belt, layered beneath an oversized faded light-wash denim jacket casually slipping off the shoulders. Relaxed seated pose on a light gray sofa while looking directly into the camera with a calm editorial expression. Bright luxury apartment featuring floor-to-ceiling windows overlooking a modern city skyline, warm golden sunset light flooding the room, indoor tropical plants, designer furniture, neutral décor, coffee table, and elegant minimalist styling. Captured with a Sony A7R V and 50mm f/1.4 GM lens. Kodak Portra-inspired skin tones, cinematic golden-hour lighting, premium influencer aesthetic, luxury lifestyle editorial, realistic skin rendering, DSLR-quality sharpness, RAW photo, ultra photorealistic, 8K.\",\n  \n  \"negative_prompt\": \"cartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate furniture, oversaturated colors, clipped highlights, low-detail hair\",\n  \n  \"style\": \"photorealistic\",\n  \n  \"camera\": {\n    \"type\": \"Sony A7R V\",\n    \"lens\": \"50mm f/1.4 GM\",\n    \"aperture\": \"f/2.0\",\n    \"iso\": 100,\n    \"angle\": \"eye-level lifestyle portrait\",\n    \"depth_of_field\": \"shallow\"\n  },\n  \n  \"lighting\": {\n    \"type\": \"natural golden-hour window light\",\n    \"direction\": \"soft side lighting\",\n    \"mood\": \"warm, cozy, luxury\"\n  },\n  \n  \"composition\": {\n    \"framing\": \"vertical portrait\",\n    \"subject_position\": \"centered on sofa\",\n    \"background\": \"luxury penthouse apartment with floor-to-ceiling windows, city skyline, indoor plants, designer furniture, and golden sunset\"\n  },\n  \n  \"quality\": {\n    \"resolution\": \"8k\",\n    \"detail\": \"ultra high\",\n    \"sharpness\": \"DSLR-quality\",\n    \"skin_detail\": \"visible pores, realistic texture, natural freckles\",\n    \"realism\": \"maximum\"\n  }\n}",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Dockie",
+      "handle": "Document195"
+    },
+    "source_platform": "X",
+    "source_id": "2077375459374068134",
+    "source_url": "https://x.com/Document195/status/2077375459374068134",
+    "images": [
+      "https://pbs.twimg.com/media/HNRQdvyagAARid5.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HNRQdvnasAAeSyb.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/f7895897-d9b1-4e91-a68d-bb1934e8a337",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/f7895897-d9b1-4e91-a68d-bb1934e8a337",
+    "published_at": "2026-10-10T07:20:06.234542+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "02839b0e2ba3ce17401e30dc0138033718e57223970a899d6995918442a3bd99"
   },
   {
     "id": "f90c09cb-1285-4667-930e-6bdcd2485789",
