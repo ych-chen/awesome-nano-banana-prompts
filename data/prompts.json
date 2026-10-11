@@ -266,6 +266,32 @@
     "content_hash": "98821188bf307c917d3b70341c58fded2a574c9db04460eef505db880f9ffb03"
   },
   {
+    "id": "0a051abb-47c3-4473-90ab-ff8aefe5aee3",
+    "title": "Photorealistic Triptych Office Portrait",
+    "prompt": "Gemini nano Banana image. \nPrompt{\n  \"image_description\": {\n    \"subject\": {\n      \"gender\": \"female\",\n      \"hair\": \"short, wavy, dark auburn/reddish-brown color\",\n      \"facial_features\": {\n        \"smile\": \"warm, smiling with teeth visible\",\n        \"eyes\": \"brown\",\n        \"complexion\": \"clear, natural skin texture\"\n      },\n      \"attire\": {\n        \"outfit_1_left_and_right\": \"beige-colored turtleneck sweater\",\n        \"outfit_2_center\": \"dark olive green professional blazer and matching tailored trousers, paired with a light beige button-down shirt\"\n      },\n      \"accessories\": {\n        \"earrings\": \"textured gold-toned circular drop earrings\"\n      }\n    },\n    \"setting\": {\n      \"background\": \"professional office environment\",\n      \"details\": [\n        \"wooden desk\",\n        \"laptop\",\n        \"large green potted plant (aloe vera)\",\n        \"minimalist artwork on the wall\",\n        \"natural interior lighting\"\n      ]\n    },\n    \"composition\": {\n      \"layout\": \"three-panel triptych collage\",\n      \"panel_1_left\": \"close-up portrait (upper torso)\",\n      \"panel_2_center\": \"full-body professional shot\",\n      \"panel_3_right\": \"extreme close-up face shot\"\n    },\n    \"technical_specifications\": {\n      \"resolution\": \"4k\",\n      \"style\": \"photorealistic\",\n      \"lighting\": \"soft, diffused professional studio lighting\",\n      \"quality\": \"high-detail, sharp focus, cinematic photography\"\n    }\n  }\n}",
+    "category": "portrait",
+    "model_key": "nano-banana",
+    "model_name": "Nano Banana",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "NUSRAT",
+      "handle": "nxnusratul"
+    },
+    "source_platform": "X",
+    "source_id": "2076352713072488803",
+    "source_url": "https://x.com/nxnusratul/status/2076352713072488803",
+    "images": [
+      "https://pbs.twimg.com/media/HNCvyCyasAELbtn.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/0a051abb-47c3-4473-90ab-ff8aefe5aee3",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/0a051abb-47c3-4473-90ab-ff8aefe5aee3",
+    "published_at": "2026-10-11T07:19:09.934266+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "1fa1c888766983b5187e2c6d5dfb7ba7738e47a016e161c7d07cca3ebafe7684"
+  },
+  {
     "id": "0a2ebf28-8a8e-4cd0-be6c-5e3add6750d8",
     "title": "Luxury Editorial Korean Woman Collage",
     "prompt": "Create a luxurious editorial-style digital collage featuring the same elegant Korean woman consistently across every frame. Preserve perfect facial consistency in all portraits with the same hairstyle, facial proportions, skin texture, eye shape, nose, lips, and expression while varying only the pose and camera angle.\n\nDesign a warm, cinematic composition in a rich palette of amber, bronze, mahogany, burnt sienna, copper, and golden candlelight. Arrange four main portraits blended seamlessly into a single vertical collage:\n•A large, softly lit close-up portrait with direct eye contact and a gentle smile.\n•A graceful side-profile with eyes closed, creating a peaceful, introspective mood.\n•A three-quarter portrait looking confidently toward the viewer with subtle elegance.\n•An extreme macro close-up of one eye showcasing intricate eyelashes, iris details, and warm reflections.\n•A soft macro crop of naturally glossy lips blended artistically into the composition.\n\nDress her in an exquisite deep burgundy traditional-inspired embroidered outfit with intricate gold threadwork, delicate floral motifs, sheer embroidered sleeves, and elegant drop earrings. Her long black hair falls naturally with soft, slightly tousled waves framing her face.\n\nSurround the portraits with blooming bronze lilies, warm-toned flowers, floating petals, glowing candles, delicate bokeh lights, handwritten vintage manuscript textures, and subtle smoky overlays. Blend every element with smooth cinematic transitions so the collage feels like one cohesive artwork rather than separate photographs.\n\nUse soft Rembrandt lighting mixed with warm candlelight, volumetric glow, rich shadows, shallow depth of field, dreamy atmosphere, premium fashion editorial styling, luxury magazine aesthetics, cinematic color grading, ultra-realistic skin texture, natural makeup, photorealistic details, HDR, masterpiece quality, ultra-high detail, 8K resolution, award-winning digital art, harmonious composition, and an elegant romantic mood.",
@@ -1103,6 +1129,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "e43ae9e4f46fc8e0716fd761bf078ce64e657f9c0554378eddcd30d6755fbe8e"
+  },
+  {
+    "id": "2c41dd7c-5e52-49f8-af91-eb374ec05d80",
+    "title": "Athletic Woman With Energy Drink at Sunlit Track",
+    "prompt": "A fit athletic woman with long brown hair in a high ponytail, wearing a dark gray sports visor and a taupe/mocha zip-front sports bra, sitting and leaning against a wooden railing or bench at an outdoor running track. She is smiling and looking slightly upward to the left with a joyful, relaxed expression. Her skin has a natural sweat sheen. She is holding a slim white-and-orange energy drink can (labeled \"tru\") in her right hand, raised near her shoulder. On the wooden surface in front of her are sliced oranges and cut mango pieces, arranged naturally. She has a black fitness tracker on her wrist and colorful resistance bands looped nearby. The background shows a red athletic track with soft green trees and a warm golden sunburst/lens flare coming from the upper right, creating a bright, sun-drenched bokeh effect. The lighting is warm late-afternoon sunlight with strong backlight. Shot in a lifestyle photography style, shallow depth of field, cinematic color grading with warm golden tones, photorealistic, high resolution.",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Sarah",
+      "handle": "SyntheSarah"
+    },
+    "source_platform": "X",
+    "source_id": "2064537330132885586",
+    "source_url": "https://x.com/SyntheSarah/status/2064537330132885586",
+    "images": [
+      "https://pbs.twimg.com/media/HKawlcsW8AANHDd.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/2c41dd7c-5e52-49f8-af91-eb374ec05d80",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/2c41dd7c-5e52-49f8-af91-eb374ec05d80",
+    "published_at": "2026-10-11T07:18:53.315933+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "1bfc58a0209745560459d7c7e972bb6d4a3047359e49ee58e1e7f6e1c0f89428"
   },
   {
     "id": "2d3566b4-03c4-49e1-9a71-3e3cd854012e",
@@ -3454,6 +3506,35 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "bf43c04cdd3351470689a5076199ffc9ebdd52f29a9bdb8180ac8649a265230a"
+  },
+  {
+    "id": "a44e3538-4695-4df6-a221-41d6088beba2",
+    "title": "Studio Portrait with Teal and Yellow Parrots",
+    "prompt": "A close up, studio portrait features a fair skinned woman with dark brown/black hair, eyes closed, tenderly holding a flock of five small teal & yellow parrots. the parrots are uniformly bright with orange beaks and black eyes circled in white. they are scattered across her shoulders and arms, resting gently. her attire appears to be made of a cream colored, possibly lace, fabric. the background is a smooth, light gray, providing a soft contrast to the bright yellow & teal of the birds and the light tone of the woman's skin.",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Maddox",
+      "handle": "Maddox_Digital"
+    },
+    "source_platform": "X",
+    "source_id": "2087357477755195469",
+    "source_url": "https://x.com/Maddox_Digital/status/2087357477755195469",
+    "images": [
+      "https://pbs.twimg.com/media/HPfIhgyaYAA97x9.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HPfIiQYbIAAEvz3.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HPfIi6waAAAhraB.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HPfIjkab0AA__Dx.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/a44e3538-4695-4df6-a221-41d6088beba2",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/a44e3538-4695-4df6-a221-41d6088beba2",
+    "published_at": "2026-10-11T07:19:16.535081+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "45f6ffa637210d06a021b8eb92b87b7b0069ba5321c1b456cc8aac37735d57a0"
   },
   {
     "id": "a45880d4-cfa2-4db9-b0d7-ac3d140aeca9",

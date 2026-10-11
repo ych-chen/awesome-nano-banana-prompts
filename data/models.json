@@ -2,7 +2,7 @@
   {
     "key": "nano-banana",
     "name": "Nano Banana",
-    "count": 32
+    "count": 33
   },
   {
     "key": "nano-banana-2",
@@ -12,6 +12,6 @@
   {
     "key": "nano-banana-pro",
     "name": "Nano Banana Pro",
-    "count": 108
+    "count": 110
   }
 ]

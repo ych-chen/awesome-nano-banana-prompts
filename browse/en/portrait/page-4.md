@@ -538,3 +538,108 @@ Soft natural window light coming from camera-right, creating gentle highlights o
 **[Try on MuseSignal →](<https://musesignal.com/prompt/f7895897-d9b1-4e91-a68d-bb1934e8a337?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Document195/status/2077375459374068134>)
 
 ---
+
+<a id="prompt-2c41dd7c-5e52-49f8-af91-eb374ec05d80"></a>
+
+## Athletic Woman With Energy Drink at Sunlit Track
+
+<a href="https://musesignal.com/prompt/2c41dd7c-5e52-49f8-af91-eb374ec05d80?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKawlcsW8AANHDd.jpg?format=jpg&amp;name=small" width="480" alt="Athletic Woman With Energy Drink at Sunlit Track" /></a>
+
+**Nano Banana Pro** · Creator: Sarah
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A fit athletic woman with long brown hair in a high ponytail, wearing a dark gray sports visor and a taupe/mocha zip-front sports bra, sitting and leaning against a wooden railing or bench at an outdoor running track. She is smiling and looking slightly upward to the left with a joyful, relaxed expression. Her skin has a natural sweat sheen. She is holding a slim white-and-orange energy drink can (labeled "tru") in her right hand, raised near her shoulder. On the wooden surface in front of her are sliced oranges and cut mango pieces, arranged naturally. She has a black fitness tracker on her wrist and colorful resistance bands looped nearby. The background shows a red athletic track with soft green trees and a warm golden sunburst/lens flare coming from the upper right, creating a bright, sun-drenched bokeh effect. The lighting is warm late-afternoon sunlight with strong backlight. Shot in a lifestyle photography style, shallow depth of field, cinematic color grading with warm golden tones, photorealistic, high resolution.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/2c41dd7c-5e52-49f8-af91-eb374ec05d80?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/SyntheSarah/status/2064537330132885586>)
+
+---
+
+<a id="prompt-0a051abb-47c3-4473-90ab-ff8aefe5aee3"></a>
+
+## Photorealistic Triptych Office Portrait
+
+<a href="https://musesignal.com/prompt/0a051abb-47c3-4473-90ab-ff8aefe5aee3?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNCvyCyasAELbtn.jpg?format=jpg&amp;name=small" width="480" alt="Photorealistic Triptych Office Portrait" /></a>
+
+**Nano Banana** · Creator: NUSRAT
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Gemini nano Banana image. 
+Prompt{
+  "image_description": {
+    "subject": {
+      "gender": "female",
+      "hair": "short, wavy, dark auburn/reddish-brown color",
+      "facial_features": {
+        "smile": "warm, smiling with teeth visible",
+        "eyes": "brown",
+        "complexion": "clear, natural skin texture"
+      },
+      "attire": {
+        "outfit_1_left_and_right": "beige-colored turtleneck sweater",
+        "outfit_2_center": "dark olive green professional blazer and matching tailored trousers, paired with a light beige button-down shirt"
+      },
+      "accessories": {
+        "earrings": "textured gold-toned circular drop earrings"
+      }
+    },
+    "setting": {
+      "background": "professional office environment",
+      "details": [
+        "wooden desk",
+        "laptop",
+        "large green potted plant (aloe vera)",
+        "minimalist artwork on the wall",
+        "natural interior lighting"
+      ]
+    },
+    "composition": {
+      "layout": "three-panel triptych collage",
+      "panel_1_left": "close-up portrait (upper torso)",
+      "panel_2_center": "full-body professional shot",
+      "panel_3_right": "extreme close-up face shot"
+    },
+    "technical_specifications": {
+      "resolution": "4k",
+      "style": "photorealistic",
+      "lighting": "soft, diffused professional studio lighting",
+      "quality": "high-detail, sharp focus, cinematic photography"
+    }
+  }
+}
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/0a051abb-47c3-4473-90ab-ff8aefe5aee3?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/nxnusratul/status/2076352713072488803>)
+
+---
+
+<a id="prompt-a44e3538-4695-4df6-a221-41d6088beba2"></a>
+
+## Studio Portrait with Teal and Yellow Parrots
+
+<a href="https://musesignal.com/prompt/a44e3538-4695-4df6-a221-41d6088beba2?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HPfIhgyaYAA97x9.jpg?format=jpg&amp;name=small" width="480" alt="Studio Portrait with Teal and Yellow Parrots" /></a>
+
+**Nano Banana Pro** · Creator: Maddox
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A close up, studio portrait features a fair skinned woman with dark brown/black hair, eyes closed, tenderly holding a flock of five small teal & yellow parrots. the parrots are uniformly bright with orange beaks and black eyes circled in white. they are scattered across her shoulders and arms, resting gently. her attire appears to be made of a cream colored, possibly lace, fabric. the background is a smooth, light gray, providing a soft contrast to the bright yellow & teal of the birds and the light tone of the woman's skin.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/a44e3538-4695-4df6-a221-41d6088beba2?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Maddox_Digital/status/2087357477755195469>)
+
+---
