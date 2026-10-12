@@ -2186,6 +2186,32 @@
     "content_hash": "76e4d40a5e32c689751a397e3a82b9359e6c74179742a4fd4b4676f44e743d14"
   },
   {
+    "id": "5c7bbc56-db29-43d2-901b-710807869a9f",
+    "title": "Stylish Man with Weimaraner in Luxury Elevator",
+    "prompt": "Ultra-realistic full-body fashion portrait of a stylish bearded man wearing black bomber jacket, beige turtleneck, black trousers, sunglasses and white sneakers, standing confidently with a Weimaraner dog inside a luxurious modern elevator, warm cinematic lighting, reflective metallic walls, DSLR photography, 8K, sharp details.",
+    "category": "portrait",
+    "model_key": "nano-banana-2",
+    "model_name": "Nano Banana 2",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Zar⭕on",
+      "handle": "Xaroon_x"
+    },
+    "source_platform": "X",
+    "source_id": "2092156356547473503",
+    "source_url": "https://x.com/Xaroon_x/status/2092156356547473503",
+    "images": [
+      "https://pbs.twimg.com/media/HQjVG7uW0AA4_c_.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/5c7bbc56-db29-43d2-901b-710807869a9f",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/5c7bbc56-db29-43d2-901b-710807869a9f",
+    "published_at": "2026-10-12T07:36:12.859257+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "de98bc6c328399d692d85ee110d824eb9002f323f68ef1cea4ae347d923430cf"
+  },
+  {
     "id": "5ec902ea-4362-42fe-a650-0a4a57bc44e4",
     "title": "Sleepy Morning Light Through the Window",
     "prompt": "A candid, professional editorial photograph of [NAME] standing indoors in front of a dark wooden-framed glass window. She has long, slightly messy hair with a stray strand at the top, falling naturally over her shoulders. She has a soft, sleepy expression, gently rubbing her half-closed right eye with her left hand as if she just woke up.\nShe is wearing a white long-sleeved off-the-shoulder cropped top that slants down on the right side, exposing her shoulder and abdomen, paired with blue dolphin-style athletic shorts featuring white side stripes and a drawstring waist. Her posture is relaxed and casually leaning. In her right hand, she holds a white ceramic mug with a stylized blue cat logo, from which subtle steam rises. Part of a dark wood counter surface is visible in the lower left foreground.\nThrough the glass window behind her, a sunlit green forest with lush foliage and light filtering through the trees is visible in a soft bokeh. Bright, natural morning light streams through the window, creating a soft backlight that highlights the contours of her hair and natural skin texture.\nMedium shot, eye-level angle, shot on an 85mm f/1.8 lens with a shallow depth of field. Ultra-detailed, realistic physical rendering of light and fabrics, crisp focus on the subject, photorealistic HDR quality, 9:16 aspect ratio.",
@@ -2518,6 +2544,35 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "622eee830894a8870dee792b33dace15fb71e73a1bf0006dd7825e3c7575e6dc"
+  },
+  {
+    "id": "7a62a842-2835-495b-8821-eb441fe3d32c",
+    "title": "Crimson Dress Window Portraits",
+    "prompt": "A series of photographic portraits captured indoors, featuring a woman with long, wavy black hair and bold red lipstick, wearing a long-sleeved deep crimson wrap dress. She is seated on a white-clothed surface near a window, with a rustic brick wall and an arrangement of potted ferns and olive trees on terracotta shelves in the background. The collection shows her in various poses: reclining with her hand behind her head looking at the camera, sitting up with her hand on the pillows looking at the camera, sitting cross-legged smiling directly at the camera, and leaning her head on her hand smiling towards the side window. The lighting is natural daylight, creating a soft, warm atmosphere. The camera angle remains consistent throughout the shots.",
+    "category": "portrait",
+    "model_key": "nano-banana",
+    "model_name": "Nano Banana",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Minahil",
+      "handle": "Minahil42298354"
+    },
+    "source_platform": "X",
+    "source_id": "2077041352441745669",
+    "source_url": "https://x.com/Minahil42298354/status/2077041352441745669",
+    "images": [
+      "https://pbs.twimg.com/media/HNMiGUXXgAAG8gS.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HNMiGZBWkAAXOOF.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HNMiGZEWEAApnD7.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HNMiGisWgAECkpx.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/7a62a842-2835-495b-8821-eb441fe3d32c",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/7a62a842-2835-495b-8821-eb441fe3d32c",
+    "published_at": "2026-10-12T07:35:57.285927+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "ea845667a90ae1633e565d2dcfb75b0e39589ed0d8ae8ba7a13dead66b2aa5a7"
   },
   {
     "id": "7b43ca80-aa44-49f3-8cb1-9323033ec8b3",
@@ -4878,6 +4933,33 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "1ce92a148d44a2831338d64fd099ea3b4b065f570ecbee86d6be044b57eed426"
+  },
+  {
+    "id": "d474eb07-4a65-4985-b655-4ef8e75bda05",
+    "title": "Luxury Tropical Beach Fashion Editorial Portrait",
+    "prompt": "PROMPT:\n\n{\n  \"title\": \"Luxury Tropical Beach Editorial\",\n  \"prompt\": \"Ultra-realistic luxury tropical beach fashion editorial of an adult woman relaxing on pristine white sand under bright tropical sunlight. She has long champagne-blonde hair with soft beach waves, realistic flyaway strands, natural volume, and a large fresh white lily tucked behind her left ear. Her skin is porcelain-fair with warm golden undertones, realistic visible pores, subtle freckles across the cheeks, nose, shoulders, and arms, soft peach fuzz, hydrated glass-skin glow, natural skin translucency, and authentic sunlit highlights. She wears a luxurious crimson-red satin triangle bikini with a glossy silk finish, thin halter straps, matching low-rise bikini bottoms, and a white shell choker necklace paired with delicate gold drop earrings. She is seated naturally on soft white tropical sand with one leg bent toward the camera and the other extended comfortably, one hand resting behind her for support while the opposite arm rests casually on her bent knee. She looks directly into the camera with a calm, confident editorial expression and softly parted glossy lips. The beach features crystal-clear turquoise water, gentle ocean waves, lush palm trees, tropical vegetation, and a vivid blue sky with soft clouds. Bright midday sunlight creates realistic shadows, natural highlights, and premium commercial lighting.\",\n  \"style\": {\n    \"photorealistic\": true,\n    \"camera\": \"Sony A7R V\",\n    \"lens\": \"85mm portrait lens\",\n    \"aperture\": \"f/1.8\",\n    \"lighting\": \"Bright tropical midday sunlight with soft natural fill light, realistic HDR, subtle highlight bloom\",\n    \"color_grading\": \"Luxury Xiaohongshu (RED), Vogue resort editorial, warm tropical tones, creamy skin, balanced saturation, premium commercial color science\",\n    \"quality\": \"8K Ultra HD\"\n  },\n  \"makeup\": {\n    \"foundation\": \"Luxury satin full-coverage foundation preserving realistic pores and skin texture\",\n    \"concealer\": \"Bright lifting under-eye concealer\",\n    \"contour\": \"Soft cool contour on cheekbones, jawline, temples, nose bridge and collarbones\",\n    \"blush\": \"Highly pigmented coral-rose blush extending toward the temples and softly across the nose\",\n    \"highlighter\": \"Wet-look champagne pearl highlighter on cheekbones, brow bones, nose bridge, nose tip, cupid's bow, collarbones and shoulders\",\n    \"eyeshadow\": \"Warm taupe transition, cocoa outer corners, metallic champagne shimmer, pearl inner corner highlight\",\n    \"eyeliner\": \"Ultra-sharp fox-eye black winged eyeliner\",\n    \"lashes\": \"Long manga-inspired wispy upper lashes with individually defined lower lashes\",\n    \"eyebrows\": \"Feathered blonde brows with visible individual hairs\",\n    \"eyes\": \"Soft gray-blue contact lenses with realistic iris detail\",\n    \"lips\": \"Richly pigmented coral nude lipstick, softly overlined, glossy glass-lip finish with realistic wet reflections\"\n  },\n  \"negative_prompt\": \"low quality, blurry, plastic skin, wax skin, excessive smoothing, CGI, anime, cartoon, 3D render, bad anatomy, extra fingers, fused fingers, duplicate limbs, watermark, logo, text, mirror selfie, selfie, phone, camera, photographer reflection, distorted body, unrealistic proportions, oversaturated colors\"\n}",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Dockie",
+      "handle": "Document195"
+    },
+    "source_platform": "X",
+    "source_id": "2085069603361976573",
+    "source_url": "https://x.com/Document195/status/2085069603361976573",
+    "images": [
+      "https://pbs.twimg.com/media/HO-nn-fbgAAowuP.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HO-nn-Oa0AA8jGj.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/d474eb07-4a65-4985-b655-4ef8e75bda05",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/d474eb07-4a65-4985-b655-4ef8e75bda05",
+    "published_at": "2026-10-12T07:36:10.966743+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "281694bfb1e23ebd747edc6f777543b221875d186b80868abf3d1025ae7c30d9"
   },
   {
     "id": "d4ad42b3-0864-44b0-86cf-ab5c57d6c276",
