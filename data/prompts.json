@@ -1047,6 +1047,32 @@
     "content_hash": "9693bfc144e2b3cc779213a51cc199a747aed301214be37afbfdee53381baa67"
   },
   {
+    "id": "286f4037-2b0d-4f06-94fa-fe53e50131ff",
+    "title": "Neo-Expressionist Street Art Doodle Portrait Poster",
+    "prompt": "A premium neo-expressionist avant-garde mixed-media graphic poster with a tight framing focus. SUBJECT & COMPOSITION: A central, tight shoulder-up portrait of [CHARACTER NAME / DESCRIPTION] captured in a distinct, obvious three-quarter view angle, looking towards the camera with a calm and dignified expression. The framing is strictly closed-in from the shoulders up, ensuring a dominant headshot scale. The entire character—including their skin, features, [HAIR DESCRIPTION], and clothing—is rendered strictly in a high-contrast monochromatic black and white illustration style. The art is defined by bold, dense woodcut-style manual cross-hatching, heavy crisp linework, and intricate ink shading. They wear [CLOTHING DESCRIPTION], rendered entirely in monochromatic black and white that fills the lower frame. Crucially, a subtle, clean negative space buffer of pure matte charcoal-black closely contours their head and shoulders, separating the character from the background pattern.\n\nGRAPHIC HIGHLIGHT: A small, precise, horizontal [EYE HIGHLIGHT COLOR] rectangular block is placed strictly and exclusively over one single eye (their right eye only). This block is tightly cropped to cover just that individual single eye socket, remaining highly translucent with a multiply-blend effect. This ensures the fine lines of that one single eye and the intricate cross-hatching texture underneath remain perfectly sharp and visible through the colored tint, creating a vivid striking contrast against the background line-art without extending across the face.\n\nABSTRACT ART BACKGROUND & EXTRA WIDE MARGINS: The entire layout is built upon a single, continuous, and completely unified matte charcoal-black canvas with a subtle, non-reflective fine-grain texture. This identical charcoal-black color serves as both the deep outer margins and the background space between the lines, ensuring a perfectly seamless one-piece backdrop with zero color splitting. A generous, empty negative space margin of this pure charcoal-black occupies 25% of the outer canvas area. Inside, the inner area is filled with dense, primitive abstract line-art patterns, heavy jagged zig-zag shapes, a single large crown, and [SPECIFIC SYMBOLS / ICONS, E.G. KANJI CHARACTERS, OR GRAFFITI DOODLES]. These thick marker-stroke elements are rendered strictly in a [LINE-ART COLOR] color, stopping uniformly short of the limits to preserve the wide, pristine outer black borders.\n\nMATERIAL & PRINT FEEL: The artwork features the tangible texture of a premium screen-print on heavy-grain archival black paper, where the solid colored lines exhibit a faint, organic ink-absorption finish.  --no frame, mockup, picture frame, white border, background wall, repetitive patterns, chaotic scribbles, messy lines, split background, two-tone background.",
+    "category": "poster-graphic",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "ΛRMIN | AI",
+      "handle": "Arminn_Ai"
+    },
+    "source_platform": "X",
+    "source_id": "2068050239471145455",
+    "source_url": "https://x.com/Arminn_Ai/status/2068050239471145455",
+    "images": [
+      "https://pbs.twimg.com/media/HLMwsBMWUAAFdO2.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/286f4037-2b0d-4f06-94fa-fe53e50131ff",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/286f4037-2b0d-4f06-94fa-fe53e50131ff",
+    "published_at": "2026-10-13T07:51:36.060945+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "12ba5df7db3ba8c9907590b9713f7647cf64697dd19ce16ecdad7492e9ad77d1"
+  },
+  {
     "id": "28ee56f2-ec92-4ad0-abf0-59e133de12df",
     "title": "Sabrina Carpenter in Elegant Black Dress",
     "prompt": "Subject: Woman matching the reference image with identical face, facial features, hair color, eye color, body proportions, and overall identity. Maintain perfect identity consistency and realistic anatomy.\nOutfit: Elegant sleeveless black bodycon mini dress with a high neckline, paired with glossy black ankle-strap stiletto sandals featuring thin straps, red soles, and delicate ankle jewelry.\nHairstyle: Long hair in soft loose waves with a center part, naturally flowing over the shoulders.\nExpression: Soft confident smile, relaxed eyes, direct eye contact, playful yet elegant.\nPose: Sitting on the edge of a modern upholstered bench with hips slightly angled toward the camera. One leg crossed over the other, feet naturally on the floor with the front heel slightly extended toward the camera. Leaning forward slightly, elbows resting on the raised knee, both hands gently supporting the chin, shoulders relaxed, back straight, head slightly lowered while maintaining eye contact.\nAction: Relaxing in a luxury hotel lobby while casually posing for a candid photo.\nInteraction: Natural fabric compression on the bench, realistic foot placement, accurate weight distribution, and lifelike hand positioning.\nEnvironment: Modern luxury hotel lobby with elegant cream columns, designer seating, warm architectural lighting, illuminated staircase, premium décor, and spacious interior.\nLighting: Warm ambient hotel lighting with soft ceiling illumination, realistic skin tones, gentle shadows, and natural reflections.\nAtmosphere: Sophisticated, luxurious, relaxed, modern, and inviting.\nCamera: Full-body vertical portrait from a low angle at ankle height using a wide portrait perspective, naturally emphasizing the legs while preserving realistic proportions.\nComposition: Subject centered with legs extending toward the foreground for depth. Sharp focus on the subject with a softly blurred background.\nStyle: Authentic luxury lifestyle photography with realistic textures, natural skin detail, premium influencer aesthetic, and commercial-quality smartphone HDR rendering.\nRealism: Genuine hotel photograph with realistic skin texture, fabric folds, reflections, accurate anatomy, natural body mechanics, and true photographic realism. No CGI or plastic-looking skin.\nWatermark: Integrate \"glenajenner\" naturally into the hotel as elegant illuminated wall signage, engraved reception branding, or subtle architectural signage that matches the scene.\nQuality: Ultra-realistic, highly detailed, authentic lighting, premium fashion styling, natural color grading, crisp focus, commercial campaign quality, 8K.",
@@ -2405,6 +2431,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "58d8a766a217c689749e50100cf7f103fe95261e05a5a5cc875c36a1ea654d1b"
+  },
+  {
+    "id": "6be93474-d970-4706-8aed-c23de13f3d47",
+    "title": "Sun-Drenched Mediterranean Editorial Portrait",
+    "prompt": "A medium close-up, waist-up portrait of an adult Mediterranean male with warm bronze skin and short stubble, exuding a confident, guarded coolness as he stands with his chest facing the camera and his head turned forty-five degrees to the right. He wears an off-white, wrinkly linen shirt, deeply unbuttoned to create a natural V-neckline revealing a thin gold chain, paired with clear transparent frame sunglasses featuring dark lenses that obscure his gaze. His dark brown hair is styled with two to three inches of volume on top and tapered sides, treated with a slightly wet, glossy product to define thick natural waves and uneven curls, complete with natural flyaways and loose strands falling gently across his forehead. His posture is relaxed and centered, arms resting naturally out of view, as his level shoulders lean slightly back against a weathered historic structure. The softly out-of-focus background reveals a warm, light beige raw-cut limestone environment, featuring a massive, rough-pitted carved stone pillar base dominating the right midground and a historic weathered stone building facade receding on the left. A bright, single-source direct hard sunlight beams from the front-top-left at a forty-five-degree angle, bathing the scene in a sun-drenched, elegant European summer warmth. This highly directional light casts harsh, deep black shadows from his sunglasses onto his cheek, from his collar onto his chest, beneath his jawline, and inside the depths of his hair curls, while striking specular highlights are preserved on his forehead, the tip of his nose, cheekbones, collarbone, and the peaks of his curls. Captured as a high-end editorial digital photograph straight on at eye level using an 85mm lens at f/2.8, the image boasts a shallow depth of field that keeps the subject tack sharp, flawlessly resolving the organic linen weave and fine skin pores while isolating him from the architecture, enhanced by a warm golden color grade and high contrast curve, framed in a 2:3 aspect ratio.",
+    "category": "portrait",
+    "model_key": "nano-banana-2",
+    "model_name": "Nano Banana 2",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Picts by AI",
+      "handle": "pictsbyai"
+    },
+    "source_platform": "X",
+    "source_id": "2091077415456129085",
+    "source_url": "https://x.com/pictsbyai/status/2091077415456129085",
+    "images": [
+      "https://pbs.twimg.com/media/HPv5Vu_XEAEifJ9.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/6be93474-d970-4706-8aed-c23de13f3d47",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/6be93474-d970-4706-8aed-c23de13f3d47",
+    "published_at": "2026-10-13T07:51:46.707655+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "36f2fbff1d7ff699de3fca7a179359ac87561a4b2c045e497d7b311027496286"
   },
   {
     "id": "6e2e6efd-5e93-461c-ae7f-3a1a7fbdb0f4",
