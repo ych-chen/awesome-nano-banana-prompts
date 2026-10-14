@@ -614,6 +614,33 @@
     "content_hash": "2e50d1fe113f790783571993b5957951f9934dd6a2f2958233264dc7aaa23bf9"
   },
   {
+    "id": "1b53a092-c997-4689-a8e0-0549ee25e64b",
+    "title": "1990s Indie Bedroom Film Portrait",
+    "prompt": "A candid 1990s-inspired indie bedroom portrait of a young woman sitting cross-legged on a worn vintage patterned couch. She has short messy dark hair, natural makeup, soft skin texture, and a thoughtful, distant expression while looking slightly off-camera. She wears an oversized faded pastel pink Nirvana band T-shirt, blue denim shorts, and retro white tube socks with red and blue stripes.\nThe room is decorated with a collage-covered wall filled with music magazine clippings, cassette tape advertisements, Polaroid photos, handwritten notes, concert memorabilia, and alternative rock posters, creating a nostalgic DIY bedroom aesthetic. Soft direct flash photography illuminates the scene, producing subtle shadows, realistic skin details, and authentic film-camera imperfections.\nShot on 35mm film with a disposable camera look, featuring visible film grain, dust particles, slight color fading, muted vintage tones, and a purple-tinted photo frame border. Cozy indie-rock atmosphere, early 2000s Tumblr aesthetic, authentic lo-fi documentary style, casual home environment, highly detailed, realistic candid photography, nostalgic youth culture mood, vertical composition, editorial lifestyle portrait.\nKeywords: retro bedroom, indie aesthetic, grunge fashion, Nirvana shirt, cassette culture, film photography, disposable camera flash, nostalgic youth, vintage magazines, alternative music scene, lo-fi portrait, authentic candid moment, 35mm grain, cozy vintage interior.",
+    "category": "portrait",
+    "model_key": "nano-banana",
+    "model_name": "Nano Banana",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Jahan Zaib",
+      "handle": "jzaib4269"
+    },
+    "source_platform": "X",
+    "source_id": "2068691563522458015",
+    "source_url": "https://x.com/jzaib4269/status/2068691563522458015",
+    "images": [
+      "https://pbs.twimg.com/media/HLV3_jxboAAadnf.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLV3_pxbkAA_BSc.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/1b53a092-c997-4689-a8e0-0549ee25e64b",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/1b53a092-c997-4689-a8e0-0549ee25e64b",
+    "published_at": "2026-10-14T06:20:24.565026+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "c5c1b6ede21f4d2f46c8cf82809600c2f814c325511af28986dfb28827bfafaf"
+  },
+  {
     "id": "1b7cb5cf-ce49-4c2f-9de2-9533424ddc89",
     "title": "Luxury Ballroom Fashion Editorial Portrait",
     "prompt": "{\n  \"prompt\": \"Ultra-realistic luxury ballroom fashion editorial portrait of a glamorous young woman with voluminous copper-red hair styled in an elegant textured updo with soft romantic tendrils framing the face. Warm ivory skin with visible pores, realistic skin texture, natural freckles, subtle peach blush, luminous satin complexion, champagne highlighter, feathered brows, warm bronze eyeshadow, delicate fox-eye eyeliner, wispy lashes, and glossy nude-peach lips with realistic lip texture. Wearing a fitted champagne-gold halter mini dress completely covered in shimmering sequins, body-hugging silhouette, open shoulders, and luxurious reflective fabric. Large polished gold hoop earrings, delicate gold rings, and refined minimalist jewelry. Holding an elegant crystal champagne flute filled with sparkling champagne while one hand rests naturally in her hair, eyes softly closed with a serene, sophisticated expression. Standing inside a grand European-style ballroom featuring magnificent crystal chandeliers, polished hardwood floors, ornate architecture, warm golden ambient lighting, luxurious bokeh, and timeless elegance. Warm chandelier lighting creates cinematic highlights across the sequins, realistic skin reflections, soft shadows, and glowing golden atmosphere. Vogue luxury fashion campaign, old-money aesthetic, premium editorial photography, Kodak Portra-inspired skin tones, realistic skin rendering, DSLR-quality sharpness, RAW photo, ultra photorealistic, 8K.\",\n  \n  \"negative_prompt\": \"cartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate chandeliers, oversaturated colors, clipped highlights, low-detail hair\",\n  \n  \"style\": \"photorealistic\",\n  \n  \"camera\": {\n    \"type\": \"Sony A7R V\",\n    \"lens\": \"85mm f/1.4 GM\",\n    \"aperture\": \"f/1.8\",\n    \"iso\": 320,\n    \"angle\": \"eye-level luxury editorial portrait\",\n    \"depth_of_field\": \"shallow\"\n  },\n  \n  \"lighting\": {\n    \"type\": \"warm crystal chandelier lighting\",\n    \"direction\": \"soft ambient illumination\",\n    \"mood\": \"luxury, elegant, cinematic\"\n  },\n  \n  \"composition\": {\n    \"framing\": \"vertical fashion portrait\",\n    \"subject_position\": \"centered\",\n    \"background\": \"grand ballroom with crystal chandeliers, polished wood floors, warm golden bokeh, and elegant architecture\"\n  },\n  \n  \"quality\": {\n    \"resolution\": \"8k\",\n    \"detail\": \"ultra high\",\n    \"sharpness\": \"DSLR-quality\",\n    \"skin_detail\": \"visible pores, realistic texture, natural freckles\",\n    \"realism\": \"maximum\"\n  }\n}",
@@ -639,6 +666,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "87eb5951b7e34dc1785c630573d9d78f496dd63026e5a0ab674430df792ee22a"
+  },
+  {
+    "id": "1b800307-6aa6-4b7e-8ff7-9085b48f9fd8",
+    "title": "High-Fashion Editorial Collage Poster",
+    "prompt": "A high-end fashion editorial collage poster featuring a glamorous woman with silky, deep caramel-black hair styled beautifully, with a large, stunning close-up foreground portrait emphasizing her captivating gaze. In a dynamic layered composition, a smaller inset full-body photo shows her walking confidently, wearing a cobalt-purple classic-fit crewneck shirt tucked neatly into tailored gray high-waisted trousers, effortlessly holding a pair of chic sunglasses in one hand. The background is a sophisticated mix of modern mixed-media design: artistic torn-paper textures, blurred vintage newspaper overlays, and deep navy-blue gradient shifts that create depth. Overlaying the composition is elegant, fluid handwritten typography that reads \"New style\", paired with translucent, repeating faded text running vertically in the background for a high-fashion magazine look. Douyin realism, cinematic studio lighting, hyper-detailed textures, 8K resolution, editorial layout.",
+    "category": "poster-graphic",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "liana",
+      "handle": "Lianaalane"
+    },
+    "source_platform": "X",
+    "source_id": "2064530708971061747",
+    "source_url": "https://x.com/Lianaalane/status/2064530708971061747",
+    "images": [
+      "https://pbs.twimg.com/media/HKapwTxbEAAatjq.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/1b800307-6aa6-4b7e-8ff7-9085b48f9fd8",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/1b800307-6aa6-4b7e-8ff7-9085b48f9fd8",
+    "published_at": "2026-10-14T06:20:19.175279+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "a95bc3e1509c00d900925e75cd963c5d41cbf1e3e7f86f2b493daee9c98dfa46"
   },
   {
     "id": "1c022a06-4107-4d17-b5d9-eff0f8040008",
@@ -2181,6 +2234,33 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "63d6427674ab23824a39001d4022e049eff12f1a7ec5a371da328645000da2e1"
+  },
+  {
+    "id": "5b4f3de7-b535-4591-a525-a478c4b62ea2",
+    "title": "Tropical Beach Portrait of Sadie Sink",
+    "prompt": "Ultra-realistic tropical beach lifestyle portrait of a young woman with long naturally wavy copper-red hair blowing gently in the ocean breeze, soft side part, natural flyaway strands, and effortless beach texture. Warm ivory skin with visible pores, realistic skin texture, natural freckles across the cheeks, nose, shoulders, and arms, subtle peach blush, luminous sun-kissed complexion, authentic facial vellus hair, feathered brows, soft champagne eyeshadow, delicate brown fox-eye eyeliner, wispy lashes, and glossy coral-nude lips with realistic lip texture. Wearing a coral linen cropped camisole with delicate pink lace trim, a white wrap sarong featuring embroidered tropical palm tree details, layered shell jewelry including a cowrie shell necklace, shell bracelet, gold bracelets, dainty gold rings, and holding a small white seashell near her chest. A lightweight coral chiffon scarf flows naturally behind her hair in the wind. Standing barefoot on pristine white sand beside crystal-clear turquoise water with gentle waves washing ashore. Background features a secluded tropical island with lush palm trees, overwater bungalows in the distance, dramatic white cumulus clouds, vivid blue sky, and sparkling shallow lagoon. Bright tropical midday sunlight creates natural highlights, realistic skin reflections, crisp shadows, vibrant ocean colors, and cinematic travel photography. Luxury resort editorial, Maldives-inspired paradise, Kodak Gold 200 color science, Portra-inspired skin tones, premium influencer aesthetic, realistic skin rendering, DSLR-quality sharpness, RAW photo, ultra photorealistic, 8K.\n\ncartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate islands, oversaturated colors, clipped highlights, low-detail hair",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Natty Windstorm",
+      "handle": "NattyWindstorm"
+    },
+    "source_platform": "X",
+    "source_id": "2077395768026202510",
+    "source_url": "https://x.com/NattyWindstorm/status/2077395768026202510",
+    "images": [
+      "https://pbs.twimg.com/media/HNRkPrlbUAAWYfi.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HNRkPrpakAAGIZZ.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/5b4f3de7-b535-4591-a525-a478c4b62ea2",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/5b4f3de7-b535-4591-a525-a478c4b62ea2",
+    "published_at": "2026-10-14T06:20:31.774687+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "d71a4c312442f6e65e7c2187bbe6c8ee1286d340039beb08275e55f0fbe6ea94"
   },
   {
     "id": "5c204dcc-3207-4e00-a096-79921469bbdb",
@@ -4006,6 +4086,35 @@
     "content_hash": "dfe143a9b98fce010347b8229d9d079a216d0bdc605573b2060032474ca0cd1e"
   },
   {
+    "id": "b3f57f11-edb0-4215-8945-eeeb2c7c05fa",
+    "title": "Realistic Selfie Portrait of a Young Woman",
+    "prompt": "Nano banana 2 on @openart_ai \n\nHigh-resolution, masterpiece, best quality, perfect lighting, detailed lighting, dramatic shadows, voluptuous figure, innocent face, vertical 9:16 composition. Create this as a realistic PAP-style selfie portrait of a beautiful young woman with very fair, porcelain skin, a symmetrical face, visible pores, and realistic skin texture. Preserve her original facial features exactly without altering her identity. She has long, glossy ash-brown hair tied neatly with a transparent butterfly hair clip, with a few loose strands falling naturally below her chin to softly frame her face. The camera is positioned very close to the subject with a pronounced tilted angle, and her face nearly fills the entire frame. She is wearing a slim-fit women's leopard-print T-shirt (cream and brown with black spots) made of stretchy fabric that follows the body's natural shape, featuring a slightly open U-neck and short sleeves, creating a trendy, feminine, and flattering silhouette. She has a soft, calm expression, looking directly into the camera with a subtle, natural smile. Her makeup features a radiant dewy finish with a luminous wet-look complexion, defined eyeliner, soft pink eyeshadow, peach-pink blush, noticeable highlighter, long thick curled eyelash extensions, well-defined lower lashes, subtle contouring on the cheekbones and nose, ombré lips with a nude lipstick base blending into a glossy cherry-red tint at the centre, black contact lenses, a soft pink highlight on the bridge of the nose for a sweet feminine touch, and naturally shaped well-groomed eyebrows. She has a slightly curvy body and wears a delicate thin gold necklace with a small gemstone pendant. Soft natural lighting from the front evenly illuminates her face, highlighting smooth skin with realistic tones and no harsh shadows. The composition is a close-up to medium-close selfie, with the camera positioned slightly above from the upper-left angle, focusing on her face and upper shoulders. Every detail of the skin, hair, and clothing is sharp and highly detailed, resembling professional photography. The setting is indoors with lighting focused on the subject, while the background remains slightly dim to create depth. In the background, the upper area features curtains with elegant black or dark-brown filigree swirl patterns over a cream or white fabric. The left side transitions into a neutral grey wall, while the right side shows a darker surface, possibly furniture or a wall panel. The overall atmosphere is warm, natural, soft, and highly realistic, with true-to-life skin tones and neutral indoor colours, free from excessive filters or artificial effects, making the image appear as authentic as a real smartphone selfie rather than AI-generated.",
+    "category": "portrait",
+    "model_key": "nano-banana-2",
+    "model_name": "Nano Banana 2",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Simply Ray",
+      "handle": "kingofdairyque"
+    },
+    "source_platform": "X",
+    "source_id": "2081765629103919586",
+    "source_url": "https://x.com/kingofdairyque/status/2081765629103919586",
+    "images": [
+      "https://pbs.twimg.com/media/HOPqxuPXAAAY1WM.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HOPqyQlXYAAIIXi.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HOPqyw2XcAAPsZo.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HOPqzRmXcAAfVM6.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/b3f57f11-edb0-4215-8945-eeeb2c7c05fa",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/b3f57f11-edb0-4215-8945-eeeb2c7c05fa",
+    "published_at": "2026-10-14T06:20:36.127148+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "18da8eaab1e21dc821386fdf695730807791ff94e7d4f8914f5033a1ea747e32"
+  },
+  {
     "id": "b5845d90-5dc5-4525-a7e8-a04dc104804a",
     "title": "Billie Eilish Amidst Crimson Roses",
     "prompt": "{\n\"visual_style\": {\n\"pose\": {\n\"position\": \"Kneeling seated on heels\",\n\"body_orientation\": \"Side profile torso with slight twist toward camera\",\n\"spine_posture\": \"Upright with gentle curve\",\n\"head_angle\": \"Turned toward camera (three-quarter view)\",\n\"gaze\": \"Direct confident eye contact\",\n\"arms\": \"Relaxed, hands resting on thighs\",\n\"energy\": \"Stylized fashion editorial posture\"\n},\n\"colors\": {\n\"primary_palette\": [\n\"Vivid Crimson Red (floral elements)\",\n\"Soft Pastel Pink (background)\",\n\"Platinum Blonde (hair)\"\n],\n\"secondary_palette\": [\n\"Warm natural skin tones\",\n\"Neutral tan hosiery tones\"\n],\n\"contrast_profile\": \"High saturation reds contrasted with muted pink background\",\n\"color_distribution\": {\n\"dominant\": \"Red\",\n\"supporting\": \"Pink\",\n\"accent\": \"Blonde highlights\"\n}\n},\n\"composition\": {\n\"framing\": \"Vertical portrait\",\n\"shot_type\": \"Medium-full body\",\n\"subject_placement\": \"Centered\",\n\"foreground\": \"Dense red floral layer\",\n\"midground\": \"Subject\",\n\"background\": \"Flat pastel studio backdrop\",\n\"visual_lines\": \"S-curve silhouette guiding viewer focus upward\",\n\"depth\": \"Three-layer depth separation\"\n},\n\"outfits\": {\n\"garment_concept\": \"Rose-inspired sculptural fashion elements\",\n\"material_visual\": \"Soft textile or plush floral forms\",\n\"legwear\": \"Fine mesh tights\",\n\"footwear\": \"Gloss red pointed-toe heels\",\n\"hair\": {\n\"style\": \"Old Hollywood waves\",\n\"volume\": \"High\",\n\"tone\": \"Platinum blonde\"\n},\n\"makeup\": {\n\"lip_color\": \"Matte vivid red\",\n\"eyes\": \"Defined liner and lashes\",\n\"skin_finish\": \"Smooth glam contour\"\n}\n},\n\"lighting\": {\n\"type\": \"Studio soft diffused lighting\",\n\"direction\": \"Frontal key with slight side shaping\",\n\"shadow_profile\": \"Minimal harsh shadows\",\n\"highlight_behavior\": \"Even skin illumination\",\n\"environment_reflection\": \"Matte backdrop light absorption\"\n},\n\"effects\": {\n\"post_processing\": [\n\"High red saturation\",\n\"Soft glam skin smoothing\",\n\"Clean digital polish\"\n],\n\"texture_emphasis\": [\n\"Floral softness\",\n\"Smooth skin rendering\",\n\"Matte backdrop\"\n],\n\"aesthetic\": [\n\"Glam editorial\",\n\"Romantic studio fashion\",\n\"Vintage Hollywood influence\"",
@@ -4088,32 +4197,6 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "a596c09cf8d1ecb04626c9c58acf9a81b167b7a8275481131d7ac13263a55e9a"
-  },
-  {
-    "id": "b66ffd31-757c-42e6-b83d-148293fed026",
-    "title": "Sabrina Carpenter Bathed in Sunlight",
-    "prompt": "just add sunlight...\nSabrina Carpenter ✨\nCreated with Nano Banana 2\nMuch more content now live on Patreon! 👇",
-    "category": "portrait",
-    "model_key": "nano-banana-2",
-    "model_name": "Nano Banana 2",
-    "model_family": "nano-banana",
-    "author": {
-      "name": "Pinodi",
-      "handle": "PinodiArt"
-    },
-    "source_platform": "X",
-    "source_id": "2079295399601275170",
-    "source_url": "https://x.com/PinodiArt/status/2079295399601275170",
-    "images": [
-      "https://pbs.twimg.com/media/HNsj9rLXQAA9-rg.jpg?format=jpg&name=large"
-    ],
-    "musesignal_url": "https://musesignal.com/prompt/b66ffd31-757c-42e6-b83d-148293fed026",
-    "musesignal_url_zh": "https://musesignal.com/zh/prompt/b66ffd31-757c-42e6-b83d-148293fed026",
-    "published_at": "2026-07-28T03:36:14.474847+00:00",
-    "source_published_at": null,
-    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
-    "license": null,
-    "content_hash": "998d7a22f4bdb26cd4f50860a8e286b38d33ace3d9fd1959d77fb5c18c7992b1"
   },
   {
     "id": "b672095a-a66a-41f3-9fe8-de2cd617ddae",

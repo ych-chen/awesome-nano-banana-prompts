@@ -1409,3 +1409,24 @@ MATERIAL & PRINT FEEL: The artwork features the tangible texture of a premium sc
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/286f4037-2b0d-4f06-94fa-fe53e50131ff?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Arminn_Ai/status/2068050239471145455>)
 
 ---
+
+<a id="prompt-1b800307-6aa6-4b7e-8ff7-9085b48f9fd8"></a>
+
+## High-Fashion Editorial Collage Poster
+
+<a href="https://musesignal.com/zh/prompt/1b800307-6aa6-4b7e-8ff7-9085b48f9fd8?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKapwTxbEAAatjq.jpg?format=jpg&amp;name=small" width="480" alt="High-Fashion Editorial Collage Poster" /></a>
+
+**Nano Banana Pro** · 原作者: liana
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A high-end fashion editorial collage poster featuring a glamorous woman with silky, deep caramel-black hair styled beautifully, with a large, stunning close-up foreground portrait emphasizing her captivating gaze. In a dynamic layered composition, a smaller inset full-body photo shows her walking confidently, wearing a cobalt-purple classic-fit crewneck shirt tucked neatly into tailored gray high-waisted trousers, effortlessly holding a pair of chic sunglasses in one hand. The background is a sophisticated mix of modern mixed-media design: artistic torn-paper textures, blurred vintage newspaper overlays, and deep navy-blue gradient shifts that create depth. Overlaying the composition is elegant, fluid handwritten typography that reads "New style", paired with translucent, repeating faded text running vertically in the background for a high-fashion magazine look. Douyin realism, cinematic studio lighting, hyper-detailed textures, 8K resolution, editorial layout.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/1b800307-6aa6-4b7e-8ff7-9085b48f9fd8?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Lianaalane/status/2064530708971061747>)
+
+---
