@@ -1788,6 +1788,32 @@
     "content_hash": "c97552483785743f4f3a1196a58369d423b5201cfa27cc6181790921daba8a28"
   },
   {
+    "id": "4c956a7a-5139-4477-9bf3-96c40f5fbd62",
+    "title": "Luxury Fashion Editorial Street Portrait",
+    "prompt": "Prompt: I am standing confidently on a quiet European city street with my exact face and identity preserved with pixel-perfect accuracy. The atmosphere is elegant, timeless, and cinematic, inspired by luxury fashion editorials. I am standing in a relaxed, masculine pose with my torso turned slightly about 20 degrees to the left. My shoulders are broad but relaxed, creating a natural, confident posture. My left arm is bent with my left hand resting firmly on my left hip, fingers naturally curved and the elbow pointing outward. My right arm is positioned behind my lower back with the hand resting casually behind my waist, creating an asymmetrical, effortless pose. My chest is open, posture upright, and my weight is shifted mostly onto one leg while the other leg remains relaxed. My head is turned approximately 45 degrees toward the left side of the frame as I look confidently into the distance. rather than at the camera. My facial expression is calm, composed, and…\n1 am wearing high-waisted black tailored trousers with a clean front, soft pleats, and a relaxed straight-leg silhouette. A classic black leather belt with a polished silver rectangular buckle is visible around my waist. The monochromatic combination of black trousers and the ivory knit polo creates a timeless old-money fashion aesthetic.\nI am wearing classic black rectangular sunglasses with dark lenses and a refined minimalist frame. I am not wearing necklaces, bracelets, rings, hats, or additional accessories.\nThe background features an elegant European street with historic stone buildings, large windows, architectural details, street signs, and industrial metal structures softly fading into the distance. Everything behind… d me remains naturally blurred with realistic depth of field while preserving the recognizable urban atmosphere. The image has a luxurious editorial feel with clean composition and timeless architecture. Lighting is soft natural daylight with gentle diffused contrast, producing flattering shadows across my face and clothing. The overall mood is sophisticated, relaxed, and cinematic. Camera angle: eye-level, vertical composition (4:5). Lens: 85mm portrait lens. Medium portrait framing from approximately mid-thigh upward. Very shallow depth of field with smooth background bokeh. Ultra-realistic luxury fashion editorial photography, RAW image, natural skin texture, highly detailed knit fabric, photorealistic lighting, premium magazine aesthetic, no HDR, no excessive sharpening, no color grading, natural contrast, ultra-detailed, realistic proportions.",
+    "category": "portrait",
+    "model_key": "nano-banana-2",
+    "model_name": "Nano Banana 2",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Weinberg",
+      "handle": "weiinberg"
+    },
+    "source_platform": "X",
+    "source_id": "2080888406520033699",
+    "source_url": "https://x.com/weiinberg/status/2080888406520033699",
+    "images": [
+      "https://pbs.twimg.com/media/HODM-CcbUAA3kuz.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/4c956a7a-5139-4477-9bf3-96c40f5fbd62",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/4c956a7a-5139-4477-9bf3-96c40f5fbd62",
+    "published_at": "2026-10-15T06:03:41.031382+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "622c035331b9199e90b21ab177c1c5f5247ad5297457c8942795d9cb8e5fbc2a"
+  },
+  {
     "id": "4e8f106a-f2df-4baa-912f-3535bb925895",
     "title": "Split-Screen Aging Portrait",
     "prompt": "\"A hyper-realistic, cinematic vertical split-screen portrait. The right side shows a high-resolution, sharp photograph of [Subject Name] in their youth with smooth skin and vibrant features. The left side shows the same person as an elderly individual, with deep wrinkles, age spots, and graying hair, perfectly aligned at the center. 8k resolution, detailed skin pores, dramatic studio lighting, neutral background, shot on 85mm lens.\"\nKey Elements for this Style:\nComposition: Terms like \"vertical split-screen\" or \"bisected portrait\" ensure the half-and-half look.\nAlignment: Using the phrase \"perfectly aligned at the center\" helps the AI match the eyes and facial structure across both halves.\nTexture: Including \"detailed skin pores,\" \"hyper-realistic,\" and \"8k\" is essential for the gritty, high-definition look seen in the reference.\"",
@@ -6422,6 +6448,33 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "d9220dd1fabc54d4786a86297bf0b82282a0a1abe7f131769e2549da1af12a06"
+  },
+  {
+    "id": "fd58f679-bac1-4b61-af34-86bd2623579c",
+    "title": "Ultra-Realistic Luxury Fitness Portrait",
+    "prompt": "Ultra-realistic luxury fitness lifestyle portrait of a young platinum-blonde woman with hair tied into a relaxed low ponytail, soft curtain bangs, and a dark chocolate-brown paisley bandana wrapped around her head. Warm ivory skin with visible pores, realistic skin texture, subtle freckles across the cheeks, shoulders, and arms, authentic facial vellus hair, healthy post-workout glow, natural flushed cheeks, feathered brows, champagne shimmer eyeshadow, soft fox-eye eyeliner, wispy lashes, and glossy nude-pink lips with realistic lip texture. Realistic sweat sheen visible across the forehead, temples, neck, collarbones, shoulders, arms, and upper chest. Wearing a premium seamless mocha-brown athletic sports bra with minimalist white branding on the chest and matching high-waisted biker shorts made from sculpting compression fabric. Calm seated pose on a padded workout bench with hands resting naturally on the thighs while looking directly into the camera with a focused, composed expression. Modern luxury fitness center featuring premium cable machines, weight equipment, mirrors, rubber flooring, large windows with natural daylight, and softly blurred gym equipment in the background. Bright natural daylight mixed with overhead LED gym lighting creates realistic highlights, crisp athletic contrast, and premium commercial fitness campaign aesthetics. Lululemon × Alo Yoga × Gymshark campaign style, Kodak Portra-inspired skin tones, realistic skin rendering, DSLR-quality sharpness, high-frequency skin detail, RAW photo, ultra photorealistic, 8K.\n\ncartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate gym equipment, oversaturated colors, clipped highlights, low-detail hair",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Dockie",
+      "handle": "Document195"
+    },
+    "source_platform": "X",
+    "source_id": "2079534115934925001",
+    "source_url": "https://x.com/Document195/status/2079534115934925001",
+    "images": [
+      "https://pbs.twimg.com/media/HNv8vy2aQAAWRFP.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HNv8xQYaQAAm9SC.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/fd58f679-bac1-4b61-af34-86bd2623579c",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/fd58f679-bac1-4b61-af34-86bd2623579c",
+    "published_at": "2026-10-15T06:03:35.880618+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "b736de94a0bfa76ec9d0bab2bf0e9943667bcbd86873f3ab5b078e71d0cb987b"
   },
   {
     "id": "fdb76bfd-0c8d-4c68-9cb1-360acfa5df8e",

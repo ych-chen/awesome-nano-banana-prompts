@@ -825,3 +825,50 @@ Keywords: retro bedroom, indie aesthetic, grunge fashion, Nirvana shirt, cassett
 **[Try on MuseSignal →](<https://musesignal.com/prompt/1b53a092-c997-4689-a8e0-0549ee25e64b?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/jzaib4269/status/2068691563522458015>)
 
 ---
+
+<a id="prompt-4c956a7a-5139-4477-9bf3-96c40f5fbd62"></a>
+
+## Luxury Fashion Editorial Street Portrait
+
+<a href="https://musesignal.com/prompt/4c956a7a-5139-4477-9bf3-96c40f5fbd62?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HODM-CcbUAA3kuz.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Fashion Editorial Street Portrait" /></a>
+
+**Nano Banana 2** · Creator: Weinberg
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Prompt: I am standing confidently on a quiet European city street with my exact face and identity preserved with pixel-perfect accuracy. The atmosphere is elegant, timeless, and cinematic, inspired by luxury fashion editorials. I am standing in a relaxed, masculine pose with my torso turned slightly about 20 degrees to the left. My shoulders are broad but relaxed, creating a natural, confident posture. My left arm is bent with my left hand resting firmly on my left hip, fingers naturally curved and the elbow pointing outward. My right arm is positioned behind my lower back with the hand resting casually behind my waist, creating an asymmetrical, effortless pose. My chest is open, posture upright, and my weight is shifted mostly onto one leg while the other leg remains relaxed. My head is turned approximately 45 degrees toward the left side of the frame as I look confidently into the distance. rather than at the camera. My facial expression is calm, composed, and…
+1 am wearing high-waisted black tailored trousers with a clean front, soft pleats, and a relaxed straight-leg silhouette. A classic black leather belt with a polished silver rectangular buckle is visible around my waist. The monochromatic combination of black trousers and the ivory knit polo creates a timeless old-money fashion aesthetic.
+I am wearing classic black rectangular sunglasses with dark lenses and a refined minimalist frame. I am not wearing necklaces, bracelets, rings, hats, or additional accessories.
+The background features an elegant European street with historic stone buildings, large windows, architectural details, street signs, and industrial metal structures softly fading into the distance. Everything behind… d me remains naturally blurred with realistic depth of field while preserving the recognizable urban atmosphere. The image has a luxurious editorial feel with clean composition and timeless architecture. Lighting is soft natural daylight with gentle diffused contrast, producing flattering shadows across my face and clothing. The overall mood is sophisticated, relaxed, and cinematic. Camera angle: eye-level, vertical composition (4:5). Lens: 85mm portrait lens. Medium portrait framing from approximately mid-thigh upward. Very shallow depth of field with smooth background bokeh. Ultra-realistic luxury fashion editorial photography, RAW image, natural skin texture, highly detailed knit fabric, photorealistic lighting, premium magazine aesthetic, no HDR, no excessive sharpening, no color grading, natural contrast, ultra-detailed, realistic proportions.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/4c956a7a-5139-4477-9bf3-96c40f5fbd62?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/weiinberg/status/2080888406520033699>)
+
+---
+
+<a id="prompt-fd58f679-bac1-4b61-af34-86bd2623579c"></a>
+
+## Ultra-Realistic Luxury Fitness Portrait
+
+<a href="https://musesignal.com/prompt/fd58f679-bac1-4b61-af34-86bd2623579c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNv8vy2aQAAWRFP.jpg?format=jpg&amp;name=small" width="480" alt="Ultra-Realistic Luxury Fitness Portrait" /></a>
+
+**Nano Banana Pro** · Creator: Dockie
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ultra-realistic luxury fitness lifestyle portrait of a young platinum-blonde woman with hair tied into a relaxed low ponytail, soft curtain bangs, and a dark chocolate-brown paisley bandana wrapped around her head. Warm ivory skin with visible pores, realistic skin texture, subtle freckles across the cheeks, shoulders, and arms, authentic facial vellus hair, healthy post-workout glow, natural flushed cheeks, feathered brows, champagne shimmer eyeshadow, soft fox-eye eyeliner, wispy lashes, and glossy nude-pink lips with realistic lip texture. Realistic sweat sheen visible across the forehead, temples, neck, collarbones, shoulders, arms, and upper chest. Wearing a premium seamless mocha-brown athletic sports bra with minimalist white branding on the chest and matching high-waisted biker shorts made from sculpting compression fabric. Calm seated pose on a padded workout bench with hands resting naturally on the thighs while looking directly into the camera with a focused, composed expression. Modern luxury fitness center featuring premium cable machines, weight equipment, mirrors, rubber flooring, large windows with natural daylight, and softly blurred gym equipment in the background. Bright natural daylight mixed with overhead LED gym lighting creates realistic highlights, crisp athletic contrast, and premium commercial fitness campaign aesthetics. Lululemon × Alo Yoga × Gymshark campaign style, Kodak Portra-inspired skin tones, realistic skin rendering, DSLR-quality sharpness, high-frequency skin detail, RAW photo, ultra photorealistic, 8K.
+
+cartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate gym equipment, oversaturated colors, clipped highlights, low-detail hair
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/fd58f679-bac1-4b61-af34-86bd2623579c?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Document195/status/2079534115934925001>)
+
+---
