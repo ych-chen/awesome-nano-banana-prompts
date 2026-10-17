@@ -549,3 +549,26 @@ A vibrant outdoor public screening of a football match in a historic European ci
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b67d51d9-95b7-4f83-8393-785c477fbdce?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Minahil42298354/status/2065489535044039039>)
 
 ---
+
+<a id="prompt-d975117b-ace9-4369-986f-2347a409d34c"></a>
+
+## Sci-Fi UFO Invasion Theme Park Selfie Portrait
+
+<a href="https://musesignal.com/zh/prompt/d975117b-ace9-4369-986f-2347a409d34c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HImyXW2W4AA2Nb-.jpg?format=jpg&amp;name=small" width="480" alt="Sci-Fi UFO Invasion Theme Park Selfie Portrait" /></a>
+
+**Nano Banana Pro** · 原作者: Ertan Dönmez \| Ai Master
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Nano Banana Pro Prompt ⏬
+
+IMAGE TYPE: Action Scene / Sci-Fi Portrait PROMPT: High-impact cinematic depiction of [LEAD_CHARACTER_NAME], featuring youthful features with light stubble, messy short brown hair, and an astonished yet amused expression while pointing upward, dressed in a casual light grey t-shirt. Positioned in a crowded theme park plaza featuring a large illuminated fantasy castle beneath a massive hovering metallic UFO, accompanied by [BACKGROUND_CROWD]. The scene conveys a surreal sci-fi invasion mood through gloomy overcast natural lighting mixed with glowing UFO rim lights, with dramatic highlights and shadows. Captured using a wide-angle smartphone selfie camera perspective with dynamic motion blur, shallow depth of field, cinematic framing. Ultra-detailed textures, realistic skin tones, professional cinematic color grading, sharp focus, HDR, ultra-high resolution, 4K, masterpiece quality. TAGS: STYLE cinematic, ultra-detailed, 4K, dramatic lighting, shallow depth of field, HDR, professional, film still, sci-fi, UFO invasion, surreal NEGATIVE PROMPT: low quality, blurry, flat lighting, distorted face, bad anatomy, extra limbs, oversharpening, text, watermark, logo USER REPLACEMENT GUIDE: * Replace character placeholders with celebrity names or your own name. * Do not change the rest of the prompt. * Use uploaded image as reference when generating.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d975117b-ace9-4369-986f-2347a409d34c?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/ertanlabs/status/2056653334044643605>)
+
+---

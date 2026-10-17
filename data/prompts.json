@@ -907,6 +907,32 @@
     "content_hash": "7846be11bfcb163b726b56a42e0cffa36f9f55f17b2d9859c9d60120e505f89b"
   },
   {
+    "id": "232bb4b0-8d84-4a2f-ab81-b55224233a0c",
+    "title": "Moody Triptych Portrait of Woman in Velvet Power Suit",
+    "prompt": "\"image_description\": {\n    \"subject\": {\n      \"gender\": \"female\",\n      \"hair\": \"deep navy blue, shoulder-length, textured waves\",\n      \"eyes\": \"hazel-green\",\n      \"makeup\": \"smokey dark eyeshadow, defined eyeliner, deep plum lipstick\",\n      \"accessories\": \"intricate silver dangling earrings with blue gemstones\"\n    },\n    \"outfits\": {\n      \"left_panel\": {\n        \"garment\": \"sleeveless cowl-neck velvet top\",\n        \"color\": \"charcoal grey/dark slate\"\n      },\n      \"center_panel\": {\n        \"suit\": \"velvet tailored power suit\",\n        \"suit_color\": \"deep royal purple\",\n        \"shirt\": \"black sheer lace button-up blouse\",\n        \"belt\": \"black leather belt with silver buckle\",\n        \"accessories\": \"stacked silver bangles, classic gold loafers\"\n      },\n      \"right_panel\": {\n        \"garment\": \"matching deep royal purple velvet blazer\"\n      }\n    },\n    \"environment\": {\n      \"style\": \"moody, artistic, sophisticated\",\n      \"left_panel_background\": \"blurred library/book shelves\",\n      \"center_panel_background\": \"artist studio with canvas, dark vintage rug, wooden floor, dimly lit interior\",\n      \"lighting\": \"dramatic, soft studio lighting, high contrast\"\n    },\n    \"technical_specifications\": {\n      \"format\": \"triptych collage\",\n      \"style\": \"hyper-realistic photography\",\n      \"quality\": \"4k, high resolution, sharp focus, cinematic lighting, intricate textures\"\n    }\n  }",
+    "category": "portrait",
+    "model_key": "nano-banana",
+    "model_name": "Nano Banana",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "NUSRAT",
+      "handle": "nxnusratul"
+    },
+    "source_platform": "X",
+    "source_id": "2076487882181861881",
+    "source_url": "https://x.com/nxnusratul/status/2076487882181861881",
+    "images": [
+      "https://pbs.twimg.com/media/HNEqt_EbUAAAWFr.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/232bb4b0-8d84-4a2f-ab81-b55224233a0c",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/232bb4b0-8d84-4a2f-ab81-b55224233a0c",
+    "published_at": "2026-10-16T06:04:19.574417+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "301af73799f0eadc8c193bd12ad0316e1ac92a7761f39f118c657cf6d767691b"
+  },
+  {
     "id": "238a8f0a-a1d3-41e4-8f73-fbf04e67c621",
     "title": "Dreamy Blue-Eyed Portrait in Soft Light",
     "prompt": "{\n\"subject\": {\n\"identity\": {\n\"biometric_reference\": \"Sabrina Carpenter\",\n\"facial_matrix\": {\n\"morphology\": \"Symmetrical petite heart-shaped craniofacial structural alignment, soft delicate jawline perimeter, gentle natural cheekbone definition.\",\n\"ocular_biometrics\": {\n\"iris_color\": \"#4A6B82\",\n\"iris_pattern\": \"Bright translucent sky-blue stroma layout, fine detailed iris perimeter distribution, natural clear sclera contrast, elegant gaze directed softly down and away from the lens axis with a dreamy, cinematic expression, exactly as captured in watermarked_img_1585114011244085902.png.\",\n\"superciliary_arch\": \"Softly tailored, elegantly defined classic light blonde brow structure.\"\n},\n\"maxillofacial_data\": {\n\"vermilion_border\": {\n\"hex_code\": \"#D59E98\",\n\"anatomy\": \"Naturally full doll-like pouty lips, highly pronounced and sharp Cupid's bow perimeter, relaxed mouth with a soft semi-gloss texture.\"\n}\n}\n},\n\"body\": {\n\"stature\": \"Petite height proportions, soft athletic hourglass physique skeleton frame, capturing the exact silhouette balance of watermarked_img_1585114011244085902.png.\",\n\"kinesiology_pose\": \"A new creative and aesthetic pose modification based on watermarked_img_1585114011244085902.png. The model transitions from kneeling to a graceful, relaxed side-sitting posture on the plush white mattress. Her lower legs are tucked softly to her side, with her left hip resting flush against the bedding. Her torso remains beautifully upright with elegant alignment. Her left arm extends down naturally, resting her palm lightly onto the bed surface for delicate balance, while her right hand rests elegantly over her lap. Her head is tilted with a gentle, thoughtful angle as she glances towards the soft ambient light.\",\n\"epidermal_physics\": {\n\"base_tone\": \"#FAF0E6\",\n\"surface_properties\": \"Fair alabaster porcelain skin tone, rich specular reflectance mapping across the exposed shoulders, collarbones, and midriff, isotropic sub-surface scattering, fine micro-pore distribution mapping.\"\n},\n\"integumentary_profile\": {\n\"hair_matrix\": {\n\"color_coordinates\": \"#F3E5AB\",\n\"geometry\": \"Iconic signature honey-blonde hair styled with immense volume and soft bouncy waves, tumbling over her shoulders and down her back, with her signature long curtain bangs framing her face beautifully, keeping structural continuity with watermarked_img_1585114011244085902.png.\"\n}\n},\n\"accessories\": {\n\"headband\": \"A thin, structured solid scarlet red fabric bow headband positioned neatly atop her hair, matching the visual motif from watermarked_img_1585114011244085902.png.\",\n\"earrings\": \"Subtle chunky geometric square-shaped stud earrings in a soft blue shade attached to her earlobes.\"\n}\n}\n},\n\"wardrobe\": {\n\"matching_set_style\": \"Coordinated two-piece gingham patterned summer garment set inherited from watermarked_img_1585114011244085902.png.\",\n\"upper_layer\": {\n\"item\": \"Cropped camisole bralette top\",\n\"color_profile\": \"Light blue and white checkered gingham pattern micro-weave\",\n\"material_physics\": \"Opaque soft cotton-blend fabric featuring delicate white lace trim detailing along the borders, with thin spaghetti shoulder straps and subtle red stitched heart embroidery over the chest center panel.\"\n},\n\"lower_layer\": {\n\"item\": \"High-waisted pleated mini skirt\",\n\"color_profile\": \"Matching light blue and white checkered gingham pattern\",\n\"material_physics\": \"Lightweight structured cotton fabrication with delicate pleating details creating a flared aesthetic. A thin white lace trim runs along the waistband edge, draping softly across the mattress surface in her new side-sitting arrangement.\"\n},\n\"footwear\": {\n\"item\": \"Open-toe kitten heel mules\",\n\"color_profile\": \"Matching light blue and white gingham fabric upper panel with striking scarlet red undersoles\",\n\"material_physics\": \"The heels are positioned elegantly near her feet on the bedding, cleanly displaying the high-contrast glossy red leather outsoles from a stylized perspective angle.\"\n}\n}\n},\n\"scene\": {\n\"configuration\": \"Bright minimalist indoor bedroom setting directly maintaining the environmental structure of watermarked_img_1585114011244085902.png.\",\n\"background_architecture\": {\n\"surface_properties\": \"Clean, solid flat interior walls in a soft off-white paint finish with zero graphics or distracting elements.\",\n\"bed_setup\": \"The subject is positioned on a wide bed featuring a crisp, neat white mattress cover sheet with soft fabric indentation folds reacting smoothly to her weight. Large, plush white sleeping pillows are stacked neatly against the headboard in the background.\",\n\"props\": \"A small, structured rectangular ivory-white clutch purse with a curved handle rests flat on the mattress sheet surface nearby, echoing the placement from watermarked_img_1585114011244085902.png.\"\n},\n\"aesthetic_profile\": \"High-resolution high-fashion youth lifestyle editorial photography, soft luxury interior aesthetic, authentic daytime indoor bedroom backdrop, text-free.\",\n\"text_and_logos\": {\n\"constraints\": \"Completely clean scene layout; zero brand logos on accessories, zero text prints on fabric, and zero digital watermarks.\"\n}\n},\n\"lighting\": {\n\"source_profile\": \"Diffuse ambient indoor daylight configuration directly mirroring the illumination properties of watermarked_img_1585114011244085902.png.\",\n\"ray_tracing_properties\": \"Soft, warm-toned low-contrast omnidirectional lighting filling the room from a lateral window, creating natural high-key brightness across the white bedding while casting faint, smooth gradient drop shadows beneath her limbs and fabric folds.\",\n\"visibility_constraints\": \"No visible studio light fixtures, no direct harsh flash artifacts, and no electronic hardware in the composition frame.\"\n},\n\"camera\": {\n\"projection_type\": \"Eye-level medium-full portrait shot, framing her side-sitting form to capture the elegant lines, clean geometric symmetry, and high-fashion aesthetics of the new posture.\",\n\"optical_profile\": \"50mm cinematic prime lens simulation, aperture setting at f/2.2 to create a sharp focus on the model while adding a soft, luxurious depth of field separation from the background pillows and window lines.\",\n\"aspect_ratio\": \"4:5\"\n},\n\"negative_constraints\": {\n\"prohibited_elements\": [\n\"upright-kneeling-pose\", \"kneeling-directly-forward\", \"b9802400275176f4e1bb028b003141b4.jpg-pose\", \"dark-hair\", \"black-hair\", \"brown-hair\", \"tattoos\", \"dermal-ink\", \"body-art\", \"markings\",\n\"text-elements\", \"typographic-characters\", \"brand-insignias\", \"trademark-logos\",\n\"watermark-overlays\", \"polydactyly-digits\", \"anatomical-fusions\", \"asymmetrical-limbs\",\n\"low-frequency-blurring\", \"digital-artifacting\", \"pixelation\", \"non-biometric-smoothing\",\n\"extra limbs\", \"no logos\", \"no text\", \"harsh-shadows\", \"dark-studio-background\",\n\"boots\", \"sneakers\", \"stockings\", \"pants\", \"jeans\"",
@@ -1706,6 +1732,32 @@
     "content_hash": "613e9c6c72adfa283e02ec9bf0bc1d40096ccccedcaaecc14bfe50dffc2a0729"
   },
   {
+    "id": "41ba0010-7ee1-41e0-9e1b-438925475d70",
+    "title": "Editorial Tuxedo Portrait in Shallow Focus",
+    "prompt": "A confident male subject stands perfectly centered, facing the camera straight on with level shoulders in a static, formal pose. He features perfectly groomed stubble and meticulously styled hair with tapered sides and a two-inch top pushed back using matte pomade, retaining a natural texture with slight, realistic flyaways. His expression is defined by a subtle closed smile, relaxed eyebrows, and a commanding direct gaze. He is elegantly dressed in a stark black tuxedo with a wide open shirt collar that reveals his warm peach and tan chest. Immediately behind him, the remarkably shallow depth of field melts into an outdoor setting featuring a perfectly smooth, pristine matte light blue painted drywall surface. To the left in the beautifully blurred background, the indistinct silhouette of a photographer in a dark suit subtly enhances the editorial narrative. The scene is illuminated by a bright, single source of diffused natural front light that cultivates a sophisticated, polished event atmosphere. This soft lighting wraps gracefully around his features, casting short, gray shadows with soft gradual edges directly beneath his chin while preserving luminous specular highlights across his face, supported by a neutral ambient fill that perfects the high-contrast, complementary color profile. Captured as a tack-sharp digital photograph using an 85mm lens at f/1.8, ISO 100, and 1/250s with precise eye-autofocus, the image boasts a clean, photorealistic aesthetic completely devoid of grain, finished with delicate skin retouching, a slight contrast boost, and a cool background color grade, all beautifully framed in a 9:16 aspect ratio.",
+    "category": "portrait",
+    "model_key": "nano-banana-2",
+    "model_name": "Nano Banana 2",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Picts by AI",
+      "handle": "pictsbyai"
+    },
+    "source_platform": "X",
+    "source_id": "2078521428828393794",
+    "source_url": "https://x.com/pictsbyai/status/2078521428828393794",
+    "images": [
+      "https://pbs.twimg.com/media/HM4i0meWAAA2NUk.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/41ba0010-7ee1-41e0-9e1b-438925475d70",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/41ba0010-7ee1-41e0-9e1b-438925475d70",
+    "published_at": "2026-10-17T05:46:14.526164+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "87076365f2ccff1eac187aba8d66a203e135672cb7599055678880fae1655c73"
+  },
+  {
     "id": "41c31874-9ace-4083-a2fd-dc89c1177887",
     "title": "Colored Pencil Portrait on Recycled Paper",
     "prompt": "Ultra-detailed traditional colored pencil illustration, realistic hand-drawn portrait with refined graphite construction lines and layered colored pencil rendering, soft cross-hatching, delicate directional strokes, subtle burnished pencil blending, rich paper grain texture, visible sketch marks intentionally preserved, elegant mixed-media illustration combining colored pencil, graphite, and light pastel accents, handcrafted fine-art aesthetic.\nThe face is rendered with maximum precision and clarity, featuring razor-sharp details, rich color saturation, crisp edges, realistic skin texture, finely layered pencil pigments, luminous highlights, expressive eyes, and high-definition facial features as the primary focal point. Strong tonal contrast and refined color transitions create a striking, realistic traditional drawing appearance.\nThe illustration gradually transitions downward into an intentionally unfinished sketch. Colors softly fade into loose colored pencil strokes, rough graphite lines, expressive cross-hatching, visible construction marks, painterly smudges, incomplete outlines, and spontaneous hand-drawn gestures. The lower clothing and surrounding elements dissolve naturally into abstract unfinished sketch textures, preserving the authentic work-in-progress aesthetic.\nBackground: muted teal-green to warm gray recycled paper, textured handmade paper surface with visible recycled fibers, subtle pulp grain, soft paper speckles, natural paper imperfections, lightly weathered matte finish, organic fibrous texture, gentle tonal variations, clean minimal composition, elegant sketchbook presentation. The artwork blends naturally into the paper surface, allowing some pencil strokes and unfinished marks to merge seamlessly with the textured recycled paper.\nNatural muted color palette featuring dusty teal, sage green, muted turquoise, warm gray, soft ivory, beige, sepia, charcoal, faded denim blue, and restrained warm golden highlights. The face remains the most vibrant and sharply colored area, while the lower portion gradually becomes lighter, softer, and more transparent.\nSoft natural lighting, gentle highlights, subtle ambient shadows, smooth tonal gradients created entirely through layered pencil strokes, crisp focal details concentrated on the face, gradually dissolving into expressive unfinished linework toward the bottom, premium traditional illustration aesthetic, timeless fine-art realism, museum-quality sketchbook illustration, ultra-high detail. Ar 9:16!",
@@ -1757,6 +1809,60 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "82e72d29ef0c8690aa979b16081e35a5fefafa022d263f43659f7292cd837635"
+  },
+  {
+    "id": "4765344c-017d-47b4-95e1-8982c8c0f2dd",
+    "title": "Luxury Wellness Editorial Portrait",
+    "prompt": "Ultra-realistic luxury wellness editorial portrait of a young woman with long naturally wavy copper-red hair swept over one shoulder, soft side part, silky texture, subtle flyaways, and natural volume. Warm ivory skin with visible pores, realistic skin texture, natural freckles across the cheeks, nose, shoulders, and arms, authentic facial vellus hair, luminous healthy complexion, soft rosy blush, feathered brows, champagne shimmer eyeshadow, delicate fox-eye eyeliner, wispy lashes, glossy nude-pink lips with realistic lip texture, and bright blue-gray eyes. Wearing slim burgundy oval eyeglasses, a premium black seamless long-sleeve athletic cropped top with thumbholes, and charcoal-gray high-waisted sculpting compression shorts. Minimal silver rings and clean nude manicure. Standing naturally beside a smooth exposed concrete column, one hand resting lightly against the pillar while the opposite hand rests on her upper thigh, maintaining relaxed posture and making direct eye contact with a calm, confident expression. Modern luxury Pilates and wellness studio featuring floor-to-ceiling windows, polished concrete architecture, white walls, soft natural daylight, hardwood flooring, minimalist interior, and softly blurred premium fitness equipment in the background. Captured with a Sony A7R V and an 85mm f/1.4 GM lens. Soft natural window light creates realistic highlights, subtle shadows, premium athletic contrast, and a clean editorial atmosphere. Alo Yoga × Lululemon campaign aesthetic, luxury wellness photography, Kodak Portra-inspired skin tones, realistic skin rendering, DSLR-quality sharpness, high-frequency skin detail, RAW photo, ultra photorealistic, 8K.\n\ncartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate reflections, duplicate equipment, oversaturated colors, clipped highlights, low-detail hair",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Miz",
+      "handle": "mizq06"
+    },
+    "source_platform": "X",
+    "source_id": "2084237699775631437",
+    "source_url": "https://x.com/mizq06/status/2084237699775631437",
+    "images": [
+      "https://pbs.twimg.com/media/HOyzH7aaAAEe-Ir.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HOyzH7aaoAAZP2A.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/4765344c-017d-47b4-95e1-8982c8c0f2dd",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/4765344c-017d-47b4-95e1-8982c8c0f2dd",
+    "published_at": "2026-10-16T06:04:40.887353+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "472a84c14d61ee39cfabd7ccc17e78f58e1d19a17c7794c43e6dda45c7b22ebb"
+  },
+  {
+    "id": "4ad26123-e2b7-49d8-a048-5d5749c602eb",
+    "title": "Soft-Focus Cinematic Golden Portrait",
+    "prompt": "Prompt.\nA soft-focus, cinematic portrait of a young woman with delicate facial features and light golden hair, caught in motion. Her face appears partially blurred and ghosted, with flowing strands of hair captured mid-sway, creating a dreamy, ethereal motion effect. Her expression is serene and slightly distant, with parted lips and eyes softly open.The entire frame is bathed in golden beige and sepia tones, evoking a nostalgic, painterly atmosphere. The lighting is natural and diffused, coming from a nearby window, casting a warm glow on her skin and illuminating the strands of hair that dance across the frame. Photographed with a Canon EOS R5 using an 85mm lens at f/1.2, ISO 320, shutter speed 1/8s with intentional slow exposure and handheld movement to create the artistic motion blur. The focus is soft, with a shallow depth of field that isolates the subject from the pale, creamy background. Post-processed in Adobe Lightroom and Photoshop: cinematic LUTs applied, warmth enhanced through split-toning (shadows in soft amber, highlights in cream), clarity reduced, and motion streaks refined with displacement layers and radial blur filters. A very subtle fine grain adds a filmic https://t.co/PpcZvdgxyS mood: emotional, hazy, poetic. Style references: fine art portraiture, vintage editorial, and analog dream sequences. 4K ultra-resolution, no harsh contrasts, smooth gradients preserved.",
+    "category": "portrait",
+    "model_key": "nano-banana-2",
+    "model_name": "Nano Banana 2",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Anissa",
+      "handle": "SimplyAnnisa"
+    },
+    "source_platform": "X",
+    "source_id": "2070132015664370008",
+    "source_url": "https://x.com/SimplyAnnisa/status/2070132015664370008",
+    "images": [
+      "https://pbs.twimg.com/media/HLqWGMLXgAAsej9.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLqWGL5WAAAXPse.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/4ad26123-e2b7-49d8-a048-5d5749c602eb",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/4ad26123-e2b7-49d8-a048-5d5749c602eb",
+    "published_at": "2026-10-16T06:04:14.739151+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "a0dbffdc0ec01837a0ddd44e410ad0614a2799d034793d3e6113ea4416a640a6"
   },
   {
     "id": "4b3d5a7d-b0a0-49df-afc3-ae2f334bfc1a",
@@ -2675,6 +2781,33 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "1265f95843bb35bc6a18a181a7356e5bbbc435d4902d6547d243b3d762b2fac0"
+  },
+  {
+    "id": "760faadb-4253-4e12-9f5f-cc70492a02ab",
+    "title": "Y2K Bathroom Flash Editorial Portrait",
+    "prompt": "{\n  \"id\": \"y2k_bathroom_editorial_01\",\n  \"prompt\": \"Ultra-realistic Y2K bathroom lifestyle editorial portrait of a glamorous young platinum-blonde woman with long silky straight hair partially set in oversized pastel pink velcro hair rollers, soft center part, smooth texture, and natural shine. Wearing slim burgundy rectangular Y2K eyeglasses. Warm ivory skin with visible pores, realistic skin texture, natural freckles across the cheeks, shoulders, and collarbones, authentic facial vellus hair, luminous satin complexion, pronounced rosy blush, feathered brows, champagne shimmer eyeshadow, soft brown fox-eye eyeliner, wispy lashes, glossy caramel-nude lips with realistic lip texture, and bright blue-gray eyes. Wearing a fitted white ribbed camisole with thin straps and navy horizontal stripes, paired with dark-wash low-rise straight-leg denim jeans. Relaxed seated pose on the edge of a modern white bathtub, one hand resting naturally beside her while looking directly into the camera with a calm, effortlessly confident expression. Contemporary minimalist bathroom featuring white ceramic tiles, frameless glass shower enclosure, chrome shower fixtures, modern bathtub, muted cool tones, and clean luxury apartment styling. Captured using an iPhone 15 Pro with direct flash, creating authentic smartphone flash reflections, crisp skin highlights, subtle hard shadows, bright eye catchlights, realistic skin rendering, and true early-2000s candid photography aesthetics. Kodak Portra-inspired skin tones, Y2K Tumblr aesthetic, luxury influencer lifestyle, realistic skin rendering, DSLR-quality sharpness with authentic iPhone flash characteristics, high-frequency skin detail, visible pores, natural freckles, RAW photo, ultra photorealistic, 8K.\",\n  \"negative_prompt\": \"cartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate objects, oversaturated colors, clipped highlights, low-detail hair\",\n  \"style\": \"photorealistic\",\n  \"camera\": {\n    \"type\": \"iPhone 15 Pro\",\n    \"lens\": \"26mm main camera\",\n    \"aperture\": \"f/1.8\",\n    \"iso\": 640,\n    \"angle\": \"eye-level portrait\",\n    \"depth_of_field\": \"moderate\"\n  },\n  \"lighting\": {\n    \"type\": \"direct smartphone flash\",\n    \"direction\": \"frontal flash\",\n    \"mood\": \"Y2K, candid, nostalgic\"\n  },\n  \"composition\": {\n    \"framing\": \"vertical editorial portrait\",\n    \"subject_position\": \"sitting on the edge of a bathtub\",\n    \"background\": \"minimalist modern bathroom with white tiles, glass shower, chrome fixtures, and soft ambient lighting\"\n  },\n  \"quality\": {\n    \"resolution\": \"8k\",\n    \"detail\": \"ultra high\",\n    \"sharpness\": \"DSLR-quality with authentic iPhone flash rendering\",\n    \"skin_detail\": \"visible pores, realistic texture, natural freckles, subtle facial vellus hair\",\n    \"realism\": \"maximum\"\n  }\n}",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Dockie",
+      "handle": "Document195"
+    },
+    "source_platform": "X",
+    "source_id": "2085372024835510578",
+    "source_url": "https://x.com/Document195/status/2085372024835510578",
+    "images": [
+      "https://pbs.twimg.com/media/HPC6gKjagAAdVvt.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HPC6gJqbsAEbQp3.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/760faadb-4253-4e12-9f5f-cc70492a02ab",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/760faadb-4253-4e12-9f5f-cc70492a02ab",
+    "published_at": "2026-10-17T05:46:17.162913+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "47f9c0724641fe669af95b705a0054c09846d1d6aa910938db2eb48622874556"
   },
   {
     "id": "792126f5-29b1-4371-92d6-84a1316a23af",
@@ -5310,6 +5443,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "ed0615e4973b8e2ae2c434bf24e9cc3ff5a2dd609db31adcc850c21e415b7bad"
+  },
+  {
+    "id": "d975117b-ace9-4369-986f-2347a409d34c",
+    "title": "Sci-Fi UFO Invasion Theme Park Selfie Portrait",
+    "prompt": "Nano Banana Pro Prompt ⏬\n\nIMAGE TYPE: Action Scene / Sci-Fi Portrait PROMPT: High-impact cinematic depiction of [LEAD_CHARACTER_NAME], featuring youthful features with light stubble, messy short brown hair, and an astonished yet amused expression while pointing upward, dressed in a casual light grey t-shirt. Positioned in a crowded theme park plaza featuring a large illuminated fantasy castle beneath a massive hovering metallic UFO, accompanied by [BACKGROUND_CROWD]. The scene conveys a surreal sci-fi invasion mood through gloomy overcast natural lighting mixed with glowing UFO rim lights, with dramatic highlights and shadows. Captured using a wide-angle smartphone selfie camera perspective with dynamic motion blur, shallow depth of field, cinematic framing. Ultra-detailed textures, realistic skin tones, professional cinematic color grading, sharp focus, HDR, ultra-high resolution, 4K, masterpiece quality. TAGS: STYLE cinematic, ultra-detailed, 4K, dramatic lighting, shallow depth of field, HDR, professional, film still, sci-fi, UFO invasion, surreal NEGATIVE PROMPT: low quality, blurry, flat lighting, distorted face, bad anatomy, extra limbs, oversharpening, text, watermark, logo USER REPLACEMENT GUIDE: * Replace character placeholders with celebrity names or your own name. * Do not change the rest of the prompt. * Use uploaded image as reference when generating.",
+    "category": "scene-space",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Ertan Dönmez | Ai Master",
+      "handle": "ertanlabs"
+    },
+    "source_platform": "X",
+    "source_id": "2056653334044643605",
+    "source_url": "https://x.com/ertanlabs/status/2056653334044643605",
+    "images": [
+      "https://pbs.twimg.com/media/HImyXW2W4AA2Nb-.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/d975117b-ace9-4369-986f-2347a409d34c",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/d975117b-ace9-4369-986f-2347a409d34c",
+    "published_at": "2026-10-16T06:04:01.259455+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "3b72ffbb6844b75aac63e09e4541d4a3695a099c80306ac50354a520efa8782b"
   },
   {
     "id": "da464b32-35e1-4a6a-9c96-845edfe1fca8",

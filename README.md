@@ -18,7 +18,7 @@ Complete prompts, real example images, original creators and sources. Curated by
 
 | Public prompts in this repository | Complete examples on this page | Dataset updated |
 | ---: | ---: | --- |
-| **241** | **60** | 2026-10-15 |
+| **247** | **60** | 2026-10-17 |
 
 This repository shares a selection from MuseSignal. The counts distinguish JSON records from examples on this page, not the full website library. Model collections are subsets of the catalog.
 
@@ -28,12 +28,12 @@ Open a filtered MuseSignal gallery. Counts refer to this repository's JSON; mode
 
 | Browse by use case | In JSON | MuseSignal |
 | --- | ---: | --- |
-| Portrait | 119 | [Nano Banana](<https://musesignal.com/?category=portrait&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana 2](<https://musesignal.com/?category=portrait&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana Pro](<https://musesignal.com/?category=portrait&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) |
+| Portrait | 124 | [Nano Banana](<https://musesignal.com/?category=portrait&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana 2](<https://musesignal.com/?category=portrait&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) · [Nano Banana Pro](<https://musesignal.com/?category=portrait&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_portrait>) |
 | Commercial &amp; Product | 43 | [Nano Banana](<https://musesignal.com/?category=commercial-product&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana 2](<https://musesignal.com/?category=commercial-product&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) · [Nano Banana Pro](<https://musesignal.com/?category=commercial-product&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_commercial-product>) |
 | Poster &amp; Graphic | 20 | [Nano Banana](<https://musesignal.com/?category=poster-graphic&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) · [Nano Banana 2](<https://musesignal.com/?category=poster-graphic&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) · [Nano Banana Pro](<https://musesignal.com/?category=poster-graphic&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) |
 | Food &amp; Drink | 12 | [Nano Banana](<https://musesignal.com/?category=food-drink&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) · [Nano Banana 2](<https://musesignal.com/?category=food-drink&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) · [Nano Banana Pro](<https://musesignal.com/?category=food-drink&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_food-drink>) |
 | Character &amp; Art | 29 | [Nano Banana](<https://musesignal.com/?category=character-art&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana 2](<https://musesignal.com/?category=character-art&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) · [Nano Banana Pro](<https://musesignal.com/?category=character-art&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_character-art>) |
-| Scene &amp; Space | 18 | [Nano Banana](<https://musesignal.com/?category=scene-space&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) · [Nano Banana 2](<https://musesignal.com/?category=scene-space&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) · [Nano Banana Pro](<https://musesignal.com/?category=scene-space&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) |
+| Scene &amp; Space | 19 | [Nano Banana](<https://musesignal.com/?category=scene-space&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) · [Nano Banana 2](<https://musesignal.com/?category=scene-space&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) · [Nano Banana Pro](<https://musesignal.com/?category=scene-space&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) |
 
 <a id="selected-prompts"></a>
 
@@ -634,6 +634,189 @@ Use case: Portrait
 
 ---
 
+<a id="prompt-760faadb-4253-4e12-9f5f-cc70492a02ab"></a>
+
+#### Y2K Bathroom Flash Editorial Portrait
+
+<a href="https://musesignal.com/prompt/760faadb-4253-4e12-9f5f-cc70492a02ab?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HPC6gKjagAAdVvt.jpg?format=jpg&amp;name=small" width="480" alt="Y2K Bathroom Flash Editorial Portrait" /></a>
+
+**Nano Banana Pro** · Creator: Dockie
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+{
+  "id": "y2k_bathroom_editorial_01",
+  "prompt": "Ultra-realistic Y2K bathroom lifestyle editorial portrait of a glamorous young platinum-blonde woman with long silky straight hair partially set in oversized pastel pink velcro hair rollers, soft center part, smooth texture, and natural shine. Wearing slim burgundy rectangular Y2K eyeglasses. Warm ivory skin with visible pores, realistic skin texture, natural freckles across the cheeks, shoulders, and collarbones, authentic facial vellus hair, luminous satin complexion, pronounced rosy blush, feathered brows, champagne shimmer eyeshadow, soft brown fox-eye eyeliner, wispy lashes, glossy caramel-nude lips with realistic lip texture, and bright blue-gray eyes. Wearing a fitted white ribbed camisole with thin straps and navy horizontal stripes, paired with dark-wash low-rise straight-leg denim jeans. Relaxed seated pose on the edge of a modern white bathtub, one hand resting naturally beside her while looking directly into the camera with a calm, effortlessly confident expression. Contemporary minimalist bathroom featuring white ceramic tiles, frameless glass shower enclosure, chrome shower fixtures, modern bathtub, muted cool tones, and clean luxury apartment styling. Captured using an iPhone 15 Pro with direct flash, creating authentic smartphone flash reflections, crisp skin highlights, subtle hard shadows, bright eye catchlights, realistic skin rendering, and true early-2000s candid photography aesthetics. Kodak Portra-inspired skin tones, Y2K Tumblr aesthetic, luxury influencer lifestyle, realistic skin rendering, DSLR-quality sharpness with authentic iPhone flash characteristics, high-frequency skin detail, visible pores, natural freckles, RAW photo, ultra photorealistic, 8K.",
+  "negative_prompt": "cartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate objects, oversaturated colors, clipped highlights, low-detail hair",
+  "style": "photorealistic",
+  "camera": {
+    "type": "iPhone 15 Pro",
+    "lens": "26mm main camera",
+    "aperture": "f/1.8",
+    "iso": 640,
+    "angle": "eye-level portrait",
+    "depth_of_field": "moderate"
+  },
+  "lighting": {
+    "type": "direct smartphone flash",
+    "direction": "frontal flash",
+    "mood": "Y2K, candid, nostalgic"
+  },
+  "composition": {
+    "framing": "vertical editorial portrait",
+    "subject_position": "sitting on the edge of a bathtub",
+    "background": "minimalist modern bathroom with white tiles, glass shower, chrome fixtures, and soft ambient lighting"
+  },
+  "quality": {
+    "resolution": "8k",
+    "detail": "ultra high",
+    "sharpness": "DSLR-quality with authentic iPhone flash rendering",
+    "skin_detail": "visible pores, realistic texture, natural freckles, subtle facial vellus hair",
+    "realism": "maximum"
+  }
+}
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/760faadb-4253-4e12-9f5f-cc70492a02ab?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Document195/status/2085372024835510578>)
+
+---
+
+<a id="prompt-41ba0010-7ee1-41e0-9e1b-438925475d70"></a>
+
+#### Editorial Tuxedo Portrait in Shallow Focus
+
+<a href="https://musesignal.com/prompt/41ba0010-7ee1-41e0-9e1b-438925475d70?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HM4i0meWAAA2NUk.jpg?format=jpg&amp;name=small" width="480" alt="Editorial Tuxedo Portrait in Shallow Focus" /></a>
+
+**Nano Banana 2** · Creator: Picts by AI
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A confident male subject stands perfectly centered, facing the camera straight on with level shoulders in a static, formal pose. He features perfectly groomed stubble and meticulously styled hair with tapered sides and a two-inch top pushed back using matte pomade, retaining a natural texture with slight, realistic flyaways. His expression is defined by a subtle closed smile, relaxed eyebrows, and a commanding direct gaze. He is elegantly dressed in a stark black tuxedo with a wide open shirt collar that reveals his warm peach and tan chest. Immediately behind him, the remarkably shallow depth of field melts into an outdoor setting featuring a perfectly smooth, pristine matte light blue painted drywall surface. To the left in the beautifully blurred background, the indistinct silhouette of a photographer in a dark suit subtly enhances the editorial narrative. The scene is illuminated by a bright, single source of diffused natural front light that cultivates a sophisticated, polished event atmosphere. This soft lighting wraps gracefully around his features, casting short, gray shadows with soft gradual edges directly beneath his chin while preserving luminous specular highlights across his face, supported by a neutral ambient fill that perfects the high-contrast, complementary color profile. Captured as a tack-sharp digital photograph using an 85mm lens at f/1.8, ISO 100, and 1/250s with precise eye-autofocus, the image boasts a clean, photorealistic aesthetic completely devoid of grain, finished with delicate skin retouching, a slight contrast boost, and a cool background color grade, all beautifully framed in a 9:16 aspect ratio.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/41ba0010-7ee1-41e0-9e1b-438925475d70?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/pictsbyai/status/2078521428828393794>)
+
+---
+
+<a id="prompt-4765344c-017d-47b4-95e1-8982c8c0f2dd"></a>
+
+#### Luxury Wellness Editorial Portrait
+
+<a href="https://musesignal.com/prompt/4765344c-017d-47b4-95e1-8982c8c0f2dd?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOyzH7aaAAEe-Ir.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Wellness Editorial Portrait" /></a>
+
+**Nano Banana Pro** · Creator: Miz
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ultra-realistic luxury wellness editorial portrait of a young woman with long naturally wavy copper-red hair swept over one shoulder, soft side part, silky texture, subtle flyaways, and natural volume. Warm ivory skin with visible pores, realistic skin texture, natural freckles across the cheeks, nose, shoulders, and arms, authentic facial vellus hair, luminous healthy complexion, soft rosy blush, feathered brows, champagne shimmer eyeshadow, delicate fox-eye eyeliner, wispy lashes, glossy nude-pink lips with realistic lip texture, and bright blue-gray eyes. Wearing slim burgundy oval eyeglasses, a premium black seamless long-sleeve athletic cropped top with thumbholes, and charcoal-gray high-waisted sculpting compression shorts. Minimal silver rings and clean nude manicure. Standing naturally beside a smooth exposed concrete column, one hand resting lightly against the pillar while the opposite hand rests on her upper thigh, maintaining relaxed posture and making direct eye contact with a calm, confident expression. Modern luxury Pilates and wellness studio featuring floor-to-ceiling windows, polished concrete architecture, white walls, soft natural daylight, hardwood flooring, minimalist interior, and softly blurred premium fitness equipment in the background. Captured with a Sony A7R V and an 85mm f/1.4 GM lens. Soft natural window light creates realistic highlights, subtle shadows, premium athletic contrast, and a clean editorial atmosphere. Alo Yoga × Lululemon campaign aesthetic, luxury wellness photography, Kodak Portra-inspired skin tones, realistic skin rendering, DSLR-quality sharpness, high-frequency skin detail, RAW photo, ultra photorealistic, 8K.
+
+cartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate reflections, duplicate equipment, oversaturated colors, clipped highlights, low-detail hair
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/4765344c-017d-47b4-95e1-8982c8c0f2dd?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/mizq06/status/2084237699775631437>)
+
+---
+
+<a id="prompt-232bb4b0-8d84-4a2f-ab81-b55224233a0c"></a>
+
+#### Moody Triptych Portrait of Woman in Velvet Power Suit
+
+<a href="https://musesignal.com/prompt/232bb4b0-8d84-4a2f-ab81-b55224233a0c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNEqt_EbUAAAWFr.jpg?format=jpg&amp;name=small" width="480" alt="Moody Triptych Portrait of Woman in Velvet Power Suit" /></a>
+
+**Nano Banana** · Creator: NUSRAT
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+"image_description": {
+    "subject": {
+      "gender": "female",
+      "hair": "deep navy blue, shoulder-length, textured waves",
+      "eyes": "hazel-green",
+      "makeup": "smokey dark eyeshadow, defined eyeliner, deep plum lipstick",
+      "accessories": "intricate silver dangling earrings with blue gemstones"
+    },
+    "outfits": {
+      "left_panel": {
+        "garment": "sleeveless cowl-neck velvet top",
+        "color": "charcoal grey/dark slate"
+      },
+      "center_panel": {
+        "suit": "velvet tailored power suit",
+        "suit_color": "deep royal purple",
+        "shirt": "black sheer lace button-up blouse",
+        "belt": "black leather belt with silver buckle",
+        "accessories": "stacked silver bangles, classic gold loafers"
+      },
+      "right_panel": {
+        "garment": "matching deep royal purple velvet blazer"
+      }
+    },
+    "environment": {
+      "style": "moody, artistic, sophisticated",
+      "left_panel_background": "blurred library/book shelves",
+      "center_panel_background": "artist studio with canvas, dark vintage rug, wooden floor, dimly lit interior",
+      "lighting": "dramatic, soft studio lighting, high contrast"
+    },
+    "technical_specifications": {
+      "format": "triptych collage",
+      "style": "hyper-realistic photography",
+      "quality": "4k, high resolution, sharp focus, cinematic lighting, intricate textures"
+    }
+  }
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/232bb4b0-8d84-4a2f-ab81-b55224233a0c?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/nxnusratul/status/2076487882181861881>)
+
+---
+
+<a id="prompt-4ad26123-e2b7-49d8-a048-5d5749c602eb"></a>
+
+#### Soft-Focus Cinematic Golden Portrait
+
+<a href="https://musesignal.com/prompt/4ad26123-e2b7-49d8-a048-5d5749c602eb?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLqWGMLXgAAsej9.jpg?format=jpg&amp;name=small" width="480" alt="Soft-Focus Cinematic Golden Portrait" /></a>
+
+**Nano Banana 2** · Creator: Anissa
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Prompt.
+A soft-focus, cinematic portrait of a young woman with delicate facial features and light golden hair, caught in motion. Her face appears partially blurred and ghosted, with flowing strands of hair captured mid-sway, creating a dreamy, ethereal motion effect. Her expression is serene and slightly distant, with parted lips and eyes softly open.The entire frame is bathed in golden beige and sepia tones, evoking a nostalgic, painterly atmosphere. The lighting is natural and diffused, coming from a nearby window, casting a warm glow on her skin and illuminating the strands of hair that dance across the frame. Photographed with a Canon EOS R5 using an 85mm lens at f/1.2, ISO 320, shutter speed 1/8s with intentional slow exposure and handheld movement to create the artistic motion blur. The focus is soft, with a shallow depth of field that isolates the subject from the pale, creamy background. Post-processed in Adobe Lightroom and Photoshop: cinematic LUTs applied, warmth enhanced through split-toning (shadows in soft amber, highlights in cream), clarity reduced, and motion streaks refined with displacement layers and radial blur filters. A very subtle fine grain adds a filmic https://t.co/PpcZvdgxyS mood: emotional, hazy, poetic. Style references: fine art portraiture, vintage editorial, and analog dream sequences. 4K ultra-resolution, no harsh contrasts, smooth gradients preserved.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/4ad26123-e2b7-49d8-a048-5d5749c602eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/SimplyAnnisa/status/2070132015664370008>)
+
+---
+
 <a id="prompt-4c956a7a-5139-4477-9bf3-96c40f5fbd62"></a>
 
 #### Luxury Fashion Editorial Street Portrait
@@ -758,149 +941,6 @@ Keywords: retro bedroom, indie aesthetic, grunge fashion, Nirvana shirt, cassett
 </details>
 
 **[Try on MuseSignal →](<https://musesignal.com/prompt/1b53a092-c997-4689-a8e0-0549ee25e64b?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/jzaib4269/status/2068691563522458015>)
-
----
-
-<a id="prompt-6be93474-d970-4706-8aed-c23de13f3d47"></a>
-
-#### Sun-Drenched Mediterranean Editorial Portrait
-
-<a href="https://musesignal.com/prompt/6be93474-d970-4706-8aed-c23de13f3d47?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HPv5Vu_XEAEifJ9.jpg?format=jpg&amp;name=small" width="480" alt="Sun-Drenched Mediterranean Editorial Portrait" /></a>
-
-**Nano Banana 2** · Creator: Picts by AI
-
-Use case: Portrait
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-A medium close-up, waist-up portrait of an adult Mediterranean male with warm bronze skin and short stubble, exuding a confident, guarded coolness as he stands with his chest facing the camera and his head turned forty-five degrees to the right. He wears an off-white, wrinkly linen shirt, deeply unbuttoned to create a natural V-neckline revealing a thin gold chain, paired with clear transparent frame sunglasses featuring dark lenses that obscure his gaze. His dark brown hair is styled with two to three inches of volume on top and tapered sides, treated with a slightly wet, glossy product to define thick natural waves and uneven curls, complete with natural flyaways and loose strands falling gently across his forehead. His posture is relaxed and centered, arms resting naturally out of view, as his level shoulders lean slightly back against a weathered historic structure. The softly out-of-focus background reveals a warm, light beige raw-cut limestone environment, featuring a massive, rough-pitted carved stone pillar base dominating the right midground and a historic weathered stone building facade receding on the left. A bright, single-source direct hard sunlight beams from the front-top-left at a forty-five-degree angle, bathing the scene in a sun-drenched, elegant European summer warmth. This highly directional light casts harsh, deep black shadows from his sunglasses onto his cheek, from his collar onto his chest, beneath his jawline, and inside the depths of his hair curls, while striking specular highlights are preserved on his forehead, the tip of his nose, cheekbones, collarbone, and the peaks of his curls. Captured as a high-end editorial digital photograph straight on at eye level using an 85mm lens at f/2.8, the image boasts a shallow depth of field that keeps the subject tack sharp, flawlessly resolving the organic linen weave and fine skin pores while isolating him from the architecture, enhanced by a warm golden color grade and high contrast curve, framed in a 2:3 aspect ratio.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/6be93474-d970-4706-8aed-c23de13f3d47?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/pictsbyai/status/2091077415456129085>)
-
----
-
-<a id="prompt-5c7bbc56-db29-43d2-901b-710807869a9f"></a>
-
-#### Stylish Man with Weimaraner in Luxury Elevator
-
-<a href="https://musesignal.com/prompt/5c7bbc56-db29-43d2-901b-710807869a9f?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQjVG7uW0AA4_c_.jpg?format=jpg&amp;name=small" width="480" alt="Stylish Man with Weimaraner in Luxury Elevator" /></a>
-
-**Nano Banana 2** · Creator: Zar⭕on
-
-Use case: Portrait
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Ultra-realistic full-body fashion portrait of a stylish bearded man wearing black bomber jacket, beige turtleneck, black trousers, sunglasses and white sneakers, standing confidently with a Weimaraner dog inside a luxurious modern elevator, warm cinematic lighting, reflective metallic walls, DSLR photography, 8K, sharp details.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/5c7bbc56-db29-43d2-901b-710807869a9f?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Xaroon_x/status/2092156356547473503>)
-
----
-
-<a id="prompt-d474eb07-4a65-4985-b655-4ef8e75bda05"></a>
-
-#### Luxury Tropical Beach Fashion Editorial Portrait
-
-<a href="https://musesignal.com/prompt/d474eb07-4a65-4985-b655-4ef8e75bda05?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HO-nn-fbgAAowuP.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Tropical Beach Fashion Editorial Portrait" /></a>
-
-**Nano Banana Pro** · Creator: Dockie
-
-Use case: Portrait
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-PROMPT:
-
-{
-  "title": "Luxury Tropical Beach Editorial",
-  "prompt": "Ultra-realistic luxury tropical beach fashion editorial of an adult woman relaxing on pristine white sand under bright tropical sunlight. She has long champagne-blonde hair with soft beach waves, realistic flyaway strands, natural volume, and a large fresh white lily tucked behind her left ear. Her skin is porcelain-fair with warm golden undertones, realistic visible pores, subtle freckles across the cheeks, nose, shoulders, and arms, soft peach fuzz, hydrated glass-skin glow, natural skin translucency, and authentic sunlit highlights. She wears a luxurious crimson-red satin triangle bikini with a glossy silk finish, thin halter straps, matching low-rise bikini bottoms, and a white shell choker necklace paired with delicate gold drop earrings. She is seated naturally on soft white tropical sand with one leg bent toward the camera and the other extended comfortably, one hand resting behind her for support while the opposite arm rests casually on her bent knee. She looks directly into the camera with a calm, confident editorial expression and softly parted glossy lips. The beach features crystal-clear turquoise water, gentle ocean waves, lush palm trees, tropical vegetation, and a vivid blue sky with soft clouds. Bright midday sunlight creates realistic shadows, natural highlights, and premium commercial lighting.",
-  "style": {
-    "photorealistic": true,
-    "camera": "Sony A7R V",
-    "lens": "85mm portrait lens",
-    "aperture": "f/1.8",
-    "lighting": "Bright tropical midday sunlight with soft natural fill light, realistic HDR, subtle highlight bloom",
-    "color_grading": "Luxury Xiaohongshu (RED), Vogue resort editorial, warm tropical tones, creamy skin, balanced saturation, premium commercial color science",
-    "quality": "8K Ultra HD"
-  },
-  "makeup": {
-    "foundation": "Luxury satin full-coverage foundation preserving realistic pores and skin texture",
-    "concealer": "Bright lifting under-eye concealer",
-    "contour": "Soft cool contour on cheekbones, jawline, temples, nose bridge and collarbones",
-    "blush": "Highly pigmented coral-rose blush extending toward the temples and softly across the nose",
-    "highlighter": "Wet-look champagne pearl highlighter on cheekbones, brow bones, nose bridge, nose tip, cupid's bow, collarbones and shoulders",
-    "eyeshadow": "Warm taupe transition, cocoa outer corners, metallic champagne shimmer, pearl inner corner highlight",
-    "eyeliner": "Ultra-sharp fox-eye black winged eyeliner",
-    "lashes": "Long manga-inspired wispy upper lashes with individually defined lower lashes",
-    "eyebrows": "Feathered blonde brows with visible individual hairs",
-    "eyes": "Soft gray-blue contact lenses with realistic iris detail",
-    "lips": "Richly pigmented coral nude lipstick, softly overlined, glossy glass-lip finish with realistic wet reflections"
-  },
-  "negative_prompt": "low quality, blurry, plastic skin, wax skin, excessive smoothing, CGI, anime, cartoon, 3D render, bad anatomy, extra fingers, fused fingers, duplicate limbs, watermark, logo, text, mirror selfie, selfie, phone, camera, photographer reflection, distorted body, unrealistic proportions, oversaturated colors"
-}
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/d474eb07-4a65-4985-b655-4ef8e75bda05?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Document195/status/2085069603361976573>)
-
----
-
-<a id="prompt-7a62a842-2835-495b-8821-eb441fe3d32c"></a>
-
-#### Crimson Dress Window Portraits
-
-<a href="https://musesignal.com/prompt/7a62a842-2835-495b-8821-eb441fe3d32c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNMiGUXXgAAG8gS.jpg?format=jpg&amp;name=small" width="480" alt="Crimson Dress Window Portraits" /></a>
-
-**Nano Banana** · Creator: Minahil
-
-Use case: Portrait
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-A series of photographic portraits captured indoors, featuring a woman with long, wavy black hair and bold red lipstick, wearing a long-sleeved deep crimson wrap dress. She is seated on a white-clothed surface near a window, with a rustic brick wall and an arrangement of potted ferns and olive trees on terracotta shelves in the background. The collection shows her in various poses: reclining with her hand behind her head looking at the camera, sitting up with her hand on the pillows looking at the camera, sitting cross-legged smiling directly at the camera, and leaning her head on her hand smiling towards the side window. The lighting is natural daylight, creating a soft, warm atmosphere. The camera angle remains consistent throughout the shots.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/7a62a842-2835-495b-8821-eb441fe3d32c?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Minahil42298354/status/2077041352441745669>)
-
----
-
-<a id="prompt-a44e3538-4695-4df6-a221-41d6088beba2"></a>
-
-#### Studio Portrait with Teal and Yellow Parrots
-
-<a href="https://musesignal.com/prompt/a44e3538-4695-4df6-a221-41d6088beba2?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HPfIhgyaYAA97x9.jpg?format=jpg&amp;name=small" width="480" alt="Studio Portrait with Teal and Yellow Parrots" /></a>
-
-**Nano Banana Pro** · Creator: Maddox
-
-Use case: Portrait
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-A close up, studio portrait features a fair skinned woman with dark brown/black hair, eyes closed, tenderly holding a flock of five small teal & yellow parrots. the parrots are uniformly bright with orange beaks and black eyes circled in white. they are scattered across her shoulders and arms, resting gently. her attire appears to be made of a cream colored, possibly lace, fabric. the background is a smooth, light gray, providing a soft contrast to the bright yellow & teal of the birds and the light tone of the woman's skin.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/a44e3538-4695-4df6-a221-41d6088beba2?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Maddox_Digital/status/2087357477755195469>)
 
 ---
 
@@ -1118,7 +1158,7 @@ Photorealistic, high-end commercial quality, shot on an 85mm lens, f/1.8 apertur
 
 <a id="selected-poster-graphic"></a>
 
-### Poster &amp; Graphic · 10
+### Poster &amp; Graphic · 9
 
 [Nano Banana](<https://musesignal.com/?category=poster-graphic&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) · [Nano Banana 2](<https://musesignal.com/?category=poster-graphic&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>) · [Nano Banana Pro](<https://musesignal.com/?category=poster-graphic&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_poster-graphic>)
 
@@ -1543,35 +1583,6 @@ A high-end fashion editorial collage poster featuring a glamorous woman with sil
 
 ---
 
-<a id="prompt-286f4037-2b0d-4f06-94fa-fe53e50131ff"></a>
-
-#### Neo-Expressionist Street Art Doodle Portrait Poster
-
-<a href="https://musesignal.com/prompt/286f4037-2b0d-4f06-94fa-fe53e50131ff?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLMwsBMWUAAFdO2.jpg?format=jpg&amp;name=small" width="480" alt="Neo-Expressionist Street Art Doodle Portrait Poster" /></a>
-
-**Nano Banana Pro** · Creator: ΛRMIN \| AI
-
-Use case: Poster &amp; Graphic
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-A premium neo-expressionist avant-garde mixed-media graphic poster with a tight framing focus. SUBJECT & COMPOSITION: A central, tight shoulder-up portrait of [CHARACTER NAME / DESCRIPTION] captured in a distinct, obvious three-quarter view angle, looking towards the camera with a calm and dignified expression. The framing is strictly closed-in from the shoulders up, ensuring a dominant headshot scale. The entire character—including their skin, features, [HAIR DESCRIPTION], and clothing—is rendered strictly in a high-contrast monochromatic black and white illustration style. The art is defined by bold, dense woodcut-style manual cross-hatching, heavy crisp linework, and intricate ink shading. They wear [CLOTHING DESCRIPTION], rendered entirely in monochromatic black and white that fills the lower frame. Crucially, a subtle, clean negative space buffer of pure matte charcoal-black closely contours their head and shoulders, separating the character from the background pattern.
-
-GRAPHIC HIGHLIGHT: A small, precise, horizontal [EYE HIGHLIGHT COLOR] rectangular block is placed strictly and exclusively over one single eye (their right eye only). This block is tightly cropped to cover just that individual single eye socket, remaining highly translucent with a multiply-blend effect. This ensures the fine lines of that one single eye and the intricate cross-hatching texture underneath remain perfectly sharp and visible through the colored tint, creating a vivid striking contrast against the background line-art without extending across the face.
-
-ABSTRACT ART BACKGROUND & EXTRA WIDE MARGINS: The entire layout is built upon a single, continuous, and completely unified matte charcoal-black canvas with a subtle, non-reflective fine-grain texture. This identical charcoal-black color serves as both the deep outer margins and the background space between the lines, ensuring a perfectly seamless one-piece backdrop with zero color splitting. A generous, empty negative space margin of this pure charcoal-black occupies 25% of the outer canvas area. Inside, the inner area is filled with dense, primitive abstract line-art patterns, heavy jagged zig-zag shapes, a single large crown, and [SPECIFIC SYMBOLS / ICONS, E.G. KANJI CHARACTERS, OR GRAFFITI DOODLES]. These thick marker-stroke elements are rendered strictly in a [LINE-ART COLOR] color, stopping uniformly short of the limits to preserve the wide, pristine outer black borders.
-
-MATERIAL & PRINT FEEL: The artwork features the tangible texture of a premium screen-print on heavy-grain archival black paper, where the solid colored lines exhibit a faint, organic ink-absorption finish.  --no frame, mockup, picture frame, white border, background wall, repetitive patterns, chaotic scribbles, messy lines, split background, two-tone background.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/286f4037-2b0d-4f06-94fa-fe53e50131ff?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Arminn_Ai/status/2068050239471145455>)
-
----
-
 <a id="selected-food-drink"></a>
 
 ### Food &amp; Drink · 8
@@ -1983,7 +1994,7 @@ High contrast lighting with deep blacks and controlled highlights enhances depth
 
 <a id="selected-scene-space"></a>
 
-### Scene &amp; Space · 8
+### Scene &amp; Space · 9
 
 [Nano Banana](<https://musesignal.com/?category=scene-space&model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) · [Nano Banana 2](<https://musesignal.com/?category=scene-space&model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>) · [Nano Banana Pro](<https://musesignal.com/?category=scene-space&model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=category_scene-space>)
 
@@ -2257,6 +2268,31 @@ Use case: Scene &amp; Space
 
 ---
 
+<a id="prompt-d975117b-ace9-4369-986f-2347a409d34c"></a>
+
+#### Sci-Fi UFO Invasion Theme Park Selfie Portrait
+
+<a href="https://musesignal.com/prompt/d975117b-ace9-4369-986f-2347a409d34c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-nano-banana-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HImyXW2W4AA2Nb-.jpg?format=jpg&amp;name=small" width="480" alt="Sci-Fi UFO Invasion Theme Park Selfie Portrait" /></a>
+
+**Nano Banana Pro** · Creator: Ertan Dönmez \| Ai Master
+
+Use case: Scene &amp; Space
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Nano Banana Pro Prompt ⏬
+
+IMAGE TYPE: Action Scene / Sci-Fi Portrait PROMPT: High-impact cinematic depiction of [LEAD_CHARACTER_NAME], featuring youthful features with light stubble, messy short brown hair, and an astonished yet amused expression while pointing upward, dressed in a casual light grey t-shirt. Positioned in a crowded theme park plaza featuring a large illuminated fantasy castle beneath a massive hovering metallic UFO, accompanied by [BACKGROUND_CROWD]. The scene conveys a surreal sci-fi invasion mood through gloomy overcast natural lighting mixed with glowing UFO rim lights, with dramatic highlights and shadows. Captured using a wide-angle smartphone selfie camera perspective with dynamic motion blur, shallow depth of field, cinematic framing. Ultra-detailed textures, realistic skin tones, professional cinematic color grading, sharp focus, HDR, ultra-high resolution, 4K, masterpiece quality. TAGS: STYLE cinematic, ultra-detailed, 4K, dramatic lighting, shallow depth of field, HDR, professional, film still, sci-fi, UFO invasion, surreal NEGATIVE PROMPT: low quality, blurry, flat lighting, distorted face, bad anatomy, extra limbs, oversharpening, text, watermark, logo USER REPLACEMENT GUIDE: * Replace character placeholders with celebrity names or your own name. * Do not change the rest of the prompt. * Use uploaded image as reference when generating.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/d975117b-ace9-4369-986f-2347a409d34c?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/ertanlabs/status/2056653334044643605>)
+
+---
+
 ## Keep exploring
 
 [Browse on MuseSignal](<https://musesignal.com/?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=after_examples>) · [Start creating with free credits](<https://musesignal.com/?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=after_examples_create>)
@@ -2267,20 +2303,20 @@ Explore more examples, search and filters on MuseSignal.
 
 | Model | Prompts | MuseSignal |
 | --- | ---: | --- |
-| Nano Banana | 35 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana>) |
-| Nano Banana 2 | 91 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana-2>) |
-| Nano Banana Pro | 115 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana-pro>) |
+| Nano Banana | 36 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana>) |
+| Nano Banana 2 | 93 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana-2>) |
+| Nano Banana Pro | 118 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=model_nano-banana-pro>) |
 
 ## Recently published
 
+- [Y2K Bathroom Flash Editorial Portrait](<https://musesignal.com/prompt/760faadb-4253-4e12-9f5f-cc70492a02ab?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
+- [Editorial Tuxedo Portrait in Shallow Focus](<https://musesignal.com/prompt/41ba0010-7ee1-41e0-9e1b-438925475d70?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana 2
+- [Luxury Wellness Editorial Portrait](<https://musesignal.com/prompt/4765344c-017d-47b4-95e1-8982c8c0f2dd?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
+- [Moody Triptych Portrait of Woman in Velvet Power Suit](<https://musesignal.com/prompt/232bb4b0-8d84-4a2f-ab81-b55224233a0c?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana
+- [Soft-Focus Cinematic Golden Portrait](<https://musesignal.com/prompt/4ad26123-e2b7-49d8-a048-5d5749c602eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana 2
+- [Sci-Fi UFO Invasion Theme Park Selfie Portrait](<https://musesignal.com/prompt/d975117b-ace9-4369-986f-2347a409d34c?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
 - [Luxury Fashion Editorial Street Portrait](<https://musesignal.com/prompt/4c956a7a-5139-4477-9bf3-96c40f5fbd62?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana 2
 - [Ultra-Realistic Luxury Fitness Portrait](<https://musesignal.com/prompt/fd58f679-bac1-4b61-af34-86bd2623579c?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
-- [Realistic Selfie Portrait of a Young Woman](<https://musesignal.com/prompt/b3f57f11-edb0-4215-8945-eeeb2c7c05fa?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana 2
-- [Tropical Beach Portrait of Sadie Sink](<https://musesignal.com/prompt/5b4f3de7-b535-4591-a525-a478c4b62ea2?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
-- [1990s Indie Bedroom Film Portrait](<https://musesignal.com/prompt/1b53a092-c997-4689-a8e0-0549ee25e64b?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana
-- [High-Fashion Editorial Collage Poster](<https://musesignal.com/prompt/1b800307-6aa6-4b7e-8ff7-9085b48f9fd8?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
-- [Sun-Drenched Mediterranean Editorial Portrait](<https://musesignal.com/prompt/6be93474-d970-4706-8aed-c23de13f3d47?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana 2
-- [Neo-Expressionist Street Art Doodle Portrait Poster](<https://musesignal.com/prompt/286f4037-2b0d-4f06-94fa-fe53e50131ff?utm_source=github&utm_medium=repository&utm_campaign=awesome-nano-banana-prompts&utm_content=latest>) — Nano Banana Pro
 
 ## Generate on MuseSignal
 
@@ -2301,7 +2337,7 @@ Bring your own subject, product and reference images to these image models on Mu
 
 ## For developers: download the public dataset
 
-[Download full JSON · 241](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[Download full JSON · 247](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json
